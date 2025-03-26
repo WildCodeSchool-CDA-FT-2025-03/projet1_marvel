@@ -16,6 +16,8 @@
     "@tailwindcss/vite": "^4.0.16",
     "eslint-plugin-jsx-a11y": "^6.10.2",
     "eslint-plugin-react": "^7.37.4",
+    "framer-motion": "^12.6.1",
+    "lucide-react": "^0.484.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.4.0",
