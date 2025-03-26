@@ -1,6 +1,3 @@
-#!/usr/bin/env sh
-. "$(dirname -- "$0")/_/husky.sh"
-
 # Vérification du client
 echo "🔍 Vérification du code client..."
 cd client
