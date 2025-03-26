@@ -13,11 +13,15 @@
     "lint:server": "cd server && npm run lint",
     "format:client": "cd client && npm run format",
     "format:server": "cd server && npm run format",
-    "check": "npm run lint:client && npm run lint:server && npm run format:client && npm run format:server"
+    "check": "npm run lint:client && npm run lint:server && npm run format:client && npm run format:server",
+    "dev": "concurrently -n \"client,server\" -c \"cyan.bold,green.bold\" \"npm run dev:client\" \"npm run dev:server\"",
+    "dev:client": "cd client && npm run dev",
+    "dev:server": "cd server && npm run dev"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.8.0",
     "@commitlint/config-conventional": "^19.8.0",
+    "concurrently": "^9.1.2",
     "husky": "^9.1.7"
   }
 }
