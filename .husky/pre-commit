@@ -1,0 +1,36 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# Vérification du client
+echo "🔍 Vérification du code client..."
+cd client
+npm run lint
+if [ $? -ne 0 ]; then
+  echo "❌ Erreurs ESLint détectées dans le client. Commit annulé."
+  exit 1
+fi
+
+npm run format
+if [ $? -ne 0 ]; then
+  echo "❌ Erreurs Prettier détectées dans le client. Commit annulé."
+  exit 1
+fi
+cd ..
+
+# Vérification du serveur
+echo "🔍 Vérification du code serveur..."
+cd server
+npm run lint
+if [ $? -ne 0 ]; then
+  echo "❌ Erreurs ESLint détectées dans le serveur. Commit annulé."
+  exit 1
+fi
+
+npm run format
+if [ $? -ne 0 ]; then
+  echo "❌ Erreurs Prettier détectées dans le serveur. Commit annulé."
+  exit 1
+fi
+cd ..
+
+echo "✅ Toutes les vérifications sont passées !"

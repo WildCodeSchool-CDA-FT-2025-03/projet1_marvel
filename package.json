@@ -1,0 +1,20 @@
+{
+  "name": "marvel-project",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "prepare": "husky",
+    "lint:client": "cd client && npm run lint",
+    "lint:server": "cd server && npm run lint",
+    "format:client": "cd client && npm run format",
+    "format:server": "cd server && npm run format",
+    "check": "npm run lint:client && npm run lint:server && npm run format:client && npm run format:server"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
