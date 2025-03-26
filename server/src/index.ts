@@ -1,5 +1,5 @@
-import { ApolloServer } from "@apollo/server";
-import { startStandaloneServer } from "@apollo/server/standalone";
+import { ApolloServer } from '@apollo/server';
+import { startStandaloneServer } from '@apollo/server/standalone';
 
 const typeDefs = `
     type Query {
@@ -8,22 +8,22 @@ const typeDefs = `
 `;
 
 const resolvers = {
-    Query: {
-        hello: () => "Hello, world!",
-    },
+  Query: {
+    hello: () => 'Hello, world!',
+  },
 };
 
 const server = new ApolloServer({
-    typeDefs,
-    resolvers,
+  typeDefs,
+  resolvers,
 });
 
 async function startServer() {
-    const { url } = await startStandaloneServer(server, {
-        listen: { port: 4000 },
-    });
+  const { url } = await startStandaloneServer(server, {
+    listen: { port: 4000 },
+  });
 
-    console.log(`🚀 Server ready at ${url}`);
+  console.info(`🚀 Server ready at ${url}`);
 }
 
 startServer();
