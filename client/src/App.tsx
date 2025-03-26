@@ -3,7 +3,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello wild world !</div>,
+    element: <div className="text-4xl font-bold">Hello wild world !</div>,
   },
 ]);
 
