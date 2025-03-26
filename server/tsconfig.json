@@ -1,11 +1,11 @@
 {
     "compilerOptions": {
       "target": "es2017",
-      "module": "CommonJS",
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext",
       "lib": ["es6", "es2017"],
       "sourceMap": true,
       "outDir": "./dist",
-      "moduleResolution": "node",
       "resolveJsonModule": true,
       "removeComments": true,
       "noImplicitAny": true,

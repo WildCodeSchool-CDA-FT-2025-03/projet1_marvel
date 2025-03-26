@@ -3,16 +3,17 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node-dev --respawn --transpile-only src/index.ts",
-    "lint": "eslint . --ext .ts",
-    "lint:fix": "eslint . --ext .ts --fix",
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "lint": "eslint --config eslint.config.mjs . --ext .ts",
+    "lint:fix": "eslint --config eslint.config.mjs . --ext .ts --fix",
     "format": "prettier --check \"src/**/*.ts\"",
     "format:fix": "prettier --write \"src/**/*.ts\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
   "description": "",
   "devDependencies": {
     "@types/node": "^22.13.13",

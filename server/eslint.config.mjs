@@ -26,7 +26,7 @@ export default [
     rules: {
       ...tseslint.configs.recommended.rules,
       'prettier/prettier': 'error',
-      'no-console': 'warn',
+      'no-console': ['error', { allow: ['info', 'warn', 'error'] }],
       '@typescript-eslint/explicit-function-return-type': 'off',
       '@typescript-eslint/no-explicit-any': 'warn',
     },
