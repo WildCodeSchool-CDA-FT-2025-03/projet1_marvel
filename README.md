@@ -24,6 +24,33 @@ Notre stack technologique a été soigneusement sélectionnée pour offrir les m
 - 🖼️ **Framer Motion** - Bibliothèque d'animations pour des transitions fluides
 - 🔍 **Lucide React** - Collection d'icônes minimalistes pour React
 
+## 🛠️ Installation
+
+Pour installer et exécuter ce projet localement, suivez ces étapes :
+
+1. Clonez le dépôt
+   ```bash
+   git clone https://github.com/WildCodeSchool-CDA-FT-2025-03/projet1_marvel.git
+   cd home-center
+   ```
+
+2. Installez les dépendances au niveau racine
+   ```bash
+   npm install
+   ```
+
+3. Installez les dépendances du serveur
+   ```bash
+   cd server/
+   npm install
+   ```
+
+4. Installez les dépendances du client
+   ```bash
+   cd ../client/
+   npm install
+   ```
+
 ## ✨ Fonctionnalités
 
 ### Implémentées
