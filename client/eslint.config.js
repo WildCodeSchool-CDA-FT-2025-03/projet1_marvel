@@ -50,7 +50,6 @@ export default tseslint.config(
       'no-var': 'error',
       'prefer-const': 'error',
       eqeqeq: ['error', 'always'],
-      'react/prop-types': 'error',
       'react/jsx-uses-react': 'error',
       'react/jsx-uses-vars': 'error',
       'react/react-in-jsx-scope': 'off',

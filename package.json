@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "workspaces": [
-    "client",
-    "server"
-  ],
   "scripts": {
     "prepare": "husky",
     "lint:client": "cd client && npm run lint",
