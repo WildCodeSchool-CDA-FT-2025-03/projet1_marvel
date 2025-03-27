@@ -16,12 +16,12 @@
   },
   "lint-staged": {
     "client/**/*.{js,jsx,ts,tsx}": [
-      "npm --prefix client run lint:fix",
-      "npm --prefix client run format:fix"
+      "cd client && eslint --fix",
+      "cd client && prettier --write"
     ],
     "server/**/*.{js,ts}": [
-      "npm --prefix server run lint:fix",
-      "npm --prefix server run format:fix"
+      "cd server && eslint --fix",
+      "cd server && prettier --write"
     ]
   },
   "devDependencies": {
