@@ -4,6 +4,7 @@ import Layout from './components/layout/Layout';
 import CataloguePage from './pages/Catalogue';
 import FavoritePage from './pages/Favorite';
 import ItemPage from './pages/Item';
+import CreateItemPage from './pages/CreateMedia';
 
 const router = createBrowserRouter([
   {
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
       {
         path: '/item/:id',
         element: <ItemPage />,
+      },
+      {
+        path: '/create/:type',
+        element: <CreateItemPage />,
       },
     ],
   },
