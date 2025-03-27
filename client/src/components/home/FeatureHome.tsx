@@ -2,10 +2,13 @@ import { useState } from 'react';
 
 import { motion } from 'framer-motion';
 import { Book, Music, Gamepad2, Film, Heart, Clock, Star } from 'lucide-react';
+import { useQuery } from '@apollo/client';
 
 import { categories } from '../../utils/categories';
+import { GET_HELLO_WORLD } from '../../schemas/helloWorld.schema';
 
 export default function FeatureHome() {
+  const { data } = useQuery(GET_HELLO_WORLD);
   const [activeCategory, setActiveCategory] = useState('all');
 
   const featuredItems = [
@@ -169,6 +172,8 @@ export default function FeatureHome() {
             Voir Plus
           </motion.button>
         </div>
+
+        {data && <p>{data.hello}</p>}
       </div>
     </section>
   );
