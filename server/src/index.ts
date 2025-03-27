@@ -1,6 +1,7 @@
 import { ApolloServer } from '@apollo/server';
 import { startStandaloneServer } from '@apollo/server/standalone';
 import 'reflect-metadata';
+import 'dotenv/config';
 
 import { dataSource } from './database/client';
 import { Hello } from './schemas/hello.schema';
@@ -37,7 +38,7 @@ async function startServer() {
   await dataSource.initialize();
 
   const { url } = await startStandaloneServer(server, {
-    listen: { port: 4000 },
+    listen: { port: parseInt(process.env.PORT as string) || 4000 },
   });
 
   console.info(`🚀 Server ready at ${url}`);

@@ -4,7 +4,7 @@ import { Hello } from '../entities/hello.entities';
 
 export const dataSource = new DataSource({
   type: 'sqlite',
-  database: './db.sqlite',
+  database: process.env.DATABASE_URL || './db.sqlite',
   entities: [Hello],
   synchronize: true,
 });
