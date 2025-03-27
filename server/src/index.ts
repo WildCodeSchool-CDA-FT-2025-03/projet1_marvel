@@ -4,19 +4,27 @@ import 'reflect-metadata';
 
 import { dataSource } from './database/client';
 import { Hello } from './schemas/hello.schema';
-import { getHello } from './resolvers/hello.resolver';
+import { getHello, createHello, getHelloById } from './resolvers/hello.resolver';
 
 const typeDefs = `
-  type Query {
-      hello: String
-  }
-
   type Hello ${Hello}
+
+  type Query {
+    getHello: [Hello]
+    getHelloById(id: ID!): Hello
+  }
+  type Mutation {
+    createHello(message: String!): Hello
+  }
 `;
 
 const resolvers = {
   Query: {
-    hello: getHello,
+    getHello,
+    getHelloById,
+  },
+  Mutation: {
+    createHello,
   },
 };
 

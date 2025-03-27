@@ -5,10 +5,14 @@ import { Book, Music, Gamepad2, Film, Heart, Clock, Star } from 'lucide-react';
 import { useQuery } from '@apollo/client';
 
 import { categories } from '../../utils/categories';
-import { GET_HELLO_WORLD } from '../../schemas/helloWorld.schema';
+import { GET_HELLO_WORLD } from '../../schemas/hello.schema';
 
 export default function FeatureHome() {
-  const { data } = useQuery(GET_HELLO_WORLD);
+  const { data } = useQuery(GET_HELLO_WORLD, {
+    variables: {
+      getHelloByIdId: '1',
+    },
+  });
   const [activeCategory, setActiveCategory] = useState('all');
 
   const featuredItems = [
@@ -173,7 +177,11 @@ export default function FeatureHome() {
           </motion.button>
         </div>
 
-        {data && <p>{data.hello}</p>}
+        {data && data.getHelloById ? (
+          <p>{data.getHelloById.message} 🔮</p>
+        ) : (
+          <p>Aucun message de &apos;hello world&apos; trouvé dans la base de données 😢</p>
+        )}
       </div>
     </section>
   );
