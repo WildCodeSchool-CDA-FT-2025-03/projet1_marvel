@@ -16,12 +16,12 @@
   },
   "lint-staged": {
     "client/**/*.{js,jsx,ts,tsx}": [
-      "cd client && eslint --fix",
-      "cd client && prettier --write"
+      "cd client && eslint",
+      "cd client && prettier --check"
     ],
     "server/**/*.{js,ts}": [
-      "cd server && eslint --fix",
-      "cd server && prettier --write"
+      "cd server && eslint",
+      "cd server && prettier --check"
     ]
   },
   "devDependencies": {
