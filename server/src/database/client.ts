@@ -7,4 +7,5 @@ export const dataSource = new DataSource({
   database: process.env.DATABASE_URL || './db.sqlite',
   entities: [Hello],
   synchronize: true,
+  logging: true,
 });

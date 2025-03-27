@@ -8,7 +8,7 @@ import globals from 'globals';
 export default [
   js.configs.recommended,
   {
-    files: ['**/*.ts'],
+    files: ['**/*.{js,ts}'],
     languageOptions: {
       parser: tsparser,
       parserOptions: {
@@ -16,17 +16,24 @@ export default [
         sourceType: 'module',
       },
       globals: {
-        ...globals.node
+        ...globals.node,
       },
     },
     plugins: {
       '@typescript-eslint': tseslint,
-      'prettier': prettier,
+      prettier: prettier,
     },
     rules: {
       ...tseslint.configs.recommended.rules,
       'prettier/prettier': 'error',
       'no-console': ['error', { allow: ['info', 'warn', 'error'] }],
+      '@typescript-eslint/no-unused-expressions': [
+        'error',
+        {
+          allowShortCircuit: true,
+          allowTernary: true,
+        },
+      ],
       '@typescript-eslint/explicit-function-return-type': 'off',
       '@typescript-eslint/no-explicit-any': 'warn',
     },
