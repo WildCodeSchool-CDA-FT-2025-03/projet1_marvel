@@ -14,10 +14,21 @@
     "dev:client": "cd client && npm run dev",
     "dev:server": "cd server && npm run dev"
   },
+  "lint-staged": {
+    "client/**/*.{js,jsx,ts,tsx}": [
+      "npm --prefix client run lint:fix",
+      "npm --prefix client run format:fix"
+    ],
+    "server/**/*.{js,ts}": [
+      "npm --prefix server run lint:fix",
+      "npm --prefix server run format:fix"
+    ]
+  },
   "devDependencies": {
     "@commitlint/cli": "^19.8.0",
     "@commitlint/config-conventional": "^19.8.0",
     "concurrently": "^9.1.2",
-    "husky": "^9.1.7"
+    "husky": "^9.1.7",
+    "lint-staged": "^15.0.0"
   }
 }
