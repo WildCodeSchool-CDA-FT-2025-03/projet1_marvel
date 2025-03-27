@@ -21,7 +21,7 @@ export default [
     },
     plugins: {
       '@typescript-eslint': tseslint,
-      prettier: prettier,
+      'prettier': prettier,
     },
     rules: {
       ...tseslint.configs.recommended.rules,
