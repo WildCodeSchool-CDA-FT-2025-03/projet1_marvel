@@ -6,5 +6,6 @@
   "tabWidth": 2,
   "bracketSpacing": true,
   "bracketSameLine": false,
-  "arrowParens": "avoid"
+  "arrowParens": "avoid",
+  "quoteProps": "consistent"
 }

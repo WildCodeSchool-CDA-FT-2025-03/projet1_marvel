@@ -34,7 +34,7 @@ export default tseslint.config(
     plugins: {
       'react-hooks': reactHooks,
       'react-refresh': reactRefresh,
-      react: reactPlugin,
+      'react': reactPlugin,
       'jsx-a11y': jsxA11yPlugin,
     },
     rules: {
@@ -49,7 +49,7 @@ export default tseslint.config(
       'no-duplicate-imports': 'error',
       'no-var': 'error',
       'prefer-const': 'error',
-      eqeqeq: ['error', 'always'],
+      'eqeqeq': ['error', 'always'],
       'react/jsx-uses-react': 'error',
       'react/jsx-uses-vars': 'error',
       'react/react-in-jsx-scope': 'off',
