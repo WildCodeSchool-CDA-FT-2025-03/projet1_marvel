@@ -1,15 +1,22 @@
 import { ApolloServer } from '@apollo/server';
 import { startStandaloneServer } from '@apollo/server/standalone';
+import 'reflect-metadata';
+
+import { dataSource } from './database/client';
+import { Hello } from './schemas/hello.schema';
+import { getHello } from './resolvers/hello.resolver';
 
 const typeDefs = `
-    type Query {
-        hello: String
-    }
+  type Query {
+      hello: String
+  }
+
+  type Hello ${Hello}
 `;
 
 const resolvers = {
   Query: {
-    hello: () => 'Hello, world!',
+    hello: getHello,
   },
 };
 
@@ -19,6 +26,8 @@ const server = new ApolloServer({
 });
 
 async function startServer() {
+  await dataSource.initialize();
+
   const { url } = await startStandaloneServer(server, {
     listen: { port: 4000 },
   });
