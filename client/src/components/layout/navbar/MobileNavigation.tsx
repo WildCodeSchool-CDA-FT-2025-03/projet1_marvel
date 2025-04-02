@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
-import { BookOpen, Heart } from 'lucide-react';
 import NavLink from './NavLink';
+import { navigationLinks } from '../../../utils/navigationLinks';
 
 interface MobileNavigationProps {
   setIsMenuOpen: (isMenuOpen: boolean) => void;
@@ -15,26 +15,18 @@ export default function MobileNavigation({ setIsMenuOpen }: MobileNavigationProp
     >
       <div className="container mx-auto px-4 flex flex-col space-y-4">
         <ul className="flex flex-col space-y-3">
-          <li>
-            <NavLink
-              to="/catalogue"
-              icon={BookOpen}
-              label="Catalogue"
-              className="flex items-center space-x-2 text-gray-600 hover:text-indigo-600 py-2"
-              onClick={() => setIsMenuOpen(false)}
-              iconSize={20}
-            />
-          </li>
-          <li>
-            <NavLink
-              to="/favorite"
-              icon={Heart}
-              label="Favoris"
-              className="flex items-center space-x-2 text-gray-600 hover:text-indigo-600 py-2"
-              onClick={() => setIsMenuOpen(false)}
-              iconSize={20}
-            />
-          </li>
+          {navigationLinks.map(link => (
+            <li key={link.to}>
+              <NavLink
+                to={link.to}
+                icon={link.icon}
+                label={link.label}
+                className="flex items-center space-x-2 text-gray-600 hover:text-indigo-600 py-2"
+                onClick={() => setIsMenuOpen(false)}
+                iconSize={20}
+              />
+            </li>
+          ))}
         </ul>
       </div>
     </motion.nav>
