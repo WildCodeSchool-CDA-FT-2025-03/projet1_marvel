@@ -4,7 +4,7 @@ import Logo from '../Logo';
 import DesktopNavigation from './navbar/DesktopNavigation';
 import MobileNavigation from './navbar/MobileNavigation';
 
-export default function Navbar() {
+export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (

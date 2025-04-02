@@ -1,4 +1,4 @@
-import { BookOpen, Heart, Search } from 'lucide-react';
+import { BookOpen, Heart } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 
@@ -26,24 +26,6 @@ export default function DesktopNavigation() {
             </Link>
           </motion.li>
         </ul>
-        <div className="flex items-center">
-          <form role="search" className="relative">
-            <label htmlFor="desktop-search" className="sr-only">
-              Rechercher
-            </label>
-            <input
-              id="desktop-search"
-              type="search"
-              placeholder="Rechercher..."
-              className="pl-9 pr-4 py-2 bg-gray-100 rounded-full focus:outline-none focus:ring-2 focus:ring-indigo-500 w-full"
-            />
-            <Search
-              className="absolute left-3 top-2.5 text-gray-400"
-              size={18}
-              aria-hidden="true"
-            />
-          </form>
-        </div>
       </div>
     </nav>
   );
