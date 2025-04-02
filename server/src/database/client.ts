@@ -1,6 +1,6 @@
 import { DataSource } from 'typeorm';
 
-import { Hello } from '../entities/hello.entity';
+import { Hello } from '../entities/hello.entities';
 import { Game } from '../entities/game.entity';
 
 export const dataSource = new DataSource({

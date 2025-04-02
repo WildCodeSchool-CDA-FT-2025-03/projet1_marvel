@@ -1,4 +1,4 @@
-import { Hello } from '../entities/hello.entity';
+import { Hello } from '../entities/hello.entities';
 
 export const getHello = async () => {
   const hello = await Hello.find();
