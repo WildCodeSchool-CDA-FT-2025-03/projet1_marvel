@@ -21,7 +21,7 @@ export class Game extends BaseEntity {
   release_date: Date;
 
   @Column({ nullable: true })
-  ISBN: string;
+  isbn: string;
 
   @Column()
   format: string;
@@ -63,7 +63,7 @@ export class Game extends BaseEntity {
   game_engine: string;
 
   @Column()
-  PEGI_ESRB_rating: string;
+  pegi_esrb_rating: string;
 
   @Column('simple-array', { nullable: true })
   online_features: string[];

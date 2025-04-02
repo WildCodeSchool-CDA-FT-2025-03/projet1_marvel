@@ -5,7 +5,7 @@ export const Game = `{
     developers: [String]
     publishers: [String]
     release_date: String
-    ISBN: String
+    isbn: String
     format: String
     platforms: [String]
     duration: String
@@ -19,7 +19,7 @@ export const Game = `{
     awards: [String]
     game_modes: [String]
     game_engine: String
-    PEGI_ESRB_rating: String
+    pegi_esrb_rating: String
     online_features: [String]
     dlc_expansions: [String]
     gameplay_mechanics: [String]
