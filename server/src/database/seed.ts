@@ -38,6 +38,15 @@ interface GameData {
 
 type DatasetType = 'games' | 'movies' | 'books' | 'musics';
 
+async function resetAutoIncrement(tableName: string): Promise<void> {
+  try {
+    await dataSource.query(`DELETE FROM sqlite_sequence WHERE name = '${tableName}'`);
+    console.info(`🔄 Reset auto-increment for table ${tableName}`);
+  } catch (error) {
+    console.warn(`⚠️ Could not reset auto-increment for table ${tableName}`, error);
+  }
+}
+
 async function importGamesData(jsonPath: string): Promise<void> {
   const jsonData = readFileSync(jsonPath, 'utf8');
   const games: GameData[] = JSON.parse(jsonData);
@@ -46,6 +55,8 @@ async function importGamesData(jsonPath: string): Promise<void> {
 
   await Game.clear();
   console.info('🧹 Games table cleared');
+
+  await resetAutoIncrement('game');
 
   const gameEntities = games.map((game) => {
     const gameEntity = new Game();
