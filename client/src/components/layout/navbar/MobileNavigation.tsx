@@ -12,6 +12,7 @@ export default function MobileNavigation({ setIsMenuOpen }: MobileNavigationProp
       initial={{ opacity: 0, height: 0 }}
       animate={{ opacity: 1, height: 'auto' }}
       className="md:hidden bg-white shadow-lg py-4 overflow-hidden"
+      aria-label="Menu de navigation"
     >
       <div className="container mx-auto px-4 flex flex-col space-y-4">
         <ul className="flex flex-col space-y-3">

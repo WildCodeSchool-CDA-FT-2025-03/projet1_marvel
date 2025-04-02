@@ -4,7 +4,7 @@ import { navigationLinks } from '../../../utils/navigationLinks';
 
 export default function DesktopNavigation() {
   return (
-    <nav className="hidden md:block">
+    <nav className="hidden md:block" aria-label="Menu de navigation">
       <div className="flex items-center space-x-8">
         <ul className="flex space-x-6">
           {navigationLinks.map(link => (
