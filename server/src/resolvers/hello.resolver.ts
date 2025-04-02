@@ -1,18 +1,23 @@
+import { Resolver, Query, Mutation, Arg } from 'type-graphql';
 import { Hello } from '../entities/hello.entities';
 
-export const getHello = async () => {
-  const hello = await Hello.find();
-  return hello;
-};
+@Resolver(Hello)
+export class HelloResolver {
+  @Query(() => [Hello])
+  async getHello(): Promise<Hello[]> {
+    return await Hello.find();
+  }
 
-export const getHelloById = async (_: unknown, { id }: { id: number }) => {
-  const hello = await Hello.findOne({ where: { id } });
-  return hello;
-};
+  @Query(() => Hello, { nullable: true })
+  async getHelloById(@Arg('id') id: number): Promise<Hello | null> {
+    return await Hello.findOne({ where: { id } });
+  }
 
-export const createHello = async (_: unknown, { message }: { message: string }) => {
-  const hello = new Hello();
-  hello.message = message;
-  await hello.save();
-  return hello;
-};
+  @Mutation(() => Hello)
+  async createHello(@Arg('message') message: string): Promise<Hello> {
+    const hello = new Hello();
+    hello.message = message;
+    await hello.save();
+    return hello;
+  }
+}

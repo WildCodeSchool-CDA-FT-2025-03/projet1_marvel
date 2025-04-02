@@ -1,11 +1,15 @@
+import { Resolver, Query, Arg } from 'type-graphql';
 import { Game } from '../entities/game.entity';
 
-export const getGames = async () => {
-  const games = await Game.find();
-  return games;
-};
+@Resolver(Game)
+export class GameResolver {
+  @Query(() => [Game])
+  async getGames(): Promise<Game[]> {
+    return await Game.find();
+  }
 
-export const getGameById = async (id: number) => {
-  const game = await Game.findOne({ where: { id } });
-  return game;
-};
+  @Query(() => Game, { nullable: true })
+  async getGameById(@Arg('id') id: number): Promise<Game | null> {
+    return await Game.findOne({ where: { id } });
+  }
+}

@@ -1,48 +1,23 @@
 import { ApolloServer } from '@apollo/server';
 import { startStandaloneServer } from '@apollo/server/standalone';
+import { buildSchema } from 'type-graphql';
 import 'reflect-metadata';
 import 'dotenv/config';
 
 import { dataSource } from './database/client';
-import { Hello } from './schemas/hello.schema';
-import { getHello, createHello, getHelloById } from './resolvers/hello.resolver';
-import { getGames, getGameById } from './resolvers/game.resolver';
-import { Game } from './schemas/game.schema';
-
-const typeDefs = `
-  type Hello ${Hello}
-  type Game ${Game}
-
-  type Query {
-    getHello: [Hello]
-    getHelloById(id: ID!): Hello
-    getGames: [Game]
-    getGameById(id: ID!): Game
-  }
-  type Mutation {
-    createHello(message: String!): Hello
-  }
-`;
-
-const resolvers = {
-  Query: {
-    getHello,
-    getHelloById,
-    getGames,
-    getGameById,
-  },
-  Mutation: {
-    createHello,
-  },
-};
-
-const server = new ApolloServer({
-  typeDefs,
-  resolvers,
-});
+import { HelloResolver } from './resolvers/hello.resolver';
+import { GameResolver } from './resolvers/game.resolver';
 
 async function startServer() {
   await dataSource.initialize();
+
+  const schema = await buildSchema({
+    resolvers: [HelloResolver, GameResolver],
+  });
+
+  const server = new ApolloServer({
+    schema,
+  });
 
   const { url } = await startStandaloneServer(server, {
     listen: { port: parseInt(process.env.PORT as string) || 4000 },
