@@ -8,31 +8,24 @@ export default function FooterNav() {
         Navigation
       </h2>
       <ul className="grid grid-cols-2 gap-2 text-sm text-gray-300" aria-label="Pages principales">
-        <li>
-          <FooterLink to="/" ariaLabel="Accéder à la page d'accueil">
-            Accueil
-          </FooterLink>
-        </li>
+        <FooterLink to="/" ariaLabel="Accéder à la page d'accueil">
+          Accueil
+        </FooterLink>
         {categories.map(category => (
-          <li key={category.id}>
-            <FooterLink
-              to={`/catalogue?type=${category.id}`}
-              ariaLabel={`Accéder au catalogue de ${category.name}`}
-            >
-              {category.name}
-            </FooterLink>
-          </li>
+          <FooterLink
+            key={category.id}
+            to={`/catalogue?type=${category.id}`}
+            ariaLabel={`Accéder au catalogue de ${category.name}`}
+          >
+            {category.name}
+          </FooterLink>
         ))}
-        <li>
-          <FooterLink to="/favorite" ariaLabel="Accéder à mes médias favoris">
-            Mes Favoris
-          </FooterLink>
-        </li>
-        <li>
-          <FooterLink to="/create/media" ariaLabel="Ajouter un nouveau média">
-            Ajouter un média
-          </FooterLink>
-        </li>
+        <FooterLink to="/favorite" ariaLabel="Accéder à mes médias favoris">
+          Mes Favoris
+        </FooterLink>
+        <FooterLink to="/create/media" ariaLabel="Ajouter un nouveau média">
+          Ajouter un média
+        </FooterLink>
       </ul>
     </nav>
   );

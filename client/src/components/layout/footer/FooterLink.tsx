@@ -8,8 +8,10 @@ interface FooterLinkProps {
 
 export default function FooterLink({ to, ariaLabel, children }: FooterLinkProps) {
   return (
-    <Link to={to} className="hover:text-white" aria-label={ariaLabel}>
-      {children}
-    </Link>
+    <li>
+      <Link to={to} className="hover:text-white" aria-label={ariaLabel}>
+        {children}
+      </Link>
+    </li>
   );
 }
