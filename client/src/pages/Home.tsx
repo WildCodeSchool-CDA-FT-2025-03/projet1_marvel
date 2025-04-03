@@ -1,3 +1,4 @@
+import HeroHome from '../components/home/Hero';
 import { Carousel } from '../components/layout/carousel/Carousel';
 
 export default function HomePage() {
@@ -7,6 +8,7 @@ export default function HomePage() {
 
       {/* Section Carrousel */}
       <section aria-labelledby="carousel-heading" className="mb-12">
+        <HeroHome />
         {/* Appel simple du composant, qui utilisera ses images par défaut */}
         <Carousel />
       </section>
