@@ -14,7 +14,7 @@ export default function FooterAbout() {
         </div>
         <span className="text-lg font-bold">Home Center</span>
       </div>
-      <p className="text-gray-300 text-sm">
+      <p className="text-white text-sm">
         Votre bibliothèque numérique personnelle pour organiser et découvrir vos médias préférés
       </p>
     </section>

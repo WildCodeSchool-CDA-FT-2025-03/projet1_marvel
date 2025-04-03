@@ -13,11 +13,11 @@ export default function Footer() {
           <FooterNav />
         </div>
 
-        <div className="border-t border-gray-700 mt-8 pt-6">
-          <p className="text-sm text-gray-400 text-center" aria-label="Informations de copyright">
+        <small className="border-t border-gray-700 mt-8 pt-6">
+          <p className="text-sm text-white text-center" aria-label="Informations de copyright">
             © {currentYear} Home Center - Projet Wild Code School - Tous droits réservés
           </p>
-        </div>
+        </small>
       </div>
     </footer>
   );

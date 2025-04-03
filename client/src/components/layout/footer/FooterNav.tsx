@@ -7,7 +7,7 @@ export default function FooterNav() {
       <h2 id="footer-navigation" className="font-semibold mb-4">
         Navigation
       </h2>
-      <ul className="grid grid-cols-2 gap-2 text-sm text-gray-300" aria-label="Pages principales">
+      <ul className="grid grid-cols-2 gap-2 text-sm text-white" aria-label="Pages principales">
         <FooterLink to="/" ariaLabel="Accéder à la page d'accueil">
           Accueil
         </FooterLink>
