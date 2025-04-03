@@ -1,0 +1,29 @@
+export const Game = `{
+    id: ID
+    title: String
+    subtitle: String
+    developers: [String]
+    publishers: [String]
+    release_date: String
+    isbn: String
+    format: String
+    platforms: [String]
+    duration: String
+    category: String
+    summary: String
+    keywords: [String]
+    targeted_audience: String
+    original_language: String
+    series: Boolean
+    extract: String
+    awards: [String]
+    game_modes: [String]
+    game_engine: String
+    pegi_esrb_rating: String
+    online_features: [String]
+    dlc_expansions: [String]
+    gameplay_mechanics: [String]
+    soundtrack: String
+    available_on: [String]
+    mod_support: String
+}`;
