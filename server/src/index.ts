@@ -1,18 +1,19 @@
 import { ApolloServer } from '@apollo/server';
 import { startStandaloneServer } from '@apollo/server/standalone';
-import { buildSchema } from 'type-graphql';
-import 'reflect-metadata';
 import 'dotenv/config';
+import 'reflect-metadata';
+import { buildSchema } from 'type-graphql';
 
 import { dataSource } from './database/client';
-import { HelloResolver } from './resolvers/hello.resolver';
 import { GameResolver } from './resolvers/game.resolver';
+import { HelloResolver } from './resolvers/hello.resolver';
+import { MovieResolver } from './resolvers/movie.resolver';
 
 async function startServer() {
   await dataSource.initialize();
 
   const schema = await buildSchema({
-    resolvers: [HelloResolver, GameResolver],
+    resolvers: [HelloResolver, GameResolver, MovieResolver],
   });
 
   const server = new ApolloServer({
