@@ -4,9 +4,9 @@ import FooterLink from './FooterLink';
 export default function FooterNav() {
   return (
     <nav aria-labelledby="footer-navigation" className="md:text-right">
-      <h2 id="footer-navigation" className="font-semibold mb-4">
+      <p id="footer-navigation" className="font-semibold mb-4">
         Navigation
-      </h2>
+      </p>
       <ul className="grid grid-cols-2 gap-2 text-sm text-white" aria-label="Pages principales">
         <FooterLink to="/" ariaLabel="Accéder à la page d'accueil">
           Accueil
