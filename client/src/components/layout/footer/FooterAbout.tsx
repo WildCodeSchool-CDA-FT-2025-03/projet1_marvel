@@ -1,9 +1,9 @@
 export default function FooterAbout() {
   return (
     <section aria-labelledby="footer-brand">
-      <h2 id="footer-brand" className="sr-only">
+      <p id="footer-brand" className="sr-only">
         À propos de Home Center
-      </h2>
+      </p>
       <div className="flex items-center space-x-2 mb-4">
         <div
           className="h-8 w-8 bg-indigo-600 rounded-lg flex items-center justify-center"
