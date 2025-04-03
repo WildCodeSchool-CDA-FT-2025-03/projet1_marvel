@@ -5,38 +5,8 @@ import 'dotenv/config';
 
 import { dataSource } from './client';
 import { Game } from '../entities/game.entity';
-
-interface GameData {
-  'title': string;
-  'subtitle'?: string;
-  'developers': string[];
-  'publishers': string[];
-  'release_date': string;
-  'ISBN'?: string;
-  'format': string;
-  'platforms': string[];
-  'duration'?: string;
-  'category': string;
-  'summary': string;
-  'keywords': string[];
-  'targeted_audience': string;
-  'original_language': string;
-  'series': boolean;
-  'extract'?: string;
-  'awards'?: string[];
-  'game_modes': string[];
-  'game_engine'?: string;
-  'PEGI/ESRB_rating': string | null;
-  'PEGI_ESRB_rating': string | null;
-  'online_features'?: string[];
-  'dlc_expansions'?: string[];
-  'gameplay_mechanics': string[];
-  'soundtrack'?: string;
-  'available_on': string[];
-  'mod_support': string;
-}
-
-type DatasetType = 'games' | 'movies' | 'books' | 'musics';
+import { GameData } from '../types/game.type';
+import { DatasetType } from '../types/dataset.type';
 
 async function resetAutoIncrement(tableName: string): Promise<void> {
   try {
