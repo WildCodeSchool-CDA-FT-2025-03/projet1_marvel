@@ -6,7 +6,7 @@ import 'dotenv/config';
 import { dataSource } from './database/client';
 import { Hello } from './schemas/hello.schema';
 import { getHello, createHello, getHelloById } from './resolvers/hello.resolver';
-import { getGames, getGameById } from './resolvers/game.resolver';
+import { getGames } from './resolvers/game.resolver';
 import { Game } from './schemas/game.schema';
 
 const typeDefs = `
@@ -17,7 +17,6 @@ const typeDefs = `
     getHello: [Hello]
     getHelloById(id: ID!): Hello
     getGames: [Game]
-    getGameById(id: ID!): Game
   }
   type Mutation {
     createHello(message: String!): Hello
@@ -29,7 +28,6 @@ const resolvers = {
     getHello,
     getHelloById,
     getGames,
-    getGameById,
   },
   Mutation: {
     createHello,
