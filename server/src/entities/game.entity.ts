@@ -25,8 +25,8 @@ export class Game extends BaseEntity {
   publishers: string[];
 
   @Field()
-  @Column({ type: 'date' })
-  release_date: Date;
+  @Column()
+  release_date: string;
 
   @Field({ nullable: true })
   @Column({ nullable: true })
