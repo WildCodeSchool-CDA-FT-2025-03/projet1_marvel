@@ -1,7 +1,7 @@
-interface HeroTitleProps {
+type HeroTitleProps = {
   title: string;
   subtitle: string;
-}
+};
 
 export default function HeroTitle({ title, subtitle }: HeroTitleProps) {
   return (

@@ -1,9 +1,9 @@
 import { ReactNode } from 'react';
 import { motion } from 'framer-motion';
 
-interface HeroContainerProps {
+type HeroContainerProps = {
   children: ReactNode;
-}
+};
 
 export default function HeroContainer({ children }: HeroContainerProps) {
   return (
