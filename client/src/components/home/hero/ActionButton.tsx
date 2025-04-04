@@ -1,11 +1,11 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 
-interface ActionButtonProps {
+type ActionButtonProps = {
   label: string;
   isPrimary?: boolean;
   to?: string;
-}
+};
 
 export default function ActionButton({ label, isPrimary = false, to }: ActionButtonProps) {
   const buttonClasses = isPrimary
