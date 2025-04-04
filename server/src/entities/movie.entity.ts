@@ -38,7 +38,7 @@ export class Movie extends BaseEntity {
 
   @Field()
   @Column()
-  ISBN_EAN_UPC: string;
+  isbn_ean_upc: string;
 
   @Field()
   @Column()
