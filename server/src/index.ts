@@ -7,12 +7,13 @@ import 'dotenv/config';
 import { dataSource } from './database/client';
 import { HelloResolver } from './resolvers/hello.resolver';
 import { GameResolver } from './resolvers/game.resolver';
+import { MusicResolver } from './resolvers/music.resolver';
 
 async function startServer() {
   await dataSource.initialize();
 
   const schema = await buildSchema({
-    resolvers: [HelloResolver, GameResolver],
+    resolvers: [HelloResolver, GameResolver, MusicResolver],
   });
 
   const server = new ApolloServer({
