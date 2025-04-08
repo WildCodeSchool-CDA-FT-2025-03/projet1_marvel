@@ -8,12 +8,13 @@ import { dataSource } from './database/client';
 import { GameResolver } from './resolvers/game.resolver';
 import { HelloResolver } from './resolvers/hello.resolver';
 import { MovieResolver } from './resolvers/movie.resolver';
+import { MusicResolver } from './resolvers/music.resolver';
 
 async function startServer() {
   await dataSource.initialize();
 
   const schema = await buildSchema({
-    resolvers: [HelloResolver, GameResolver, MovieResolver],
+    resolvers: [HelloResolver, GameResolver, MusicResolver, MovieResolver],
   });
 
   const server = new ApolloServer({
