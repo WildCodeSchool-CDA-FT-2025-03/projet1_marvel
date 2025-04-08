@@ -1,4 +1,4 @@
-import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, BaseEntity } from 'typeorm';
+import { Entity, PrimaryGeneratedColumn, Column, BaseEntity, OneToMany } from 'typeorm';
 import { Field, ID, ObjectType } from 'type-graphql';
 import { Tracklist } from './tracklist.entity';
 
@@ -85,7 +85,7 @@ export class Music extends BaseEntity {
   @Field(() => [String])
   certifications: string[];
 
-  @ManyToOne(() => Tracklist, (tracklist) => tracklist.music, { cascade: true })
+  @OneToMany(() => Tracklist, (tracklist) => tracklist.music, { cascade: true })
   @Field(() => [Tracklist])
   tracklist?: Tracklist[];
 }
