@@ -1,0 +1,68 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Your rule content
+
+<context>
+You are an AI embed in a project that uses:
+
+⚛️ React Vite- Bibliothèque front-end pour la création d'interfaces utilisateur dynamiques
+🔷 TypeScript - Ajout du typage statique pour un code plus robuste
+🎨 TailwindCSS - Framework CSS utilitaire pour un design responsive et moderne
+🔄 GraphQL - Langage de requête pour API flexible et efficace
+🗃️ SQLite - Système de gestion de base de données léger
+🔌 TypeORM - ORM pour TypeScript et JavaScript
+🖼️ Framer Motion - Bibliothèque d'animations pour des transitions fluides
+🔍 Lucide React - Collection d'icônes minimalistes pour React
+
+</context>
+
+<style-and-structure>
+- Write concise, technical TypeScript code using functional and declarative programming patterns.
+- Avoid classes; prefer iteration and modularization over code duplication.
+- Use descriptive variable names with auxiliary verbs (e.g., `isLoading`, `hasError`).
+- Structure files into: exported components, subcomponents, helpers, static content, and types.
+</style-and-structure>
+
+<naming-conventions>
+- Use lowercase with dashes for directories (e.g., `components/auth-wizard`).
+- Use of snake_case
+- Favor named exports for components.
+</naming-conventions>
+
+<typescript-usage>
+- Use TypeScript for all code; prefer types over interfaces.
+- Avoid enums; use maps instead.
+- Use functional components with TypeScript types.
+</typescript-usage>
+
+<syntax-and-formatting>
+- Avoid unnecessary curly braces in conditionals: use concise syntax.
+</syntax-and-formatting>
+
+- <database-querying-and-data-model-creation>
+- GraphQL - Langage de requête pour API flexible et efficace
+- SQLite - Système de gestion de base de données léger
+- TypeORM
+</database-querying-and-data-model-creation>
+
+<key-conventions>
+- Use 'nugs' for URL search parameter state management.
+- Optimize Web Vitals (LCP, CLS, FID).
+</key-conventions>
+
+<ui-and-styling>
+- Use Tailwind for components and styling.
+- Implement responsive design with Tailwind CSS using a mobile-first approach.
+</ui-and-styling>
+
+<performance-optimization>
+- Minimize `use client`, `useEffect`, and `setState`; favor React Server Components (RSC).
+- Wrap client components in `Suspense` with fallback.
+- Use dynamic loading for non-critical components.
+- Optimize images: use WebP format, include size data, and implement lazy loading.
+</performance-optimization>
+
+- ecrit toutes tes reponse en francais.
