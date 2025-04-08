@@ -5,6 +5,7 @@ import 'reflect-metadata';
 import { buildSchema } from 'type-graphql';
 
 import { dataSource } from './database/client';
+import { BookResolver } from './resolvers/book.resolver';
 import { GameResolver } from './resolvers/game.resolver';
 import { HelloResolver } from './resolvers/hello.resolver';
 import { MovieResolver } from './resolvers/movie.resolver';
@@ -14,7 +15,7 @@ async function startServer() {
   await dataSource.initialize();
 
   const schema = await buildSchema({
-    resolvers: [HelloResolver, GameResolver, MusicResolver, MovieResolver],
+    resolvers: [HelloResolver, GameResolver, MusicResolver, MovieResolver, BookResolver],
   });
 
   const server = new ApolloServer({
