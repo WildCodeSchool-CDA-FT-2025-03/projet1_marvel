@@ -28,7 +28,6 @@ export default function useCatalogueData() {
     setIsLoading(true);
     const items: CatalogueItem[] = [];
 
-    // Ajouter les livres
     if (booksData?.getBooks) {
       booksData.getBooks.forEach((book: BookType) => {
         items.push({
@@ -42,7 +41,6 @@ export default function useCatalogueData() {
       });
     }
 
-    // Ajouter les jeux
     if (gamesData?.getGames) {
       gamesData.getGames.forEach((game: GameType) => {
         items.push({
@@ -56,7 +54,6 @@ export default function useCatalogueData() {
       });
     }
 
-    // Ajouter les films
     if (moviesData?.getMovies) {
       moviesData.getMovies.forEach((movie: MovieType) => {
         items.push({
@@ -70,7 +67,6 @@ export default function useCatalogueData() {
       });
     }
 
-    // Ajouter la musique
     if (musicData?.getMusic) {
       musicData.getMusic.forEach((music: MusicType) => {
         items.push({

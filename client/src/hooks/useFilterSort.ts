@@ -14,10 +14,8 @@ export default function useFilterSort({ catalogueItems }: UseFilterSortProps) {
   const filteredItems = useMemo(() => {
     return catalogueItems
       .filter(item => {
-        // Filtre par catégorie
         const categoryMatch = activeCategory === 'all' || item.type === activeCategory;
 
-        // Filtre par recherche (dans le titre, auteur, artiste, réalisateur)
         const searchLower = searchTerm.toLowerCase();
         const titleMatch = item.title.toLowerCase().includes(searchLower);
         const creatorMatch =
@@ -26,13 +24,11 @@ export default function useFilterSort({ catalogueItems }: UseFilterSortProps) {
           (item.director && item.director.toLowerCase().includes(searchLower)) ||
           (item.platform && item.platform.toLowerCase().includes(searchLower));
 
-        // Filtre par note minimale
         const ratingMatch = item.rating >= ratingFilter;
 
         return categoryMatch && (titleMatch || creatorMatch) && ratingMatch;
       })
       .sort((a, b) => {
-        // Tri par titre
         if (sortOrder === 'asc') {
           return a.title.localeCompare(b.title);
         } else {
