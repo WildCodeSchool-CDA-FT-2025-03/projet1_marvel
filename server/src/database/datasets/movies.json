@@ -1,0 +1,5130 @@
+[
+  {
+    "title": "Inception",
+    "subtitle": "",
+    "directors": ["Christopher Nolan"],
+    "writers": ["Christopher Nolan"],
+    "producers": ["Christopher Nolan", "Emma Thomas"],
+    "studios": ["Warner Bros.", "Legendary Pictures", "Syncopy"],
+    "release_date": "2010-07-16",
+    "ISBN_EAN_UPC": "883929106561",
+    "format": "Blu-ray, DVD, Streaming",
+    "duration": 148,
+    "category": "Science-Fiction, Action, Thriller",
+    "summary": "Dom Cobb est un voleur expérimenté, spécialisé dans l'extraction de secrets enfouis au plus profond du subconscient pendant l'état de rêve. On lui offre une chance de rédemption lorsqu'on lui confie une tâche impossible : l'inception, qui consiste à implanter une idée dans l'esprit d'une personne.",
+    "keywords": ["rêve", "subconscient", "extraction", "réalité", "temps"],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": ["4 Oscars", "AFI Movie of the Year", "BAFTA du meilleur film"],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ellen Page",
+      "Tom Hardy",
+      "Ken Watanabe"
+    ],
+    "budget": 160000000,
+    "box_office": 836800000
+  },
+  {
+    "title": "Le Parrain",
+    "subtitle": "",
+    "directors": ["Francis Ford Coppola"],
+    "writers": ["Mario Puzo", "Francis Ford Coppola"],
+    "producers": ["Albert S. Ruddy"],
+    "studios": ["Paramount Pictures", "Alfran Productions"],
+    "release_date": "1972-03-24",
+    "ISBN_EAN_UPC": "097361386645",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 175,
+    "category": "Crime, Drame",
+    "summary": "L'histoire de la famille Corleone, une des plus grandes familles de la mafia américaine à New York après la Seconde Guerre mondiale, avec à sa tête Don Vito Corleone, et l'ascension de son fils Michael.",
+    "keywords": ["mafia", "famille", "pouvoir", "vengeance", "honneur"],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": true,
+    "awards": [
+      "3 Oscars dont Meilleur Film",
+      "5 Golden Globes",
+      "Grammy Award"
+    ],
+    "actors": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Robert Duvall",
+      "Diane Keaton"
+    ],
+    "budget": 6000000,
+    "box_office": 245066411
+  },
+  {
+    "title": "La La Land",
+    "subtitle": "",
+    "directors": ["Damien Chazelle"],
+    "writers": ["Damien Chazelle"],
+    "producers": ["Fred Berger", "Jordan Horowitz", "Marc Platt"],
+    "studios": ["Summit Entertainment", "Black Label Media", "TIK Films"],
+    "release_date": "2016-12-09",
+    "ISBN_EAN_UPC": "025192392962",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 128,
+    "category": "Comédie musicale, Romance, Drame",
+    "summary": "À Los Angeles, une actrice en devenir sert des cafés entre deux auditions, et un musicien de jazz joue du piano dans des clubs miteux pour joindre les deux bouts. Malgré les obstacles qui se dressent sur leur chemin, les deux tourtereaux vont tenter de concilier leur amour et leurs rêves.",
+    "keywords": ["musique", "jazz", "rêves", "amour", "Los Angeles"],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": ["6 Oscars", "7 Golden Globes", "5 BAFTA Awards"],
+    "actors": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend",
+      "Rosemarie DeWitt",
+      "J.K. Simmons"
+    ],
+    "budget": 30000000,
+    "box_office": 446920000
+  },
+  {
+    "title": "Le Voyage de Chihiro",
+    "subtitle": "Sen to Chihiro no kamikakushi",
+    "directors": ["Hayao Miyazaki"],
+    "writers": ["Hayao Miyazaki"],
+    "producers": ["Toshio Suzuki"],
+    "studios": ["Studio Ghibli", "Walt Disney Pictures"],
+    "release_date": "2001-07-20",
+    "ISBN_EAN_UPC": "8717418546823",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 125,
+    "category": "Animation, Aventure, Fantastique",
+    "summary": "Chihiro, une fillette de 10 ans, est en route vers sa nouvelle demeure en compagnie de ses parents. Au cours du voyage, la famille fait une halte dans un parc à thème apparemment abandonné. Lors de la visite, les parents de Chihiro se transforment mystérieusement en cochons. Prise au piège dans ce monde étrange, Chihiro va devoir faire preuve de courage pour libérer ses parents et retourner dans le monde des humains.",
+    "keywords": [
+      "esprit",
+      "transformation",
+      "courage",
+      "monde parallèle",
+      "identité"
+    ],
+    "targeted_audience": "Tous publics",
+    "original_language": "Japonais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film d'animation",
+      "Ours d'or de Berlin",
+      "Prix du film japonais"
+    ],
+    "actors": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Yumi Tamai",
+      "Bunta Sugawara"
+    ],
+    "budget": 19000000,
+    "box_office": 355467076
+  },
+  {
+    "title": "Parasite",
+    "subtitle": "Gisaengchung",
+    "directors": ["Bong Joon-ho"],
+    "writers": ["Bong Joon-ho", "Han Jin-won"],
+    "producers": ["Kwak Sin-ae", "Bong Joon-ho"],
+    "studios": ["Barunson E&A", "CJ Entertainment"],
+    "release_date": "2019-05-30",
+    "ISBN_EAN_UPC": "8809516473064",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 132,
+    "category": "Thriller, Drame, Comédie noire",
+    "summary": "Toute la famille de Ki-taek est au chômage. Elle s'intéresse particulièrement au train de vie de la richissime famille Park. Un jour, le fils, Ki-woo, se fait recommander pour donner des cours particuliers d'anglais chez les Park. C'est le début d'un engrenage incontrôlable.",
+    "keywords": [
+      "inégalité sociale",
+      "arnaque",
+      "sous-sol",
+      "infiltration",
+      "classe sociale"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Coréen",
+    "series": false,
+    "awards": [
+      "Palme d'Or",
+      "4 Oscars dont Meilleur Film",
+      "BAFTA du meilleur film étranger"
+    ],
+    "actors": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik",
+      "Park So-dam"
+    ],
+    "budget": 11400000,
+    "box_office": 258670665
+  },
+  {
+    "title": "The Dark Knight : Le Chevalier Noir",
+    "subtitle": "",
+    "directors": ["Christopher Nolan"],
+    "writers": ["Jonathan Nolan", "Christopher Nolan", "David S. Goyer"],
+    "producers": ["Christopher Nolan", "Charles Roven", "Emma Thomas"],
+    "studios": ["Warner Bros.", "Legendary Pictures", "DC Comics"],
+    "release_date": "2008-07-18",
+    "ISBN_EAN_UPC": "883929301829",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 152,
+    "category": "Action, Crime, Drame",
+    "summary": "Batman entreprend de démanteler les dernières organisations criminelles de Gotham. Mais un nouveau génie du crime fait son apparition : le Joker, qui va plonger Gotham dans l'anarchie et pousser Batman à la limite entre héros et vengeur.",
+    "keywords": ["super-héros", "chaos", "criminalité", "dualité", "anarchie"],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": true,
+    "awards": [
+      "2 Oscars",
+      "BAFTA du meilleur acteur dans un second rôle",
+      "Saturn Award du meilleur film"
+    ],
+    "actors": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "budget": 185000000,
+    "box_office": 1003045358
+  },
+  {
+    "title": "Amélie",
+    "subtitle": "Le Fabuleux Destin d'Amélie Poulain",
+    "directors": ["Jean-Pierre Jeunet"],
+    "writers": ["Jean-Pierre Jeunet", "Guillaume Laurant"],
+    "producers": ["Jean-Marc Deschamps", "Claudie Ossard"],
+    "studios": ["UGC", "Victoires Productions", "Tapioca Films"],
+    "release_date": "2001-04-25",
+    "ISBN_EAN_UPC": "3259119636120",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 122,
+    "category": "Comédie, Romance",
+    "summary": "Amélie Poulain, serveuse dans un café de Montmartre, découvre un jour une petite boîte de souvenirs cachée. Elle décide de retrouver son propriétaire et, enchantée par la joie qu'elle lui procure, se met en tête d'aider les autres à trouver leur bonheur.",
+    "keywords": ["Paris", "destin", "bonheur", "imagination", "amour"],
+    "targeted_audience": "Adulte",
+    "original_language": "Français",
+    "series": false,
+    "awards": ["5 César", "2 BAFTA", "European Film Award du meilleur film"],
+    "actors": [
+      "Audrey Tautou",
+      "Mathieu Kassovitz",
+      "Rufus",
+      "Lorella Cravotta",
+      "Serge Merlin"
+    ],
+    "budget": 10400000,
+    "box_office": 173921954
+  },
+  {
+    "title": "Avatar",
+    "subtitle": "",
+    "directors": ["James Cameron"],
+    "writers": ["James Cameron"],
+    "producers": ["James Cameron", "Jon Landau"],
+    "studios": [
+      "20th Century Fox",
+      "Lightstorm Entertainment",
+      "Dune Entertainment"
+    ],
+    "release_date": "2009-12-18",
+    "ISBN_EAN_UPC": "024543656852",
+    "format": "DVD, Blu-ray, 3D, Streaming",
+    "duration": 162,
+    "category": "Science-Fiction, Action, Aventure",
+    "summary": "Sur Pandora, une lune extraterrestre, Jake Sully, un ancien marine paraplégique, prend part au programme Avatar et se retrouve tiraillé entre deux mondes lors d'un conflit entre humains et Na'vi, une espèce humanoïde indigène de Pandora.",
+    "keywords": [
+      "extraterrestre",
+      "écologie",
+      "colonisation",
+      "identité",
+      "nature"
+    ],
+    "targeted_audience": "Tous publics",
+    "original_language": "Anglais",
+    "series": true,
+    "awards": ["3 Oscars", "2 BAFTA", "2 Golden Globes"],
+    "actors": [
+      "Sam Worthington",
+      "Zoe Saldana",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Michelle Rodriguez"
+    ],
+    "budget": 237000000,
+    "box_office": 2923706026
+  },
+  {
+    "title": "Intouchables",
+    "subtitle": "",
+    "directors": ["Olivier Nakache", "Éric Toledano"],
+    "writers": ["Olivier Nakache", "Éric Toledano"],
+    "producers": ["Nicolas Duval Adassovsky", "Yann Zenou", "Laurent Zeitoun"],
+    "studios": ["Gaumont", "TF1 Films", "Ten Films"],
+    "release_date": "2011-11-02",
+    "ISBN_EAN_UPC": "3607483175842",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 112,
+    "category": "Comédie, Biographie",
+    "summary": "Après un accident de parapente, Philippe, riche aristocrate, engage comme aide à domicile Driss, un jeune de banlieue tout juste sorti de prison. Peu probable, leur relation va faire des étincelles et permettre à Philippe et Driss de s'ouvrir à un autre monde.",
+    "keywords": [
+      "amitié",
+      "handicap",
+      "différence sociale",
+      "humour",
+      "tolérance"
+    ],
+    "targeted_audience": "Tous publics",
+    "original_language": "Français",
+    "series": false,
+    "awards": [
+      "César du meilleur acteur",
+      "Tokyo Sakura Grand Prix",
+      "Prix du public aux European Film Awards"
+    ],
+    "actors": [
+      "François Cluzet",
+      "Omar Sy",
+      "Anne Le Ny",
+      "Audrey Fleurot",
+      "Clothilde Mollet"
+    ],
+    "budget": 9500000,
+    "box_office": 426588510
+  },
+  {
+    "title": "Pulp Fiction",
+    "subtitle": "",
+    "directors": ["Quentin Tarantino"],
+    "writers": ["Quentin Tarantino", "Roger Avary"],
+    "producers": ["Lawrence Bender"],
+    "studios": ["Miramax", "A Band Apart", "Jersey Films"],
+    "release_date": "1994-10-14",
+    "ISBN_EAN_UPC": "031398134954",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 154,
+    "category": "Crime, Drame",
+    "summary": "Les vies de deux hommes de main, d'un boxeur, de la femme d'un gangster et de deux braqueurs de restaurant s'entremêlent dans quatre histoires de violence et de rédemption.",
+    "keywords": ["violence", "dialogue", "non-linéaire", "crime", "rédemption"],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Palme d'Or",
+      "Oscar du meilleur scénario original",
+      "BAFTA du meilleur scénario original"
+    ],
+    "actors": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis",
+      "Ving Rhames"
+    ],
+    "budget": 8000000,
+    "box_office": 213928762
+  },
+  {
+    "title": "Le Seigneur des Anneaux : La Communauté de l'Anneau",
+    "subtitle": "",
+    "directors": ["Peter Jackson"],
+    "writers": [
+      "J.R.R. Tolkien",
+      "Fran Walsh",
+      "Philippa Boyens",
+      "Peter Jackson"
+    ],
+    "producers": ["Barrie M. Osborne", "Peter Jackson", "Fran Walsh"],
+    "studios": ["New Line Cinema", "WingNut Films", "The Saul Zaentz Company"],
+    "release_date": "2001-12-19",
+    "ISBN_EAN_UPC": "794043557828",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 178,
+    "category": "Aventure, Fantasy, Drame",
+    "summary": "Un jeune hobbit, Frodon Sacquet, hérite d'un anneau. Il s'agit de l'Anneau Unique, instrument de pouvoir absolu qui permettrait à Sauron, de régner sur la Terre du Milieu. Frodon doit détruire l'Anneau dans la Montagne du Destin où il a été forgé.",
+    "keywords": ["quête", "magie", "amitié", "combat", "courage"],
+    "targeted_audience": "Tous publics",
+    "original_language": "Anglais",
+    "series": true,
+    "awards": ["4 Oscars", "BAFTA du meilleur film", "Hugo Award"],
+    "actors": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Orlando Bloom"
+    ],
+    "budget": 93000000,
+    "box_office": 888159092
+  },
+  {
+    "title": "Le Roi Lion",
+    "subtitle": "",
+    "directors": ["Roger Allers", "Rob Minkoff"],
+    "writers": ["Irene Mecchi", "Jonathan Roberts", "Linda Woolverton"],
+    "producers": ["Don Hahn"],
+    "studios": ["Walt Disney Pictures", "Walt Disney Feature Animation"],
+    "release_date": "1994-06-24",
+    "ISBN_EAN_UPC": "8717418584184",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 88,
+    "category": "Animation, Aventure, Drame",
+    "summary": "Au cœur des terres sauvages d'Afrique, tous les animaux de la savane célèbrent la naissance de Simba, leur futur roi. Mais Scar, le frère du roi Mufasa, avide de pouvoir, a ses propres plans. La bataille pour la Terre des Lions va être ravagée par la trahison, la tragédie et le drame.",
+    "keywords": ["savane", "lion", "famille", "héritage", "responsabilité"],
+    "targeted_audience": "Enfants",
+    "original_language": "Anglais",
+    "series": true,
+    "awards": [
+      "2 Oscars",
+      "Golden Globe de la meilleure comédie ou comédie musicale",
+      "3 Grammy Awards"
+    ],
+    "actors": [
+      "Matthew Broderick",
+      "James Earl Jones",
+      "Jeremy Irons",
+      "Moira Kelly",
+      "Nathan Lane"
+    ],
+    "budget": 45000000,
+    "box_office": 968483777
+  },
+  {
+    "title": "Titanic",
+    "subtitle": "",
+    "directors": ["James Cameron"],
+    "writers": ["James Cameron"],
+    "producers": ["James Cameron", "Jon Landau"],
+    "studios": [
+      "Paramount Pictures",
+      "20th Century Fox",
+      "Lightstorm Entertainment"
+    ],
+    "release_date": "1997-12-19",
+    "ISBN_EAN_UPC": "097361386423",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 195,
+    "category": "Drame, Romance, Histoire",
+    "summary": "Rose DeWitt Bukater, une passagère de première classe, et Jack Dawson, un artiste itinérant, tombent amoureux à bord du Titanic lors de son voyage inaugural en 1912. Leur histoire d'amour se déroule contre le destin tragique du paquebot.",
+    "keywords": [
+      "naufrage",
+      "amour interdit",
+      "classes sociales",
+      "destin",
+      "océan"
+    ],
+    "targeted_audience": "Tous publics",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": ["11 Oscars", "4 Golden Globes", "2 BAFTA Awards"],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane",
+      "Kathy Bates",
+      "Frances Fisher"
+    ],
+    "budget": 200000000,
+    "box_office": 2201647264
+  },
+  {
+    "title": "Spirited Away",
+    "subtitle": "Le Voyage de Chihiro",
+    "directors": ["Hayao Miyazaki"],
+    "writers": ["Hayao Miyazaki"],
+    "producers": ["Toshio Suzuki"],
+    "studios": ["Studio Ghibli"],
+    "release_date": "2001-07-20",
+    "ISBN_EAN_UPC": "8717418546823",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 125,
+    "category": "Animation, Aventure, Fantastique",
+    "summary": "Chihiro, une fillette de 10 ans, est en route vers sa nouvelle demeure en compagnie de ses parents. Au cours du voyage, la famille fait une halte dans un parc à thème apparemment abandonné. Lors de la visite, les parents de Chihiro se transforment mystérieusement en cochons. Prise au piège dans ce monde étrange, Chihiro va devoir faire preuve de courage pour libérer ses parents et retourner dans le monde des humains.",
+    "keywords": [
+      "esprit",
+      "transformation",
+      "courage",
+      "monde parallèle",
+      "identité"
+    ],
+    "targeted_audience": "Tous publics",
+    "original_language": "Japonais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film d'animation",
+      "Ours d'or de Berlin",
+      "Prix du film japonais"
+    ],
+    "actors": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Yumi Tamai",
+      "Bunta Sugawara"
+    ],
+    "budget": 19000000,
+    "box_office": 355467076
+  },
+  {
+    "title": "Joker",
+    "subtitle": "",
+    "directors": ["Todd Phillips"],
+    "writers": ["Todd Phillips", "Scott Silver"],
+    "producers": ["Todd Phillips", "Bradley Cooper", "Emma Tillinger Koskoff"],
+    "studios": ["Warner Bros.", "DC Films", "Village Roadshow Pictures"],
+    "release_date": "2019-10-04",
+    "ISBN_EAN_UPC": "883929668052",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 122,
+    "category": "Crime, Drame, Thriller",
+    "summary": "À Gotham City, Arthur Fleck, un comédien de stand-up raté, bascule dans la folie et devient le Joker, un dangereux tueur psychotique qui provoque un mouvement anarchiste contre les riches et les puissants de la ville.",
+    "keywords": ["folie", "société", "violence", "identité", "anarchie"],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": ["Lion d'or à Venise", "2 Oscars", "2 BAFTA Awards"],
+    "actors": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz",
+      "Frances Conroy",
+      "Brett Cullen"
+    ],
+    "budget": 55000000,
+    "box_office": 1074251311
+  },
+  {
+    "title": "Matrix",
+    "subtitle": "",
+    "directors": ["Lana Wachowski", "Lilly Wachowski"],
+    "writers": ["Lana Wachowski", "Lilly Wachowski"],
+    "producers": ["Joel Silver"],
+    "studios": [
+      "Warner Bros.",
+      "Village Roadshow Pictures",
+      "Groucho II Film Partnership"
+    ],
+    "release_date": "1999-03-31",
+    "ISBN_EAN_UPC": "883929059508",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 136,
+    "category": "Science-Fiction, Action",
+    "summary": "Un pirate informatique découvre que le monde dans lequel il vit est une simulation générée par des machines qui utilisent les humains comme source d'énergie. Il rejoint un groupe de rebelles pour lutter contre ces machines et libérer l'humanité.",
+    "keywords": [
+      "réalité virtuelle",
+      "intelligence artificielle",
+      "dystopie",
+      "philosophie",
+      "combat"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": true,
+    "awards": [
+      "4 Oscars",
+      "2 BAFTA",
+      "Saturn Award du meilleur film de science-fiction"
+    ],
+    "actors": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving",
+      "Joe Pantoliano"
+    ],
+    "budget": 63000000,
+    "box_office": 463517383
+  },
+  {
+    "title": "Forrest Gump",
+    "subtitle": "",
+    "directors": ["Robert Zemeckis"],
+    "writers": ["Eric Roth", "Winston Groom"],
+    "producers": ["Wendy Finerman", "Steve Tisch", "Steve Starkey"],
+    "studios": ["Paramount Pictures"],
+    "release_date": "1994-07-06",
+    "ISBN_EAN_UPC": "097361564043",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 142,
+    "category": "Drame, Romance, Comédie",
+    "summary": "Forrest Gump, un homme avec un QI inférieur à la moyenne, raconte l'histoire de sa vie extraordinaire. Sans s'en rendre compte, il a participé à plusieurs événements historiques majeurs des États-Unis entre les années 1950 et 1980.",
+    "keywords": [
+      "histoire américaine",
+      "destin",
+      "simplicité",
+      "amour",
+      "persévérance"
+    ],
+    "targeted_audience": "Tous publics",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": ["6 Oscars", "3 Golden Globes", "BAFTA du meilleur acteur"],
+    "actors": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Mykelti Williamson",
+      "Sally Field"
+    ],
+    "budget": 55000000,
+    "box_office": 677945399
+  },
+  {
+    "title": "Your Name",
+    "subtitle": "Kimi no Na wa",
+    "directors": ["Makoto Shinkai"],
+    "writers": ["Makoto Shinkai"],
+    "producers": ["Noritaka Kawaguchi", "Genki Kawamura"],
+    "studios": ["CoMix Wave Films", "Toho"],
+    "release_date": "2016-08-26",
+    "ISBN_EAN_UPC": "5060236633170",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 106,
+    "category": "Animation, Drame, Fantastique",
+    "summary": "Mitsuha, une lycéenne vivant dans une petite ville de montagne, et Taki, un lycéen de Tokyo, se découvrent un jour liés par un phénomène étrange : ils échangent leurs corps pendant leur sommeil. Ils tentent de comprendre ce qui leur arrive tout en cherchant à se rencontrer.",
+    "keywords": ["échange de corps", "destin", "temps", "météorite", "amour"],
+    "targeted_audience": "Adolescents, Adultes",
+    "original_language": "Japonais",
+    "series": false,
+    "awards": [
+      "Japan Academy Prize du film d'animation de l'année",
+      "Los Angeles Film Critics Association Award",
+      "Prix Mainichi du meilleur film d'animation"
+    ],
+    "actors": [
+      "Ryunosuke Kamiki",
+      "Mone Kamishiraishi",
+      "Ryo Narita",
+      "Aoi Yuki",
+      "Nobunaga Shimazaki"
+    ],
+    "budget": 3400000,
+    "box_office": 359986087
+  },
+  {
+    "title": "Le Silence des Agneaux",
+    "subtitle": "",
+    "directors": ["Jonathan Demme"],
+    "writers": ["Ted Tally", "Thomas Harris"],
+    "producers": ["Kenneth Utt", "Edward Saxon", "Ron Bozman"],
+    "studios": ["Orion Pictures", "Strong Heart/Demme Production"],
+    "release_date": "1991-02-14",
+    "ISBN_EAN_UPC": "027616918147",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 118,
+    "category": "Crime, Drame, Thriller",
+    "summary": "Une jeune agent du FBI cherche l'aide d'un brillant psychiatre emprisonné, le Dr Hannibal Lecter, un cannibale psychopathe, pour arrêter un autre tueur en série qui écorche ses victimes féminines.",
+    "keywords": [
+      "tueur en série",
+      "cannibalisme",
+      "psychologie",
+      "enquête",
+      "thriller"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": true,
+    "awards": [
+      "5 Oscars",
+      "BAFTA du meilleur acteur",
+      "BAFTA de la meilleure actrice"
+    ],
+    "actors": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn",
+      "Ted Levine",
+      "Anthony Heald"
+    ],
+    "budget": 19000000,
+    "box_office": 272742922
+  },
+  {
+    "title": "Interstellar",
+    "subtitle": null,
+    "directors": ["Christopher Nolan"],
+    "writers": ["Jonathan Nolan", "Christopher Nolan"],
+    "producers": ["Emma Thomas", "Christopher Nolan", "Lynda Obst"],
+    "studios": [
+      "Paramount Pictures",
+      "Warner Bros.",
+      "Legendary Pictures",
+      "Syncopy"
+    ],
+    "release_date": "2014-11-07",
+    "ISBN": null,
+    "format": ["Cinéma", "Blu-ray", "Streaming"],
+    "duration": 169,
+    "category": ["Science-Fiction", "Drame", "Aventure"],
+    "summary": "Dans un futur proche où la Terre devient inhabitable, un groupe d'explorateurs utilise un trou de ver pour chercher une nouvelle planète habitable pour l'humanité. Le voyage les emmène au-delà de notre galaxie dans un périple où le temps et l'espace prennent une nouvelle dimension.",
+    "keywords": [
+      "espace",
+      "relativité",
+      "voyage interstellaire",
+      "trou noir",
+      "survie",
+      "amour paternel"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar des meilleurs effets visuels",
+      "BAFTA des meilleurs effets visuels"
+    ],
+    "actors": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ],
+    "budget": 165000000,
+    "box_office": 701800000
+  },
+  {
+    "title": "Grand Budapest Hotel",
+    "subtitle": null,
+    "directors": ["Wes Anderson"],
+    "writers": ["Wes Anderson", "Hugo Guinness"],
+    "producers": [
+      "Wes Anderson",
+      "Scott Rudin",
+      "Steven Rales",
+      "Jeremy Dawson"
+    ],
+    "studios": [
+      "Fox Searchlight Pictures",
+      "Indian Paintbrush",
+      "Studio Babelsberg"
+    ],
+    "release_date": "2014-03-28",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 99,
+    "category": ["Comédie", "Aventure", "Drame"],
+    "summary": "Les aventures de Gustave H, concierge légendaire d'un célèbre hôtel européen de l'entre-deux-guerres, et de Zero Moustafa, le garçon d'étage qui devient son protégé. L'histoire se déroule autour du vol d'un tableau Renaissance inestimable et la bataille pour une énorme fortune familiale.",
+    "keywords": [
+      "hôtel",
+      "concierge",
+      "Europe",
+      "entre-deux-guerres",
+      "esthétique",
+      "amitié"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Golden Globe du meilleur film musical ou comédie",
+      "4 Oscars (Meilleurs décors, Meilleurs costumes, Meilleur maquillage, Meilleure musique)"
+    ],
+    "actors": [
+      "Ralph Fiennes",
+      "Tony Revolori",
+      "Adrien Brody",
+      "Willem Dafoe",
+      "Saoirse Ronan"
+    ],
+    "budget": 25000000,
+    "box_office": 173000000
+  },
+  {
+    "title": "Les Misérables",
+    "subtitle": null,
+    "directors": ["Tom Hooper"],
+    "writers": [
+      "William Nicholson",
+      "Alain Boublil",
+      "Claude-Michel Schönberg",
+      "Herbert Kretzmer"
+    ],
+    "producers": [
+      "Tim Bevan",
+      "Eric Fellner",
+      "Debra Hayward",
+      "Cameron Mackintosh"
+    ],
+    "studios": [
+      "Universal Pictures",
+      "Working Title Films",
+      "Relativity Media"
+    ],
+    "release_date": "2013-01-16",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 158,
+    "category": ["Drame", "Musical", "Historique"],
+    "summary": "Adaptation de la comédie musicale basée sur le roman de Victor Hugo. Dans la France du 19ème siècle, Jean Valjean, ancien bagnard, est poursuivi pendant des décennies par l'impitoyable policier Javert après avoir rompu sa liberté conditionnelle. Lorsque Valjean accepte de s'occuper de Cosette, la jeune fille de Fantine, leurs vies changent à jamais.",
+    "keywords": [
+      "révolution",
+      "France",
+      "19ème siècle",
+      "rédemption",
+      "justice",
+      "musical"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "3 Oscars (Meilleur son, Meilleur maquillage, Meilleure actrice dans un second rôle pour Anne Hathaway)",
+      "Golden Globe du meilleur film musical ou comédie"
+    ],
+    "actors": [
+      "Hugh Jackman",
+      "Russell Crowe",
+      "Anne Hathaway",
+      "Amanda Seyfried",
+      "Eddie Redmayne"
+    ],
+    "budget": 61000000,
+    "box_office": 442000000
+  },
+  {
+    "title": "Whiplash",
+    "subtitle": null,
+    "directors": ["Damien Chazelle"],
+    "writers": ["Damien Chazelle"],
+    "producers": ["Jason Blum", "Helen Estabrook", "David Lancaster"],
+    "studios": [
+      "Sony Pictures Classics",
+      "Blumhouse Productions",
+      "Bold Films"
+    ],
+    "release_date": "2014-12-24",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 106,
+    "category": ["Drame", "Musical"],
+    "summary": "Un jeune batteur de jazz prometteur intègre un conservatoire d'élite où il est mentored par un professeur de musique aussi respecté que tyrannique, qui va pousser son élève au-delà de ses limites.",
+    "keywords": [
+      "jazz",
+      "musique",
+      "perfectionnisme",
+      "mentor",
+      "ambition",
+      "sacrifice"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "3 Oscars (Meilleur montage, Meilleur mixage sonore, Meilleur acteur dans un second rôle pour J.K. Simmons)"
+    ],
+    "actors": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "budget": 3300000,
+    "box_office": 49000000
+  },
+  {
+    "title": "The Revenant",
+    "subtitle": "Le Revenant",
+    "directors": ["Alejandro González Iñárritu"],
+    "writers": ["Mark L. Smith", "Alejandro González Iñárritu"],
+    "producers": [
+      "Arnon Milchan",
+      "Steve Golin",
+      "Alejandro González Iñárritu",
+      "Mary Parent",
+      "Keith Redmon"
+    ],
+    "studios": ["20th Century Fox", "Regency Enterprises", "Anonymous Content"],
+    "release_date": "2016-01-06",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 156,
+    "category": ["Western", "Aventure", "Drame", "Survival"],
+    "summary": "Dans les années 1820, un trappeur est attaqué par un ours et laissé pour mort par les membres de son équipe. Il survit et entreprend un voyage de plus de 300 kilomètres dans un hiver brutal, motivé par sa volonté de vengeance et de survie.",
+    "keywords": [
+      "survie",
+      "vengeance",
+      "nature sauvage",
+      "Amérique",
+      "19ème siècle",
+      "résilience"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur réalisateur",
+      "Oscar du meilleur acteur pour Leonardo DiCaprio",
+      "Oscar de la meilleure photographie",
+      "Golden Globe du meilleur film dramatique"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Tom Hardy",
+      "Domhnall Gleeson",
+      "Will Poulter"
+    ],
+    "budget": 135000000,
+    "box_office": 533000000
+  },
+  {
+    "title": "Arrival",
+    "subtitle": "Premier Contact",
+    "directors": ["Denis Villeneuve"],
+    "writers": ["Eric Heisserer"],
+    "producers": ["Shawn Levy", "Dan Levine", "Aaron Ryder", "David Linde"],
+    "studios": [
+      "Paramount Pictures",
+      "FilmNation Entertainment",
+      "Lava Bear Films"
+    ],
+    "release_date": "2016-11-11",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 116,
+    "category": ["Science-Fiction", "Drame", "Mystère"],
+    "summary": "Lorsque de mystérieux vaisseaux extraterrestres atterrissent partout dans le monde, une linguiste est recrutée par l'armée américaine pour déterminer si les aliens viennent en paix ou représentent une menace. Alors qu'elle apprend à communiquer avec eux, elle commence à faire l'expérience de flashs temporels qui pourraient être la clé de la véritable raison de leur visite.",
+    "keywords": [
+      "linguistique",
+      "extraterrestres",
+      "communication",
+      "perception du temps",
+      "premier contact"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": ["Oscar du meilleur montage sonore", "BAFTA du meilleur son"],
+    "actors": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker",
+      "Michael Stuhlbarg"
+    ],
+    "budget": 47000000,
+    "box_office": 203400000
+  },
+  {
+    "title": "La forme de l'eau",
+    "subtitle": "The Shape of Water",
+    "directors": ["Guillermo del Toro"],
+    "writers": ["Guillermo del Toro", "Vanessa Taylor"],
+    "producers": ["Guillermo del Toro", "J. Miles Dale"],
+    "studios": ["Fox Searchlight Pictures", "TSG Entertainment"],
+    "release_date": "2018-02-14",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 123,
+    "category": ["Fantastique", "Drame", "Romance"],
+    "summary": "Dans un laboratoire gouvernemental secret pendant la Guerre Froide, une femme de ménage muette se lie d'amitié puis d'amour avec une créature amphibienne captive qui est étudiée par le gouvernement. Elle décide de l'aider à s'échapper avant qu'il ne soit disséqué.",
+    "keywords": [
+      "amour interespèces",
+      "monstre",
+      "guerre froide",
+      "handicap",
+      "tolérance",
+      "conte de fées"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film",
+      "Oscar du meilleur réalisateur",
+      "Oscar de la meilleure musique",
+      "Oscar des meilleurs décors",
+      "Golden Lion à la Mostra de Venise"
+    ],
+    "actors": [
+      "Sally Hawkins",
+      "Michael Shannon",
+      "Richard Jenkins",
+      "Octavia Spencer",
+      "Doug Jones"
+    ],
+    "budget": 19400000,
+    "box_office": 195300000
+  },
+  {
+    "title": "Moonlight",
+    "subtitle": null,
+    "directors": ["Barry Jenkins"],
+    "writers": ["Barry Jenkins", "Tarell Alvin McCraney"],
+    "producers": ["Adele Romanski", "Dede Gardner", "Jeremy Kleiner"],
+    "studios": ["A24", "Plan B Entertainment", "Pastel Productions"],
+    "release_date": "2017-02-01",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 111,
+    "category": ["Drame", "Initiatique"],
+    "summary": "L'histoire de Chiron, un jeune homme noir qui grandit dans un quartier défavorisé de Miami. Le film explore les difficultés qu'il rencontre avec sa sexualité et son identité à trois périodes différentes de sa vie, alors qu'il lutte contre les abus physiques et émotionnels.",
+    "keywords": [
+      "identité",
+      "homosexualité",
+      "quartier défavorisé",
+      "drogue",
+      "masculinité",
+      "afro-américain"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film",
+      "Oscar du meilleur scénario adapté",
+      "Oscar du meilleur acteur dans un second rôle",
+      "Golden Globe du meilleur film dramatique"
+    ],
+    "actors": [
+      "Trevante Rhodes",
+      "Ashton Sanders",
+      "Alex R. Hibbert",
+      "Mahershala Ali",
+      "Naomie Harris",
+      "Janelle Monáe"
+    ],
+    "budget": 4000000,
+    "box_office": 65300000
+  },
+  {
+    "title": "Blade Runner 2049",
+    "subtitle": null,
+    "directors": ["Denis Villeneuve"],
+    "writers": ["Hampton Fancher", "Michael Green"],
+    "producers": [
+      "Andrew A. Kosove",
+      "Broderick Johnson",
+      "Ridley Scott",
+      "Cynthia Sikes"
+    ],
+    "studios": ["Warner Bros.", "Columbia Pictures", "Alcon Entertainment"],
+    "release_date": "2017-10-04",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 163,
+    "category": ["Science-Fiction", "Thriller", "Drame"],
+    "summary": "Trente ans après les événements du premier film, un nouveau blade runner, l'Officier K, découvre un secret enfoui depuis longtemps qui pourrait plonger la société dans le chaos. Sa découverte le mène à la recherche de Rick Deckard, un ancien blade runner qui a disparu depuis 30 ans.",
+    "keywords": [
+      "dystopie",
+      "réplicants",
+      "mémoire",
+      "identité",
+      "futur sombre",
+      "intelligence artificielle"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": true,
+    "awards": [
+      "Oscar des meilleurs effets visuels",
+      "Oscar de la meilleure photographie",
+      "BAFTA des meilleurs effets visuels"
+    ],
+    "actors": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas",
+      "Sylvia Hoeks",
+      "Robin Wright",
+      "Jared Leto"
+    ],
+    "budget": 150000000,
+    "box_office": 259300000
+  },
+  {
+    "title": "Coco",
+    "subtitle": null,
+    "directors": ["Lee Unkrich", "Adrian Molina"],
+    "writers": ["Adrian Molina", "Matthew Aldrich"],
+    "producers": ["Darla K. Anderson"],
+    "studios": ["Pixar Animation Studios", "Walt Disney Pictures"],
+    "release_date": "2017-11-29",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 105,
+    "category": ["Animation", "Aventure", "Comédie", "Fantastique", "Musical"],
+    "summary": "Malgré l'interdiction de la musique dans sa famille depuis plusieurs générations, Miguel rêve de devenir musicien comme son idole Ernesto de la Cruz. Désespéré de prouver son talent, il se retrouve mystérieusement transporté dans le Pays des Morts. Il y rencontre l'escroc Hector et ensemble, ils partent à la découverte du véritable héritage familial de Miguel.",
+    "keywords": [
+      "jour des morts",
+      "musique",
+      "famille",
+      "Mexique",
+      "tradition",
+      "souvenir"
+    ],
+    "targeted_audience": "Enfants",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film d'animation",
+      "Oscar de la meilleure chanson originale",
+      "Golden Globe du meilleur film d'animation"
+    ],
+    "actors": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt",
+      "Alanna Ubach",
+      "Renée Victor"
+    ],
+    "budget": 175000000,
+    "box_office": 807800000
+  },
+  {
+    "title": "Green Book",
+    "subtitle": "Sur les routes du sud",
+    "directors": ["Peter Farrelly"],
+    "writers": ["Nick Vallelonga", "Brian Hayes Currie", "Peter Farrelly"],
+    "producers": [
+      "Jim Burke",
+      "Charles B. Wessler",
+      "Brian Hayes Currie",
+      "Peter Farrelly",
+      "Nick Vallelonga"
+    ],
+    "studios": [
+      "Universal Pictures",
+      "Participant Media",
+      "DreamWorks Pictures"
+    ],
+    "release_date": "2019-01-23",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 130,
+    "category": ["Biographie", "Comédie dramatique", "Historique"],
+    "summary": "Dans l'Amérique ségrégationniste des années 1960, un videur italo-américain du Bronx est engagé pour conduire et protéger le Dr Don Shirley, un pianiste noir de renommée mondiale, lors d'une tournée de concerts à travers le Sud profond. Ils doivent se fier au Green Book pour trouver les établissements accueillant les personnes de couleur.",
+    "keywords": [
+      "racisme",
+      "amitié",
+      "musique",
+      "ségrégation",
+      "années 60",
+      "États-Unis"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film",
+      "Oscar du meilleur scénario original",
+      "Oscar du meilleur acteur dans un second rôle pour Mahershala Ali",
+      "Golden Globe du meilleur film musical ou comédie"
+    ],
+    "actors": ["Viggo Mortensen", "Mahershala Ali", "Linda Cardellini"],
+    "budget": 23000000,
+    "box_office": 328000000
+  },
+  {
+    "title": "1917",
+    "subtitle": null,
+    "directors": ["Sam Mendes"],
+    "writers": ["Sam Mendes", "Krysty Wilson-Cairns"],
+    "producers": [
+      "Sam Mendes",
+      "Pippa Harris",
+      "Jayne-Ann Tenggren",
+      "Callum McDougall",
+      "Brian Oliver"
+    ],
+    "studios": [
+      "Universal Pictures",
+      "DreamWorks Pictures",
+      "Reliance Entertainment"
+    ],
+    "release_date": "2020-01-15",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 119,
+    "category": ["Guerre", "Drame", "Historique", "Action"],
+    "summary": "Pendant la Première Guerre mondiale, deux jeunes soldats britanniques reçoivent une mission apparemment impossible : traverser le territoire ennemi en un jour pour délivrer un message qui pourrait sauver 1600 de leurs camarades.",
+    "keywords": [
+      "première guerre mondiale",
+      "mission",
+      "plan-séquence",
+      "no man's land",
+      "fraternité",
+      "survie"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "3 Oscars (Meilleure photographie, Meilleurs effets visuels, Meilleur mixage sonore)",
+      "BAFTA du meilleur film britannique",
+      "Golden Globe du meilleur réalisateur"
+    ],
+    "actors": [
+      "George MacKay",
+      "Dean-Charles Chapman",
+      "Mark Strong",
+      "Andrew Scott",
+      "Richard Madden",
+      "Colin Firth",
+      "Benedict Cumberbatch"
+    ],
+    "budget": 95000000,
+    "box_office": 384900000
+  },
+  {
+    "title": "Gravity",
+    "subtitle": null,
+    "directors": ["Alfonso Cuarón"],
+    "writers": ["Alfonso Cuarón", "Jonás Cuarón"],
+    "producers": ["Alfonso Cuarón", "David Heyman"],
+    "studios": ["Warner Bros.", "Esperanto Filmoj", "Heyday Films"],
+    "release_date": "2013-10-23",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 91,
+    "category": ["Science-Fiction", "Thriller", "Drame"],
+    "summary": "Lors d'une mission spatiale de routine, une catastrophe se produit. Le vaisseau est détruit, laissant la Dr Ryan Stone et le vétéran Matt Kowalsky complètement seuls, liés l'un à l'autre et tournant dans le vide. Le silence assourdissant leur indique qu'ils ont perdu tout contact avec la Terre et toute chance d'être sauvés.",
+    "keywords": [
+      "espace",
+      "survie",
+      "isolation",
+      "catastrophe",
+      "zéro gravité",
+      "résilience"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "7 Oscars (Meilleur réalisateur, Meilleure photographie, Meilleur montage, Meilleurs effets visuels, Meilleure musique, Meilleur mixage sonore, Meilleur montage sonore)"
+    ],
+    "actors": ["Sandra Bullock", "George Clooney"],
+    "budget": 100000000,
+    "box_office": 723200000
+  },
+  {
+    "title": "Black Panther",
+    "subtitle": null,
+    "directors": ["Ryan Coogler"],
+    "writers": ["Ryan Coogler", "Joe Robert Cole"],
+    "producers": ["Kevin Feige"],
+    "studios": ["Marvel Studios", "Walt Disney Pictures"],
+    "release_date": "2018-02-14",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 134,
+    "category": ["Action", "Aventure", "Science-Fiction", "Super-héros"],
+    "summary": "Après les événements de Captain America: Civil War, le roi T'Challa retourne chez lui dans la nation africaine isolée et technologiquement avancée du Wakanda pour servir son pays en tant que nouveau roi. Cependant, le pouvoir de T'Challa est bientôt défié par des factions au sein de son propre pays. Quand deux ennemis conspirent pour détruire le Wakanda, le héros connu sous le nom de Black Panther doit s'allier à l'agent de la CIA Everett K. Ross et aux membres des forces spéciales du Wakanda pour empêcher le pays d'être entraîné dans un conflit mondial.",
+    "keywords": [
+      "super-héros",
+      "Afrique",
+      "technologie",
+      "tradition",
+      "héritage",
+      "Marvel"
+    ],
+    "targeted_audience": "Adolescent",
+    "original_language": "Anglais",
+    "series": true,
+    "awards": [
+      "3 Oscars (Meilleure musique, Meilleurs costumes, Meilleurs décors)",
+      "Grammy Award de la meilleure bande originale"
+    ],
+    "actors": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o",
+      "Danai Gurira",
+      "Martin Freeman",
+      "Daniel Kaluuya",
+      "Letitia Wright",
+      "Angela Bassett"
+    ],
+    "budget": 200000000,
+    "box_office": 1347000000
+  },
+  {
+    "title": "Little Women",
+    "subtitle": "Les Filles du Docteur March",
+    "directors": ["Greta Gerwig"],
+    "writers": ["Greta Gerwig"],
+    "producers": ["Amy Pascal", "Denise Di Novi", "Robin Swicord"],
+    "studios": ["Columbia Pictures", "Regency Enterprises", "Pascal Pictures"],
+    "release_date": "2020-01-01",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 135,
+    "category": ["Drame", "Romance", "Historique"],
+    "summary": "Dans le Massachusetts des années 1860, les quatre sœurs March traversent l'adolescence et affrontent les défis de la vie adulte. Jo March, la rebelle et aspirante écrivaine, raconte sa vie et celle de ses sœurs après la Guerre de Sécession, tout en recherchant sa voie dans un monde où les femmes sont censées se marier plutôt que poursuivre des rêves personnels.",
+    "keywords": [
+      "sororité",
+      "émancipation féminine",
+      "littérature",
+      "guerre civile américaine",
+      "famille",
+      "ambition"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar des meilleurs costumes",
+      "BAFTA de la meilleure adaptation"
+    ],
+    "actors": [
+      "Saoirse Ronan",
+      "Emma Watson",
+      "Florence Pugh",
+      "Eliza Scanlen",
+      "Laura Dern",
+      "Timothée Chalamet",
+      "Meryl Streep"
+    ],
+    "budget": 40000000,
+    "box_office": 216600000
+  },
+  {
+    "title": "La nuit du 12",
+    "subtitle": null,
+    "directors": ["Dominik Moll"],
+    "writers": ["Dominik Moll", "Gilles Marchand"],
+    "producers": [
+      "Caroline Benjo",
+      "Carole Scotta",
+      "Barbara Letellier",
+      "Simon Arnal"
+    ],
+    "studios": ["Haut et Court", "Versus Production", "France 2 Cinéma"],
+    "release_date": "2022-07-13",
+    "ISBN": null,
+    "format": ["Cinéma", "DVD", "Blu-ray", "Streaming"],
+    "duration": 114,
+    "category": ["Thriller", "Policier", "Drame"],
+    "summary": "À la PJ de Grenoble, le capitaine Vivès est confronté à une affaire non résolue: l'assassinat de Clara, retrouvée brûlée vive. L'enquêteur et son groupe mènent leur investigation, interrogeant méthodiquement les hommes qui ont connu la victime. Mais progressivement, l'obsession pour ce crime impuni va commencer à les hanter.",
+    "keywords": [
+      "enquête policière",
+      "féminicide",
+      "obsession",
+      "mystère",
+      "justice",
+      "France"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Français",
+    "series": false,
+    "awards": [
+      "César du meilleur film",
+      "César du meilleur réalisateur",
+      "César de la meilleure adaptation",
+      "César du meilleur acteur dans un second rôle"
+    ],
+    "actors": [
+      "Bastien Bouillon",
+      "Bouli Lanners",
+      "Théo Cholbi",
+      "Johann Dionnet",
+      "Thibaut Evrard"
+    ],
+    "budget": 5800000,
+    "box_office": 2700000
+  },
+  {
+    "title": "Soul",
+    "subtitle": null,
+    "directors": ["Pete Docter", "Kemp Powers"],
+    "writers": ["Pete Docter", "Mike Jones", "Kemp Powers"],
+    "producers": ["Dana Murray"],
+    "studios": ["Pixar Animation Studios", "Walt Disney Pictures"],
+    "release_date": "2020-12-25",
+    "ISBN": null,
+    "format": ["Streaming", "DVD", "Blu-ray"],
+    "duration": 100,
+    "category": ["Animation", "Comédie", "Drame", "Fantastique"],
+    "summary": "Joe Gardner, un professeur de musique au collège, obtient enfin la chance de jouer dans le meilleur club de jazz de la ville. Mais un faux pas l'envoie des rues de New York à un endroit fantastique où les nouvelles âmes acquièrent leur personnalité avant d'aller sur Terre. Déterminé à retrouver sa vie, Joe fait équipe avec une âme nommée 22 qui ne comprend pas l'attrait de l'expérience humaine.",
+    "keywords": [
+      "jazz",
+      "âme",
+      "sens de la vie",
+      "passion",
+      "au-delà",
+      "New York"
+    ],
+    "targeted_audience": "Famille",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film d'animation",
+      "Oscar de la meilleure musique originale",
+      "Golden Globe du meilleur film d'animation"
+    ],
+    "actors": [
+      "Jamie Foxx",
+      "Tina Fey",
+      "Graham Norton",
+      "Rachel House",
+      "Alice Braga",
+      "Richard Ayoade",
+      "Phylicia Rashad",
+      "Angela Bassett"
+    ],
+    "budget": 150000000,
+    "box_office": 121000000
+  },
+  {
+    "title": "Les Évadés",
+    "subtitle": null,
+    "directors": ["Frank Darabont"],
+    "writers": ["Frank Darabont", "Stephen King"],
+    "producers": ["Niki Marvin"],
+    "studios": ["Castle Rock Entertainment"],
+    "release_date": "1994-09-23",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 142,
+    "category": "Drame",
+    "summary": "Andy Dufresne, un banquier accusé à tort du meurtre de sa femme et de son amant, est condamné à perpétuité et incarcéré à Shawshank. Au fil des années, il se lie d'amitié avec Red, un détenu de longue date, et trouve des moyens de résister à la brutalité carcérale.",
+    "keywords": ["prison", "espoir", "amitié", "rédemption", "évasion"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["7 nominations aux Oscars", "Golden Globe du meilleur scénario"],
+    "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton", "William Sadler"],
+    "budget": 25000000,
+    "box_office": 58300000
+  },
+  {
+    "title": "Le Pianiste",
+    "subtitle": null,
+    "directors": ["Roman Polanski"],
+    "writers": ["Ronald Harwood", "Władysław Szpilman"],
+    "producers": ["Roman Polanski", "Robert Benmussa", "Alain Sarde"],
+    "studios": ["R.P. Productions", "Canal+", "Studio Babelsberg"],
+    "release_date": "2002-05-24",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 150,
+    "category": "Drame historique",
+    "summary": "Władysław Szpilman, un pianiste juif polonais, lutte pour survivre dans le ghetto de Varsovie pendant l'occupation nazie. Après avoir échappé à la déportation, il se cache dans les ruines de la ville et trouve une aide inattendue.",
+    "keywords": [
+      "Seconde Guerre mondiale",
+      "Holocauste",
+      "survie",
+      "musique",
+      "Varsovie"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Palme d'Or Festival de Cannes",
+      "Oscar du meilleur réalisateur",
+      "Oscar du meilleur acteur",
+      "Oscar du meilleur scénario adapté"
+    ],
+    "actors": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay",
+      "Emilia Fox"
+    ],
+    "budget": 35000000,
+    "box_office": 120072577
+  },
+  {
+    "title": "Gladiator",
+    "subtitle": null,
+    "directors": ["Ridley Scott"],
+    "writers": ["David Franzoni", "John Logan", "William Nicholson"],
+    "producers": ["Douglas Wick", "David Franzoni", "Branko Lustig"],
+    "studios": [
+      "DreamWorks Pictures",
+      "Universal Pictures",
+      "Scott Free Productions"
+    ],
+    "release_date": "2000-05-05",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 155,
+    "category": "Action historique",
+    "summary": "Maximus, général romain respecté, est trahi par le fils de l'empereur mourant qui le condamne à l'esclavage. Devenu gladiateur, il utilise sa nouvelle position pour se venger de celui qui a détruit sa vie et assassiné sa famille.",
+    "keywords": ["Rome antique", "vengeance", "combat", "honneur", "liberté"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film",
+      "Oscar du meilleur acteur",
+      "Oscar des meilleurs costumes",
+      "Oscar des meilleurs effets visuels",
+      "Oscar du meilleur son"
+    ],
+    "actors": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Oliver Reed"
+    ],
+    "budget": 103000000,
+    "box_office": 460500000
+  },
+  {
+    "title": "Mulholland Drive",
+    "subtitle": null,
+    "directors": ["David Lynch"],
+    "writers": ["David Lynch"],
+    "producers": ["Mary Sweeney", "Alain Sarde", "Neal Edelstein"],
+    "studios": ["Les Films Alain Sarde", "Asymmetrical Productions", "Canal+"],
+    "release_date": "2001-05-16",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 147,
+    "category": "Thriller psychologique",
+    "summary": "Betty, une jeune actrice fraîchement débarquée à Los Angeles, rencontre Rita, une femme amnésique rescapée d'un accident de voiture. Ensemble, elles tentent de découvrir l'identité de Rita, s'enfonçant dans un labyrinthe onirique entre rêve et réalité.",
+    "keywords": ["Hollywood", "identité", "rêve", "mystère", "dualité"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Prix de la mise en scène au Festival de Cannes",
+      "César du meilleur film étranger"
+    ],
+    "actors": ["Naomi Watts", "Laura Harring", "Justin Theroux", "Ann Miller"],
+    "budget": 15000000,
+    "box_office": 20100000
+  },
+  {
+    "title": "Oldboy",
+    "subtitle": null,
+    "directors": ["Park Chan-wook"],
+    "writers": ["Hwang Jo-yun", "Lim Joon-hyung", "Park Chan-wook"],
+    "producers": ["Lim Seung-yong"],
+    "studios": ["Egg Films", "Show East"],
+    "release_date": "2003-11-21",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 120,
+    "category": "Thriller",
+    "summary": "Oh Dae-su est enlevé et emprisonné dans une cellule pendant 15 ans sans savoir pourquoi. À sa libération soudaine, il cherche à comprendre les raisons de sa captivité et à se venger, mais découvre un complot bien plus complexe qu'il ne l'imaginait.",
+    "keywords": [
+      "vengeance",
+      "captivité",
+      "révélation",
+      "manipulation",
+      "violence"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "coréen",
+    "series": false,
+    "awards": ["Grand Prix du Jury au Festival de Cannes"],
+    "actors": ["Choi Min-sik", "Yoo Ji-tae", "Kang Hye-jung", "Ji Dae-han"],
+    "budget": 3000000,
+    "box_office": 15000000
+  },
+  {
+    "title": "Le Labyrinthe de Pan",
+    "subtitle": "El laberinto del fauno",
+    "directors": ["Guillermo del Toro"],
+    "writers": ["Guillermo del Toro"],
+    "producers": [
+      "Guillermo del Toro",
+      "Bertha Navarro",
+      "Alfonso Cuarón",
+      "Frida Torresblanco"
+    ],
+    "studios": ["Estudios Picasso", "Tequila Gang", "Esperanto Filmoj"],
+    "release_date": "2006-05-27",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 118,
+    "category": "Fantasy, Drame",
+    "summary": "En 1944, après la guerre civile espagnole, la jeune Ofelia s'installe avec sa mère enceinte chez son nouveau beau-père, un capitaine brutal de l'armée franquiste. Elle découvre un mystérieux labyrinthe où elle rencontre un faune qui lui révèle qu'elle est une princesse d'un royaume magique.",
+    "keywords": [
+      "guerre civile espagnole",
+      "fantasy",
+      "résistance",
+      "innocence",
+      "cruauté"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "espagnol",
+    "series": false,
+    "awards": [
+      "3 Oscars (meilleure direction artistique, meilleure photographie, meilleur maquillage)",
+      "9 prix Goya"
+    ],
+    "actors": ["Ivana Baquero", "Sergi López", "Maribel Verdú", "Doug Jones"],
+    "budget": 19000000,
+    "box_office": 83850000
+  },
+  {
+    "title": "Requiem for a Dream",
+    "subtitle": null,
+    "directors": ["Darren Aronofsky"],
+    "writers": ["Hubert Selby Jr.", "Darren Aronofsky"],
+    "producers": ["Eric Watson", "Palmer West"],
+    "studios": ["Artisan Entertainment", "Thousand Words", "Protozoa Pictures"],
+    "release_date": "2000-05-18",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 102,
+    "category": "Drame psychologique",
+    "summary": "Quatre personnes à Brooklyn sont consumées par leurs addictions respectives. Harry et son ami Tyrone rêvent de devenir dealers, Marion veut ouvrir une boutique de mode, et Sara, la mère de Harry, veut passer à la télévision et suit un régime drastique.",
+    "keywords": [
+      "addiction",
+      "drogue",
+      "obsession",
+      "déchéance",
+      "rêve américain"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Nomination Oscar de la meilleure actrice pour Ellen Burstyn",
+      "Independent Spirit Award du meilleur réalisateur"
+    ],
+    "actors": [
+      "Ellen Burstyn",
+      "Jared Leto",
+      "Jennifer Connelly",
+      "Marlon Wayans"
+    ],
+    "budget": 4500000,
+    "box_office": 7400000
+  },
+  {
+    "title": "Princess Mononoké",
+    "subtitle": "Mononoke Hime",
+    "directors": ["Hayao Miyazaki"],
+    "writers": ["Hayao Miyazaki"],
+    "producers": ["Toshio Suzuki"],
+    "studios": ["Studio Ghibli"],
+    "release_date": "1997-07-12",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 134,
+    "category": "Animation, Fantasy",
+    "summary": "Dans le Japon médiéval, un jeune guerrier frappé par une malédiction part à la recherche d'un remède. Il se retrouve pris dans un conflit entre les dieux de la forêt et une colonie minière qui exploite les ressources naturelles, et rencontre San, une jeune fille élevée par des loups.",
+    "keywords": ["écologie", "nature", "guerre", "tolérance", "spiritualité"],
+    "targeted_audience": "adulte, teenager",
+    "original_language": "japonais",
+    "series": false,
+    "awards": [
+      "Prix du meilleur film au Japan Media Arts Festival",
+      "Prix du public au Festival d'Annecy"
+    ],
+    "actors": [
+      "Yōji Matsuda",
+      "Yuriko Ishida",
+      "Yūko Tanaka",
+      "Kaoru Kobayashi"
+    ],
+    "budget": 23500000,
+    "box_office": 169800000
+  },
+  {
+    "title": "City of God",
+    "subtitle": "Cidade de Deus",
+    "directors": ["Fernando Meirelles", "Kátia Lund"],
+    "writers": ["Bráulio Mantovani", "Paulo Lins"],
+    "producers": ["Andrea Barata Ribeiro", "Mauricio Andrade Ramos"],
+    "studios": ["O2 Filmes", "VideoFilmes"],
+    "release_date": "2002-05-18",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 130,
+    "category": "Drame, Crime",
+    "summary": "Dans une favela de Rio de Janeiro, Rocket, un jeune photographe, raconte l'histoire de son quartier sur plusieurs décennies, et l'ascension du criminel Zé Petit, depuis son enfance jusqu'à son règne violent sur la Cité de Dieu.",
+    "keywords": ["favela", "violence", "gang", "pauvreté", "destin"],
+    "targeted_audience": "adulte",
+    "original_language": "portugais",
+    "series": false,
+    "awards": ["4 nominations aux Oscars", "BAFTA du meilleur montage"],
+    "actors": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino",
+      "Matheus Nachtergaele",
+      "Phellipe Haagensen"
+    ],
+    "budget": 3300000,
+    "box_office": 30600000
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "subtitle": null,
+    "directors": ["Michel Gondry"],
+    "writers": ["Charlie Kaufman", "Michel Gondry", "Pierre Bismuth"],
+    "producers": ["Anthony Bregman", "Steve Golin"],
+    "studios": ["Focus Features", "Anonymous Content"],
+    "release_date": "2004-03-19",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 108,
+    "category": "Romance, Science-fiction",
+    "summary": "Joel découvre que sa petite amie Clementine a effacé tous ses souvenirs de leur relation grâce à une nouvelle technologie. Blessé, il décide de faire de même. Mais durant le processus, il réalise qu'il ne veut pas perdre ces souvenirs et tente de les cacher dans des recoins de son esprit.",
+    "keywords": ["mémoire", "amour", "neuroscience", "relation", "identité"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur scénario original",
+      "2 nominations aux Golden Globes"
+    ],
+    "actors": ["Jim Carrey", "Kate Winslet", "Kirsten Dunst", "Mark Ruffalo"],
+    "budget": 20000000,
+    "box_office": 72258126
+  },
+  {
+    "title": "There Will Be Blood",
+    "subtitle": null,
+    "directors": ["Paul Thomas Anderson"],
+    "writers": ["Paul Thomas Anderson", "Upton Sinclair"],
+    "producers": ["Paul Thomas Anderson", "JoAnne Sellar", "Daniel Lupi"],
+    "studios": ["Paramount Vantage", "Miramax Films"],
+    "release_date": "2007-12-26",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 158,
+    "category": "Drame historique",
+    "summary": "Au début du XXe siècle, Daniel Plainview, un prospecteur d'argent devenu magnat du pétrole, s'enrichit en exploitant sans scrupules les gisements californiens. Son ascension est marquée par son conflit avec le prédicateur Eli Sunday dans une petite ville.",
+    "keywords": [
+      "pétrole",
+      "ambition",
+      "capitalisme",
+      "religion",
+      "corruption"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur acteur pour Daniel Day-Lewis",
+      "Oscar de la meilleure photographie"
+    ],
+    "actors": [
+      "Daniel Day-Lewis",
+      "Paul Dano",
+      "Ciarán Hinds",
+      "Kevin J. O'Connor"
+    ],
+    "budget": 25000000,
+    "box_office": 76200000
+  },
+  {
+    "title": "Memento",
+    "subtitle": null,
+    "directors": ["Christopher Nolan"],
+    "writers": ["Christopher Nolan", "Jonathan Nolan"],
+    "producers": ["Suzanne Todd", "Jennifer Todd"],
+    "studios": ["Newmarket Films", "Summit Entertainment"],
+    "release_date": "2000-09-05",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 113,
+    "category": "Thriller psychologique",
+    "summary": "Leonard Shelby souffre d'amnésie antérograde : il ne peut créer de nouveaux souvenirs. Pourtant, il cherche à retrouver l'assassin de sa femme en utilisant un système de notes, photos et tatouages. L'histoire est racontée de manière non-linéaire, alternant séquences en noir et blanc et en couleur.",
+    "keywords": [
+      "mémoire",
+      "vengeance",
+      "perception",
+      "identité",
+      "manipulation"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Nomination aux Oscars du meilleur scénario original et du meilleur montage",
+      "Independent Spirit Award du meilleur réalisateur"
+    ],
+    "actors": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano",
+      "Mark Boone Junior"
+    ],
+    "budget": 9000000,
+    "box_office": 39700000
+  },
+  {
+    "title": "Fight Club",
+    "subtitle": null,
+    "directors": ["David Fincher"],
+    "writers": ["Jim Uhls", "Chuck Palahniuk"],
+    "producers": ["Art Linson", "Ceán Chaffin", "Ross Grayson Bell"],
+    "studios": ["Fox 2000 Pictures", "Regency Enterprises"],
+    "release_date": "1999-10-15",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 139,
+    "category": "Drame",
+    "summary": "Un employé de bureau insomniaque et un vendeur de savon charismatique forment un club de combat clandestin qui devient un phénomène underground. Mais ce mouvement évolue vers un projet anarchiste bien plus dangereux appelé 'Project Mayhem'.",
+    "keywords": [
+      "anarchie",
+      "consumérisme",
+      "identité",
+      "violence",
+      "masculinité"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Nomination à l'Oscar du meilleur montage sonore",
+      "Nomination au BAFTA des meilleurs effets spéciaux"
+    ],
+    "actors": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "budget": 63000000,
+    "box_office": 100900000
+  },
+  {
+    "title": "Shining",
+    "subtitle": "The Shining",
+    "directors": ["Stanley Kubrick"],
+    "writers": ["Stanley Kubrick", "Diane Johnson", "Stephen King"],
+    "producers": ["Stanley Kubrick"],
+    "studios": ["Warner Bros.", "Hawk Films"],
+    "release_date": "1980-05-23",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 146,
+    "category": "Horreur psychologique",
+    "summary": "Jack Torrance, un écrivain en panne d'inspiration, accepte un emploi de gardien dans un hôtel isolé en montagne pendant l'hiver. Alors que l'hôtel est coupé du monde par la neige, Jack commence à sombrer dans la folie, influencé par une présence surnaturelle, mettant en danger sa femme et son fils qui possède un don paranormal.",
+    "keywords": [
+      "hôtel",
+      "isolement",
+      "folie",
+      "pouvoirs psychiques",
+      "horreur"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Saturn Award du meilleur acteur pour Jack Nicholson"],
+    "actors": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd",
+      "Scatman Crothers"
+    ],
+    "budget": 19000000,
+    "box_office": 46200000
+  },
+  {
+    "title": "La Haine",
+    "subtitle": null,
+    "directors": ["Mathieu Kassovitz"],
+    "writers": ["Mathieu Kassovitz"],
+    "producers": ["Christophe Rossignon"],
+    "studios": ["Canal+", "La Sept Cinéma", "Studio Image"],
+    "release_date": "1995-05-31",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 98,
+    "category": "Drame social",
+    "summary": "Après une nuit d'émeutes dans leur cité suite à la bavure policière sur un jeune du quartier, trois amis, Vinz, Saïd et Hubert, errent dans Paris et sa banlieue pendant 24 heures. Leur destin bascule lorsque Vinz trouve un revolver perdu par un policier.",
+    "keywords": [
+      "banlieue",
+      "violence policière",
+      "discrimination",
+      "tension sociale",
+      "jeunesse"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [
+      "Prix de la mise en scène au Festival de Cannes",
+      "3 César dont meilleur film"
+    ],
+    "actors": [
+      "Vincent Cassel",
+      "Hubert Koundé",
+      "Saïd Taghmaoui",
+      "Abdel Ahmed Ghili"
+    ],
+    "budget": 2590000,
+    "box_office": 16000000
+  },
+  {
+    "title": "No Country for Old Men",
+    "subtitle": null,
+    "directors": ["Joel Coen", "Ethan Coen"],
+    "writers": ["Joel Coen", "Ethan Coen", "Cormac McCarthy"],
+    "producers": ["Scott Rudin", "Joel Coen", "Ethan Coen"],
+    "studios": ["Paramount Vantage", "Miramax Films"],
+    "release_date": "2007-05-19",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 122,
+    "category": "Thriller, Western",
+    "summary": "À la frontière mexicaine, en 1980, Llewelyn Moss découvre une camionnette entourée de cadavres et une mallette contenant deux millions de dollars. Sa décision de garder l'argent déclenche la traque implacable d'Anton Chigurh, un tueur méthodique et sans pitié.",
+    "keywords": ["violence", "destin", "morale", "argent", "Texas"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film",
+      "Oscar du meilleur réalisateur",
+      "Oscar du meilleur acteur dans un second rôle",
+      "Oscar du meilleur scénario adapté"
+    ],
+    "actors": [
+      "Tommy Lee Jones",
+      "Javier Bardem",
+      "Josh Brolin",
+      "Kelly Macdonald"
+    ],
+    "budget": 25000000,
+    "box_office": 171600000
+  },
+  {
+    "title": "Lost in Translation",
+    "subtitle": null,
+    "directors": ["Sofia Coppola"],
+    "writers": ["Sofia Coppola"],
+    "producers": ["Sofia Coppola", "Ross Katz"],
+    "studios": ["Focus Features", "American Zoetrope"],
+    "release_date": "2003-08-29",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 102,
+    "category": "Comédie dramatique",
+    "summary": "Bob Harris, une star de cinéma vieillissante, et Charlotte, une jeune femme délaissée par son mari photographe, se rencontrent à Tokyo. Tous deux confrontés à une solitude et à un décalage culturel, ils développent une relation intime et inattendue dans cette ville étrangère.",
+    "keywords": ["Tokyo", "solitude", "amitié", "expatriation", "rencontre"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur scénario original",
+      "Golden Globe du meilleur film comédie",
+      "Golden Globe du meilleur acteur pour Bill Murray"
+    ],
+    "actors": [
+      "Bill Murray",
+      "Scarlett Johansson",
+      "Giovanni Ribisi",
+      "Anna Faris"
+    ],
+    "budget": 4000000,
+    "box_office": 118700000
+  },
+  {
+    "title": "Apocalypse Now",
+    "subtitle": null,
+    "directors": ["Francis Ford Coppola"],
+    "writers": ["John Milius", "Francis Ford Coppola", "Michael Herr"],
+    "producers": ["Francis Ford Coppola"],
+    "studios": ["United Artists", "Zoetrope Studios"],
+    "release_date": "1979-05-19",
+    "ISBN_EAN_UPC": null,
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 153,
+    "category": "Guerre, Drame",
+    "summary": "Pendant la guerre du Vietnam, le capitaine Willard reçoit la mission de retrouver et d'éliminer le colonel Kurtz, un officier qui aurait sombré dans la folie et se serait établi comme un demi-dieu dans la jungle cambodgienne. Le voyage de Willard sur le fleuve est une descente dans l'horreur et la folie de la guerre.",
+    "keywords": ["Vietnam", "guerre", "folie", "jungle", "déshumanisation"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Palme d'Or au Festival de Cannes",
+      "2 Oscars (meilleure photographie, meilleur son)"
+    ],
+    "actors": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Robert Duvall",
+      "Frederic Forrest"
+    ],
+    "budget": 31500000,
+    "box_office": 150000000
+  },
+  {
+    "title": "Tenet",
+    "subtitle": null,
+    "directors": ["Christopher Nolan"],
+    "writers": ["Christopher Nolan"],
+    "producers": ["Emma Thomas", "Christopher Nolan"],
+    "studios": ["Warner Bros. Pictures", "Syncopy"],
+    "release_date": "2020-08-26",
+    "ISBN": null,
+    "format": "cinéma, Blu-ray, streaming",
+    "duration": 150,
+    "category": "Action, Science-Fiction, Thriller",
+    "summary": "Un agent secret est recruté par une organisation mystérieuse appelée Tenet pour participer à une mission impliquant l'inversion du temps afin de prévenir une menace qui pourrait anéantir le monde entier.",
+    "keywords": [
+      "inversion temporelle",
+      "espionnage",
+      "paradoxes",
+      "action",
+      "Christopher Nolan"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar des meilleurs effets visuels 2021",
+      "BAFTA du meilleur son 2021"
+    ],
+    "actors": [
+      "John David Washington",
+      "Robert Pattinson",
+      "Elizabeth Debicki",
+      "Kenneth Branagh"
+    ],
+    "budget": 200000000,
+    "box_office": 363656137
+  },
+  {
+    "title": "Nomadland",
+    "subtitle": null,
+    "directors": ["Chloé Zhao"],
+    "writers": ["Chloé Zhao", "Jessica Bruder"],
+    "producers": [
+      "Frances McDormand",
+      "Peter Spears",
+      "Mollye Asher",
+      "Dan Janvey",
+      "Chloé Zhao"
+    ],
+    "studios": ["Searchlight Pictures", "Highwayman Films", "Cor Cordium"],
+    "release_date": "2021-02-19",
+    "ISBN": null,
+    "format": "cinéma, streaming",
+    "duration": 107,
+    "category": "Drame",
+    "summary": "Après l'effondrement économique d'une ville ouvrière du Nevada, Fern, une femme d'une soixantaine d'années, décide de prendre la route à bord de son van aménagé et d'adopter une vie de nomade moderne.",
+    "keywords": [
+      "nomadisme",
+      "grande récession",
+      "van life",
+      "Amérique profonde",
+      "road movie"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film 2021",
+      "Oscar de la meilleure réalisation 2021",
+      "Oscar de la meilleure actrice 2021",
+      "Lion d'or à la Mostra de Venise 2020"
+    ],
+    "actors": ["Frances McDormand", "David Strathairn", "Linda May", "Swankie"],
+    "budget": 5000000,
+    "box_office": 39765592
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "subtitle": null,
+    "directors": ["Daniel Kwan", "Daniel Scheinert"],
+    "writers": ["Daniel Kwan", "Daniel Scheinert"],
+    "producers": [
+      "Anthony Russo",
+      "Joe Russo",
+      "Mike Larocca",
+      "Dan Kwan",
+      "Daniel Scheinert",
+      "Jonathan Wang"
+    ],
+    "studios": ["A24", "Hotdog Hands", "AGBO"],
+    "release_date": "2022-03-25",
+    "ISBN": null,
+    "format": "cinéma, Blu-ray, streaming",
+    "duration": 139,
+    "category": "Action, Aventure, Science-Fiction, Comédie",
+    "summary": "Une immigrante chinoise est entraînée dans une aventure folle où elle seule peut sauver le monde en explorant d'autres univers et les vies qu'elle aurait pu mener.",
+    "keywords": [
+      "multivers",
+      "immigration",
+      "famille",
+      "absurde",
+      "arts martiaux"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais, Mandarin, Cantonais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film 2023",
+      "Oscar de la meilleure actrice 2023",
+      "Oscar du meilleur acteur dans un second rôle 2023",
+      "Oscar de la meilleure actrice dans un second rôle 2023"
+    ],
+    "actors": [
+      "Michelle Yeoh",
+      "Ke Huy Quan",
+      "Stephanie Hsu",
+      "Jamie Lee Curtis"
+    ],
+    "budget": 25000000,
+    "box_office": 140795073
+  },
+  {
+    "title": "The Lighthouse",
+    "subtitle": null,
+    "directors": ["Robert Eggers"],
+    "writers": ["Robert Eggers", "Max Eggers"],
+    "producers": [
+      "Rodrigo Teixeira",
+      "Jay Van Hoy",
+      "Robert Eggers",
+      "Lourenço Sant'Anna",
+      "Youree Henley"
+    ],
+    "studios": ["A24", "New Regency", "RT Features"],
+    "release_date": "2019-10-18",
+    "ISBN": null,
+    "format": "cinéma, Blu-ray, streaming",
+    "duration": 109,
+    "category": "Drame, Fantastique, Horreur",
+    "summary": "À la fin du XIXe siècle, un jeune gardien de phare débarque sur une île isolée de Nouvelle-Angleterre pour assister un gardien plus âgé. Dans cet environnement hostile, les deux hommes vont peu à peu sombrer dans la folie.",
+    "keywords": [
+      "phare",
+      "folie",
+      "isolement",
+      "mythologie maritime",
+      "noir et blanc"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Prix FIPRESCI au Festival de Cannes 2019",
+      "Independent Spirit Award de la meilleure photographie 2020"
+    ],
+    "actors": ["Robert Pattinson", "Willem Dafoe"],
+    "budget": 4000000,
+    "box_office": 18185655
+  },
+  {
+    "title": "Drive My Car",
+    "subtitle": "ドライブ・マイ・カー",
+    "directors": ["Ryusuke Hamaguchi"],
+    "writers": ["Ryusuke Hamaguchi", "Takamasa Oe", "Haruki Murakami"],
+    "producers": ["Teruhisa Yamamoto", "Satoshi Takata"],
+    "studios": ["Bitters End", "Janus Films", "Sideshow"],
+    "release_date": "2021-08-18",
+    "ISBN": null,
+    "format": "cinéma, Blu-ray, streaming",
+    "duration": 179,
+    "category": "Drame",
+    "summary": "Un acteur et metteur en scène de théâtre doit faire face au décès de sa femme. Deux ans plus tard, il accepte de monter une pièce dans un festival à Hiroshima où il se lie d'une amitié inattendue avec sa chauffeure.",
+    "keywords": ["deuil", "théâtre", "Tchekhov", "Japon", "relation humaine"],
+    "targeted_audience": "adulte",
+    "original_language": "Japonais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film international 2022",
+      "Prix du scénario au Festival de Cannes 2021",
+      "Golden Globe du meilleur film en langue étrangère 2022"
+    ],
+    "actors": [
+      "Hidetoshi Nishijima",
+      "Toko Miura",
+      "Masaki Okada",
+      "Reika Kirishima"
+    ],
+    "budget": 1200000,
+    "box_office": 19546970
+  },
+  {
+    "title": "Portrait de la jeune fille en feu",
+    "subtitle": null,
+    "directors": ["Céline Sciamma"],
+    "writers": ["Céline Sciamma"],
+    "producers": ["Bénédicte Couvreur"],
+    "studios": ["Lilies Films", "Arte France Cinéma", "Hold Up Films"],
+    "release_date": "2019-09-18",
+    "ISBN": null,
+    "format": "cinéma, Blu-ray, streaming",
+    "duration": 122,
+    "category": "Drame, Romance historique",
+    "summary": "À la fin du XVIIIe siècle, une jeune peintre est engagée pour réaliser le portrait de mariage d'une jeune femme sans que celle-ci le sache. Observant sa future modèle pendant la journée, elle la peint secrètement la nuit. Au fil des jours, les deux femmes se rapprochent.",
+    "keywords": [
+      "peinture",
+      "amour interdit",
+      "émancipation féminine",
+      "regard féminin",
+      "18e siècle"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Français",
+    "series": false,
+    "awards": [
+      "Prix du scénario au Festival de Cannes 2019",
+      "César de la meilleure photographie 2020",
+      "European Film Award du meilleur scénariste 2019"
+    ],
+    "actors": [
+      "Noémie Merlant",
+      "Adèle Haenel",
+      "Luàna Bajrami",
+      "Valeria Golino"
+    ],
+    "budget": 4000000,
+    "box_office": 18275063
+  },
+  {
+    "title": "Les Fils de l'homme",
+    "subtitle": "Children of Men",
+    "directors": ["Alfonso Cuarón"],
+    "writers": [
+      "Alfonso Cuarón",
+      "Timothy J. Sexton",
+      "David Arata",
+      "Mark Fergus",
+      "Hawk Ostby"
+    ],
+    "producers": [
+      "Hilary Shor",
+      "Iain Smith",
+      "Tony Smith",
+      "Marc Abraham",
+      "Eric Newman"
+    ],
+    "studios": [
+      "Universal Pictures",
+      "Strike Entertainment",
+      "Hit and Run Productions"
+    ],
+    "release_date": "2006-09-22",
+    "ISBN": null,
+    "format": "cinéma, DVD, Blu-ray, streaming",
+    "duration": 109,
+    "category": "Science-Fiction, Drame, Thriller",
+    "summary": "Dans un monde frappé par une infertilité générale, un ancien militant devenu fonctionnaire cynique doit aider une réfugiée qui pourrait détenir la clé de la survie de l'humanité.",
+    "keywords": [
+      "dystopie",
+      "infertilité",
+      "immigration",
+      "espoir",
+      "réfugiés"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "BAFTA des meilleurs effets visuels 2007",
+      "3 nominations aux Oscars 2007"
+    ],
+    "actors": [
+      "Clive Owen",
+      "Julianne Moore",
+      "Michael Caine",
+      "Chiwetel Ejiofor",
+      "Clare-Hope Ashitey"
+    ],
+    "budget": 76000000,
+    "box_office": 70595126
+  },
+  {
+    "title": "Her",
+    "subtitle": null,
+    "directors": ["Spike Jonze"],
+    "writers": ["Spike Jonze"],
+    "producers": ["Megan Ellison", "Spike Jonze", "Vincent Landay"],
+    "studios": ["Annapurna Pictures", "Warner Bros."],
+    "release_date": "2013-12-18",
+    "ISBN": null,
+    "format": "cinéma, DVD, Blu-ray, streaming",
+    "duration": 126,
+    "category": "Science-Fiction, Drame, Romance",
+    "summary": "Dans un futur proche, un écrivain solitaire développe une relation amoureuse inattendue avec son système d'exploitation doté d'une intelligence artificielle avancée.",
+    "keywords": [
+      "intelligence artificielle",
+      "solitude",
+      "connexion émotionnelle",
+      "futur proche",
+      "technologie"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur scénario original 2014",
+      "Golden Globe du meilleur scénario 2014"
+    ],
+    "actors": [
+      "Joaquin Phoenix",
+      "Scarlett Johansson",
+      "Amy Adams",
+      "Rooney Mara"
+    ],
+    "budget": 23000000,
+    "box_office": 48324272
+  },
+  {
+    "title": "Dune",
+    "subtitle": "Première partie",
+    "directors": ["Denis Villeneuve"],
+    "writers": ["Denis Villeneuve", "Eric Roth", "Jon Spaihts"],
+    "producers": [
+      "Mary Parent",
+      "Denis Villeneuve",
+      "Cale Boyter",
+      "Joe Caracciolo Jr."
+    ],
+    "studios": [
+      "Warner Bros. Pictures",
+      "Legendary Pictures",
+      "Villeneuve Films"
+    ],
+    "release_date": "2021-09-15",
+    "ISBN": null,
+    "format": "cinéma, Blu-ray, streaming",
+    "duration": 155,
+    "category": "Science-Fiction, Aventure, Drame",
+    "summary": "Dans un futur lointain, le duc Leto Atreides accepte de gérer la planète désertique Arrakis, source d'une substance précieuse, la « épice », convoitée dans toute la galaxie. Trahis, son fils Paul et sa concubine Jessica fuient dans le désert, où ils rencontrent les Fremen, peuple nomade de la planète.",
+    "keywords": ["désert", "prophétie", "politique", "écologie", "épice"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": true,
+    "awards": [
+      "6 Oscars 2022 dont Meilleure photographie, Meilleur montage, Meilleur son",
+      "BAFTA des meilleurs effets visuels 2022"
+    ],
+    "actors": [
+      "Timothée Chalamet",
+      "Rebecca Ferguson",
+      "Oscar Isaac",
+      "Zendaya",
+      "Jason Momoa"
+    ],
+    "budget": 165000000,
+    "box_office": 401847500
+  },
+  {
+    "title": "Midsommar",
+    "subtitle": null,
+    "directors": ["Ari Aster"],
+    "writers": ["Ari Aster"],
+    "producers": ["Patrik Andersson", "Lars Knudsen"],
+    "studios": ["A24", "B-Reel Films", "Square Peg"],
+    "release_date": "2019-07-03",
+    "ISBN": null,
+    "format": "cinéma, Blu-ray, streaming",
+    "duration": 147,
+    "category": "Horreur, Drame, Thriller psychologique",
+    "summary": "Un couple en difficulté voyage avec des amis en Suède pour assister à un festival d'été qui n'a lieu qu'une fois tous les 90 ans. Ce qui commence comme des vacances idylliques se transforme rapidement en un cauchemar de plus en plus troublant.",
+    "keywords": [
+      "culte",
+      "paganisme",
+      "deuil",
+      "soleil de minuit",
+      "tradition"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais, Suédois",
+    "series": false,
+    "awards": ["Prix de la meilleure actrice au Festival du film de Faro 2019"],
+    "actors": [
+      "Florence Pugh",
+      "Jack Reynor",
+      "William Jackson Harper",
+      "Vilhelm Blomgren"
+    ],
+    "budget": 9000000,
+    "box_office": 47974849
+  },
+  {
+    "title": "Minari",
+    "subtitle": null,
+    "directors": ["Lee Isaac Chung"],
+    "writers": ["Lee Isaac Chung"],
+    "producers": ["Christina Oh", "Dede Gardner", "Jeremy Kleiner"],
+    "studios": ["A24", "Plan B Entertainment"],
+    "release_date": "2020-12-11",
+    "ISBN": null,
+    "format": "cinéma, Blu-ray, streaming",
+    "duration": 115,
+    "category": "Drame",
+    "summary": "Dans les années 1980, une famille américaine d'origine coréenne s'installe dans l'Arkansas rural pour y démarrer une ferme, à la recherche de son propre rêve américain.",
+    "keywords": [
+      "immigration",
+      "famille",
+      "rêve américain",
+      "agriculture",
+      "génération"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais, Coréen",
+    "series": false,
+    "awards": [
+      "Oscar de la meilleure actrice dans un second rôle 2021",
+      "Golden Globe du meilleur film en langue étrangère 2021"
+    ],
+    "actors": ["Steven Yeun", "Han Ye-ri", "Alan Kim", "Youn Yuh-jung"],
+    "budget": 2000000,
+    "box_office": 15880814
+  },
+  {
+    "title": "Jojo Rabbit",
+    "subtitle": null,
+    "directors": ["Taika Waititi"],
+    "writers": ["Taika Waititi", "Christine Leunens"],
+    "producers": ["Carthew Neal", "Taika Waititi", "Chelsea Winstanley"],
+    "studios": ["Fox Searchlight Pictures", "Defender Films", "Piki Films"],
+    "release_date": "2019-10-18",
+    "ISBN": null,
+    "format": "cinéma, Blu-ray, streaming",
+    "duration": 108,
+    "category": "Comédie dramatique, Guerre, Satire",
+    "summary": "Jojo, un jeune allemand, découvre que sa mère cache une fille juive dans leur grenier pendant la Seconde Guerre mondiale. Aidé par son ami imaginaire Adolf Hitler, Jojo doit faire face à son endoctrinement nationaliste.",
+    "keywords": [
+      "nazisme",
+      "imagination",
+      "tolérance",
+      "Seconde Guerre mondiale",
+      "amitié"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur scénario adapté 2020",
+      "BAFTA du meilleur scénario adapté 2020"
+    ],
+    "actors": [
+      "Roman Griffin Davis",
+      "Thomasin McKenzie",
+      "Scarlett Johansson",
+      "Taika Waititi"
+    ],
+    "budget": 14000000,
+    "box_office": 90335025
+  },
+  {
+    "title": "Vice-Versa",
+    "subtitle": "Inside Out",
+    "directors": ["Pete Docter", "Ronnie Del Carmen"],
+    "writers": ["Pete Docter", "Meg LeFauve", "Josh Cooley"],
+    "producers": ["Jonas Rivera"],
+    "studios": ["Pixar Animation Studios", "Walt Disney Pictures"],
+    "release_date": "2015-06-17",
+    "ISBN": null,
+    "format": "cinéma, DVD, Blu-ray, streaming",
+    "duration": 95,
+    "category": "Animation, Comédie, Drame",
+    "summary": "Au Quartier Général, dans la tête de Riley, cinq Émotions sont au travail : Joie, Peur, Colère, Dégoût et Tristesse. Lorsque la famille de Riley déménage dans une grande ville, les Émotions ont fort à faire pour l'aider à s'adapter.",
+    "keywords": ["émotions", "enfance", "grandir", "mémoire", "psychologie"],
+    "targeted_audience": "enfant, famille",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film d'animation 2016",
+      "Golden Globe du meilleur film d'animation 2016"
+    ],
+    "actors": [
+      "Amy Poehler",
+      "Phyllis Smith",
+      "Richard Kind",
+      "Bill Hader",
+      "Mindy Kaling"
+    ],
+    "budget": 175000000,
+    "box_office": 857611174
+  },
+  {
+    "title": "Get Out",
+    "subtitle": null,
+    "directors": ["Jordan Peele"],
+    "writers": ["Jordan Peele"],
+    "producers": [
+      "Sean McKittrick",
+      "Jason Blum",
+      "Edward H. Hamm Jr.",
+      "Jordan Peele"
+    ],
+    "studios": [
+      "Blumhouse Productions",
+      "QC Entertainment",
+      "Monkeypaw Productions"
+    ],
+    "release_date": "2017-02-24",
+    "ISBN": null,
+    "format": "cinéma, DVD, Blu-ray, streaming",
+    "duration": 104,
+    "category": "Horreur, Thriller, Mystère",
+    "summary": "Un jeune photographe afro-américain va passer un week-end chez les parents de sa petite amie blanche. Il découvre rapidement que la famille cache de terrifiants secrets.",
+    "keywords": [
+      "racisme",
+      "hypnose",
+      "appropriation culturelle",
+      "société américaine",
+      "thriller psychologique"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur scénario original 2018",
+      "Independent Spirit Award du meilleur film 2018"
+    ],
+    "actors": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford",
+      "Catherine Keener"
+    ],
+    "budget": 4500000,
+    "box_office": 255407969
+  },
+  {
+    "title": "Une affaire de détails",
+    "subtitle": "The Little Things",
+    "directors": ["John Lee Hancock"],
+    "writers": ["John Lee Hancock"],
+    "producers": ["John Lee Hancock", "Mark Johnson"],
+    "studios": ["Warner Bros. Pictures", "Gran Via Productions"],
+    "release_date": "2021-01-29",
+    "ISBN": null,
+    "format": "cinéma, streaming",
+    "duration": 128,
+    "category": "Thriller, Crime, Drame",
+    "summary": "Un shérif adjoint du comté de Kern et un détective du département de police de Los Angeles s'associent pour tenter d'attraper un tueur en série.",
+    "keywords": [
+      "enquête policière",
+      "années 90",
+      "obsession",
+      "tueur en série",
+      "rédemption"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [],
+    "actors": [
+      "Denzel Washington",
+      "Rami Malek",
+      "Jared Leto",
+      "Natalie Morales"
+    ],
+    "budget": 30000000,
+    "box_office": 29764631
+  },
+  {
+    "title": "Nobody",
+    "subtitle": null,
+    "directors": ["Ilya Naishuller"],
+    "writers": ["Derek Kolstad"],
+    "producers": [
+      "Kelly McCormick",
+      "David Leitch",
+      "Braden Aftergood",
+      "Bob Odenkirk",
+      "Marc Provissiero"
+    ],
+    "studios": [
+      "Universal Pictures",
+      "87North",
+      "Odenkirk Provissiero Entertainment"
+    ],
+    "release_date": "2021-03-26",
+    "ISBN": null,
+    "format": "cinéma, Blu-ray, streaming",
+    "duration": 92,
+    "category": "Action, Thriller",
+    "summary": "Hutch Mansell, un père et mari frustré, totalement déconsidéré par sa famille, se contente d'encaisser les coups, sans jamais les rendre. Un jour, alors que deux voleurs pénètrent chez lui, Hutch va enfin se réveiller et laisser exploser sa colère longtemps contenue.",
+    "keywords": [
+      "vengeance",
+      "mafia russe",
+      "père de famille",
+      "arts martiaux",
+      "identité secrète"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [],
+    "actors": [
+      "Bob Odenkirk",
+      "Aleksey Serebryakov",
+      "Connie Nielsen",
+      "Christopher Lloyd"
+    ],
+    "budget": 16000000,
+    "box_office": 57506035
+  },
+  {
+    "title": "Le Dernier Duel",
+    "subtitle": "The Last Duel",
+    "directors": ["Ridley Scott"],
+    "writers": ["Nicole Holofcener", "Ben Affleck", "Matt Damon"],
+    "producers": [
+      "Ridley Scott",
+      "Kevin J. Walsh",
+      "Jennifer Fox",
+      "Nicole Holofcener",
+      "Matt Damon",
+      "Ben Affleck"
+    ],
+    "studios": [
+      "20th Century Studios",
+      "Scott Free Productions",
+      "Pearl Street Films"
+    ],
+    "release_date": "2021-10-13",
+    "ISBN": null,
+    "format": "cinéma, Blu-ray, streaming",
+    "duration": 152,
+    "category": "Drame historique",
+    "summary": "Dans la France du XIVe siècle, le chevalier Jean de Carrouges accuse l'écuyer Jacques Le Gris d'avoir violé sa femme. Un duel judiciaire est ordonné par le roi Charles VI pour déterminer la vérité.",
+    "keywords": [
+      "duel",
+      "France médiévale",
+      "justice",
+      "points de vue multiples",
+      "féodalité"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [],
+    "actors": ["Matt Damon", "Adam Driver", "Jodie Comer", "Ben Affleck"],
+    "budget": 100000000,
+    "box_office": 30638831
+  },
+  {
+    "title": "Tár",
+    "subtitle": null,
+    "directors": ["Todd Field"],
+    "writers": ["Todd Field"],
+    "producers": ["Todd Field", "Alexandra Milchan", "Scott Lambert"],
+    "studios": ["Focus Features", "Standard Film Company"],
+    "release_date": "2022-10-07",
+    "ISBN": null,
+    "format": "cinéma, Blu-ray, streaming",
+    "duration": 158,
+    "category": "Drame",
+    "summary": "Lydia Tár, considérée comme l'une des plus grandes cheffes d'orchestre au monde et première femme directrice musicale de l'Orchestre philharmonique de Berlin, voit sa vie s'effondrer après des accusations d'abus de pouvoir.",
+    "keywords": [
+      "musique classique",
+      "pouvoir",
+      "chute",
+      "cancel culture",
+      "génie artistique"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Coupe Volpi de la meilleure actrice à la Mostra de Venise 2022",
+      "Golden Globe de la meilleure actrice dans un film dramatique 2023"
+    ],
+    "actors": ["Cate Blanchett", "Noémie Merlant", "Nina Hoss", "Sophie Kauer"],
+    "budget": 35000000,
+    "box_office": 29993057
+  },
+  {
+    "title": "The Godfather: Part II",
+    "subtitle": null,
+    "directors": ["Francis Ford Coppola"],
+    "writers": ["Francis Ford Coppola", "Mario Puzo"],
+    "producers": ["Francis Ford Coppola", "Gray Frederickson", "Fred Roos"],
+    "studios": ["Paramount Pictures", "The Coppola Company"],
+    "release_date": "1974-12-20",
+    "ISBN / EAN / UPC": "097361386645",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 202,
+    "category": "Drame, Crime",
+    "summary": "La suite du Parrain qui raconte en parallèle l'ascension de Michael Corleone à la tête de la famille mafieuse et le parcours de son père Vito dans sa jeunesse, de son arrivée à New York à sa montée en puissance dans le milieu criminel.",
+    "keywords": ["mafia", "famille", "pouvoir", "trahison", "vengeance"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais, italien, sicilien",
+    "series": true,
+    "awards": [
+      "6 Oscars, dont Meilleur Film, Meilleur Réalisateur, Meilleur Acteur dans un second rôle"
+    ],
+    "actors": ["Al Pacino", "Robert De Niro", "Robert Duvall", "Diane Keaton"],
+    "budget": 13000000,
+    "box_office": 93000000
+  },
+  {
+    "title": "Casablanca",
+    "subtitle": null,
+    "directors": ["Michael Curtiz"],
+    "writers": ["Julius J. Epstein", "Philip G. Epstein", "Howard Koch"],
+    "producers": ["Hal B. Wallis"],
+    "studios": ["Warner Bros."],
+    "release_date": "1943-01-23",
+    "ISBN / EAN / UPC": "883929158706",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 102,
+    "category": "Drame, Romance, Guerre",
+    "summary": "Pendant la Seconde Guerre mondiale à Casablanca, le propriétaire américain d'un night-club, Rick Blaine, retrouve par hasard un amour du passé, Ilsa, maintenant mariée à un résistant recherché par les nazis.",
+    "keywords": [
+      "guerre mondiale",
+      "romance",
+      "résistance",
+      "sacrifice",
+      "exil"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "3 Oscars, dont Meilleur Film, Meilleur Réalisateur, Meilleur Scénario adapté"
+    ],
+    "actors": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid",
+      "Claude Rains"
+    ],
+    "budget": 878000,
+    "box_office": 3700000
+  },
+  {
+    "title": "The Social Network",
+    "subtitle": null,
+    "directors": ["David Fincher"],
+    "writers": ["Aaron Sorkin"],
+    "producers": [
+      "Scott Rudin",
+      "Dana Brunetti",
+      "Ceán Chaffin",
+      "Michael De Luca"
+    ],
+    "studios": ["Columbia Pictures", "Relativity Media"],
+    "release_date": "2010-10-01",
+    "ISBN / EAN / UPC": "043396366862",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 120,
+    "category": "Drame, Biographie",
+    "summary": "L'histoire de la création de Facebook par Mark Zuckerberg, étudiant à Harvard, et les batailles juridiques qui ont suivi avec ses anciens amis et collaborateurs.",
+    "keywords": [
+      "technologie",
+      "ambition",
+      "trahison",
+      "procès",
+      "réseaux sociaux"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "3 Oscars, dont Meilleur Scénario adapté, Meilleur Montage, Meilleure Musique"
+    ],
+    "actors": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake",
+      "Rooney Mara"
+    ],
+    "budget": 40000000,
+    "box_office": 224920315
+  },
+  {
+    "title": "Alien",
+    "subtitle": "Le huitième passager",
+    "directors": ["Ridley Scott"],
+    "writers": ["Dan O'Bannon", "Ronald Shusett"],
+    "producers": ["Gordon Carroll", "David Giler", "Walter Hill"],
+    "studios": ["20th Century Fox", "Brandywine Productions"],
+    "release_date": "1979-05-25",
+    "ISBN / EAN / UPC": "024543059516",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 117,
+    "category": "Science-Fiction, Horreur",
+    "summary": "L'équipage du vaisseau commercial Nostromo est réveillé de son sommeil cryogénique pour répondre à un signal de détresse. Ils découvrent une forme de vie extraterrestre hostile qui menace leur survie.",
+    "keywords": [
+      "espace",
+      "extraterrestre",
+      "horreur",
+      "survie",
+      "science-fiction"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": true,
+    "awards": ["1 Oscar pour les Meilleurs Effets visuels"],
+    "actors": ["Sigourney Weaver", "Tom Skerritt", "John Hurt", "Ian Holm"],
+    "budget": 11000000,
+    "box_office": 106300000
+  },
+  {
+    "title": "Schindler's List",
+    "subtitle": "La Liste de Schindler",
+    "directors": ["Steven Spielberg"],
+    "writers": ["Steven Zaillian"],
+    "producers": ["Steven Spielberg", "Gerald R. Molen", "Branko Lustig"],
+    "studios": ["Universal Pictures", "Amblin Entertainment"],
+    "release_date": "1994-02-04",
+    "ISBN / EAN / UPC": "025192126529",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 195,
+    "category": "Drame, Histoire, Biographie",
+    "summary": "L'histoire vraie d'Oskar Schindler, un industriel allemand qui sauva la vie de plus de 1100 Juifs durant l'Holocauste en les employant dans sa fabrique.",
+    "keywords": [
+      "Seconde Guerre mondiale",
+      "Holocauste",
+      "nazisme",
+      "sauvetage",
+      "humanité"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais, allemand, hébreu, polonais",
+    "series": false,
+    "awards": [
+      "7 Oscars, dont Meilleur Film, Meilleur Réalisateur, Meilleur Scénario adapté"
+    ],
+    "actors": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley",
+      "Caroline Goodall"
+    ],
+    "budget": 22000000,
+    "box_office": 321365567
+  },
+  {
+    "title": "Akira",
+    "subtitle": null,
+    "directors": ["Katsuhiro Ôtomo"],
+    "writers": ["Katsuhiro Ôtomo", "Izô Hashimoto"],
+    "producers": ["Ryôhei Suzuki", "Shunzô Katô"],
+    "studios": ["TMS Entertainment", "Kodansha"],
+    "release_date": "1988-07-16",
+    "ISBN / EAN / UPC": "704400015724",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 124,
+    "category": "Animation, Science-Fiction, Action",
+    "summary": "Dans un Tokyo post-apocalyptique de 2019, un adolescent membre d'un gang de motards acquiert des pouvoirs psychiques extraordinaires suite à un accident, le conduisant sur la piste d'un mystérieux projet gouvernemental nommé Akira.",
+    "keywords": [
+      "cyberpunk",
+      "dystopie",
+      "pouvoirs psychiques",
+      "post-apocalyptique",
+      "anime"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "japonais",
+    "series": false,
+    "awards": [
+      "Prix du film d'animation au Festival du film fantastique d'Amsterdam"
+    ],
+    "actors": ["Mitsuo Iwata", "Nozomu Sasaki", "Mami Koyama", "Tesshô Genda"],
+    "budget": 1100000000,
+    "box_office": 49000000
+  },
+  {
+    "title": "A Clockwork Orange",
+    "subtitle": "Orange Mécanique",
+    "directors": ["Stanley Kubrick"],
+    "writers": ["Stanley Kubrick"],
+    "producers": ["Stanley Kubrick"],
+    "studios": ["Warner Bros.", "Hawk Films"],
+    "release_date": "1972-02-02",
+    "ISBN / EAN / UPC": "085391163121",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 136,
+    "category": "Crime, Drame, Science-Fiction",
+    "summary": "Dans un futur proche, Alex, chef d'un gang de voyous, se livre à des actes de violence extrême avant d'être arrêté et soumis à une thérapie expérimentale controversée visant à supprimer ses penchants criminels.",
+    "keywords": [
+      "dystopie",
+      "violence",
+      "réhabilitation",
+      "libre arbitre",
+      "manipulation"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "4 nominations aux Oscars, dont Meilleur Film et Meilleur Réalisateur"
+    ],
+    "actors": [
+      "Malcolm McDowell",
+      "Patrick Magee",
+      "Michael Bates",
+      "Warren Clarke"
+    ],
+    "budget": 2200000,
+    "box_office": 26589000
+  },
+  {
+    "title": "Rear Window",
+    "subtitle": "Fenêtre sur cour",
+    "directors": ["Alfred Hitchcock"],
+    "writers": ["John Michael Hayes"],
+    "producers": ["Alfred Hitchcock"],
+    "studios": ["Paramount Pictures"],
+    "release_date": "1954-09-01",
+    "ISBN / EAN / UPC": "025192126826",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 112,
+    "category": "Thriller, Mystère",
+    "summary": "Un photographe immobilisé par une jambe plâtrée observe ses voisins depuis sa fenêtre et finit par suspecter l'un d'eux d'avoir assassiné sa femme.",
+    "keywords": [
+      "voyeurisme",
+      "suspicion",
+      "meurtre",
+      "observation",
+      "claustrophobie"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["4 nominations aux Oscars"],
+    "actors": [
+      "James Stewart",
+      "Grace Kelly",
+      "Wendell Corey",
+      "Thelma Ritter"
+    ],
+    "budget": 1000000,
+    "box_office": 36764313
+  },
+  {
+    "title": "Ran",
+    "subtitle": null,
+    "directors": ["Akira Kurosawa"],
+    "writers": ["Akira Kurosawa", "Hideo Oguni", "Masato Ide"],
+    "producers": ["Serge Silberman", "Masato Hara"],
+    "studios": ["Greenwich Film Productions", "Herald Ace"],
+    "release_date": "1985-06-01",
+    "ISBN / EAN / UPC": "738329235826",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 162,
+    "category": "Drame, Action, Guerre",
+    "summary": "Dans le Japon féodal, un puissant seigneur de guerre vieillissant décide de diviser son royaume entre ses trois fils, déclenchant une série de trahisons et de conflits violents.",
+    "keywords": [
+      "Japon féodal",
+      "Shakespeare",
+      "Roi Lear",
+      "guerre",
+      "tragédie"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "japonais",
+    "series": false,
+    "awards": ["1 Oscar pour les Meilleurs Costumes, 4 nominations aux Oscars"],
+    "actors": [
+      "Tatsuya Nakadai",
+      "Akira Terao",
+      "Jinpachi Nezu",
+      "Daisuke Ryu"
+    ],
+    "budget": 12000000,
+    "box_office": 19500000
+  },
+  {
+    "title": "The Thing",
+    "subtitle": "La Chose",
+    "directors": ["John Carpenter"],
+    "writers": ["Bill Lancaster"],
+    "producers": ["David Foster", "Lawrence Turman"],
+    "studios": ["Universal Pictures"],
+    "release_date": "1982-06-25",
+    "ISBN / EAN / UPC": "025192126123",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 109,
+    "category": "Horreur, Science-Fiction, Mystère",
+    "summary": "Dans une station de recherche en Antarctique, une équipe scientifique découvre une entité extraterrestre capable de prendre l'apparence exacte de n'importe quel être vivant, semant la paranoïa parmi les membres.",
+    "keywords": [
+      "Antarctique",
+      "isolement",
+      "paranoïa",
+      "extraterrestre",
+      "métamorphose"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Prix spécial au Festival du film fantastique d'Avoriaz"],
+    "actors": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "Keith David",
+      "David Clennon"
+    ],
+    "budget": 15000000,
+    "box_office": 19629760
+  },
+  {
+    "title": "Children of Men",
+    "subtitle": "Les Fils de l'homme",
+    "directors": ["Alfonso Cuarón"],
+    "writers": ["Alfonso Cuarón", "Timothy J. Sexton", "David Arata"],
+    "producers": [
+      "Hilary Shor",
+      "Iain Smith",
+      "Tony Smith",
+      "Marc Abraham",
+      "Eric Newman"
+    ],
+    "studios": ["Universal Pictures", "Strike Entertainment"],
+    "release_date": "2006-09-22",
+    "ISBN / EAN / UPC": "025192112225",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 109,
+    "category": "Science-Fiction, Drame, Action",
+    "summary": "Dans un futur où l'humanité est devenue stérile, un bureaucrate désabusé doit aider une femme miraculeusement enceinte à rejoindre un sanctuaire en mer, au milieu d'une société au bord de l'effondrement.",
+    "keywords": ["dystopie", "infertilité", "réfugiés", "espoir", "survie"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "3 nominations aux Oscars, dont Meilleure Photographie et Meilleur Montage"
+    ],
+    "actors": [
+      "Clive Owen",
+      "Julianne Moore",
+      "Michael Caine",
+      "Chiwetel Ejiofor"
+    ],
+    "budget": 76000000,
+    "box_office": 70595464
+  },
+  {
+    "title": "The Seventh Seal",
+    "subtitle": "Le Septième Sceau",
+    "directors": ["Ingmar Bergman"],
+    "writers": ["Ingmar Bergman"],
+    "producers": ["Allan Ekelund"],
+    "studios": ["Svensk Filmindustri"],
+    "release_date": "1957-02-16",
+    "ISBN / EAN / UPC": "715515010528",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 96,
+    "category": "Drame, Fantastique",
+    "summary": "Un chevalier de retour des Croisades joue une partie d'échecs contre la Mort, cherchant à gagner du temps pour accomplir un acte significatif avant de mourir.",
+    "keywords": ["mort", "foi", "moyen-âge", "peste noire", "existentialisme"],
+    "targeted_audience": "adulte",
+    "original_language": "suédois",
+    "series": false,
+    "awards": ["Prix spécial du jury au Festival de Cannes 1957"],
+    "actors": [
+      "Max von Sydow",
+      "Gunnar Björnstrand",
+      "Bengt Ekerot",
+      "Nils Poppe"
+    ],
+    "budget": 150000,
+    "box_office": 2000000
+  },
+  {
+    "title": "The Princess Bride",
+    "subtitle": "Princess Bride",
+    "directors": ["Rob Reiner"],
+    "writers": ["William Goldman"],
+    "producers": ["Andrew Scheinman", "Rob Reiner"],
+    "studios": ["20th Century Fox", "Buttercup Films Ltd."],
+    "release_date": "1987-09-25",
+    "ISBN / EAN / UPC": "027616865212",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 98,
+    "category": "Aventure, Fantastique, Comédie, Romance",
+    "summary": "Un grand-père lit à son petit-fils malade l'histoire d'une princesse et de son véritable amour, mêlant aventure, romance, humour et fantastique dans un conte mémorable.",
+    "keywords": [
+      "conte de fées",
+      "amour véritable",
+      "aventure",
+      "humour",
+      "épée"
+    ],
+    "targeted_audience": "tous publics",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["1 nomination aux Oscars pour la Meilleure Chanson originale"],
+    "actors": [
+      "Cary Elwes",
+      "Robin Wright",
+      "Mandy Patinkin",
+      "Chris Sarandon"
+    ],
+    "budget": 16000000,
+    "box_office": 30882991
+  },
+  {
+    "title": "In the Mood for Love",
+    "subtitle": "Fa yeung nin wah",
+    "directors": ["Wong Kar-wai"],
+    "writers": ["Wong Kar-wai"],
+    "producers": ["Wong Kar-wai", "Ye-cheng Chan"],
+    "studios": ["Jet Tone Production", "Paradis Films"],
+    "release_date": "2000-05-20",
+    "ISBN / EAN / UPC": "715515020220",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 98,
+    "category": "Drame, Romance",
+    "summary": "Dans le Hong Kong des années 1960, deux voisins découvrent que leurs conjoints respectifs ont une liaison. Ils se rapprochent l'un de l'autre mais s'efforcent de ne pas reproduire la trahison qu'ils ont subie.",
+    "keywords": [
+      "Hong Kong",
+      "années 60",
+      "amour impossible",
+      "retenue",
+      "mélancolie"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "cantonais, shanghaïen",
+    "series": false,
+    "awards": [
+      "Prix d'interprétation masculine au Festival de Cannes pour Tony Leung Chiu-wai"
+    ],
+    "actors": [
+      "Tony Leung Chiu-wai",
+      "Maggie Cheung",
+      "Rebecca Pan",
+      "Lai Chen"
+    ],
+    "budget": 2500000,
+    "box_office": 12854953
+  },
+  {
+    "title": "Persona",
+    "subtitle": null,
+    "directors": ["Ingmar Bergman"],
+    "writers": ["Ingmar Bergman"],
+    "producers": ["Ingmar Bergman"],
+    "studios": ["Svensk Filmindustri"],
+    "release_date": "1966-10-18",
+    "ISBN / EAN / UPC": "715515010429",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 83,
+    "category": "Drame, Thriller psychologique",
+    "summary": "Une infirmière est chargée de s'occuper d'une actrice qui a cessé soudainement de parler. Au fur et à mesure de leur isolement, les identités des deux femmes commencent à fusionner.",
+    "keywords": ["identité", "psychologie", "dualité", "silence", "fusion"],
+    "targeted_audience": "adulte",
+    "original_language": "suédois",
+    "series": false,
+    "awards": ["Prix du Meilleur Film aux Guldbagge Awards (Suède)"],
+    "actors": [
+      "Bibi Andersson",
+      "Liv Ullmann",
+      "Margaretha Krook",
+      "Gunnar Björnstrand"
+    ],
+    "budget": 500000,
+    "box_office": 1500000
+  },
+  {
+    "title": "Seven Samurai",
+    "subtitle": "Shichinin no Samurai",
+    "directors": ["Akira Kurosawa"],
+    "writers": ["Akira Kurosawa", "Shinobu Hashimoto", "Hideo Oguni"],
+    "producers": ["Sôjirô Motoki"],
+    "studios": ["Toho Company"],
+    "release_date": "1954-04-26",
+    "ISBN / EAN / UPC": "715515010320",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 207,
+    "category": "Action, Drame, Aventure",
+    "summary": "Au Japon du XVIe siècle, un village de paysans menacé par des bandits engage sept samouraïs pour les protéger. Ces guerriers vont enseigner aux villageois à se défendre tout en se préparant à l'inévitable confrontation.",
+    "keywords": ["samouraï", "Japon féodal", "sacrifice", "honneur", "guerre"],
+    "targeted_audience": "adulte",
+    "original_language": "japonais",
+    "series": false,
+    "awards": ["Ours d'Argent au Festival de Berlin, 2 nominations aux Oscars"],
+    "actors": [
+      "Toshirô Mifune",
+      "Takashi Shimura",
+      "Keiko Tsushima",
+      "Isao Kimura"
+    ],
+    "budget": 500000,
+    "box_office": 4000000
+  },
+  {
+    "title": "Good Will Hunting",
+    "subtitle": "Will Hunting",
+    "directors": ["Gus Van Sant"],
+    "writers": ["Matt Damon", "Ben Affleck"],
+    "producers": ["Lawrence Bender"],
+    "studios": ["Miramax"],
+    "release_date": "1997-12-05",
+    "ISBN / EAN / UPC": "717951000880",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 126,
+    "category": "Drame",
+    "summary": "Un jeune homme surdoué mais rebelle travaillant comme concierge au MIT est découvert par un professeur de mathématiques. Sous l'influence d'un psychologue, il va apprendre à gérer son passé traumatique et à exploiter son potentiel.",
+    "keywords": [
+      "génie",
+      "psychologie",
+      "traumatisme",
+      "mentorat",
+      "rédemption"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "2 Oscars : Meilleur scénario original et Meilleur second rôle pour Robin Williams"
+    ],
+    "actors": ["Matt Damon", "Robin Williams", "Ben Affleck", "Minnie Driver"],
+    "budget": 10000000,
+    "box_office": 225933435
+  },
+  {
+    "title": "12 Angry Men",
+    "subtitle": "Douze hommes en colère",
+    "directors": ["Sidney Lumet"],
+    "writers": ["Reginald Rose"],
+    "producers": ["Henry Fonda", "Reginald Rose"],
+    "studios": ["Orion-Nova Productions", "United Artists"],
+    "release_date": "1957-04-10",
+    "ISBN / EAN / UPC": "027616656629",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 96,
+    "category": "Drame, Crime",
+    "summary": "Douze jurés doivent décider à l'unanimité du sort d'un jeune accusé de meurtre. Ce qui semble être une affaire évidente se transforme quand un juré solitaire commence à remettre en question les preuves.",
+    "keywords": [
+      "justice",
+      "préjugés",
+      "délibération",
+      "doute raisonnable",
+      "persuasion"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "3 nominations aux Oscars, dont Meilleur Film et Meilleur Réalisateur"
+    ],
+    "actors": ["Henry Fonda", "Lee J. Cobb", "Martin Balsam", "John Fiedler"],
+    "budget": 350000,
+    "box_office": 2000000
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "subtitle": null,
+    "directors": ["George Miller"],
+    "writers": ["George Miller", "Brendan McCarthy", "Nico Lathouris"],
+    "producers": ["George Miller", "Doug Mitchell", "P. J. Voeten"],
+    "studios": [
+      "Kennedy Miller Mitchell",
+      "Village Roadshow Pictures",
+      "Warner Bros. Pictures"
+    ],
+    "release_date": "2015-05-14",
+    "ISBN_EAN_UPC": "883929423361",
+    "format": "Blu-ray, Cinéma, Streaming",
+    "duration": 120,
+    "category": "Action, Science-Fiction, Aventure",
+    "summary": "Dans un désert post-apocalyptique, Max s'allie à Furiosa, une guerrière rebelle qui tente de sauver un groupe de femmes captives d'un tyran qui contrôle les dernières ressources d'eau.",
+    "keywords": [
+      "post-apocalyptique",
+      "désert",
+      "poursuite",
+      "survie",
+      "féminisme",
+      "rebellion"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": true,
+    "awards": [
+      "6 Oscars (2016)",
+      "BAFTA du meilleur montage",
+      "Critics' Choice Movie Award du meilleur réalisateur"
+    ],
+    "actors": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult",
+      "Hugh Keays-Byrne",
+      "Zoë Kravitz"
+    ],
+    "budget": 150000000,
+    "box_office": 375700000
+  },
+  {
+    "title": "Le Voyage de Totoro",
+    "subtitle": "Mon voisin Totoro",
+    "directors": ["Hayao Miyazaki"],
+    "writers": ["Hayao Miyazaki"],
+    "producers": ["Toru Hara"],
+    "studios": ["Studio Ghibli", "Tokuma Shoten"],
+    "release_date": "1988-04-16",
+    "ISBN_EAN_UPC": "5050582529180",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 86,
+    "category": "Animation, Fantastique, Aventure",
+    "summary": "Deux jeunes filles, Mei et Satsuki, s'installent à la campagne avec leur père pour se rapprocher de l'hôpital où séjourne leur mère. Elles découvrent l'existence d'esprits de la forêt, dont le majestueux Totoro.",
+    "keywords": [
+      "japon",
+      "nature",
+      "esprit de la forêt",
+      "enfance",
+      "imagination",
+      "campagne"
+    ],
+    "targeted_audience": "kids",
+    "original_language": "japonais",
+    "series": false,
+    "awards": [
+      "Animage Anime Grand Prix (1988)",
+      "Blue Ribbon Award du meilleur film",
+      "Mainichi Film Award"
+    ],
+    "actors": [
+      "Noriko Hidaka",
+      "Chika Sakamoto",
+      "Shigesato Itoi",
+      "Sumi Shimamoto"
+    ],
+    "budget": 3700000,
+    "box_office": 45000000
+  },
+  {
+    "title": "Django Unchained",
+    "subtitle": null,
+    "directors": ["Quentin Tarantino"],
+    "writers": ["Quentin Tarantino"],
+    "producers": ["Stacey Sher", "Reginald Hudlin", "Pilar Savone"],
+    "studios": ["Columbia Pictures", "The Weinstein Company"],
+    "release_date": "2012-12-25",
+    "ISBN_EAN_UPC": "043396417328",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 165,
+    "category": "Western, Drame, Action",
+    "summary": "Dans le sud des États-Unis, deux ans avant la guerre de Sécession, un ancien esclave s'associe à un chasseur de primes allemand pour retrouver sa femme, captive d'un riche propriétaire de plantation.",
+    "keywords": [
+      "esclavage",
+      "vengeance",
+      "western",
+      "violence",
+      "racisme",
+      "sud américain"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur scénario original",
+      "Oscar du meilleur acteur dans un second rôle (Christoph Waltz)",
+      "Golden Globe du meilleur scénario"
+    ],
+    "actors": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio",
+      "Kerry Washington",
+      "Samuel L. Jackson"
+    ],
+    "budget": 100000000,
+    "box_office": 425368238
+  },
+  {
+    "title": "Call Me by Your Name",
+    "subtitle": null,
+    "directors": ["Luca Guadagnino"],
+    "writers": ["James Ivory", "André Aciman"],
+    "producers": ["Peter Spears", "Luca Guadagnino", "Emilie Georges"],
+    "studios": ["Frenesy Film Company", "La Cinéfacture", "RT Features"],
+    "release_date": "2017-11-24",
+    "ISBN_EAN_UPC": "043396529137",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 132,
+    "category": "Drame, Romance",
+    "summary": "Durant l'été 1983 en Italie, Elio, un adolescent de 17 ans, rencontre Oliver, un étudiant américain venu assister son père universitaire. Ensemble, ils vont découvrir l'éveil du désir.",
+    "keywords": [
+      "amour",
+      "été",
+      "italie",
+      "éveil sexuel",
+      "jeunesse",
+      "LGBTQ+"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais, italien, français",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur scénario adapté",
+      "BAFTA du meilleur scénario adapté",
+      "Critics' Choice Movie Award du meilleur scénario adapté"
+    ],
+    "actors": [
+      "Timothée Chalamet",
+      "Armie Hammer",
+      "Michael Stuhlbarg",
+      "Amira Casar",
+      "Esther Garrel"
+    ],
+    "budget": 3500000,
+    "box_office": 41900000
+  },
+  {
+    "title": "Le Fabuleux Destin d'Amélie Poulain",
+    "subtitle": null,
+    "directors": ["Jean-Pierre Jeunet"],
+    "writers": ["Guillaume Laurant", "Jean-Pierre Jeunet"],
+    "producers": ["Claudie Ossard", "Jean-Marc Deschamps"],
+    "studios": ["Claudie Ossard Productions", "UGC", "France 3 Cinéma"],
+    "release_date": "2001-04-25",
+    "ISBN_EAN_UPC": "3333973156373",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 122,
+    "category": "Comédie, Romance",
+    "summary": "Amélie, serveuse timide à Montmartre, découvre sa vocation : améliorer la vie des autres grâce à des interventions discrètes et ingénieuses. Sa quête la mènera vers l'amour et sa propre libération.",
+    "keywords": ["paris", "montmartre", "destin", "hasard", "amour", "bonheur"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [
+      "5 César dont Meilleur film",
+      "Prix du public au Festival européen du film",
+      "BAFTA du meilleur scénario original"
+    ],
+    "actors": [
+      "Audrey Tautou",
+      "Mathieu Kassovitz",
+      "Rufus",
+      "Yolande Moreau",
+      "Dominique Pinon"
+    ],
+    "budget": 10000000,
+    "box_office": 174200000
+  },
+  {
+    "title": "Parasite",
+    "subtitle": "기생충",
+    "directors": ["Bong Joon-ho"],
+    "writers": ["Bong Joon-ho", "Han Jin-won"],
+    "producers": ["Kwak Sin-ae", "Bong Joon-ho", "Jang Young-hwan"],
+    "studios": ["Barunson E&A", "CJ Entertainment"],
+    "release_date": "2019-05-21",
+    "ISBN_EAN_UPC": "191329103531",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 132,
+    "category": "Drame, Thriller, Satire",
+    "summary": "Une famille pauvre s'immisce subtilement dans le quotidien d'une famille riche, avant qu'un incident imprévu ne dévoile un secret qui menace leur nouvelle position sociale.",
+    "keywords": [
+      "inégalité sociale",
+      "classe",
+      "pauvreté",
+      "imposture",
+      "corée du sud",
+      "capitalisme"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "coréen",
+    "series": false,
+    "awards": [
+      "Palme d'Or (Cannes 2019)",
+      "Oscar du meilleur film",
+      "Oscar du meilleur réalisateur",
+      "Oscar du meilleur scénario original"
+    ],
+    "actors": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik",
+      "Park So-dam"
+    ],
+    "budget": 11400000,
+    "box_office": 259500000
+  },
+  {
+    "title": "Oppenheimer",
+    "subtitle": null,
+    "directors": ["Christopher Nolan"],
+    "writers": ["Christopher Nolan", "Kai Bird", "Martin Sherwin"],
+    "producers": ["Christopher Nolan", "Emma Thomas", "Charles Roven"],
+    "studios": ["Universal Pictures", "Syncopy"],
+    "release_date": "2023-07-21",
+    "ISBN_EAN_UPC": "810080720324",
+    "format": "Cinéma, Blu-ray, Streaming",
+    "duration": 180,
+    "category": "Biopic, Drame, Historique",
+    "summary": "L'histoire de J. Robert Oppenheimer, le physicien qui a dirigé le projet Manhattan pour développer la première bombe atomique pendant la Seconde Guerre mondiale.",
+    "keywords": [
+      "bombe atomique",
+      "guerre mondiale",
+      "physique",
+      "éthique",
+      "projet manhattan",
+      "science"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film",
+      "Oscar du meilleur réalisateur",
+      "Oscar du meilleur acteur (Cillian Murphy)",
+      "Golden Globe du meilleur film dramatique"
+    ],
+    "actors": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon",
+      "Robert Downey Jr.",
+      "Florence Pugh"
+    ],
+    "budget": 100000000,
+    "box_office": 974246127
+  },
+  {
+    "title": "Inglourious Basterds",
+    "subtitle": null,
+    "directors": ["Quentin Tarantino"],
+    "writers": ["Quentin Tarantino"],
+    "producers": ["Lawrence Bender", "Quentin Tarantino", "Erica Steinberg"],
+    "studios": ["Universal Pictures", "The Weinstein Company", "A Band Apart"],
+    "release_date": "2009-05-20",
+    "ISBN_EAN_UPC": "025192018428",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 153,
+    "category": "Guerre, Drame, Aventure",
+    "summary": "Dans la France occupée pendant la Seconde Guerre mondiale, un groupe de soldats juifs américains prépare un attentat contre les dirigeants du Troisième Reich lors d'une première de film.",
+    "keywords": [
+      "nazisme",
+      "vengeance",
+      "seconde guerre mondiale",
+      "france occupée",
+      "résistance",
+      "uchronie"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais, allemand, français, italien",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur acteur dans un second rôle (Christoph Waltz)",
+      "Prix d'interprétation masculine à Cannes",
+      "BAFTA du meilleur acteur dans un second rôle"
+    ],
+    "actors": [
+      "Brad Pitt",
+      "Christoph Waltz",
+      "Mélanie Laurent",
+      "Eli Roth",
+      "Diane Kruger"
+    ],
+    "budget": 70000000,
+    "box_office": 321600000
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "subtitle": null,
+    "directors": ["Bob Persichetti", "Peter Ramsey", "Rodney Rothman"],
+    "writers": ["Phil Lord", "Rodney Rothman"],
+    "producers": ["Avi Arad", "Amy Pascal", "Phil Lord", "Christopher Miller"],
+    "studios": [
+      "Columbia Pictures",
+      "Sony Pictures Animation",
+      "Marvel Entertainment"
+    ],
+    "release_date": "2018-12-14",
+    "ISBN_EAN_UPC": "043396526983",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 117,
+    "category": "Animation, Action, Science-Fiction",
+    "summary": "Miles Morales, adolescent de Brooklyn, devient le nouveau Spider-Man et découvre l'existence du multivers, où plusieurs versions alternatives de l'homme-araignée existent.",
+    "keywords": [
+      "super-héros",
+      "multivers",
+      "coming-of-age",
+      "identité",
+      "animation",
+      "marvel"
+    ],
+    "targeted_audience": "teenager",
+    "original_language": "anglais",
+    "series": true,
+    "awards": [
+      "Oscar du meilleur film d'animation",
+      "Golden Globe du meilleur film d'animation",
+      "BAFTA du meilleur film d'animation"
+    ],
+    "actors": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali",
+      "Nicolas Cage"
+    ],
+    "budget": 90000000,
+    "box_office": 375500000
+  },
+  {
+    "title": "The Lighthouse",
+    "subtitle": null,
+    "directors": ["Robert Eggers"],
+    "writers": ["Robert Eggers", "Max Eggers"],
+    "producers": ["Rodrigo Teixeira", "Jay Van Hoy", "Robert Eggers"],
+    "studios": ["A24", "Regency Enterprises", "RT Features"],
+    "release_date": "2019-10-18",
+    "ISBN_EAN_UPC": "031398316664",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 109,
+    "category": "Horreur, Drame, Fantastique",
+    "summary": "Dans les années 1890, deux gardiens de phare s'installent sur une île mystérieuse et isolée de Nouvelle-Angleterre. La promiscuité et la solitude les poussent vers une folie grandissante.",
+    "keywords": [
+      "isolement",
+      "folie",
+      "mer",
+      "mythologie",
+      "phare",
+      "noir et blanc"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Independent Spirit Award de la meilleure photographie",
+      "Critics' Choice Movie Award de la meilleure photographie"
+    ],
+    "actors": ["Robert Pattinson", "Willem Dafoe"],
+    "budget": 4000000,
+    "box_office": 18100000
+  },
+  {
+    "title": "La Vie est Belle",
+    "subtitle": "La vita è bella",
+    "directors": ["Roberto Benigni"],
+    "writers": ["Roberto Benigni", "Vincenzo Cerami"],
+    "producers": ["Elda Ferri", "Gianluigi Braschi"],
+    "studios": ["Melampo Cinematografica", "Cecchi Gori Group"],
+    "release_date": "1997-12-20",
+    "ISBN_EAN_UPC": "717951000699",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 116,
+    "category": "Comédie dramatique, Guerre",
+    "summary": "Un libraire juif italien utilise son imagination pour protéger son fils des horreurs d'un camp de concentration nazi en lui faisant croire qu'il s'agit d'un jeu complexe.",
+    "keywords": [
+      "holocauste",
+      "seconde guerre mondiale",
+      "humour",
+      "père-fils",
+      "imagination",
+      "italie"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "italien",
+    "series": false,
+    "awards": [
+      "3 Oscars dont Meilleur film étranger et Meilleur acteur",
+      "Grand Prix du Jury à Cannes",
+      "César du meilleur film étranger"
+    ],
+    "actors": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini",
+      "Giustino Durano"
+    ],
+    "budget": 20000000,
+    "box_office": 230000000
+  },
+  {
+    "title": "Ladri di biciclette",
+    "subtitle": "Le Voleur de bicyclette",
+    "directors": ["Vittorio De Sica"],
+    "writers": ["Cesare Zavattini", "Vittorio De Sica"],
+    "producers": ["Giuseppe Amato", "Vittorio De Sica"],
+    "studios": ["Produzioni De Sica"],
+    "release_date": "1948-11-24",
+    "ISBN_EAN_UPC": "5050629000252",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 93,
+    "category": "Drame, Néo-réalisme",
+    "summary": "Dans l'Italie d'après-guerre, un homme et son jeune fils cherchent désespérément dans les rues de Rome la bicyclette volée qui est essentielle à leur survie économique.",
+    "keywords": [
+      "néoréalisme italien",
+      "pauvreté",
+      "après-guerre",
+      "père-fils",
+      "rome",
+      "justice"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "italien",
+    "series": false,
+    "awards": [
+      "Oscar d'honneur 1950",
+      "BAFTA du meilleur film",
+      "Prix de la critique internationale à la Mostra de Venise"
+    ],
+    "actors": [
+      "Lamberto Maggiorani",
+      "Enzo Staiola",
+      "Lianella Carell",
+      "Gino Saltamerenda"
+    ],
+    "budget": 133000,
+    "box_office": 5000000
+  },
+  {
+    "title": "Stalker",
+    "subtitle": null,
+    "directors": ["Andreï Tarkovski"],
+    "writers": ["Andreï Tarkovski", "Arkadi Strougatski", "Boris Strougatski"],
+    "producers": ["Aleksandra Demidova"],
+    "studios": ["Mosfilm"],
+    "release_date": "1979-05-25",
+    "ISBN_EAN_UPC": "5060126871359",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 162,
+    "category": "Science-Fiction, Drame, Philosophique",
+    "summary": "Dans un avenir post-apocalyptique, un guide surnommé le Stalker conduit deux clients à travers une zone mystérieuse et interdite où les lois de la physique ne s'appliquent plus.",
+    "keywords": [
+      "zone",
+      "quête spirituelle",
+      "cinéma soviétique",
+      "philosophie",
+      "désir",
+      "métaphysique"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "russe",
+    "series": false,
+    "awards": [
+      "Prix FIPRESCI au Festival de Cannes",
+      "British Film Institute Top 50 Films"
+    ],
+    "actors": [
+      "Alexandre Kaïdanovski",
+      "Anatoli Solonitsyne",
+      "Nikolaï Grinko",
+      "Alissa Freindlich"
+    ],
+    "budget": 1000000,
+    "box_office": null
+  },
+  {
+    "title": "Persepolis",
+    "subtitle": null,
+    "directors": ["Marjane Satrapi", "Vincent Paronnaud"],
+    "writers": ["Marjane Satrapi", "Vincent Paronnaud"],
+    "producers": ["Marc Jousset", "Xavier Rigault"],
+    "studios": [
+      "2.4.7 Films",
+      "France 3 Cinéma",
+      "The Kennedy/Marshall Company"
+    ],
+    "release_date": "2007-06-27",
+    "ISBN_EAN_UPC": "3333297871878",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 96,
+    "category": "Animation, Biographie, Drame",
+    "summary": "Autobiographie animée de Marjane Satrapi, qui raconte son enfance en Iran pendant la révolution islamique, sa jeunesse en exil en Autriche et son retour difficile dans son pays.",
+    "keywords": [
+      "iran",
+      "révolution",
+      "identité",
+      "féminisme",
+      "exil",
+      "autobiographie"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [
+      "Prix du Jury à Cannes",
+      "César du meilleur premier film",
+      "César de la meilleure adaptation"
+    ],
+    "actors": [
+      "Chiara Mastroianni",
+      "Catherine Deneuve",
+      "Danielle Darrieux",
+      "Simon Abkarian",
+      "Gabrielle Lopes"
+    ],
+    "budget": 7300000,
+    "box_office": 22800000
+  },
+  {
+    "title": "Léon",
+    "subtitle": "The Professional",
+    "directors": ["Luc Besson"],
+    "writers": ["Luc Besson"],
+    "producers": ["Patrice Ledoux", "Luc Besson"],
+    "studios": ["Gaumont", "Les Films du Dauphin"],
+    "release_date": "1994-09-14",
+    "ISBN_EAN_UPC": "043396315792",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 110,
+    "category": "Action, Drame, Thriller",
+    "summary": "Léon, un tueur à gages solitaire, devient le protecteur de Mathilda, une fillette de 12 ans dont la famille a été assassinée par un agent corrompu de la DEA.",
+    "keywords": [
+      "tueur à gages",
+      "vengeance",
+      "new york",
+      "relation père-fille",
+      "violence",
+      "innocence"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["César du meilleur réalisateur", "César du meilleur film"],
+    "actors": [
+      "Jean Reno",
+      "Natalie Portman",
+      "Gary Oldman",
+      "Danny Aiello",
+      "Peter Appel"
+    ],
+    "budget": 16000000,
+    "box_office": 45287009
+  },
+  {
+    "title": "La Jetée",
+    "subtitle": null,
+    "directors": ["Chris Marker"],
+    "writers": ["Chris Marker"],
+    "producers": ["Anatole Dauman"],
+    "studios": ["Argos Films"],
+    "release_date": "1962-02-16",
+    "ISBN_EAN_UPC": "5055134100042",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 28,
+    "category": "Science-Fiction, Expérimental, Drame",
+    "summary": "Après une guerre nucléaire, des scientifiques envoient un homme dans le temps pour sauver le présent. Composé presque entièrement de photographies fixes, le film explore la mémoire et le temps.",
+    "keywords": [
+      "voyage dans le temps",
+      "photomontage",
+      "guerre nucléaire",
+      "mémoire",
+      "apocalypse",
+      "boucle temporelle"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["Prix Jean Vigo", "Sélection à la Berlinale"],
+    "actors": [
+      "Hélène Chatelain",
+      "Davos Hanich",
+      "Jacques Ledoux",
+      "Jean Négroni"
+    ],
+    "budget": 20000,
+    "box_office": null
+  },
+  {
+    "title": "Rashômon",
+    "subtitle": null,
+    "directors": ["Akira Kurosawa"],
+    "writers": ["Akira Kurosawa", "Shinobu Hashimoto"],
+    "producers": ["Minoru Jingo"],
+    "studios": ["Daiei Film"],
+    "release_date": "1950-08-25",
+    "ISBN_EAN_UPC": "043396428393",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 88,
+    "category": "Drame, Crime, Mystère",
+    "summary": "Quatre versions contradictoires d'un crime - le viol d'une femme et le meurtre de son mari - sont présentées par les différents témoins et participants, y compris le fantôme du défunt.",
+    "keywords": [
+      "japon féodal",
+      "vérité",
+      "perspective",
+      "témoignage",
+      "justice",
+      "relativisme"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "japonais",
+    "series": false,
+    "awards": [
+      "Lion d'or à la Mostra de Venise",
+      "Oscar d'honneur du meilleur film étranger",
+      "Prix principal au Festival de Cannes"
+    ],
+    "actors": [
+      "Toshirō Mifune",
+      "Machiko Kyō",
+      "Masayuki Mori",
+      "Takashi Shimura"
+    ],
+    "budget": 250000,
+    "box_office": null
+  },
+  {
+    "title": "The Truman Show",
+    "subtitle": null,
+    "directors": ["Peter Weir"],
+    "writers": ["Andrew Niccol"],
+    "producers": ["Scott Rudin", "Andrew Niccol", "Edward S. Feldman"],
+    "studios": ["Paramount Pictures", "Scott Rudin Productions"],
+    "release_date": "1998-06-05",
+    "ISBN_EAN_UPC": "097363358640",
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 103,
+    "category": "Drame, Comédie, Science-Fiction",
+    "summary": "Truman Burbank mène une vie paisible jusqu'au jour où il découvre qu'il vit depuis sa naissance dans un monde artificiel, filmé en continu et diffusé en direct à la télévision.",
+    "keywords": [
+      "télé-réalité",
+      "surveillance",
+      "liberté",
+      "identité",
+      "médias",
+      "manipulation"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Golden Globe du meilleur acteur (Jim Carrey)",
+      "BAFTA du meilleur scénario original",
+      "Saturn Award du meilleur film de science-fiction"
+    ],
+    "actors": [
+      "Jim Carrey",
+      "Laura Linney",
+      "Ed Harris",
+      "Noah Emmerich",
+      "Natascha McElhone"
+    ],
+    "budget": 60000000,
+    "box_office": 264100000
+  },
+  {
+    "title": "Metropolis",
+    "subtitle": null,
+    "directors": ["Fritz Lang"],
+    "writers": ["Thea von Harbou", "Fritz Lang"],
+    "producers": ["Erich Pommer"],
+    "studios": ["UFA"],
+    "release_date": "1927-01-10",
+    "ISBN": null,
+    "format": "Blu-ray, DVD, Streaming",
+    "duration": 153,
+    "category": "Science-Fiction",
+    "summary": "Dans une ville futuriste divisée entre les élites et les ouvriers, le fils du maître de la ville tombe amoureux d'une prophétesse qui prêche la paix entre les classes sociales.",
+    "keywords": [
+      "futurisme",
+      "dystopie",
+      "lutte des classes",
+      "expressionnisme allemand",
+      "robot"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "allemand",
+    "series": false,
+    "awards": [
+      "Inscrit au Registre international Mémoire du monde de l'UNESCO"
+    ],
+    "actors": [
+      "Alfred Abel",
+      "Gustav Fröhlich",
+      "Brigitte Helm",
+      "Rudolf Klein-Rogge"
+    ],
+    "budget": 5300000,
+    "box_office": 1000000
+  },
+  {
+    "title": "Le Septième Sceau",
+    "subtitle": "Det sjunde inseglet",
+    "directors": ["Ingmar Bergman"],
+    "writers": ["Ingmar Bergman"],
+    "producers": ["Allan Ekelund"],
+    "studios": ["Svensk Filmindustri"],
+    "release_date": "1957-02-16",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 96,
+    "category": "Drame, Fantastique",
+    "summary": "Un chevalier revenu des croisades joue une partie d'échecs avec la Mort, espérant gagner du temps pour accomplir un acte significatif avant de mourir.",
+    "keywords": [
+      "mort",
+      "peste noire",
+      "moyen âge",
+      "échecs",
+      "existentialisme"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "suédois",
+    "series": false,
+    "awards": ["Prix spécial du jury au Festival de Cannes 1957"],
+    "actors": [
+      "Max von Sydow",
+      "Gunnar Björnstrand",
+      "Bengt Ekerot",
+      "Nils Poppe"
+    ],
+    "budget": 150000,
+    "box_office": 2300000
+  },
+  {
+    "title": "La Dolce Vita",
+    "subtitle": null,
+    "directors": ["Federico Fellini"],
+    "writers": [
+      "Federico Fellini",
+      "Ennio Flaiano",
+      "Tullio Pinelli",
+      "Brunello Rondi"
+    ],
+    "producers": ["Giuseppe Amato", "Angelo Rizzoli"],
+    "studios": ["Riama Film", "Pathé Consortium Cinéma"],
+    "release_date": "1960-02-05",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 174,
+    "category": "Drame, Comédie",
+    "summary": "Un journaliste mondain erre dans la haute société romaine à la recherche de sensations fortes, tout en questionnant le vide de sa propre existence.",
+    "keywords": [
+      "Rome",
+      "jet-set",
+      "décadence",
+      "cinéma italien",
+      "aliénation"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "italien",
+    "series": false,
+    "awards": [
+      "Palme d'Or du Festival de Cannes 1960",
+      "Oscar du meilleur costume 1962"
+    ],
+    "actors": [
+      "Marcello Mastroianni",
+      "Anita Ekberg",
+      "Anouk Aimée",
+      "Yvonne Furneaux"
+    ],
+    "budget": 750000,
+    "box_office": 19500000
+  },
+  {
+    "title": "Solaris",
+    "subtitle": "Солярис",
+    "directors": ["Andreï Tarkovski"],
+    "writers": ["Stanislaw Lem", "Andreï Tarkovski", "Friedrich Gorenstein"],
+    "producers": ["Viatcheslav Tarassov"],
+    "studios": ["Mosfilm"],
+    "release_date": "1972-05-13",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 167,
+    "category": "Science-Fiction, Drame",
+    "summary": "Un psychologue est envoyé sur une station orbitale autour de la planète Solaris pour enquêter sur d'étranges phénomènes. Il y est confronté à une manifestation de son épouse décédée.",
+    "keywords": ["espace", "conscience", "mémoire", "perte", "philosophie"],
+    "targeted_audience": "adulte",
+    "original_language": "russe",
+    "series": false,
+    "awards": ["Grand Prix du Jury au Festival de Cannes 1972"],
+    "actors": [
+      "Donatas Banionis",
+      "Natalya Bondarchuk",
+      "Jüri Järvet",
+      "Anatoly Solonitsyn"
+    ],
+    "budget": 1000000,
+    "box_office": 3000000
+  },
+  {
+    "title": "2001 : L'Odyssée de l'espace",
+    "subtitle": "2001: A Space Odyssey",
+    "directors": ["Stanley Kubrick"],
+    "writers": ["Stanley Kubrick", "Arthur C. Clarke"],
+    "producers": ["Stanley Kubrick"],
+    "studios": ["Metro-Goldwyn-Mayer", "Stanley Kubrick Productions"],
+    "release_date": "1968-04-03",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 149,
+    "category": "Science-Fiction",
+    "summary": "Un monolithe noir mystérieux influence l'évolution humaine, des hommes préhistoriques à une mission spatiale vers Jupiter, où l'ordinateur de bord HAL 9000 commence à développer une conscience inquiétante.",
+    "keywords": [
+      "espace",
+      "intelligence artificielle",
+      "évolution",
+      "monolithe",
+      "existentialisme"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": true,
+    "awards": ["Oscar des meilleurs effets visuels 1969"],
+    "actors": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "William Sylvester",
+      "Douglas Rain"
+    ],
+    "budget": 10500000,
+    "box_office": 146000000
+  },
+  {
+    "title": "Le Conformiste",
+    "subtitle": "Il Conformista",
+    "directors": ["Bernardo Bertolucci"],
+    "writers": ["Bernardo Bertolucci", "Alberto Moravia"],
+    "producers": ["Maurizio Lodi-Fe"],
+    "studios": ["Mars Film", "Marianne Productions", "Maran Film"],
+    "release_date": "1970-10-21",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 113,
+    "category": "Drame, Thriller politique",
+    "summary": "Dans l'Italie fasciste des années 1930, un homme cherche à s'intégrer dans la société en rejoignant le parti fasciste et accepte une mission d'assassinat politique.",
+    "keywords": [
+      "fascisme",
+      "conformisme",
+      "identité",
+      "sexualité",
+      "politique"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "italien",
+    "series": false,
+    "awards": ["David di Donatello du meilleur film 1971"],
+    "actors": [
+      "Jean-Louis Trintignant",
+      "Stefania Sandrelli",
+      "Dominique Sanda",
+      "Pierre Clémenti"
+    ],
+    "budget": 750000,
+    "box_office": 3500000
+  },
+  {
+    "title": "Le Ruban blanc",
+    "subtitle": "Das weiße Band",
+    "directors": ["Michael Haneke"],
+    "writers": ["Michael Haneke"],
+    "producers": ["Stefan Arndt", "Margaret Ménégoz", "Veit Heiduschka"],
+    "studios": ["X-Filme Creative Pool", "Wega Film", "Les Films du Losange"],
+    "release_date": "2009-10-21",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 144,
+    "category": "Drame, Mystère",
+    "summary": "Dans un village protestant du nord de l'Allemagne à la veille de la Première Guerre mondiale, d'étranges accidents surviennent qui prennent peu à peu l'apparence d'un rituel punitif.",
+    "keywords": [
+      "autoritarisme",
+      "violence",
+      "enfance",
+      "religion",
+      "patriarcat"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "allemand",
+    "series": false,
+    "awards": [
+      "Palme d'Or du Festival de Cannes 2009",
+      "Golden Globe du meilleur film étranger 2010"
+    ],
+    "actors": [
+      "Christian Friedel",
+      "Ernst Jacobi",
+      "Leonie Benesch",
+      "Ulrich Tukur"
+    ],
+    "budget": 13500000,
+    "box_office": 16700000
+  },
+  {
+    "title": "Le Tombeau des lucioles",
+    "subtitle": "火垂るの墓",
+    "directors": ["Isao Takahata"],
+    "writers": ["Isao Takahata", "Akiyuki Nosaka"],
+    "producers": ["Toru Hara"],
+    "studios": ["Studio Ghibli"],
+    "release_date": "1988-04-16",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 89,
+    "category": "Animation, Drame, Guerre",
+    "summary": "Pendant la Seconde Guerre mondiale au Japon, un jeune garçon et sa petite sœur luttent pour survivre après avoir perdu leurs parents dans les bombardements.",
+    "keywords": ["guerre", "survie", "Japon", "orphelins", "bombardements"],
+    "targeted_audience": "adulte",
+    "original_language": "japonais",
+    "series": false,
+    "awards": ["Blue Ribbon Award du meilleur film 1989"],
+    "actors": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Yoshiko Shinohara",
+      "Akemi Yamaguchi"
+    ],
+    "budget": 3700000,
+    "box_office": 5600000
+  },
+  {
+    "title": "Chungking Express",
+    "subtitle": "重慶森林",
+    "directors": ["Wong Kar-wai"],
+    "writers": ["Wong Kar-wai"],
+    "producers": ["Chan Ye-cheng"],
+    "studios": ["Jet Tone Production"],
+    "release_date": "1994-07-14",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 102,
+    "category": "Drame, Romance",
+    "summary": "Deux histoires d'amour se déroulent à Hong Kong : un policier obsédé par une date d'expiration et une serveuse qui s'introduit chez un autre policier pour modifier subtilement son appartement.",
+    "keywords": [
+      "Hong Kong",
+      "solitude",
+      "amour",
+      "communication",
+      "urbanisme"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "cantonais, mandarin",
+    "series": false,
+    "awards": ["Prix du meilleur film au Festival de Hong Kong 1995"],
+    "actors": [
+      "Takeshi Kaneshiro",
+      "Brigitte Lin",
+      "Tony Leung Chiu-wai",
+      "Faye Wong"
+    ],
+    "budget": 900000,
+    "box_office": 2800000
+  },
+  {
+    "title": "Funny Games",
+    "subtitle": null,
+    "directors": ["Michael Haneke"],
+    "writers": ["Michael Haneke"],
+    "producers": ["Veit Heiduschka"],
+    "studios": ["Wega Film"],
+    "release_date": "1997-05-14",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 108,
+    "category": "Thriller, Horreur psychologique",
+    "summary": "Une famille en vacances est prise en otage par deux jeunes hommes qui les forcent à participer à des jeux sadiques, brisant continuellement le quatrième mur pour impliquer les spectateurs.",
+    "keywords": [
+      "violence",
+      "jeux",
+      "torture psychologique",
+      "méta-cinéma",
+      "critique sociale"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "allemand",
+    "series": false,
+    "awards": ["Sélection officielle au Festival de Cannes 1997"],
+    "actors": ["Susanne Lothar", "Ulrich Mühe", "Arno Frisch", "Frank Giering"],
+    "budget": 1000000,
+    "box_office": 1600000
+  },
+  {
+    "title": "Aguirre, la colère de Dieu",
+    "subtitle": "Aguirre, der Zorn Gottes",
+    "directors": ["Werner Herzog"],
+    "writers": ["Werner Herzog"],
+    "producers": ["Werner Herzog"],
+    "studios": ["Werner Herzog Filmproduktion", "Hessischer Rundfunk"],
+    "release_date": "1972-12-29",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 95,
+    "category": "Aventure, Drame historique",
+    "summary": "Au XVIe siècle, une expédition espagnole part à la recherche de l'Eldorado dans la jungle amazonienne. Le second de l'expédition, Lope de Aguirre, se révolte et s'enfonce dans une folie mégalomaniaque.",
+    "keywords": ["conquête", "folie", "Eldorado", "jungle", "colonialisme"],
+    "targeted_audience": "adulte",
+    "original_language": "allemand",
+    "series": false,
+    "awards": ["Prix du meilleur film au Festival de Carthagène 1973"],
+    "actors": ["Klaus Kinski", "Helena Rojo", "Ruy Guerra", "Del Negro"],
+    "budget": 370000,
+    "box_office": 2500000
+  },
+  {
+    "title": "Sans Soleil",
+    "subtitle": null,
+    "directors": ["Chris Marker"],
+    "writers": ["Chris Marker"],
+    "producers": ["Argos Films"],
+    "studios": ["Argos Films"],
+    "release_date": "1983-03-02",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 100,
+    "category": "Documentaire, Essai",
+    "summary": "Une femme lit les lettres d'un caméraman voyageur qui médite sur le temps, la mémoire et l'histoire à travers des images du Japon, de l'Afrique et d'autres lieux.",
+    "keywords": [
+      "mémoire",
+      "voyage",
+      "temps",
+      "Japon",
+      "essai cinématographique"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["British Film Institute Top 50 Greatest Films of All Time"],
+    "actors": ["Florence Delay", "Alexandra Stewart", "Arielle Dombasle"],
+    "budget": 200000,
+    "box_office": 800000
+  },
+  {
+    "title": "The Act of Killing",
+    "subtitle": null,
+    "directors": ["Joshua Oppenheimer", "Christine Cynn", "Anonyme"],
+    "writers": ["Joshua Oppenheimer"],
+    "producers": ["Signe Byrge Sørensen", "Joram ten Brink", "Anne Köhncke"],
+    "studios": ["Final Cut for Real", "Piraya Film AS", "Novaya Zemlya"],
+    "release_date": "2012-08-31",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 159,
+    "category": "Documentaire",
+    "summary": "Des anciens bourreaux du régime de Suharto en Indonésie reconstituent leurs crimes devant la caméra, créant des scènes inspirées de leurs films préférés.",
+    "keywords": [
+      "Indonésie",
+      "génocide",
+      "mémoire",
+      "reconstitution",
+      "crimes contre l'humanité"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "indonésien",
+    "series": false,
+    "awards": [
+      "BAFTA du meilleur documentaire 2014",
+      "Prix du jury au Festival de Sundance 2013"
+    ],
+    "actors": ["Anwar Congo", "Herman Koto", "Syamsul Arifin", "Ibrahim Sinik"],
+    "budget": 1000000,
+    "box_office": 1200000
+  },
+  {
+    "title": "La Planète sauvage",
+    "subtitle": null,
+    "directors": ["René Laloux"],
+    "writers": ["René Laloux", "Roland Topor", "Stefan Wul"],
+    "producers": ["André Valio-Cavaglione"],
+    "studios": ["Les Films Armorial", "Czechoslovak Television"],
+    "release_date": "1973-12-01",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 72,
+    "category": "Animation, Science-Fiction",
+    "summary": "Sur une planète lointaine, des humanoïdes géants bleus, les Draags, gardent des humains comme animaux de compagnie. Un homme tente d'unifier les humains pour se libérer de l'oppression.",
+    "keywords": [
+      "animation",
+      "science-fiction",
+      "oppression",
+      "rébellion",
+      "extraterrestres"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["Prix spécial du jury au Festival de Cannes 1973"],
+    "actors": ["Jean Valmont", "Jennifer Drake", "Eric Baugin", "Jean Topart"],
+    "budget": 800000,
+    "box_office": 1500000
+  },
+  {
+    "title": "Caché",
+    "subtitle": null,
+    "directors": ["Michael Haneke"],
+    "writers": ["Michael Haneke"],
+    "producers": ["Margaret Ménégoz", "Veit Heiduschka"],
+    "studios": ["Les Films du Losange", "Wega Film"],
+    "release_date": "2005-10-05",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 117,
+    "category": "Drame, Thriller",
+    "summary": "Un couple bourgeois parisien reçoit des cassettes vidéo montrant leur maison filmée de l'extérieur, accompagnées de dessins inquiétants. Ils cherchent à comprendre qui les surveille.",
+    "keywords": [
+      "surveillance",
+      "culpabilité",
+      "passé colonial",
+      "bourgeoisie",
+      "violence"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [
+      "Prix de la mise en scène au Festival de Cannes 2005",
+      "Prix du Film Européen du meilleur film 2005"
+    ],
+    "actors": [
+      "Daniel Auteuil",
+      "Juliette Binoche",
+      "Maurice Bénichou",
+      "Annie Girardot"
+    ],
+    "budget": 4000000,
+    "box_office": 16200000
+  },
+  {
+    "title": "Beau Travail",
+    "subtitle": null,
+    "directors": ["Claire Denis"],
+    "writers": ["Claire Denis", "Jean-Pol Fargeau"],
+    "producers": ["Patrick Grandperret", "Jérôme Minet"],
+    "studios": ["La Sept-Arte", "S.M. Films", "Tanais"],
+    "release_date": "1999-08-03",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 93,
+    "category": "Drame",
+    "summary": "Un ex-officier de la Légion étrangère en poste à Djibouti se souvient de sa jalousie obsessionnelle envers une jeune recrue qui a provoqué sa chute.",
+    "keywords": [
+      "légion étrangère",
+      "obsession",
+      "jalousie",
+      "masculinité",
+      "désert"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["Prix Fipresci à la Mostra de Venise 1999"],
+    "actors": [
+      "Denis Lavant",
+      "Michel Subor",
+      "Grégoire Colin",
+      "Richard Courcet"
+    ],
+    "budget": 2300000,
+    "box_office": 3600000
+  },
+  {
+    "title": "La Double Vie de Véronique",
+    "subtitle": "Podwójne życie Weroniki",
+    "directors": ["Krzysztof Kieślowski"],
+    "writers": ["Krzysztof Kieślowski", "Krzysztof Piesiewicz"],
+    "producers": ["Leonardo de la Fuente"],
+    "studios": ["Sidéral Productions", "Tor Production", "Canal+"],
+    "release_date": "1991-05-15",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 98,
+    "category": "Drame, Fantastique",
+    "summary": "Deux femmes identiques, l'une polonaise, l'autre française, ne se connaissent pas mais partagent une connexion mystique. Quand l'une meurt, l'autre ressent sa perte sans la comprendre.",
+    "keywords": [
+      "dualité",
+      "identité",
+      "musique",
+      "destin",
+      "connexion spirituelle"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "français, polonais",
+    "series": false,
+    "awards": ["Prix du jury au Festival de Cannes 1991", "Prix FIPRESCI"],
+    "actors": [
+      "Irène Jacob",
+      "Philippe Volter",
+      "Sandrine Dumas",
+      "Aleksander Bardini"
+    ],
+    "budget": 3000000,
+    "box_office": 8000000
+  },
+  {
+    "title": "Hiroshima mon amour",
+    "subtitle": null,
+    "directors": ["Alain Resnais"],
+    "writers": ["Marguerite Duras"],
+    "producers": ["Samy Halfon", "Anatole Dauman"],
+    "studios": ["Argos Films", "Como Films", "Daiei Studios"],
+    "release_date": "1959-06-10",
+    "ISBN": null,
+    "format": "DVD, Blu-ray, Streaming",
+    "duration": 90,
+    "category": "Drame, Romance",
+    "summary": "Une actrice française en tournage à Hiroshima a une liaison avec un architecte japonais. Leurs souvenirs personnels se mêlent aux traumatismes de la guerre et de la bombe atomique.",
+    "keywords": ["Hiroshima", "mémoire", "amour", "guerre", "trauma"],
+    "targeted_audience": "adulte",
+    "original_language": "français, japonais",
+    "series": false,
+    "awards": ["Prix FIPRESCI au Festival de Cannes 1959", "Prix Méliès 1959"],
+    "actors": [
+      "Emmanuelle Riva",
+      "Eiji Okada",
+      "Stella Dassas",
+      "Pierre Barbaud"
+    ],
+    "budget": 500000,
+    "box_office": 2500000
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "subtitle": null,
+    "directors": ["Frank Darabont"],
+    "writers": ["Frank Darabont", "Stephen King"],
+    "producers": ["Niki Marvin"],
+    "studios": ["Castle Rock Entertainment"],
+    "release_date": "1994-09-23",
+    "ISBN_EAN_UPC": "085391163121",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 142,
+    "category": "Drame",
+    "summary": "Andy Dufresne, condamné à perpétuité pour le meurtre de sa femme et de son amant, est envoyé à la prison de Shawshank. Il va y lier amitié avec Red, un détenu qui possède des contacts à l'intérieur et à l'extérieur de la prison.",
+    "keywords": ["prison", "évasion", "rédemption", "amitié", "espoir"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": ["7 nominations aux Oscars", "Golden Globe du meilleur scénario"],
+    "actors": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler",
+      "Clancy Brown"
+    ],
+    "budget": 25000000,
+    "box_office": 58300000
+  },
+  {
+    "title": "La vie est belle",
+    "subtitle": "La vita è bella",
+    "directors": ["Roberto Benigni"],
+    "writers": ["Roberto Benigni", "Vincenzo Cerami"],
+    "producers": ["Elda Ferri", "Gianluigi Braschi"],
+    "studios": ["Melampo Cinematografica", "Cecchi Gori Group"],
+    "release_date": "1997-12-20",
+    "ISBN_EAN_UPC": "8030282000047",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 116,
+    "category": "Comédie dramatique, Guerre",
+    "summary": "En 1938, Guido, un jeune homme plein de gaieté, débarque en Toscane. Il tombe amoureux de Dora et l'épouse malgré l'opposition de ses parents. Plusieurs années après, Guido et son fils sont déportés dans un camp de concentration. Pour protéger son fils, Guido lui fait croire qu'il s'agit d'un jeu.",
+    "keywords": [
+      "Seconde Guerre mondiale",
+      "Holocauste",
+      "amour",
+      "famille",
+      "optimisme"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Italien",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film étranger",
+      "Oscar du meilleur acteur",
+      "Grand Prix du Jury à Cannes"
+    ],
+    "actors": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini",
+      "Giustino Durano"
+    ],
+    "budget": 20000000,
+    "box_office": 230000000
+  },
+  {
+    "title": "Trois Billboards : Les Panneaux de la vengeance",
+    "subtitle": "Three Billboards Outside Ebbing, Missouri",
+    "directors": ["Martin McDonagh"],
+    "writers": ["Martin McDonagh"],
+    "producers": ["Graham Broadbent", "Pete Czernin", "Martin McDonagh"],
+    "studios": [
+      "Fox Searchlight Pictures",
+      "Film4 Productions",
+      "Blueprint Pictures"
+    ],
+    "release_date": "2017-11-10",
+    "ISBN_EAN_UPC": "024543522539",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 115,
+    "category": "Drame, Crime",
+    "summary": "Après des mois sans que l'enquête sur la mort de sa fille ait avancé, Mildred Hayes prend les choses en main, affichant un message controversé visant le très respecté chef de la police sur trois grands panneaux à l'entrée de leur ville.",
+    "keywords": [
+      "vengeance",
+      "justice",
+      "deuil",
+      "petite ville",
+      "enquête policière"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar de la meilleure actrice",
+      "Oscar du meilleur acteur dans un second rôle",
+      "Golden Globe du meilleur film dramatique"
+    ],
+    "actors": [
+      "Frances McDormand",
+      "Woody Harrelson",
+      "Sam Rockwell",
+      "John Hawkes",
+      "Peter Dinklage"
+    ],
+    "budget": 15000000,
+    "box_office": 160000000
+  },
+  {
+    "title": "La Forme de l'eau",
+    "subtitle": "The Shape of Water",
+    "directors": ["Guillermo del Toro"],
+    "writers": ["Guillermo del Toro", "Vanessa Taylor"],
+    "producers": ["Guillermo del Toro", "J. Miles Dale"],
+    "studios": ["Fox Searchlight Pictures", "TSG Entertainment"],
+    "release_date": "2017-12-01",
+    "ISBN_EAN_UPC": "024543438595",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 123,
+    "category": "Fantastique, Romance, Drame",
+    "summary": "Dans un laboratoire gouvernemental secret des années 1960, une femme de ménage muette se lie d'amitié avec une créature amphibienne gardée en captivité et soumise à des expériences.",
+    "keywords": [
+      "créature",
+      "amour interdit",
+      "Guerre froide",
+      "handicap",
+      "tolérance"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film",
+      "Oscar du meilleur réalisateur",
+      "Lion d'or à Venise"
+    ],
+    "actors": [
+      "Sally Hawkins",
+      "Michael Shannon",
+      "Richard Jenkins",
+      "Doug Jones",
+      "Octavia Spencer"
+    ],
+    "budget": 19500000,
+    "box_office": 195000000
+  },
+  {
+    "title": "Birdman",
+    "subtitle": "ou (La Surprenante Vertu de l'ignorance)",
+    "directors": ["Alejandro González Iñárritu"],
+    "writers": [
+      "Alejandro González Iñárritu",
+      "Nicolás Giacobone",
+      "Alexander Dinelaris Jr.",
+      "Armando Bo"
+    ],
+    "producers": [
+      "Alejandro González Iñárritu",
+      "John Lesher",
+      "Arnon Milchan",
+      "James W. Skotchdopole"
+    ],
+    "studios": [
+      "Fox Searchlight Pictures",
+      "Regency Enterprises",
+      "New Regency Pictures"
+    ],
+    "release_date": "2014-10-17",
+    "ISBN_EAN_UPC": "024543980926",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 119,
+    "category": "Comédie dramatique, Satire",
+    "summary": "Un acteur sur le déclin, autrefois célèbre pour avoir incarné un superhéros emblématique, tente de monter une pièce à Broadway dans l'espoir de redonner un sens à sa vie.",
+    "keywords": [
+      "théâtre",
+      "célébrité",
+      "comeback",
+      "santé mentale",
+      "critique sociale"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur film",
+      "Oscar du meilleur réalisateur",
+      "Oscar du meilleur scénario original"
+    ],
+    "actors": [
+      "Michael Keaton",
+      "Edward Norton",
+      "Emma Stone",
+      "Naomi Watts",
+      "Zach Galifianakis"
+    ],
+    "budget": 18000000,
+    "box_office": 103000000
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "subtitle": null,
+    "directors": ["Bryan Singer", "Dexter Fletcher"],
+    "writers": ["Anthony McCarten", "Peter Morgan"],
+    "producers": ["Graham King", "Jim Beach"],
+    "studios": ["20th Century Fox", "Regency Enterprises", "GK Films"],
+    "release_date": "2018-10-24",
+    "ISBN_EAN_UPC": "024543623687",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 134,
+    "category": "Biopic, Drame musical",
+    "summary": "L'histoire du groupe Queen et de son chanteur emblématique Freddie Mercury, depuis la formation du groupe jusqu'à son apparition au concert Live Aid en 1985.",
+    "keywords": ["Queen", "Freddie Mercury", "musique", "biographie", "rock"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur acteur",
+      "Golden Globe du meilleur film dramatique"
+    ],
+    "actors": [
+      "Rami Malek",
+      "Lucy Boynton",
+      "Gwilym Lee",
+      "Ben Hardy",
+      "Joe Mazzello"
+    ],
+    "budget": 52000000,
+    "box_office": 910800000
+  },
+  {
+    "title": "Parasite",
+    "subtitle": "기생충 (Gisaengchung)",
+    "directors": ["Bong Joon-ho"],
+    "writers": ["Bong Joon-ho", "Han Jin-won"],
+    "producers": ["Kwak Sin-ae", "Bong Joon-ho", "Yang-kwon Moon"],
+    "studios": ["Barunson E&A", "CJ Entertainment"],
+    "release_date": "2019-05-21",
+    "ISBN_EAN_UPC": "191329127926",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 132,
+    "category": "Thriller, Drame, Comédie noire",
+    "summary": "Une famille pauvre s'immisce subtilement dans le quotidien d'une famille riche, jusqu'à ce qu'un incident imprévisible expose leur supercherie et déclenche une série d'événements incontrôlables.",
+    "keywords": [
+      "inégalité sociale",
+      "arnaque",
+      "classe sociale",
+      "capitalisme",
+      "famille"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Coréen",
+    "series": false,
+    "awards": [
+      "Palme d'Or à Cannes",
+      "Oscar du meilleur film",
+      "Oscar du meilleur réalisateur",
+      "Oscar du meilleur scénario original"
+    ],
+    "actors": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik",
+      "Park So-dam"
+    ],
+    "budget": 11400000,
+    "box_office": 264100000
+  },
+  {
+    "title": "Marriage Story",
+    "subtitle": null,
+    "directors": ["Noah Baumbach"],
+    "writers": ["Noah Baumbach"],
+    "producers": ["Noah Baumbach", "David Heyman"],
+    "studios": ["Netflix", "Heyday Films"],
+    "release_date": "2019-08-29",
+    "ISBN_EAN_UPC": null,
+    "format": "streaming",
+    "duration": 137,
+    "category": "Drame",
+    "summary": "L'histoire d'un metteur en scène de théâtre et de sa femme actrice, qui traversent un divorce difficile et éprouvant, tant sur le plan émotionnel que géographique, avec un jeune enfant au milieu.",
+    "keywords": ["divorce", "famille", "relation", "parentalité", "bicoastal"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar de la meilleure actrice dans un second rôle",
+      "Golden Globe du meilleur acteur dans un film dramatique"
+    ],
+    "actors": [
+      "Adam Driver",
+      "Scarlett Johansson",
+      "Laura Dern",
+      "Alan Alda",
+      "Ray Liotta"
+    ],
+    "budget": 18000000,
+    "box_office": null
+  },
+  {
+    "title": "BlacKkKlansman",
+    "subtitle": "J'ai infiltré le Ku Klux Klan",
+    "directors": ["Spike Lee"],
+    "writers": [
+      "Charlie Wachtel",
+      "David Rabinowitz",
+      "Kevin Willmott",
+      "Spike Lee"
+    ],
+    "producers": [
+      "Sean McKittrick",
+      "Jason Blum",
+      "Raymond Mansfield",
+      "Jordan Peele",
+      "Spike Lee"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Blumhouse Productions",
+      "QC Entertainment"
+    ],
+    "release_date": "2018-05-14",
+    "ISBN_EAN_UPC": "191329061268",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 135,
+    "category": "Biopic, Comédie dramatique, Policier",
+    "summary": "Au début des années 1970, Ron Stallworth devient le premier officier noir américain du Colorado Springs Police Department. Il se donne pour mission d'infiltrer le Ku Klux Klan pour en dénoncer les exactions.",
+    "keywords": [
+      "racisme",
+      "infiltration",
+      "Ku Klux Klan",
+      "années 70",
+      "police"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur scénario adapté",
+      "Grand Prix du Jury à Cannes"
+    ],
+    "actors": [
+      "John David Washington",
+      "Adam Driver",
+      "Laura Harrier",
+      "Topher Grace",
+      "Alec Baldwin"
+    ],
+    "budget": 15000000,
+    "box_office": 93400000
+  },
+  {
+    "title": "The Florida Project",
+    "subtitle": null,
+    "directors": ["Sean Baker"],
+    "writers": ["Sean Baker", "Chris Bergoch"],
+    "producers": [
+      "Sean Baker",
+      "Chris Bergoch",
+      "Kevin Chinoy",
+      "Andrew Duncan",
+      "Alex Saks"
+    ],
+    "studios": ["A24", "Cre Film", "Freestyle Picture Company"],
+    "release_date": "2017-05-22",
+    "ISBN_EAN_UPC": "031398285090",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 111,
+    "category": "Drame",
+    "summary": "L'été d'une petite fille de 6 ans, Moonee, et de sa turbulente mère vivant dans un motel à proximité de Disney World, alors qu'autour d'elles, nombre de familles en difficulté financière font de même.",
+    "keywords": ["enfance", "pauvreté", "motel", "Floride", "précarité"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": ["Critics' Choice Movie Award du meilleur jeune acteur"],
+    "actors": [
+      "Willem Dafoe",
+      "Brooklynn Prince",
+      "Bria Vinaite",
+      "Valeria Cotto",
+      "Christopher Rivera"
+    ],
+    "budget": 2000000,
+    "box_office": 11500000
+  },
+  {
+    "title": "Premier Contact",
+    "subtitle": "Arrival",
+    "directors": ["Denis Villeneuve"],
+    "writers": ["Eric Heisserer", "Ted Chiang"],
+    "producers": ["Shawn Levy", "Dan Levine", "Aaron Ryder", "David Linde"],
+    "studios": [
+      "Paramount Pictures",
+      "FilmNation Entertainment",
+      "Lava Bear Films"
+    ],
+    "release_date": "2016-09-01",
+    "ISBN_EAN_UPC": "032429264008",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 116,
+    "category": "Science-fiction, Drame",
+    "summary": "Lorsque de mystérieux vaisseaux extraterrestres atterrissent sur Terre, une linguiste est recrutée par l'armée pour comprendre leurs intentions et tenter d'établir une communication.",
+    "keywords": [
+      "linguistique",
+      "aliens",
+      "communication",
+      "temps",
+      "premier contact"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": ["Oscar du meilleur montage sonore", "BAFTA du meilleur son"],
+    "actors": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker",
+      "Michael Stuhlbarg",
+      "Tzi Ma"
+    ],
+    "budget": 47000000,
+    "box_office": 203400000
+  },
+  {
+    "title": "Spotlight",
+    "subtitle": null,
+    "directors": ["Tom McCarthy"],
+    "writers": ["Tom McCarthy", "Josh Singer"],
+    "producers": [
+      "Michael Sugar",
+      "Steve Golin",
+      "Nicole Rocklin",
+      "Blye Pagon Faust"
+    ],
+    "studios": ["Open Road Films", "Participant Media", "First Look Media"],
+    "release_date": "2015-09-03",
+    "ISBN_EAN_UPC": "025192326714",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 129,
+    "category": "Drame biographique, Thriller journalistique",
+    "summary": "L'histoire vraie de la façon dont l'équipe d'investigation Spotlight du Boston Globe a mis à jour un scandale de pédophilie impliquant des prêtres catholiques dans la région de Boston.",
+    "keywords": [
+      "journalisme",
+      "enquête",
+      "abus sexuel",
+      "église catholique",
+      "vérité"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": ["Oscar du meilleur film", "Oscar du meilleur scénario original"],
+    "actors": [
+      "Michael Keaton",
+      "Mark Ruffalo",
+      "Rachel McAdams",
+      "Liev Schreiber",
+      "John Slattery"
+    ],
+    "budget": 20000000,
+    "box_office": 98900000
+  },
+  {
+    "title": "Les Misérables",
+    "subtitle": null,
+    "directors": ["Ladj Ly"],
+    "writers": ["Ladj Ly", "Giordano Gederlini", "Alexis Manenti"],
+    "producers": ["Toufik Ayadi", "Christophe Barral"],
+    "studios": ["SRAB Films", "Rectangle Productions", "Lyly Films"],
+    "release_date": "2019-05-15",
+    "ISBN_EAN_UPC": "3700301050526",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 102,
+    "category": "Drame, Policier",
+    "summary": "Inspiré des émeutes de 2005, le film suit la première journée de Stéphane, qui intègre la brigade anti-criminalité de Montfermeil, dans le 93. Il découvre les tensions entre les différents groupes du quartier.",
+    "keywords": [
+      "banlieue",
+      "police",
+      "tensions sociales",
+      "jeunesse",
+      "immigration"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Français",
+    "series": false,
+    "awards": [
+      "Prix du Jury à Cannes",
+      "César du meilleur film",
+      "Nomination à l'Oscar du meilleur film international"
+    ],
+    "actors": [
+      "Damien Bonnard",
+      "Alexis Manenti",
+      "Djebril Zonga",
+      "Issa Perica",
+      "Al-Hassan Ly"
+    ],
+    "budget": 1500000,
+    "box_office": 19000000
+  },
+  {
+    "title": "Roma",
+    "subtitle": null,
+    "directors": ["Alfonso Cuarón"],
+    "writers": ["Alfonso Cuarón"],
+    "producers": ["Alfonso Cuarón", "Gabriela Rodríguez", "Nicolás Celis"],
+    "studios": ["Netflix", "Participant Media", "Esperanto Filmoj"],
+    "release_date": "2018-08-30",
+    "ISBN_EAN_UPC": null,
+    "format": "streaming",
+    "duration": 135,
+    "category": "Drame",
+    "summary": "L'histoire d'une année turbulente dans la vie d'une famille de la classe moyenne à Mexico au début des années 1970, vue à travers les yeux de Cleo, la domestique d'origine amérindienne qui travaille pour la famille.",
+    "keywords": [
+      "Mexique",
+      "années 70",
+      "domestique",
+      "famille",
+      "inégalité sociale"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Espagnol, Mixtèque",
+    "series": false,
+    "awards": [
+      "Oscar du meilleur réalisateur",
+      "Oscar de la meilleure photographie",
+      "Oscar du meilleur film étranger",
+      "Lion d'or à Venise"
+    ],
+    "actors": [
+      "Yalitza Aparicio",
+      "Marina de Tavira",
+      "Diego Cortina Autrey",
+      "Carlos Peralta",
+      "Marco Graf"
+    ],
+    "budget": 15000000,
+    "box_office": 4400000
+  },
+  {
+    "title": "Knives Out",
+    "subtitle": "À couteaux tirés",
+    "directors": ["Rian Johnson"],
+    "writers": ["Rian Johnson"],
+    "producers": ["Ram Bergman", "Rian Johnson"],
+    "studios": ["Lionsgate", "MRC", "T-Street"],
+    "release_date": "2019-09-07",
+    "ISBN_EAN_UPC": "031398314929",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 130,
+    "category": "Policier, Comédie, Mystère",
+    "summary": "Après la mort mystérieuse du romancier Harlan Thrombey, le détective Benoit Blanc est engagé pour enquêter sur ce décès. Entre la famille dysfonctionnelle du défunt et son personnel dévoué, Blanc plonge dans un réseau d'alliances et de mensonges.",
+    "keywords": ["enquête", "whodunit", "famille", "héritage", "meurtre"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": true,
+    "awards": [
+      "Nomination à l'Oscar du meilleur scénario original",
+      "Golden Globe du meilleur acteur dans un film musical ou une comédie"
+    ],
+    "actors": [
+      "Daniel Craig",
+      "Ana de Armas",
+      "Chris Evans",
+      "Jamie Lee Curtis",
+      "Michael Shannon"
+    ],
+    "budget": 40000000,
+    "box_office": 311400000
+  },
+  {
+    "title": "Burning",
+    "subtitle": null,
+    "directors": ["Lee Chang-dong"],
+    "writers": ["Lee Chang-dong", "Oh Jung-mi", "Haruki Murakami"],
+    "producers": ["Lee Chang-dong", "Lee Jun-dong"],
+    "studios": ["Pinehouse Film", "Now Film", "CGV Arthouse"],
+    "release_date": "2018-05-16",
+    "ISBN_EAN_UPC": "043396556393",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 148,
+    "category": "Drame, Mystère, Thriller psychologique",
+    "summary": "Un jeune livreur retrouve par hasard une amie d'enfance. Lorsqu'elle revient d'un voyage en Afrique, elle lui présente Ben, un homme mystérieux qui lui avoue un étrange passe-temps.",
+    "keywords": [
+      "triangle amoureux",
+      "disparition",
+      "Corée du Sud",
+      "jalousie",
+      "classe sociale"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Coréen",
+    "series": false,
+    "awards": [
+      "Prix FIPRESCI à Cannes",
+      "Critics' Choice Award du meilleur film en langue étrangère"
+    ],
+    "actors": [
+      "Yoo Ah-in",
+      "Steven Yeun",
+      "Jeon Jong-seo",
+      "Kim Soo-kyung",
+      "Choi Seung-ho"
+    ],
+    "budget": 5500000,
+    "box_office": 7500000
+  },
+  {
+    "title": "Une affaire de détails",
+    "subtitle": "The Little Things",
+    "directors": ["John Lee Hancock"],
+    "writers": ["John Lee Hancock"],
+    "producers": ["John Lee Hancock", "Mark Johnson"],
+    "studios": ["Warner Bros. Pictures", "Gran Via Productions"],
+    "release_date": "2021-01-29",
+    "ISBN_EAN_UPC": "883929716289",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 128,
+    "category": "Thriller, Crime, Drame",
+    "summary": "Un shérif adjoint du comté de Kern et un détective du département de police de Los Angeles s'associent pour traquer un tueur en série qui sévit à Los Angeles.",
+    "keywords": [
+      "enquête",
+      "tueur en série",
+      "obsession",
+      "police",
+      "années 90"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [],
+    "actors": [
+      "Denzel Washington",
+      "Rami Malek",
+      "Jared Leto",
+      "Chris Bauer",
+      "Michael Hyatt"
+    ],
+    "budget": 30000000,
+    "box_office": 29800000
+  },
+  {
+    "title": "La Favorite",
+    "subtitle": "The Favourite",
+    "directors": ["Yorgos Lanthimos"],
+    "writers": ["Deborah Davis", "Tony McNamara"],
+    "producers": [
+      "Ceci Dempsey",
+      "Ed Guiney",
+      "Lee Magiday",
+      "Yorgos Lanthimos"
+    ],
+    "studios": [
+      "Fox Searchlight Pictures",
+      "Film4 Productions",
+      "Waypoint Entertainment"
+    ],
+    "release_date": "2018-08-30",
+    "ISBN_EAN_UPC": "024543610748",
+    "format": "DVD, Blu-ray, streaming",
+    "duration": 119,
+    "category": "Drame historique, Comédie noire",
+    "summary": "Au début du XVIIIe siècle, l'Angleterre et la France sont en guerre. La reine Anne, à la santé fragile et au caractère instable, occupe le trône tandis que son amie Lady Sarah gouverne le pays à sa place. Lorsqu'une nouvelle servante, Abigail, arrive à la cour, Lady Sarah la prend sous son aile.",
+    "keywords": [
+      "cour royale",
+      "pouvoir",
+      "manipulation",
+      "triangle amoureux",
+      "Angleterre historique"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar de la meilleure actrice",
+      "BAFTA du meilleur film britannique",
+      "Coupe Volpi à Venise"
+    ],
+    "actors": [
+      "Olivia Colman",
+      "Emma Stone",
+      "Rachel Weisz",
+      "Nicholas Hoult",
+      "Joe Alwyn"
+    ],
+    "budget": 15000000,
+    "box_office": 95900000
+  }
+]

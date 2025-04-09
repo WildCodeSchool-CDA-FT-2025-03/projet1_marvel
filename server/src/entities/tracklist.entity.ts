@@ -1,10 +1,10 @@
-import { Entity, PrimaryGeneratedColumn, Column, ManyToOne } from 'typeorm';
+import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, BaseEntity } from 'typeorm';
 import { Field, ObjectType } from 'type-graphql';
 import { Music } from './music.entity';
 
 @ObjectType()
 @Entity()
-export class Tracklist {
+export class Tracklist extends BaseEntity {
   @PrimaryGeneratedColumn()
   id: number;
 
