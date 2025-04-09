@@ -1,6 +1,10 @@
-import { Star, X } from 'lucide-react';
 import React, { useState } from 'react';
 
+import CommentForm from './CommentForm';
+import ConfirmationModal from './ConfirmationModal';
+import StarRating from './StarRating';
+
+// Types
 interface RatingFormProps {
   onSubmit: (rating: number, comment: string) => void;
   isModalOpen: boolean;
@@ -11,42 +15,17 @@ interface RatingFormProps {
   setModalTitle: (title: string) => void;
 }
 
-interface ModalProps {
-  isOpen: boolean;
-  onClose: () => void;
-  title: string;
-  children: React.ReactNode;
-}
-
-const Modal: React.FC<ModalProps> = ({ isOpen, onClose, title, children }) => {
-  if (!isOpen) return null;
-
-  return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 backdrop-blur-sm bg-black/30">
-      <div
-        className="relative w-full max-w-md p-6 mx-auto bg-white/95 backdrop-blur-sm rounded-lg shadow-xl"
-        role="dialog"
-        aria-modal="true"
-        aria-labelledby="modal-title"
-      >
-        <div className="flex items-center justify-between mb-4">
-          <h2 id="modal-title" className="text-xl font-semibold text-gray-900">
-            {title}
-          </h2>
-          <button
-            onClick={onClose}
-            className="p-1 text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
-            aria-label="Fermer"
-          >
-            <X size={24} />
-          </button>
-        </div>
-        <div className="mt-2">{children}</div>
-      </div>
-    </div>
-  );
-};
-
+/**
+ * Composant RatingForm pour afficher et gérer un formulaire de notation
+ *
+ * @param onSubmit - Fonction appelée lorsque le formulaire est soumis
+ * @param isModalOpen - État d'ouverture de la modal
+ * @param setIsModalOpen - Fonction pour changer l'état d'ouverture de la modal
+ * @param modalMessage - Message de la modal
+ * @param setModalMessage - Fonction pour changer le message de la modal
+ * @param modalTitle - Titre de la modal
+ * @param setModalTitle - Fonction pour changer le titre de la modal
+ */
 const RatingForm: React.FC<RatingFormProps> = ({
   onSubmit,
   isModalOpen,
@@ -94,51 +73,15 @@ const RatingForm: React.FC<RatingFormProps> = ({
           <label htmlFor="rating-stars" className="block text-sm font-medium text-gray-700">
             Note :
           </label>
-          <div
-            id="rating-stars"
-            className="flex items-center gap-x-1 min-w-[250px]"
-            role="group"
-            aria-labelledby="rating-stars"
-          >
-            {[1, 2, 3, 4, 5].map(star => (
-              <button
-                type="button"
-                key={star}
-                aria-label={`Noter ${star} sur 5 étoiles`}
-                className={`p-1 focus:outline-none focus:ring-2 focus:ring-offset-1 focus:ring-yellow-500 rounded-md transition-colors duration-150 ease-in-out ${
-                  star <= (hoverRating || rating) ? 'text-yellow-400' : 'text-gray-300'
-                } hover:text-yellow-300`}
-                onMouseEnter={() => setHoverRating(star)}
-                onMouseLeave={() => setHoverRating(0)}
-                onClick={() => handleRating(star)}
-              >
-                <Star
-                  size={24}
-                  strokeWidth={1.5}
-                  fill={star <= (hoverRating || rating) ? 'currentColor' : 'none'}
-                />
-              </button>
-            ))}
-            {rating > 0 && (
-              <span className="ml-3 text-sm text-gray-600 font-medium">({rating}/5)</span>
-            )}
-          </div>
-        </div>
-
-        <div className="space-y-2">
-          <label htmlFor="comment" className="block text-sm font-medium text-gray-700">
-            Avis :
-          </label>
-          <textarea
-            id="comment"
-            name="comment"
-            value={comment}
-            onChange={handleCommentChange}
-            placeholder="Écrivez votre avis ici..."
-            rows={4}
-            className="block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 sm:text-sm"
+          <StarRating
+            rating={rating}
+            hoverRating={hoverRating}
+            onRatingChange={handleRating}
+            onHoverChange={setHoverRating}
           />
         </div>
+
+        <CommentForm comment={comment} onCommentChange={handleCommentChange} />
 
         <div className="flex justify-center">
           <button
@@ -151,21 +94,12 @@ const RatingForm: React.FC<RatingFormProps> = ({
         </div>
       </form>
 
-      <Modal
+      <ConfirmationModal
         isOpen={isModalOpen}
-        onClose={() => setIsModalOpen(false)}
-        title={modalTitle || (rating === 0 ? 'Attention' : 'Merci !')}
-      >
-        <p className="text-gray-600 whitespace-pre-line">{modalMessage}</p>
-        <div className="mt-4 flex justify-end">
-          <button
-            onClick={() => setIsModalOpen(false)}
-            className="inline-flex justify-center px-4 py-2 text-sm font-medium text-white bg-indigo-600 border border-transparent rounded-md hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
-          >
-            Fermer
-          </button>
-        </div>
-      </Modal>
+        onOpenChange={setIsModalOpen}
+        title={modalTitle}
+        message={modalMessage}
+      />
     </>
   );
 };
