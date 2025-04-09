@@ -15,17 +15,6 @@ interface RatingFormProps {
   setModalTitle: (title: string) => void;
 }
 
-/**
- * Composant RatingForm pour afficher et gérer un formulaire de notation
- *
- * @param onSubmit - Fonction appelée lorsque le formulaire est soumis
- * @param isModalOpen - État d'ouverture de la modal
- * @param setIsModalOpen - Fonction pour changer l'état d'ouverture de la modal
- * @param modalMessage - Message de la modal
- * @param setModalMessage - Fonction pour changer le message de la modal
- * @param modalTitle - Titre de la modal
- * @param setModalTitle - Fonction pour changer le titre de la modal
- */
 const RatingForm: React.FC<RatingFormProps> = ({
   onSubmit,
   isModalOpen,
