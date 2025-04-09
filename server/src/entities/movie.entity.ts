@@ -17,19 +17,19 @@ export class Movie extends BaseEntity {
   subtitle?: string;
 
   @Field(() => [String])
-  @Column('text', { array: true })
+  @Column('simple-array')
   directors: string[];
 
   @Field(() => [String])
-  @Column('text', { array: true })
+  @Column('simple-array')
   writers: string[];
 
   @Field(() => [String])
-  @Column('text', { array: true })
+  @Column('simple-array')
   producers: string[];
 
   @Field(() => [String])
-  @Column('text', { array: true })
+  @Column('simple-array')
   studios: string[];
 
   @Field()
@@ -40,24 +40,24 @@ export class Movie extends BaseEntity {
   @Column()
   isbn_ean_upc: string;
 
-  @Field()
-  @Column()
-  format: string;
+  @Field(() => [String])
+  @Column('simple-array')
+  format: string[];
 
   @Field()
   @Column()
   duration: number;
 
-  @Field()
-  @Column()
-  category: string;
+  @Field(() => [String])
+  @Column('simple-array')
+  category: string[];
 
   @Field()
   @Column('text')
   summary: string;
 
   @Field(() => [String])
-  @Column('text', { array: true })
+  @Column('simple-array')
   keywords: string[];
 
   @Field()
@@ -73,11 +73,11 @@ export class Movie extends BaseEntity {
   series: boolean;
 
   @Field(() => [String])
-  @Column('text', { array: true })
+  @Column('simple-array')
   awards: string[];
 
   @Field(() => [String])
-  @Column('text', { array: true })
+  @Column('simple-array')
   actors: string[];
 
   @Field()
