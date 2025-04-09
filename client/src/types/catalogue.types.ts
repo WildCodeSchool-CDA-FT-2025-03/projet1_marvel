@@ -61,13 +61,9 @@ export type CatalogueItem = {
   title: string;
   emoji: string;
   rating: number;
-  // Pour les livres
   author?: string;
-  // Pour la musique
   artist?: string;
-  // Pour les films
   director?: string;
-  // Pour les jeux
   platform?: string;
 };
 
