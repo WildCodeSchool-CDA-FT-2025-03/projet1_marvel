@@ -5,11 +5,12 @@ import { Hello } from '../entities/hello.entities';
 import { Movie } from '../entities/movie.entity';
 import { Music } from '../entities/music.entity';
 import { Tracklist } from '../entities/tracklist.entity';
+import { Book } from '../entities/book.entity';
 
 export const dataSource = new DataSource({
   type: 'sqlite',
   database: process.env.DATABASE_URL || './db.sqlite',
-  entities: [Hello, Game, Movie, Music, Tracklist],
+  entities: [Hello, Game, Movie, Music, Tracklist, Book],
   synchronize: true,
   logging: true,
 });
