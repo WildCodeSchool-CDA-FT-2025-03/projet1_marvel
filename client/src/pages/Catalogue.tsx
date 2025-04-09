@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Filter, SortAsc, SortDesc } from 'lucide-react';
 
@@ -8,6 +8,8 @@ import CatalogueItem from '../components/catalogue/CatalogueItem';
 import Pagination from '../components/catalogue/Pagination';
 import useCatalogueData from '../hooks/useCatalogueData';
 import useFilterSort from '../hooks/useFilterSort';
+
+const itemsPerPage = 8;
 
 export default function Catalogue() {
   const [isFilterOpen, setIsFilterOpen] = useState(false);
@@ -27,7 +29,6 @@ export default function Catalogue() {
     filteredItems,
   } = useFilterSort({ catalogueItems });
 
-  // Gérer l'ajout/suppression aux favoris
   const toggleFavorite = (id: number) => {
     if (favorites.includes(id)) {
       setFavorites(favorites.filter(favId => favId !== id));
@@ -36,6 +37,19 @@ export default function Catalogue() {
     }
   };
 
+  const paginatedItems = useMemo(() => {
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    return filteredItems.slice(startIndex, startIndex + itemsPerPage);
+  }, [filteredItems, currentPage, itemsPerPage]);
+
+  const totalPages = useMemo(() => {
+    return Math.max(1, Math.ceil(filteredItems.length / itemsPerPage));
+  }, [filteredItems, itemsPerPage]);
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [searchTerm, activeCategory, ratingFilter, sortOrder]);
+
   return (
     <main className="min-h-screen bg-gray-50 py-8">
       <div className="container mx-auto px-4">
@@ -43,10 +57,8 @@ export default function Catalogue() {
           <h1 className="text-3xl font-bold text-gray-800 mb-4 md:mb-0">Catalogue</h1>
 
           <div className="w-full md:w-auto flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
-            {/* Barre de recherche */}
             <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
 
-            {/* Boutons de tri et filtre */}
             <div className="flex space-x-2">
               <button
                 className="p-2 bg-white border border-gray-200 rounded-lg text-gray-600 hover:bg-gray-50 flex items-center justify-center"
@@ -66,7 +78,6 @@ export default function Catalogue() {
           </div>
         </div>
 
-        {/* Panneau de filtres */}
         {isFilterOpen && (
           <FilterPanel
             activeCategory={activeCategory}
@@ -76,12 +87,10 @@ export default function Catalogue() {
           />
         )}
 
-        {/* Compteur de résultats */}
         <div className="text-sm text-gray-500 mb-6">
           {filteredItems.length} {filteredItems.length > 1 ? 'éléments trouvés' : 'élément trouvé'}
         </div>
 
-        {/* État de chargement */}
         {isLoading ? (
           <div className="bg-white p-8 rounded-lg text-center">
             <p className="text-gray-500">Chargement des données en cours...</p>
@@ -101,7 +110,7 @@ export default function Catalogue() {
             animate="visible"
             className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6"
           >
-            {filteredItems.map(item => (
+            {paginatedItems.map(item => (
               <CatalogueItem
                 key={`${item.id}-${item.type}`}
                 item={item}
@@ -126,11 +135,10 @@ export default function Catalogue() {
           </div>
         )}
 
-        {/* Pagination */}
         {filteredItems.length > 0 && (
           <Pagination
             currentPage={currentPage}
-            totalPages={3} // À remplacer par une logique réelle de pagination
+            totalPages={totalPages}
             onPageChange={setCurrentPage}
           />
         )}
