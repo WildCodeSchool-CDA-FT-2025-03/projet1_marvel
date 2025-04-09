@@ -11,6 +11,9 @@ import { DatasetType } from '../types/dataset.type';
 import { BookData } from '../types/book.type';
 import { MovieData } from '../types/movie.type';
 import { Movie } from '../entities/movie.entity';
+import { MusicData } from '../types/music.type';
+import { Music } from '../entities/music.entity';
+import { Tracklist } from '../entities/tracklist.entity';
 
 async function resetAutoIncrement(tableName: string): Promise<void> {
   try {
@@ -156,6 +159,64 @@ async function importMoviesData(jsonPath: string): Promise<void> {
   console.info(`✅ ${movieEntities.length} movies successfully imported`);
 }
 
+async function importMusicsData(jsonPath: string): Promise<void> {
+  const jsonData = readFileSync(jsonPath, 'utf8');
+  const musics: MusicData[] = JSON.parse(jsonData);
+
+  console.info(`🎵 ${musics.length} musics found in JSON file`);
+
+  await Tracklist.clear();
+  await Music.clear();
+  console.info('🧹 Musics table cleared');
+
+  await resetAutoIncrement('tracklist');
+  await resetAutoIncrement('music');
+
+  const musicEntities = [];
+
+  for (const music of musics) {
+    const musicEntity = new Music();
+
+    musicEntity.title = music.title;
+    musicEntity.artists = music.artists;
+    musicEntity.producers = music.producers;
+    musicEntity.label = music.label;
+    musicEntity.release_date = new Date(music.release_date);
+    musicEntity.isbn_ean_upc = music.ISBN_EAN_UPC || '';
+    musicEntity.format = typeof music.format === 'string' ? [music.format] : music.format;
+    musicEntity.duration = music.duration;
+    musicEntity.category = music.category;
+    musicEntity.summary = music.summary;
+    musicEntity.keywords = music.keywords;
+    musicEntity.targeted_audience = music.targeted_audience;
+    musicEntity.original_language = music.original_language;
+    musicEntity.series = music.series;
+    musicEntity.awards = music.awards || [];
+    musicEntity.composers = music.composers || music.composer || [''];
+    musicEntity.lyricists = music.lyricists || music.lyricist || [''];
+    musicEntity.recording_studio = music.recording_studio;
+    musicEntity.certifications = music.certifications;
+
+    const savedMusicEntity = await musicEntity.save();
+
+    if (music.tracklist && Array.isArray(music.tracklist)) {
+      const tracklistEntities = music.tracklist.map((track) => {
+        const trackEntity = new Tracklist();
+        trackEntity.title = track.title;
+        trackEntity.duration = track.duration;
+        trackEntity.music = savedMusicEntity;
+        return trackEntity;
+      });
+
+      await Tracklist.save(tracklistEntities);
+    }
+
+    musicEntities.push(savedMusicEntity);
+  }
+
+  console.info(`✅ ${musicEntities.length} musics successfully imported`);
+}
+
 async function seedDatabase() {
   try {
     await dataSource.initialize();
@@ -180,7 +241,7 @@ async function seedDatabase() {
             await importBooksData(jsonPath);
             break;
           case 'musics':
-            console.info(`ℹ️ Musics import not implemented yet - ${type}.json found but skipped`);
+            await importMusicsData(jsonPath);
             break;
         }
       } else {

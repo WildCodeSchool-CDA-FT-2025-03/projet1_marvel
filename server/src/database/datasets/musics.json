@@ -1,0 +1,7474 @@
+[
+  {
+    "title": "Thriller",
+    "artists": ["Michael Jackson"],
+    "producers": ["Quincy Jones", "Michael Jackson"],
+    "label": "Epic Records",
+    "release_date": "1982-11-30",
+    "ISBN_EAN_UPC": "074643811828",
+    "format": ["Vinyle", "CD", "Cassette", "Numérique"],
+    "duration": 42,
+    "category": "Pop",
+    "summary": "Sixième album studio de Michael Jackson, considéré comme l'album le plus vendu de tous les temps avec plus de 70 millions d'exemplaires vendus.",
+    "keywords": ["pop", "dance", "funk", "années 80", "hit"],
+    "targeted_audience": "Tout public",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award de l'album de l'année",
+      "Grammy Award du meilleur album pop vocal masculin"
+    ],
+    "tracklist": [
+      {
+        "title": "Wanna Be Startin' Somethin'",
+        "duration": "6:03"
+      },
+      {
+        "title": "Baby Be Mine",
+        "duration": "4:20"
+      },
+      {
+        "title": "The Girl Is Mine",
+        "duration": "3:42"
+      },
+      {
+        "title": "Thriller",
+        "duration": "5:57"
+      },
+      {
+        "title": "Beat It",
+        "duration": "4:18"
+      },
+      {
+        "title": "Billie Jean",
+        "duration": "4:54"
+      },
+      {
+        "title": "Human Nature",
+        "duration": "4:06"
+      },
+      {
+        "title": "P.Y.T. (Pretty Young Thing)",
+        "duration": "3:59"
+      },
+      {
+        "title": "The Lady in My Life",
+        "duration": "4:59"
+      }
+    ],
+    "composers": ["Michael Jackson", "Rod Temperton", "Quincy Jones"],
+    "lyricists": [
+      "Michael Jackson",
+      "Rod Temperton",
+      "Steve Porcaro",
+      "John Bettis"
+    ],
+    "recording_studio": "Westlake Recording Studios, Los Angeles",
+    "certifications": ["33× Platine (États-Unis)", "Diamant (France)"]
+  },
+  {
+    "title": "Nevermind",
+    "artists": ["Nirvana"],
+    "producers": ["Butch Vig", "Nirvana"],
+    "label": "DGC Records",
+    "release_date": "1991-09-24",
+    "ISBN_EAN_UPC": "720642442517",
+    "format": ["CD", "Vinyle", "Cassette", "Numérique"],
+    "duration": 49,
+    "category": "Grunge",
+    "summary": "Deuxième album studio de Nirvana qui a propulsé le groupe au sommet et popularisé le mouvement grunge.",
+    "keywords": ["grunge", "rock alternatif", "années 90", "seattle"],
+    "targeted_audience": "Adolescents et adultes",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Hall of Fame",
+      "500 plus grands albums de tous les temps selon Rolling Stone"
+    ],
+    "tracklist": [
+      {
+        "title": "Smells Like Teen Spirit",
+        "duration": "5:01"
+      },
+      {
+        "title": "In Bloom",
+        "duration": "4:14"
+      },
+      {
+        "title": "Come as You Are",
+        "duration": "3:39"
+      },
+      {
+        "title": "Breed",
+        "duration": "3:03"
+      },
+      {
+        "title": "Lithium",
+        "duration": "4:17"
+      },
+      {
+        "title": "Polly",
+        "duration": "2:57"
+      },
+      {
+        "title": "Territorial Pissings",
+        "duration": "2:22"
+      },
+      {
+        "title": "Drain You",
+        "duration": "3:43"
+      },
+      {
+        "title": "Lounge Act",
+        "duration": "2:36"
+      },
+      {
+        "title": "Stay Away",
+        "duration": "3:32"
+      },
+      {
+        "title": "On a Plain",
+        "duration": "3:16"
+      },
+      {
+        "title": "Something in the Way",
+        "duration": "3:52"
+      },
+      {
+        "title": "Endless, Nameless",
+        "duration": "6:43"
+      }
+    ],
+    "composers": ["Kurt Cobain"],
+    "lyricists": ["Kurt Cobain"],
+    "recording_studio": "Sound City Studios, Van Nuys, Californie",
+    "certifications": ["10× Platine (États-Unis)", "Diamant (France)"]
+  },
+  {
+    "title": "Kind of Blue",
+    "artists": ["Miles Davis"],
+    "producers": ["Irving Townsend", "Teo Macero"],
+    "label": "Columbia Records",
+    "release_date": "1959-08-17",
+    "ISBN_EAN_UPC": "886977461828",
+    "format": ["Vinyle", "CD", "Numérique"],
+    "duration": 45,
+    "category": "Jazz",
+    "summary": "Album emblématique du jazz modal, considéré comme l'un des albums de jazz les plus influents de tous les temps.",
+    "keywords": ["jazz modal", "cool jazz", "improvisation", "classique"],
+    "targeted_audience": "Adultes",
+    "original_language": "Instrumental",
+    "series": false,
+    "awards": [
+      "Grammy Hall of Fame",
+      "National Recording Registry de la Bibliothèque du Congrès"
+    ],
+    "tracklist": [
+      {
+        "title": "So What",
+        "duration": "9:22"
+      },
+      {
+        "title": "Freddie Freeloader",
+        "duration": "9:46"
+      },
+      {
+        "title": "Blue in Green",
+        "duration": "5:37"
+      },
+      {
+        "title": "All Blues",
+        "duration": "11:33"
+      },
+      {
+        "title": "Flamenco Sketches",
+        "duration": "9:26"
+      }
+    ],
+    "composers": ["Miles Davis", "Bill Evans"],
+    "lyricists": [],
+    "recording_studio": "Columbia 30th Street Studio, New York",
+    "certifications": ["4× Platine (États-Unis)"]
+  },
+  {
+    "title": "Lemonade",
+    "artists": ["Beyoncé"],
+    "producers": [
+      "Beyoncé",
+      "Jack White",
+      "Diplo",
+      "Just Blaze",
+      "Mike Will Made It"
+    ],
+    "label": "Parkwood Entertainment",
+    "release_date": "2016-04-23",
+    "ISBN_EAN_UPC": "888750776624",
+    "format": ["CD", "Numérique", "Vinyle"],
+    "duration": 46,
+    "category": "R&B contemporain",
+    "summary": "Album concept accompagné d'un film musical, explorant des thèmes comme l'infidélité, le féminisme et l'identité noire.",
+    "keywords": ["R&B", "féminisme", "visual album", "empowerment"],
+    "targeted_audience": "Adultes",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award du meilleur album urbain contemporain",
+      "Prix Peabody"
+    ],
+    "tracklist": [
+      {
+        "title": "Pray You Catch Me",
+        "duration": "3:16"
+      },
+      {
+        "title": "Hold Up",
+        "duration": "3:41"
+      },
+      {
+        "title": "Don't Hurt Yourself",
+        "duration": "3:53"
+      },
+      {
+        "title": "Sorry",
+        "duration": "3:52"
+      },
+      {
+        "title": "6 Inch",
+        "duration": "4:20"
+      },
+      {
+        "title": "Daddy Lessons",
+        "duration": "4:47"
+      },
+      {
+        "title": "Love Drought",
+        "duration": "3:57"
+      },
+      {
+        "title": "Sandcastles",
+        "duration": "3:02"
+      },
+      {
+        "title": "Forward",
+        "duration": "1:19"
+      },
+      {
+        "title": "Freedom",
+        "duration": "4:49"
+      },
+      {
+        "title": "All Night",
+        "duration": "5:21"
+      },
+      {
+        "title": "formation",
+        "duration": "3:26"
+      }
+    ],
+    "composers": ["Beyoncé", "Kendrick Lamar", "Jack White", "The Weeknd"],
+    "lyricists": ["Beyoncé", "Warsan Shire"],
+    "recording_studio": "Multiples studios",
+    "certifications": ["3× Platine (États-Unis)"]
+  },
+  {
+    "title": "Ziggy Stardust and the Spiders from Mars",
+    "artists": ["David Bowie"],
+    "producers": ["David Bowie", "Ken Scott"],
+    "label": "RCA Records",
+    "release_date": "1972-06-16",
+    "ISBN_EAN_UPC": "825646287376",
+    "format": ["Vinyle", "CD", "Numérique"],
+    "duration": 38,
+    "category": "Glam Rock",
+    "summary": "Album concept sur un personnage extraterrestre rock star, Ziggy Stardust, qui apporte un message d'espoir à la Terre.",
+    "keywords": ["glam", "space rock", "science-fiction", "concept album"],
+    "targeted_audience": "Adolescents et adultes",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Hall of Fame",
+      "500 plus grands albums selon Rolling Stone"
+    ],
+    "tracklist": [
+      {
+        "title": "Five Years",
+        "duration": "4:42"
+      },
+      {
+        "title": "Soul Love",
+        "duration": "3:34"
+      },
+      {
+        "title": "Moonage Daydream",
+        "duration": "4:40"
+      },
+      {
+        "title": "Starman",
+        "duration": "4:10"
+      },
+      {
+        "title": "It Ain't Easy",
+        "duration": "2:58"
+      },
+      {
+        "title": "Lady Stardust",
+        "duration": "3:22"
+      },
+      {
+        "title": "Star",
+        "duration": "2:47"
+      },
+      {
+        "title": "Hang On to Yourself",
+        "duration": "2:40"
+      },
+      {
+        "title": "Ziggy Stardust",
+        "duration": "3:13"
+      },
+      {
+        "title": "Suffragette City",
+        "duration": "3:25"
+      },
+      {
+        "title": "Rock 'n' Roll Suicide",
+        "duration": "2:58"
+      }
+    ],
+    "composers": ["David Bowie", "Ron Davies"],
+    "lyricists": ["David Bowie"],
+    "recording_studio": "Trident Studios, Londres",
+    "certifications": ["Platine (États-Unis)", "Platine (Royaume-Uni)"]
+  },
+  {
+    "title": "To Pimp a Butterfly",
+    "artists": ["Kendrick Lamar"],
+    "producers": ["Dr. Dre", "Sounwave", "Flying Lotus", "Pharrell Williams"],
+    "label": "Top Dawg Entertainment",
+    "release_date": "2015-03-15",
+    "ISBN_EAN_UPC": "602547180186",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 79,
+    "category": "Hip-Hop",
+    "summary": "Album mélangeant jazz, funk et poésie parlée, explorant des thèmes de la race, de la culture et de l'identité afro-américaine.",
+    "keywords": ["hip-hop conscient", "jazz rap", "funk", "politique"],
+    "targeted_audience": "Adultes",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award du meilleur album rap",
+      "Album de l'année selon de nombreuses publications"
+    ],
+    "tracklist": [
+      {
+        "title": "Wesley's Theory",
+        "duration": "4:47"
+      },
+      {
+        "title": "For Free? (Interlude)",
+        "duration": "2:10"
+      },
+      {
+        "title": "King Kunta",
+        "duration": "3:54"
+      },
+      {
+        "title": "Institutionalized",
+        "duration": "4:31"
+      },
+      {
+        "title": "These Walls",
+        "duration": "5:00"
+      },
+      {
+        "title": "u",
+        "duration": "4:28"
+      },
+      {
+        "title": "Alright",
+        "duration": "3:39"
+      },
+      {
+        "title": "For Sale? (Interlude)",
+        "duration": "4:51"
+      },
+      {
+        "title": "Momma",
+        "duration": "4:43"
+      },
+      {
+        "title": "Hood Politics",
+        "duration": "4:52"
+      },
+      {
+        "title": "How Much a Dollar Cost",
+        "duration": "4:21"
+      },
+      {
+        "title": "Complexion (A Zulu Love)",
+        "duration": "4:23"
+      },
+      {
+        "title": "The Blacker the Berry",
+        "duration": "5:28"
+      },
+      {
+        "title": "You Ain't Gotta Lie (Momma Said)",
+        "duration": "4:01"
+      },
+      {
+        "title": "i",
+        "duration": "5:36"
+      },
+      {
+        "title": "Mortal Man",
+        "duration": "12:07"
+      }
+    ],
+    "composers": ["Kendrick Lamar", "Thundercat", "Terrace Martin"],
+    "lyricists": ["Kendrick Lamar"],
+    "recording_studio": "No Excuses Studios, Santa Monica",
+    "certifications": ["Platine (États-Unis)"]
+  },
+  {
+    "title": "La La Land: Original Motion Picture Soundtrack",
+    "artists": ["Justin Hurwitz", "Ryan Gosling", "Emma Stone"],
+    "producers": ["Justin Hurwitz", "Marius de Vries"],
+    "label": "Interscope Records",
+    "release_date": "2016-12-09",
+    "ISBN_EAN_UPC": "602557237153",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 52,
+    "category": "Bande originale",
+    "summary": "Bande originale du film La La Land de Damien Chazelle, mélangeant jazz contemporain et compositions orchestrales.",
+    "keywords": ["musique de film", "jazz", "comédie musicale", "piano"],
+    "targeted_audience": "Tout public",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Oscar de la meilleure musique de film",
+      "Golden Globe de la meilleure musique de film"
+    ],
+    "tracklist": [
+      {
+        "title": "Another Day of Sun",
+        "duration": "3:49"
+      },
+      {
+        "title": "Someone in the Crowd",
+        "duration": "4:19"
+      },
+      {
+        "title": "Mia & Sebastian's Theme",
+        "duration": "1:38"
+      },
+      {
+        "title": "A Lovely Night",
+        "duration": "3:57"
+      },
+      {
+        "title": "Herman's Habit",
+        "duration": "1:52"
+      },
+      {
+        "title": "City of Stars",
+        "duration": "1:51"
+      },
+      {
+        "title": "Planetarium",
+        "duration": "4:17"
+      },
+      {
+        "title": "Summer Montage / Madeline",
+        "duration": "2:07"
+      },
+      {
+        "title": "City of Stars (Duet)",
+        "duration": "2:30"
+      },
+      {
+        "title": "Start a Fire",
+        "duration": "3:13"
+      },
+      {
+        "title": "Engagement Party",
+        "duration": "1:28"
+      },
+      {
+        "title": "Audition (The Fools Who Dream)",
+        "duration": "3:49"
+      },
+      {
+        "title": "Epilogue",
+        "duration": "7:40"
+      },
+      {
+        "title": "The End",
+        "duration": "2:10"
+      },
+      {
+        "title": "City of Stars (Humming)",
+        "duration": "2:43"
+      }
+    ],
+    "composers": ["Justin Hurwitz"],
+    "lyricists": ["Benj Pasek", "Justin Paul"],
+    "recording_studio": "Sony Pictures Studios, Culver City",
+    "certifications": ["Platine (États-Unis)"]
+  },
+  {
+    "title": "Back in Black",
+    "artists": ["AC/DC"],
+    "producers": ["Robert John 'Mutt' Lange"],
+    "label": "Atlantic Records",
+    "release_date": "25-07-1980",
+    "ISBN_EAN_UPC": "5099751076421",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 42,
+    "category": "Hard Rock",
+    "summary": "Premier album avec Brian Johnson comme chanteur après la mort de Bon Scott, considéré comme l'un des albums les plus vendus de tous les temps.",
+    "keywords": ["hard rock", "rock", "australien", "années 80", "classique"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Hall of Fame",
+      "500 plus grands albums de tous les temps selon Rolling Stone"
+    ],
+    "tracklist": [
+      {
+        "title": "Hells Bells",
+        "duration": "5:12"
+      },
+      {
+        "title": "Shoot to Thrill",
+        "duration": "5:17"
+      },
+      {
+        "title": "What Do You Do for Money Honey",
+        "duration": "3:33"
+      },
+      {
+        "title": "Given the Dog a Bone",
+        "duration": "3:30"
+      },
+      {
+        "title": "Let Me Put My Love into You",
+        "duration": "4:16"
+      },
+      {
+        "title": "Back in Black",
+        "duration": "4:15"
+      },
+      {
+        "title": "You Shook Me All Night Long",
+        "duration": "3:30"
+      },
+      {
+        "title": "Have a Drink on Me",
+        "duration": "3:57"
+      },
+      {
+        "title": "Shake a Leg",
+        "duration": "4:06"
+      },
+      {
+        "title": "Rock and Roll Ain't Noise Pollution",
+        "duration": "4:15"
+      }
+    ],
+    "composer": ["Angus Young", "Malcolm Young", "Brian Johnson"],
+    "lyricist": ["Angus Young", "Malcolm Young", "Brian Johnson"],
+    "recording_studio": "Compass Point Studios, Nassau, Bahamas",
+    "certifications": ["22× Platine (US)", "12× Platine (Australie)"]
+  },
+  {
+    "title": "OK Computer",
+    "artists": ["Radiohead"],
+    "producers": ["Nigel Godrich", "Radiohead"],
+    "label": "Parlophone",
+    "release_date": "21-05-1997",
+    "ISBN_EAN_UPC": "724385522925",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 53,
+    "category": "Alternative Rock",
+    "summary": "Troisième album studio de Radiohead marquant un tournant dans leur style musical avec des éléments plus expérimentaux et des thèmes dystopiques.",
+    "keywords": [
+      "alternative",
+      "rock expérimental",
+      "années 90",
+      "britannique",
+      "chef-d'œuvre"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award du meilleur album de musique alternative",
+      "Mercury Prize"
+    ],
+    "tracklist": [
+      {
+        "title": "Airbag",
+        "duration": "4:44"
+      },
+      {
+        "title": "Paranoid Android",
+        "duration": "6:23"
+      },
+      {
+        "title": "Subterranean Homesick Alien",
+        "duration": "4:27"
+      },
+      {
+        "title": "Exit Music (For a Film)",
+        "duration": "4:24"
+      },
+      {
+        "title": "Let Down",
+        "duration": "4:59"
+      },
+      {
+        "title": "Karma Police",
+        "duration": "4:21"
+      },
+      {
+        "title": "Fitter Happier",
+        "duration": "1:57"
+      },
+      {
+        "title": "Electioneering",
+        "duration": "3:50"
+      },
+      {
+        "title": "Climbing Up the Walls",
+        "duration": "4:45"
+      },
+      {
+        "title": "No Surprises",
+        "duration": "3:48"
+      },
+      {
+        "title": "Lucky",
+        "duration": "4:19"
+      },
+      {
+        "title": "The Tourist",
+        "duration": "5:24"
+      }
+    ],
+    "composer": [
+      "Thom Yorke",
+      "Jonny Greenwood",
+      "Ed O'Brien",
+      "Colin Greenwood",
+      "Philip Selway"
+    ],
+    "lyricist": ["Thom Yorke"],
+    "recording_studio": "St Catherine's Court, Bath, Angleterre",
+    "certifications": ["3× Platine (UK)", "2× Platine (US)"]
+  },
+  {
+    "title": "The Miseducation of Lauryn Hill",
+    "artists": ["Lauryn Hill"],
+    "producers": ["Lauryn Hill"],
+    "label": "Columbia Records",
+    "release_date": "25-08-1998",
+    "ISBN_EAN_UPC": "074646885222",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 77,
+    "category": "R&B, Hip-Hop, Soul",
+    "summary": "Album solo de Lauryn Hill après son départ des Fugees, mêlant hip-hop, soul et reggae avec des thèmes personnels sur l'amour et la maternité.",
+    "keywords": ["néo-soul", "hip-hop", "r&b", "années 90", "classique"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "5 Grammy awards dont Album de l'année",
+      "Billboard Music Award"
+    ],
+    "tracklist": [
+      {
+        "title": "Intro",
+        "duration": "0:47"
+      },
+      {
+        "title": "Lost Ones",
+        "duration": "5:33"
+      },
+      {
+        "title": "Ex-Factor",
+        "duration": "5:26"
+      },
+      {
+        "title": "To Zion",
+        "duration": "6:09"
+      },
+      {
+        "title": "Doo Wop (That Thing)",
+        "duration": "5:20"
+      },
+      {
+        "title": "Superstar",
+        "duration": "4:57"
+      },
+      {
+        "title": "Final Hour",
+        "duration": "4:16"
+      },
+      {
+        "title": "When It Hurts So Bad",
+        "duration": "5:42"
+      },
+      {
+        "title": "I Used to Love Him",
+        "duration": "5:39"
+      },
+      {
+        "title": "Forgive Them Father",
+        "duration": "5:15"
+      },
+      {
+        "title": "Every Ghetto, Every City",
+        "duration": "5:14"
+      },
+      {
+        "title": "Nothing Even Matters",
+        "duration": "5:50"
+      },
+      {
+        "title": "Everything Is Everything",
+        "duration": "4:53"
+      },
+      {
+        "title": "The Miseducation of Lauryn Hill",
+        "duration": "4:17"
+      },
+      {
+        "title": "Can't Take My Eyes Off of You",
+        "duration": "3:41"
+      },
+      {
+        "title": "Tell Him",
+        "duration": "4:41"
+      }
+    ],
+    "composer": ["Lauryn Hill"],
+    "lyricist": ["Lauryn Hill"],
+    "recording_studio": "Tuff Gong Studios, Kingston, Jamaïque",
+    "certifications": ["8× Platine (US)", "3× Platine (UK)"]
+  },
+  {
+    "title": "Abbey Road",
+    "artists": ["The Beatles"],
+    "producers": ["George Martin"],
+    "label": "Apple Records",
+    "release_date": "26-09-1969",
+    "ISBN_EAN_UPC": "5099969944901",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 47,
+    "category": "Rock",
+    "summary": "Dernier album enregistré par les Beatles bien que Let It Be soit sorti après. Connu pour son medley côté B et sa pochette iconique du passage piéton d'Abbey Road.",
+    "keywords": ["rock", "pop", "britannique", "années 60", "classique"],
+    "targeted_audience": "tous publics",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Hall of Fame",
+      "500 plus grands albums de tous les temps selon Rolling Stone"
+    ],
+    "tracklist": [
+      {
+        "title": "Come Together",
+        "duration": "4:19"
+      },
+      {
+        "title": "Something",
+        "duration": "3:02"
+      },
+      {
+        "title": "Maxwell's Silver Hammer",
+        "duration": "3:27"
+      },
+      {
+        "title": "Oh! Darling",
+        "duration": "3:27"
+      },
+      {
+        "title": "Octopus's Garden",
+        "duration": "2:51"
+      },
+      {
+        "title": "I Want You (She's So Heavy)",
+        "duration": "7:47"
+      },
+      {
+        "title": "Here Comes the Sun",
+        "duration": "3:05"
+      },
+      {
+        "title": "Because",
+        "duration": "2:45"
+      },
+      {
+        "title": "You Never Give Me Your Money",
+        "duration": "4:02"
+      },
+      {
+        "title": "Sun King",
+        "duration": "2:26"
+      },
+      {
+        "title": "Mean Mr. Mustard",
+        "duration": "1:06"
+      },
+      {
+        "title": "Polythene Pam",
+        "duration": "1:12"
+      },
+      {
+        "title": "She Came in Through the Bathroom Window",
+        "duration": "1:58"
+      },
+      {
+        "title": "Golden Slumbers",
+        "duration": "1:31"
+      },
+      {
+        "title": "Carry That Weight",
+        "duration": "1:36"
+      },
+      {
+        "title": "The End",
+        "duration": "2:05"
+      },
+      {
+        "title": "Her Majesty",
+        "duration": "0:23"
+      }
+    ],
+    "composer": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "lyricist": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "recording_studio": "EMI Studios (Abbey Road), Londres",
+    "certifications": ["12× Platine (US)", "2× Platine (UK)"]
+  },
+  {
+    "title": "Random Access Memories",
+    "artists": ["Daft Punk"],
+    "producers": ["Thomas Bangalter", "Guy-Manuel de Homem-Christo"],
+    "label": "Columbia Records",
+    "release_date": "17-05-2013",
+    "ISBN_EAN_UPC": "888837168625",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 74,
+    "category": "Electronic, Disco",
+    "summary": "Album marquant le retour du duo électronique français avec une approche plus organique, incorporant des musiciens de studio et des influences disco des années 70.",
+    "keywords": ["électronique", "disco", "funk", "français", "années 2010"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Album de l'année aux Grammy awards",
+      "Meilleur album de dance/électronique"
+    ],
+    "tracklist": [
+      {
+        "title": "Give Life Back to Music",
+        "duration": "4:34"
+      },
+      {
+        "title": "The Game of Love",
+        "duration": "5:21"
+      },
+      {
+        "title": "Giorgio by Moroder",
+        "duration": "9:04"
+      },
+      {
+        "title": "Within",
+        "duration": "3:48"
+      },
+      {
+        "title": "Instant Crush",
+        "duration": "5:37"
+      },
+      {
+        "title": "Lose Yourself to Dance",
+        "duration": "5:53"
+      },
+      {
+        "title": "Touch",
+        "duration": "8:18"
+      },
+      {
+        "title": "Get Lucky",
+        "duration": "6:07"
+      },
+      {
+        "title": "Beyond",
+        "duration": "4:50"
+      },
+      {
+        "title": "Motherboard",
+        "duration": "5:41"
+      },
+      {
+        "title": "Fragments of Time",
+        "duration": "4:39"
+      },
+      {
+        "title": "Doin' It Right",
+        "duration": "4:11"
+      },
+      {
+        "title": "Contact",
+        "duration": "6:21"
+      }
+    ],
+    "composer": [
+      "Thomas Bangalter",
+      "Guy-Manuel de Homem-Christo",
+      "Nile Rodgers",
+      "Paul Williams",
+      "Pharrell Williams"
+    ],
+    "lyricist": [
+      "Thomas Bangalter",
+      "Guy-Manuel de Homem-Christo",
+      "Paul Williams",
+      "Pharrell Williams"
+    ],
+    "recording_studio": "Electric Lady Studios, New York",
+    "certifications": ["Platine (US)", "Platine (France)"]
+  },
+  {
+    "title": "The Dark Side of the Moon",
+    "artists": ["Pink Floyd"],
+    "producers": ["Pink Floyd"],
+    "label": "Harvest Records",
+    "release_date": "01-03-1973",
+    "ISBN_EAN_UPC": "5099902988412",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 43,
+    "category": "Progressive Rock",
+    "summary": "Album concept emblématique explorant des thèmes comme le temps, l'argent, la folie et la mort, avec une production sonore innovante et une pochette iconique.",
+    "keywords": [
+      "prog rock",
+      "psychédélique",
+      "britannique",
+      "années 70",
+      "chef-d'œuvre"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Hall of Fame",
+      "500 plus grands albums de tous les temps selon Rolling Stone"
+    ],
+    "tracklist": [
+      {
+        "title": "Speak to Me",
+        "duration": "1:30"
+      },
+      {
+        "title": "Breathe (In the Air)",
+        "duration": "2:43"
+      },
+      {
+        "title": "On the Run",
+        "duration": "3:30"
+      },
+      {
+        "title": "Time",
+        "duration": "7:01"
+      },
+      {
+        "title": "The Great Gig in the Sky",
+        "duration": "4:15"
+      },
+      {
+        "title": "Money",
+        "duration": "6:30"
+      },
+      {
+        "title": "Us and Them",
+        "duration": "7:49"
+      },
+      {
+        "title": "Any Colour You Like",
+        "duration": "3:24"
+      },
+      {
+        "title": "Brain Damage",
+        "duration": "3:50"
+      },
+      {
+        "title": "Eclipse",
+        "duration": "2:03"
+      }
+    ],
+    "composer": [
+      "Roger Waters",
+      "David Gilmour",
+      "Richard Wright",
+      "Nick Mason"
+    ],
+    "lyricist": ["Roger Waters"],
+    "recording_studio": "Abbey Road Studios, Londres",
+    "certifications": ["15× Platine (US)", "14× Platine (UK)"]
+  },
+  {
+    "title": "Future Nostalgia",
+    "artists": ["Dua Lipa"],
+    "producers": ["Jeff Bhasker", "Ian Kirkpatrick", "Stuart Price"],
+    "label": "Warner Records",
+    "release_date": "2020-03-27",
+    "ISBN_EAN_UPC": "190295053420",
+    "format": ["CD", "vinyle", "numérique"],
+    "duration": 43.23,
+    "category": "Pop",
+    "summary": "Un album dance-pop aux influences disco qui revisite les sons des années 80 et 90 avec une approche contemporaine.",
+    "keywords": ["dance-pop", "disco", "électro", "rétro-futuriste"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award du Meilleur Album Pop Vocal",
+      "Brit Award de l'Album britannique de l'année"
+    ],
+    "tracklist": [
+      {
+        "title": "Future Nostalgia",
+        "duration": 3.05
+      },
+      {
+        "title": "Don't Start Now",
+        "duration": 3.03
+      },
+      {
+        "title": "Cool",
+        "duration": 3.3
+      },
+      {
+        "title": "Physical",
+        "duration": 3.42
+      },
+      {
+        "title": "Levitating",
+        "duration": 3.23
+      },
+      {
+        "title": "Pretty Please",
+        "duration": 3.14
+      },
+      {
+        "title": "Hallucinate",
+        "duration": 3.28
+      },
+      {
+        "title": "Love Again",
+        "duration": 4.18
+      },
+      {
+        "title": "Break My Heart",
+        "duration": 3.41
+      },
+      {
+        "title": "Good In Bed",
+        "duration": 3.38
+      },
+      {
+        "title": "Boys Will Be Boys",
+        "duration": 2.46
+      }
+    ],
+    "composer": ["Dua Lipa", "Ian Kirkpatrick", "Emily Warren", "Jeff Bhasker"],
+    "lyricist": [
+      "Dua Lipa",
+      "Emily Warren",
+      "Julia Michaels",
+      "Justin Tranter"
+    ],
+    "recording_studio": "Sarm Studios, Londres",
+    "certifications": [
+      "Disque de platine (États-Unis)",
+      "Double platine (Royaume-Uni)"
+    ]
+  },
+  {
+    "title": "Cosmogramma",
+    "artists": ["Flying Lotus"],
+    "producers": ["Flying Lotus"],
+    "label": "Warp Records",
+    "release_date": "2010-05-03",
+    "ISBN_EAN_UPC": "801061018825",
+    "format": ["CD", "vinyle", "numérique"],
+    "duration": 45.37,
+    "category": "Electronic",
+    "summary": "Un album expérimental fusion jazz, hip-hop et musique électronique, considéré comme une œuvre majeure du beatmaking contemporain.",
+    "keywords": ["IDM", "jazz fusion", "experimental", "glitch"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Album de l'année par BBC Music",
+      "Meilleur album électronique par Pitchfork"
+    ],
+    "tracklist": [
+      {
+        "title": "Clock Catcher",
+        "duration": 1.12
+      },
+      {
+        "title": "Pickled!",
+        "duration": 1.44
+      },
+      {
+        "title": "Nose Art",
+        "duration": 1.57
+      },
+      {
+        "title": "Intro//A Cosmic Drama",
+        "duration": 1.1
+      },
+      {
+        "title": "Zodiac Shit",
+        "duration": 3.11
+      },
+      {
+        "title": "Computer Face//Pure Being",
+        "duration": 2.25
+      },
+      {
+        "title": "...And The World Laughs With You",
+        "duration": 2.55
+      },
+      {
+        "title": "Arkestry",
+        "duration": 2.38
+      },
+      {
+        "title": "MmmHmm",
+        "duration": 4.14
+      },
+      {
+        "title": "Do The Astral Plane",
+        "duration": 3.58
+      },
+      {
+        "title": "Satelllliiiiiteee",
+        "duration": 3.49
+      },
+      {
+        "title": "German Haircut",
+        "duration": 2.1
+      },
+      {
+        "title": "Recoiled",
+        "duration": 3.37
+      },
+      {
+        "title": "Dance Of The Pseudo Nymph",
+        "duration": 2.42
+      },
+      {
+        "title": "Drips//Auntie's Harp",
+        "duration": 1.51
+      },
+      {
+        "title": "Table Tennis",
+        "duration": 1.56
+      },
+      {
+        "title": "Galaxy In Janaki",
+        "duration": 4.4
+      }
+    ],
+    "composer": ["Flying Lotus", "Thundercat", "Miguel Atwood-Ferguson"],
+    "lyricist": ["Flying Lotus", "Thom Yorke", "Laura Darlington"],
+    "recording_studio": "Flying Lotus Studio, Los Angeles",
+    "certifications": []
+  },
+  {
+    "title": "Blonde",
+    "artists": ["Frank Ocean"],
+    "producers": ["Frank Ocean", "Malay", "Om'Mas Keith", "James Blake"],
+    "label": "Boys Don't Cry",
+    "release_date": "2016-08-20",
+    "ISBN_EAN_UPC": "889853650316",
+    "format": ["CD", "vinyle", "numérique"],
+    "duration": 60.08,
+    "category": "R&B",
+    "summary": "Un album introspectif et expérimental qui explore l'identité, la sexualité et les relations, avec une approche minimaliste et atmosphérique.",
+    "keywords": ["alternative R&B", "art pop", "ambient", "psychédélique"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Album de l'année par Time Magazine",
+      "Meilleur album par Pitchfork"
+    ],
+    "tracklist": [
+      {
+        "title": "Nikes",
+        "duration": 5.14
+      },
+      {
+        "title": "Ivy",
+        "duration": 4.09
+      },
+      {
+        "title": "Pink + White",
+        "duration": 3.04
+      },
+      {
+        "title": "Be Yourself",
+        "duration": 1.26
+      },
+      {
+        "title": "Solo",
+        "duration": 4.17
+      },
+      {
+        "title": "Skyline To",
+        "duration": 3.04
+      },
+      {
+        "title": "Self Control",
+        "duration": 4.09
+      },
+      {
+        "title": "Good Guy",
+        "duration": 1.06
+      },
+      {
+        "title": "Nights",
+        "duration": 5.07
+      },
+      {
+        "title": "Solo (Reprise)",
+        "duration": 1.18
+      },
+      {
+        "title": "Pretty Sweet",
+        "duration": 2.37
+      },
+      {
+        "title": "Facebook Story",
+        "duration": 1.08
+      },
+      {
+        "title": "Close to You",
+        "duration": 1.25
+      },
+      {
+        "title": "White Ferrari",
+        "duration": 4.08
+      },
+      {
+        "title": "Seigfried",
+        "duration": 5.34
+      },
+      {
+        "title": "Godspeed",
+        "duration": 2.57
+      },
+      {
+        "title": "Futura Free",
+        "duration": 9.24
+      }
+    ],
+    "composer": [
+      "Frank Ocean",
+      "James Blake",
+      "Pharrell Williams",
+      "Tyler, The Creator"
+    ],
+    "lyricist": ["Frank Ocean"],
+    "recording_studio": "Abbey Road Studios, Londres et Electric Lady Studios, New York",
+    "certifications": ["Disque de platine (États-Unis)"]
+  },
+  {
+    "title": "Vespertine",
+    "artists": ["Björk"],
+    "producers": ["Björk", "Thomas Knak", "Matmos"],
+    "label": "One Little Indian",
+    "release_date": "2001-08-27",
+    "ISBN_EAN_UPC": "5016025311125",
+    "format": ["CD", "vinyle", "numérique"],
+    "duration": 55.33,
+    "category": "Art Pop",
+    "summary": "Un album intime et délicat, caractérisé par des textures électroniques, des samples de sons quotidiens et des arrangements pour chœur et orchestre.",
+    "keywords": ["électronique", "expérimental", "microbeats", "orchestral"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Album de l'année par The Wire",
+      "Meilleur album de l'année 2001 par Sunday Times"
+    ],
+    "tracklist": [
+      {
+        "title": "Hidden Place",
+        "duration": 5.28
+      },
+      {
+        "title": "Cocoon",
+        "duration": 4.28
+      },
+      {
+        "title": "It's Not Up To You",
+        "duration": 5.08
+      },
+      {
+        "title": "Undo",
+        "duration": 5.38
+      },
+      {
+        "title": "Pagan Poetry",
+        "duration": 5.14
+      },
+      {
+        "title": "Frosti",
+        "duration": 1.42
+      },
+      {
+        "title": "Aurora",
+        "duration": 4.39
+      },
+      {
+        "title": "An Echo, A Stain",
+        "duration": 4.04
+      },
+      {
+        "title": "Sun in My Mouth",
+        "duration": 2.4
+      },
+      {
+        "title": "Heirloom",
+        "duration": 5.12
+      },
+      {
+        "title": "Harm of Will",
+        "duration": 4.36
+      },
+      {
+        "title": "Unison",
+        "duration": 6.45
+      }
+    ],
+    "composer": ["Björk", "Guy Sigsworth", "Marius de Vries"],
+    "lyricist": ["Björk", "e.e. cummings", "Harmony Korine"],
+    "recording_studio": "El Cortijo Studios, Espagne",
+    "certifications": ["Disque d'or (Royaume-Uni)"]
+  },
+  {
+    "title": "Madvillainy",
+    "artists": ["Madvillain", "MF DOOM", "Madlib"],
+    "producers": ["Madlib"],
+    "label": "Stones Throw Records",
+    "release_date": "2004-03-23",
+    "ISBN_EAN_UPC": "659457207113",
+    "format": ["CD", "vinyle", "numérique", "cassette"],
+    "duration": 46.08,
+    "category": "Hip-Hop",
+    "summary": "Collaboration légendaire entre le producteur Madlib et le rappeur MF DOOM, mêlant des samples jazz, des interludes cinématographiques et des paroles cryptiques.",
+    "keywords": ["underground hip-hop", "abstract", "samples", "collaboration"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "50 meilleurs albums de la décennie par Pitchfork",
+      "Album culte du hip-hop indépendant"
+    ],
+    "tracklist": [
+      {
+        "title": "The Illest Villains",
+        "duration": 1.55
+      },
+      {
+        "title": "Accordion",
+        "duration": 1.58
+      },
+      {
+        "title": "Meat Grinder",
+        "duration": 2.11
+      },
+      {
+        "title": "Bistro",
+        "duration": 1.07
+      },
+      {
+        "title": "Raid",
+        "duration": 2.3
+      },
+      {
+        "title": "America's Most Blunted",
+        "duration": 3.54
+      },
+      {
+        "title": "Sickfit",
+        "duration": 1.21
+      },
+      {
+        "title": "Rainbows",
+        "duration": 2.51
+      },
+      {
+        "title": "Curls",
+        "duration": 1.35
+      },
+      {
+        "title": "Do Not Fire!",
+        "duration": 0.52
+      },
+      {
+        "title": "Money Folder",
+        "duration": 3.02
+      },
+      {
+        "title": "Shadows of Tomorrow",
+        "duration": 2.36
+      },
+      {
+        "title": "Operation Lifesaver",
+        "duration": 1.3
+      },
+      {
+        "title": "Figaro",
+        "duration": 2.25
+      },
+      {
+        "title": "Hardcore Hustle",
+        "duration": 1.21
+      },
+      {
+        "title": "Strange Ways",
+        "duration": 1.51
+      },
+      {
+        "title": "Fancy Clown",
+        "duration": 1.55
+      },
+      {
+        "title": "Eye",
+        "duration": 1.57
+      },
+      {
+        "title": "Supervillain Theme",
+        "duration": 0.52
+      },
+      {
+        "title": "All Caps",
+        "duration": 2.1
+      },
+      {
+        "title": "Great Day",
+        "duration": 2.16
+      },
+      {
+        "title": "Rhinestone Cowboy",
+        "duration": 3.59
+      }
+    ],
+    "composer": ["Madlib", "MF DOOM"],
+    "lyricist": ["MF DOOM", "Lord Quas"],
+    "recording_studio": "Madlib's bomb shelter, Los Angeles",
+    "certifications": ["Disque d'or (États-Unis)"]
+  },
+  {
+    "title": "Okonokos",
+    "artists": ["My Morning Jacket"],
+    "producers": ["Michael Brauer", "Jim James"],
+    "label": "ATO Records",
+    "release_date": "2006-09-26",
+    "ISBN_EAN_UPC": "730538200123",
+    "format": ["CD double", "vinyle", "numérique"],
+    "duration": 123.45,
+    "category": "Rock",
+    "summary": "Album live capturant l'essence des performances scéniques du groupe, enregistré au Fillmore Auditorium à San Francisco, mélangeant rock psychédélique et folk américaine.",
+    "keywords": ["live", "psychédélique", "southern rock", "indie"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Meilleur album live par Uncut Magazine"],
+    "tracklist": [
+      {
+        "title": "Wordless Chorus",
+        "duration": 5.22
+      },
+      {
+        "title": "It Beats 4 U",
+        "duration": 5.25
+      },
+      {
+        "title": "Gideon",
+        "duration": 5.15
+      },
+      {
+        "title": "One Big Holiday",
+        "duration": 6.25
+      },
+      {
+        "title": "I Will Sing You Songs",
+        "duration": 8.33
+      },
+      {
+        "title": "Lowdown",
+        "duration": 4.55
+      },
+      {
+        "title": "What A Wonderful Man",
+        "duration": 3.51
+      },
+      {
+        "title": "Off The Record",
+        "duration": 6.19
+      },
+      {
+        "title": "The Way That He Sings",
+        "duration": 5.46
+      },
+      {
+        "title": "At Dawn",
+        "duration": 6.07
+      },
+      {
+        "title": "Lay Low",
+        "duration": 8.54
+      },
+      {
+        "title": "Dondante",
+        "duration": 9.12
+      },
+      {
+        "title": "Anytime",
+        "duration": 4.38
+      },
+      {
+        "title": "Mahgeetah",
+        "duration": 7.02
+      },
+      {
+        "title": "Run Thru",
+        "duration": 9.27
+      },
+      {
+        "title": "Steam Engine",
+        "duration": 9.22
+      },
+      {
+        "title": "Dancefloors",
+        "duration": 4.52
+      },
+      {
+        "title": "Sooner",
+        "duration": 5.3
+      },
+      {
+        "title": "Golden",
+        "duration": 5.22
+      }
+    ],
+    "composer": ["Jim James", "Carl Broemel", "Bo Koster"],
+    "lyricist": ["Jim James"],
+    "recording_studio": "The Fillmore, San Francisco (live)",
+    "certifications": []
+  },
+  {
+    "title": "Innervisions",
+    "artists": ["Stevie Wonder"],
+    "producers": ["Stevie Wonder", "Robert Margouleff", "Malcolm Cecil"],
+    "label": "Tamla",
+    "release_date": "1973-08-03",
+    "ISBN_EAN_UPC": "730082600224",
+    "format": ["Vinyle", "CD", "Numérique"],
+    "duration": 44.12,
+    "category": "Soul",
+    "summary": "Neuvième album studio de Stevie Wonder, considéré comme l'un de ses chefs-d'œuvre, combinant funk, soul et R&B avec des paroles socialement conscientes.",
+    "keywords": ["Soul", "Funk", "R&B", "Années 70", "Motown"],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award de l'album de l'année 1974",
+      "Grammy Hall of Fame"
+    ],
+    "tracklist": [
+      {
+        "title": "Too High",
+        "duration": 4.36
+      },
+      {
+        "title": "Visions",
+        "duration": 5.23
+      },
+      {
+        "title": "Living for the City",
+        "duration": 7.24
+      },
+      {
+        "title": "Golden Lady",
+        "duration": 4.58
+      },
+      {
+        "title": "Higher Ground",
+        "duration": 3.42
+      },
+      {
+        "title": "Jesus Children of America",
+        "duration": 4.1
+      },
+      {
+        "title": "All in Love Is Fair",
+        "duration": 3.41
+      },
+      {
+        "title": "Don't You Worry 'bout a Thing",
+        "duration": 4.44
+      },
+      {
+        "title": "He's Misstra Know-It-All",
+        "duration": 5.35
+      }
+    ],
+    "composers": ["Stevie Wonder"],
+    "lyricists": ["Stevie Wonder"],
+    "recording_studio": "Record Plant Studios, Los Angeles",
+    "certifications": ["Disque d'Or (US)"]
+  },
+  {
+    "title": "Rumours",
+    "artists": ["Fleetwood Mac"],
+    "producers": ["Fleetwood Mac", "Ken Caillat", "Richard Dashut"],
+    "label": "Warner Bros.",
+    "release_date": "1977-02-04",
+    "ISBN_EAN_UPC": "075992738026",
+    "format": ["Vinyle", "CD", "Numérique", "Cassette"],
+    "duration": 39.43,
+    "category": "Rock",
+    "summary": "Album emblématique marqué par les tensions entre les membres du groupe, mélangeant rock, pop et soft rock, avec des thèmes de rupture et de relations.",
+    "keywords": ["Rock", "Pop", "Soft Rock", "Années 70", "Classique"],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award de l'album de l'année 1978",
+      "Grammy Hall of Fame"
+    ],
+    "tracklist": [
+      {
+        "title": "Second Hand News",
+        "duration": 2.43
+      },
+      {
+        "title": "Dreams",
+        "duration": 4.14
+      },
+      {
+        "title": "Never Going Back Again",
+        "duration": 2.14
+      },
+      {
+        "title": "Don't Stop",
+        "duration": 3.13
+      },
+      {
+        "title": "Go Your Own Way",
+        "duration": 3.38
+      },
+      {
+        "title": "Songbird",
+        "duration": 3.2
+      },
+      {
+        "title": "The Chain",
+        "duration": 4.28
+      },
+      {
+        "title": "You Make Loving Fun",
+        "duration": 3.31
+      },
+      {
+        "title": "I Don't Want to Know",
+        "duration": 3.11
+      },
+      {
+        "title": "Oh Daddy",
+        "duration": 3.54
+      },
+      {
+        "title": "Gold Dust Woman",
+        "duration": 4.51
+      }
+    ],
+    "composers": [
+      "Lindsey Buckingham",
+      "Stevie Nicks",
+      "Christine McVie",
+      "John McVie",
+      "Mick Fleetwood"
+    ],
+    "lyricists": ["Lindsey Buckingham", "Stevie Nicks", "Christine McVie"],
+    "recording_studio": "Record Plant Studios, Sausalito",
+    "certifications": ["Disque de Diamant (US)", "Disque de Platine (UK)"]
+  },
+  {
+    "title": "Illmatic",
+    "artists": ["Nas"],
+    "producers": [
+      "DJ Premier",
+      "Large Professor",
+      "Pete Rock",
+      "Q-Tip",
+      "L.E.S."
+    ],
+    "label": "Columbia",
+    "release_date": "1994-04-19",
+    "ISBN_EAN_UPC": "074646617427",
+    "format": ["CD", "Vinyle", "Numérique", "Cassette"],
+    "duration": 39.51,
+    "category": "Hip-Hop",
+    "summary": "Premier album studio de Nas, considéré comme l'un des plus influents de l'histoire du hip-hop, avec des narrations réalistes de la vie dans les quartiers défavorisés.",
+    "keywords": ["Hip-Hop", "Rap", "New York", "Années 90", "East Coast"],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": ["5 Mic Rating par The Source", "Time 100 Albums of All Time"],
+    "tracklist": [
+      {
+        "title": "The Genesis",
+        "duration": 1.45
+      },
+      {
+        "title": "N.Y. State of Mind",
+        "duration": 4.54
+      },
+      {
+        "title": "Life's a Bitch",
+        "duration": 3.3
+      },
+      {
+        "title": "The World Is Yours",
+        "duration": 4.5
+      },
+      {
+        "title": "Halftime",
+        "duration": 4.2
+      },
+      {
+        "title": "Memory Lane (Sittin' in da Park)",
+        "duration": 4.08
+      },
+      {
+        "title": "One Love",
+        "duration": 5.25
+      },
+      {
+        "title": "One Time 4 Your Mind",
+        "duration": 3.18
+      },
+      {
+        "title": "Represent",
+        "duration": 4.12
+      },
+      {
+        "title": "It Ain't Hard to Tell",
+        "duration": 3.22
+      }
+    ],
+    "composers": [
+      "Nas",
+      "DJ Premier",
+      "Large Professor",
+      "Pete Rock",
+      "Q-Tip",
+      "L.E.S."
+    ],
+    "lyricists": ["Nas"],
+    "recording_studio": "Battery Studios, New York",
+    "certifications": ["Disque de Platine (US)"]
+  },
+  {
+    "title": "Hozier",
+    "artists": ["Hozier"],
+    "producers": ["Rob Kirwan", "Hozier"],
+    "label": "Rubyworks",
+    "release_date": "2014-09-19",
+    "ISBN_EAN_UPC": "602537941100",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 53.15,
+    "category": "Folk Rock",
+    "summary": "Album éponyme du chanteur-compositeur irlandais, mêlant blues, folk et rock avec des paroles poétiques et des thèmes religieux subversifs.",
+    "keywords": ["Folk", "Blues", "Rock", "Indie", "Irlande"],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Billboard Music Award du meilleur album rock 2015",
+      "Nomination aux Grammy awards"
+    ],
+    "tracklist": [
+      {
+        "title": "Take Me to Church",
+        "duration": 4.01
+      },
+      {
+        "title": "Angel of Small Death and the Codeine Scene",
+        "duration": 3.38
+      },
+      {
+        "title": "Jackie and Wilson",
+        "duration": 3.42
+      },
+      {
+        "title": "Someone New",
+        "duration": 3.42
+      },
+      {
+        "title": "To Be Alone",
+        "duration": 5.22
+      },
+      {
+        "title": "From Eden",
+        "duration": 4.44
+      },
+      {
+        "title": "In a Week",
+        "duration": 5.19
+      },
+      {
+        "title": "Sedated",
+        "duration": 3.28
+      },
+      {
+        "title": "Work Song",
+        "duration": 3.49
+      },
+      {
+        "title": "Like Real People Do",
+        "duration": 3.17
+      },
+      {
+        "title": "It Will Come Back",
+        "duration": 4.38
+      },
+      {
+        "title": "Foreigner's God",
+        "duration": 5.35
+      },
+      {
+        "title": "Cherry Wine",
+        "duration": 4.0
+      }
+    ],
+    "composers": ["Hozier"],
+    "lyricists": ["Hozier"],
+    "recording_studio": "Westland Studios, Dublin",
+    "certifications": ["Disque de Platine (US, UK)"]
+  },
+  {
+    "title": "Graceland",
+    "artists": ["Paul Simon"],
+    "producers": ["Paul Simon", "Roy Halee"],
+    "label": "Warner Bros.",
+    "release_date": "1986-08-25",
+    "ISBN_EAN_UPC": "075992528924",
+    "format": ["CD", "Vinyle", "Numérique", "Cassette"],
+    "duration": 43.56,
+    "category": "World Music",
+    "summary": "Album révolutionnaire mêlant pop américaine et musiques traditionnelles africaines, notamment sud-africaines, en pleine période d'apartheid.",
+    "keywords": ["World Music", "Pop", "Afrique", "Années 80", "Fusion"],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award de l'album de l'année 1987",
+      "Grammy Hall of Fame"
+    ],
+    "tracklist": [
+      {
+        "title": "The Boy in the Bubble",
+        "duration": 3.59
+      },
+      {
+        "title": "Graceland",
+        "duration": 4.51
+      },
+      {
+        "title": "I Know What I Know",
+        "duration": 3.13
+      },
+      {
+        "title": "Gumboots",
+        "duration": 2.44
+      },
+      {
+        "title": "Diamonds on the Soles of Her Shoes",
+        "duration": 5.51
+      },
+      {
+        "title": "You Can Call Me Al",
+        "duration": 4.4
+      },
+      {
+        "title": "Under African Skies",
+        "duration": 3.37
+      },
+      {
+        "title": "Homeless",
+        "duration": 3.48
+      },
+      {
+        "title": "Crazy Love, Vol. II",
+        "duration": 4.19
+      },
+      {
+        "title": "That Was Your Mother",
+        "duration": 2.52
+      },
+      {
+        "title": "All Around the World or the Myth of Fingerprints",
+        "duration": 3.15
+      }
+    ],
+    "composers": ["Paul Simon"],
+    "lyricists": ["Paul Simon"],
+    "recording_studio": "Ovation Studios, Johannesburg & The Hit Factory, New York",
+    "certifications": ["5× Disque de Platine (US)", "8× Disque de Platine (UK)"]
+  },
+  {
+    "title": "Melodrama",
+    "artists": ["Lorde"],
+    "producers": [
+      "Jack Antonoff",
+      "Lorde",
+      "Frank Dukes",
+      "Flume",
+      "Malay",
+      "Andrew Wyatt",
+      "Joel Little"
+    ],
+    "label": "Universal",
+    "release_date": "2017-06-16",
+    "ISBN_EAN_UPC": "602557587647",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 40.56,
+    "category": "Art Pop",
+    "summary": "Deuxième album de Lorde, concept album sur une soirée, explorant les thèmes de la solitude, de la rupture et de la jeunesse avec une production électro-pop sophistiquée.",
+    "keywords": [
+      "Pop",
+      "Électro",
+      "Nouvelle-Zélande",
+      "Années 2010",
+      "Rupture"
+    ],
+    "targeted_audience": "Adolescent, Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "ARIA Award du meilleur album international 2018",
+      "Nomination aux Grammy awards"
+    ],
+    "tracklist": [
+      {
+        "title": "Green Light",
+        "duration": 3.55
+      },
+      {
+        "title": "Sober",
+        "duration": 3.17
+      },
+      {
+        "title": "Homemade Dynamite",
+        "duration": 3.09
+      },
+      {
+        "title": "The Louvre",
+        "duration": 4.31
+      },
+      {
+        "title": "Liability",
+        "duration": 2.52
+      },
+      {
+        "title": "Hard Feelings/Loveless",
+        "duration": 6.07
+      },
+      {
+        "title": "Sober II (Melodrama)",
+        "duration": 2.59
+      },
+      {
+        "title": "Writer in the Dark",
+        "duration": 3.37
+      },
+      {
+        "title": "Supercut",
+        "duration": 4.38
+      },
+      {
+        "title": "Liability (Reprise)",
+        "duration": 2.17
+      },
+      {
+        "title": "Perfect Places",
+        "duration": 3.42
+      }
+    ],
+    "composers": ["Lorde", "Jack Antonoff", "Joel Little"],
+    "lyricists": ["Lorde", "Jack Antonoff"],
+    "recording_studio": "Electric Lady Studios, New York",
+    "certifications": ["Disque d'Or (US)", "Disque de Platine (AUS, NZ)"]
+  },
+  {
+    "title": "Dummy",
+    "artists": ["Portishead"],
+    "producers": ["Portishead"],
+    "label": "Go! Beat",
+    "release_date": "1994-08-22",
+    "ISBN_EAN_UPC": "731453088924",
+    "format": ["CD", "Vinyle", "Numérique", "Cassette"],
+    "duration": 48.41,
+    "category": "Trip-Hop",
+    "summary": "Album révolutionnaire qui a défini le genre trip-hop, mêlant hip-hop, jazz et musique électronique avec des ambiances sombres et la voix hantée de Beth Gibbons.",
+    "keywords": [
+      "Trip-Hop",
+      "Électronique",
+      "Bristol",
+      "Années 90",
+      "Downtempo"
+    ],
+    "targeted_audience": "Adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": ["Mercury Music Prize 1995", "NME Album of the Year 1994"],
+    "tracklist": [
+      {
+        "title": "Mysterons",
+        "duration": 5.02
+      },
+      {
+        "title": "Sour Times",
+        "duration": 4.11
+      },
+      {
+        "title": "Strangers",
+        "duration": 3.55
+      },
+      {
+        "title": "It Could Be Sweet",
+        "duration": 4.16
+      },
+      {
+        "title": "Wandering Star",
+        "duration": 4.51
+      },
+      {
+        "title": "It's a Fire",
+        "duration": 3.49
+      },
+      {
+        "title": "Numb",
+        "duration": 3.54
+      },
+      {
+        "title": "Roads",
+        "duration": 5.02
+      },
+      {
+        "title": "Pedestal",
+        "duration": 3.39
+      },
+      {
+        "title": "Biscuit",
+        "duration": 5.01
+      },
+      {
+        "title": "Glory Box",
+        "duration": 5.06
+      }
+    ],
+    "composers": ["Geoff Barrow", "Beth Gibbons", "Adrian Utley"],
+    "lyricists": ["Beth Gibbons"],
+    "recording_studio": "State of Art Studio, Bristol",
+    "certifications": ["2× Disque de Platine (UK)", "Disque de Platine (US)"]
+  },
+  {
+    "title": "Urban Hymns",
+    "artists": ["The Verve"],
+    "producers": ["Chris Potter", "Youth"],
+    "label": "Hut Records",
+    "release_date": "1997-09-29",
+    "ISBN_EAN_UPC": "724384497521",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 76,
+    "category": "Rock alternatif",
+    "summary": "Troisième album studio du groupe britannique The Verve, considéré comme leur chef-d'œuvre et l'un des albums emblématiques de la période Britpop. Il comprend les hits 'Bitter Sweet Symphony' et 'The Drugs Don't Work'.",
+    "keywords": ["britpop", "rock alternatif", "années 90", "manchester"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Brit Award du meilleur album britannique 1998"],
+    "tracklist": [
+      {
+        "title": "Bitter Sweet Symphony",
+        "duration": "5:58"
+      },
+      {
+        "title": "Sonnet",
+        "duration": "4:21"
+      },
+      {
+        "title": "The Rolling People",
+        "duration": "7:01"
+      },
+      {
+        "title": "The Drugs Don't Work",
+        "duration": "5:05"
+      },
+      {
+        "title": "Catching the Butterfly",
+        "duration": "3:59"
+      },
+      {
+        "title": "Neon Wilderness",
+        "duration": "2:37"
+      },
+      {
+        "title": "Space and Time",
+        "duration": "5:36"
+      },
+      {
+        "title": "Weeping Willow",
+        "duration": "4:49"
+      },
+      {
+        "title": "Lucky Man",
+        "duration": "4:53"
+      },
+      {
+        "title": "One Day",
+        "duration": "5:03"
+      },
+      {
+        "title": "This Time",
+        "duration": "3:50"
+      },
+      {
+        "title": "Velvet Morning",
+        "duration": "4:57"
+      },
+      {
+        "title": "Come On",
+        "duration": "15:15"
+      }
+    ],
+    "composers": ["Richard Ashcroft"],
+    "lyricists": ["Richard Ashcroft"],
+    "recording_studio": "Olympic Studios, Londres",
+    "certifications": [
+      "Disque de platine (États-Unis)",
+      "Disque de diamant (Royaume-Uni)"
+    ]
+  },
+  {
+    "title": "Mezzanine",
+    "artists": ["Massive Attack"],
+    "producers": ["Massive Attack", "Neil Davidge"],
+    "label": "Virgin Records",
+    "release_date": "1998-04-20",
+    "ISBN_EAN_UPC": "724384559427",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 63,
+    "category": "Trip hop",
+    "summary": "Troisième album studio du groupe britannique Massive Attack, considéré comme un classique du trip hop. Mezzanine marque un tournant vers un son plus sombre et expérimental que leurs œuvres précédentes.",
+    "keywords": ["trip hop", "électronique", "bristol", "années 90"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Q Award du meilleur album 1998"],
+    "tracklist": [
+      {
+        "title": "Angel",
+        "duration": "6:18"
+      },
+      {
+        "title": "Risingson",
+        "duration": "4:58"
+      },
+      {
+        "title": "Teardrop",
+        "duration": "5:30"
+      },
+      {
+        "title": "Inertia Creeps",
+        "duration": "5:57"
+      },
+      {
+        "title": "Exchange",
+        "duration": "4:11"
+      },
+      {
+        "title": "Dissolved Girl",
+        "duration": "6:07"
+      },
+      {
+        "title": "Man Next Door",
+        "duration": "5:55"
+      },
+      {
+        "title": "Black Milk",
+        "duration": "6:20"
+      },
+      {
+        "title": "Mezzanine",
+        "duration": "5:54"
+      },
+      {
+        "title": "Group Four",
+        "duration": "8:01"
+      },
+      {
+        "title": "(Exchange)",
+        "duration": "4:08"
+      }
+    ],
+    "composers": [
+      "Robert Del Naja",
+      "Grant Marshall",
+      "Andrew Vowles",
+      "Neil Davidge"
+    ],
+    "lyricists": [
+      "Robert Del Naja",
+      "Grant Marshall",
+      "Horace Andy",
+      "Elizabeth Fraser"
+    ],
+    "recording_studio": "Christchurch Studios, Bristol",
+    "certifications": [
+      "Disque de platine (Royaume-Uni)",
+      "Disque d'or (États-Unis)"
+    ]
+  },
+  {
+    "title": "Ágætis byrjun",
+    "artists": ["Sigur Rós"],
+    "producers": ["Ken Thomas", "Sigur Rós"],
+    "label": "FatCat Records",
+    "release_date": "1999-06-12",
+    "ISBN_EAN_UPC": "689492054427",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 71,
+    "category": "Post-rock",
+    "summary": "Deuxième album du groupe islandais Sigur Rós qui leur a valu une reconnaissance internationale. Caractérisé par des compositions orchestrales ambitieuses et la voix distincte de Jónsi Birgisson, chanté en islandais et en 'hopelandic', une langue inventée.",
+    "keywords": ["post-rock", "ambiant", "islandais", "expérimental"],
+    "targeted_audience": "adulte",
+    "original_language": "islandais",
+    "series": false,
+    "awards": ["Icelandic Music Award du meilleur album 1999"],
+    "tracklist": [
+      {
+        "title": "Svefn-g-englar",
+        "duration": "10:04"
+      },
+      {
+        "title": "Starálfur",
+        "duration": "6:47"
+      },
+      {
+        "title": "Flugufrelsarinn",
+        "duration": "7:47"
+      },
+      {
+        "title": "Ný batterí",
+        "duration": "8:09"
+      },
+      {
+        "title": "Hjartað hamast (bamm bamm bamm)",
+        "duration": "7:11"
+      },
+      {
+        "title": "Viðrar vel til loftárása",
+        "duration": "10:18"
+      },
+      {
+        "title": "Olsen Olsen",
+        "duration": "8:03"
+      },
+      {
+        "title": "Ágætis byrjun",
+        "duration": "7:56"
+      },
+      {
+        "title": "Avalon",
+        "duration": "4:23"
+      }
+    ],
+    "composers": ["Sigur Rós"],
+    "lyricists": [
+      "Jón Þór Birgisson",
+      "Georg Hólm",
+      "Ágúst Ævar Gunnarsson",
+      "Kjartan Sveinsson"
+    ],
+    "recording_studio": "Sundlaugin, Reykjavík",
+    "certifications": ["Disque d'or (Royaume-Uni)"]
+  },
+  {
+    "title": "Voodoo",
+    "artists": ["D'Angelo"],
+    "producers": ["D'Angelo", "Questlove"],
+    "label": "Virgin Records",
+    "release_date": "2000-01-25",
+    "ISBN_EAN_UPC": "724384849726",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 79,
+    "category": "Neo soul",
+    "summary": "Deuxième album de D'Angelo, enregistré pendant quatre ans aux Electric Lady Studios. Une œuvre fondatrice du mouvement neo soul, célèbre pour son groove organique et sa production innovante.",
+    "keywords": ["neo soul", "r&b", "funk", "jazz"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Grammy Award du meilleur album R&B 2001"],
+    "tracklist": [
+      {
+        "title": "Playa Playa",
+        "duration": "7:07"
+      },
+      {
+        "title": "Devil's Pie",
+        "duration": "5:23"
+      },
+      {
+        "title": "Left & Right",
+        "duration": "4:47"
+      },
+      {
+        "title": "The Line",
+        "duration": "5:15"
+      },
+      {
+        "title": "Send It On",
+        "duration": "5:57"
+      },
+      {
+        "title": "Spanish Joint",
+        "duration": "5:44"
+      },
+      {
+        "title": "The Root",
+        "duration": "6:33"
+      },
+      {
+        "title": "Greatdayindamornin'",
+        "duration": "4:57"
+      },
+      {
+        "title": "Un title d (How Does It Feel)",
+        "duration": "7:10"
+      },
+      {
+        "title": "Africa",
+        "duration": "6:14"
+      }
+    ],
+    "composers": ["D'Angelo", "Questlove", "Raphael Saadiq", "Q-Tip"],
+    "lyricists": ["D'Angelo", "Angie Stone", "J Dilla", "Raphael Saadiq"],
+    "recording_studio": "Electric Lady Studios, New York",
+    "certifications": ["Disque de platine (États-Unis)"]
+  },
+  {
+    "title": "Toxicity",
+    "artists": ["System of a Down"],
+    "producers": ["Rick Rubin", "Daron Malakian"],
+    "label": "American Recordings",
+    "release_date": "2001-09-04",
+    "ISBN_EAN_UPC": "731454818124",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 44,
+    "category": "Metal alternatif",
+    "summary": "Deuxième album studio du groupe américano-arménien System of a Down. Toxicity mélange des éléments de metal progressif, de nu metal et de folk arménien, avec des paroles politiquement engagées.",
+    "keywords": ["metal alternatif", "nu metal", "arménien", "politique"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award de la meilleure performance hard rock 2002 (pour 'Chop Suey!')"
+    ],
+    "tracklist": [
+      {
+        "title": "Prison Song",
+        "duration": "3:21"
+      },
+      {
+        "title": "Needles",
+        "duration": "3:13"
+      },
+      {
+        "title": "Deer Dance",
+        "duration": "2:55"
+      },
+      {
+        "title": "Jet Pilot",
+        "duration": "2:06"
+      },
+      {
+        "title": "X",
+        "duration": "1:58"
+      },
+      {
+        "title": "Chop Suey!",
+        "duration": "3:30"
+      },
+      {
+        "title": "Bounce",
+        "duration": "1:54"
+      },
+      {
+        "title": "Forest",
+        "duration": "4:00"
+      },
+      {
+        "title": "ATWA",
+        "duration": "2:56"
+      },
+      {
+        "title": "Science",
+        "duration": "2:43"
+      },
+      {
+        "title": "Shimmy",
+        "duration": "1:51"
+      },
+      {
+        "title": "Toxicity",
+        "duration": "3:39"
+      },
+      {
+        "title": "Psycho",
+        "duration": "3:45"
+      },
+      {
+        "title": "Aerials",
+        "duration": "3:55"
+      }
+    ],
+    "composers": ["Daron Malakian", "Serj Tankian"],
+    "lyricists": ["Serj Tankian", "Daron Malakian"],
+    "recording_studio": "Cello Studios, Los Angeles",
+    "certifications": ["Triple disque de platine (États-Unis)"]
+  },
+  {
+    "title": "Kala",
+    "artists": ["M.I.A."],
+    "producers": ["Switch", "Diplo", "Timbaland"],
+    "label": "XL Recordings",
+    "release_date": "2007-08-08",
+    "ISBN_EAN_UPC": "634904023928",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 50,
+    "category": "Électronique",
+    "summary": "Deuxième album de M.I.A., enregistré dans plusieurs pays. Kala fusionne des influences musicales mondiales avec de l'électronique et du hip-hop, tout en abordant des thèmes politiques et sociaux.",
+    "keywords": ["électronique", "worldbeat", "hip-hop", "politique"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Shortlist Music Prize 2008"],
+    "tracklist": [
+      {
+        "title": "Bamboo Banga",
+        "duration": "4:56"
+      },
+      {
+        "title": "Bird Flu",
+        "duration": "3:24"
+      },
+      {
+        "title": "Boyz",
+        "duration": "3:28"
+      },
+      {
+        "title": "Jimmy",
+        "duration": "3:04"
+      },
+      {
+        "title": "Hussel",
+        "duration": "4:25"
+      },
+      {
+        "title": "Mango Pickle Down River",
+        "duration": "3:53"
+      },
+      {
+        "title": "20 Dollar",
+        "duration": "4:32"
+      },
+      {
+        "title": "World Town",
+        "duration": "3:26"
+      },
+      {
+        "title": "The Turn",
+        "duration": "3:44"
+      },
+      {
+        "title": "XR2",
+        "duration": "3:33"
+      },
+      {
+        "title": "Paper Planes",
+        "duration": "3:25"
+      },
+      {
+        "title": "Come Around",
+        "duration": "3:54"
+      }
+    ],
+    "composers": ["M.I.A.", "Switch", "Diplo"],
+    "lyricists": ["M.I.A."],
+    "recording_studio": "Multiples (Inde, Jamaïque, Australie, Liberia, États-Unis)",
+    "certifications": ["Disque d'or (Royaume-Uni)"]
+  },
+  {
+    "title": "Currents",
+    "artists": ["Tame Impala"],
+    "producers": ["Kevin Parker"],
+    "label": "Interscope Records",
+    "release_date": "2015-07-17",
+    "ISBN_EAN_UPC": "602547500236",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 51.5,
+    "category": "Psychedelic Pop",
+    "summary": "Troisième album studio du projet australien Tame Impala, marquant une évolution vers des sonorités électroniques et disco tout en conservant une atmosphère psychédélique distinctive.",
+    "keywords": ["psychédélique", "synthpop", "australien", "indie"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "ARIA Award du meilleur album rock",
+      "J Award de l'album de l'année"
+    ],
+    "tracklist": [
+      {
+        "title": "Let It Happen",
+        "duration": "7:46"
+      },
+      {
+        "title": "Nangs",
+        "duration": "1:47"
+      },
+      {
+        "title": "The Moment",
+        "duration": "4:15"
+      },
+      {
+        "title": "Yes I'm Changing",
+        "duration": "4:30"
+      },
+      {
+        "title": "Eventually",
+        "duration": "5:19"
+      },
+      {
+        "title": "Gossip",
+        "duration": "0:55"
+      },
+      {
+        "title": "The Less I Know the Better",
+        "duration": "3:38"
+      },
+      {
+        "title": "Past Life",
+        "duration": "3:47"
+      },
+      {
+        "title": "Disciples",
+        "duration": "1:48"
+      },
+      {
+        "title": "Cause I'm a Man",
+        "duration": "4:01"
+      },
+      {
+        "title": "Reality in Motion",
+        "duration": "4:12"
+      },
+      {
+        "title": "Love/Paranoia",
+        "duration": "3:06"
+      },
+      {
+        "title": "New Person, Same Old Mistakes",
+        "duration": "6:02"
+      }
+    ],
+    "composer": "Kevin Parker",
+    "lyricist": "Kevin Parker",
+    "recording_studio": "Kevin Parker's home studio, Fremantle",
+    "certifications": ["Disque d'or (Australie)", "Disque d'or (États-Unis)"]
+  },
+  {
+    "title": "Nostalgia, Ultra",
+    "artists": ["Frank Ocean"],
+    "producers": ["Frank Ocean", "Tricky Stewart", "Midi Mafia"],
+    "label": "Self-released",
+    "release_date": "2011-02-16",
+    "ISBN_EAN_UPC": "N/A",
+    "format": ["Numérique", "Mixtape"],
+    "duration": 53.67,
+    "category": "R&B alternatif",
+    "summary": "Mixtape qui a lancé la carrière de Frank Ocean, mélangeant des samples audacieux avec des récits personnels et introspectifs sur l'amour, l'identité et la nostalgie.",
+    "keywords": ["mixtape", "R&B", "nostalgie", "introspectif"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": ["Complex's Best Album of 2011"],
+    "tracklist": [
+      {
+        "title": "Street Fighter",
+        "duration": "0:31"
+      },
+      {
+        "title": "Strawberry Swing",
+        "duration": "4:02"
+      },
+      {
+        "title": "Novacane",
+        "duration": "5:04"
+      },
+      {
+        "title": "We All Try",
+        "duration": "2:51"
+      },
+      {
+        "title": "Bitches Talkin'",
+        "duration": "0:21"
+      },
+      {
+        "title": "Songs 4 Women",
+        "duration": "4:13"
+      },
+      {
+        "title": "Lovecrimes",
+        "duration": "4:00"
+      },
+      {
+        "title": "Goldeneye",
+        "duration": "0:15"
+      },
+      {
+        "title": "There Will Be Tears",
+        "duration": "3:15"
+      },
+      {
+        "title": "Swim Good",
+        "duration": "4:17"
+      },
+      {
+        "title": "Dust",
+        "duration": "2:33"
+      },
+      {
+        "title": "American Wedding",
+        "duration": "7:01"
+      },
+      {
+        "title": "Soul Calibur",
+        "duration": "0:18"
+      },
+      {
+        "title": "Nature Feels",
+        "duration": "3:43"
+      }
+    ],
+    "composer": "Christopher Breaux (Frank Ocean)",
+    "lyricist": "Christopher Breaux (Frank Ocean)",
+    "recording_studio": "Diverse locations",
+    "certifications": ["Non certifié (mixtape)"]
+  },
+  {
+    "title": "Viva la Vida or Death and All His Friends",
+    "artists": ["Coldplay"],
+    "producers": ["Brian Eno", "Markus Dravs", "Jon Hopkins", "Rik Simpson"],
+    "label": "Parlophone",
+    "release_date": "2008-06-12",
+    "ISBN_EAN_UPC": "5099921211409",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 45.82,
+    "category": "Rock alternatif",
+    "summary": "Quatrième album studio de Coldplay marquant un changement artistique avec des arrangements orchestraux plus ambitieux et des sonorités diverses influencées par la musique du monde.",
+    "keywords": ["rock", "orchestral", "britannique", "conceptuel"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award de l'album de l'année",
+      "Brit Award du meilleur album britannique"
+    ],
+    "tracklist": [
+      {
+        "title": "Life in Technicolor",
+        "duration": "2:29"
+      },
+      {
+        "title": "Cemeteries of London",
+        "duration": "3:21"
+      },
+      {
+        "title": "Lost!",
+        "duration": "3:55"
+      },
+      {
+        "title": "42",
+        "duration": "3:57"
+      },
+      {
+        "title": "Lovers in Japan/Reign of Love",
+        "duration": "6:51"
+      },
+      {
+        "title": "Yes",
+        "duration": "7:06"
+      },
+      {
+        "title": "Viva la Vida",
+        "duration": "4:01"
+      },
+      {
+        "title": "Violet Hill",
+        "duration": "3:42"
+      },
+      {
+        "title": "Strawberry Swing",
+        "duration": "4:09"
+      },
+      {
+        "title": "Death and All His Friends",
+        "duration": "6:18"
+      }
+    ],
+    "composer": "Coldplay",
+    "lyricist": "Chris Martin",
+    "recording_studio": ["The Bakery", "The Magic Shop"],
+    "certifications": [
+      "Disque de diamant (France)",
+      "Triple disque de platine (États-Unis)"
+    ]
+  },
+  {
+    "title": "The Suburbs",
+    "artists": ["Arcade Fire"],
+    "producers": ["Markus Dravs", "Arcade Fire"],
+    "label": "Merge Records",
+    "release_date": "2010-08-02",
+    "ISBN_EAN_UPC": "673855040622",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 64.08,
+    "category": "Indie Rock",
+    "summary": "Album conceptuel explorant les thèmes de la vie suburbaine, la nostalgie de l'enfance et l'impact de l'urbanisation sur l'identité culturelle, avec une approche musicale variée allant du rock à la new wave.",
+    "keywords": ["indie", "conceptuel", "banlieue", "canadien"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award de l'album de l'année",
+      "Juno Award de l'album de l'année"
+    ],
+    "tracklist": [
+      {
+        "title": "The Suburbs",
+        "duration": "5:15"
+      },
+      {
+        "title": "Ready to Start",
+        "duration": "4:15"
+      },
+      {
+        "title": "Modern Man",
+        "duration": "4:39"
+      },
+      {
+        "title": "Rococo",
+        "duration": "3:56"
+      },
+      {
+        "title": "Empty Room",
+        "duration": "2:51"
+      },
+      {
+        "title": "City with No Children",
+        "duration": "3:11"
+      },
+      {
+        "title": "Half Light I",
+        "duration": "4:13"
+      },
+      {
+        "title": "Half Light II (No Celebration)",
+        "duration": "4:27"
+      },
+      {
+        "title": "Suburban War",
+        "duration": "4:45"
+      },
+      {
+        "title": "Month of May",
+        "duration": "3:50"
+      },
+      {
+        "title": "Wasted Hours",
+        "duration": "3:20"
+      },
+      {
+        "title": "Deep Blue",
+        "duration": "4:28"
+      },
+      {
+        "title": "We Used to Wait",
+        "duration": "5:01"
+      },
+      {
+        "title": "Sprawl I (Flatland)",
+        "duration": "2:54"
+      },
+      {
+        "title": "Sprawl II (Mountains Beyond Mountains)",
+        "duration": "5:20"
+      },
+      {
+        "title": "The Suburbs (Continued)",
+        "duration": "1:27"
+      }
+    ],
+    "composer": [
+      "Win Butler",
+      "Régine Chassagne",
+      "William Butler",
+      "Richard Reed Parry",
+      "Tim Kingsbury",
+      "Jeremy Gara"
+    ],
+    "lyricist": ["Win Butler", "Régine Chassagne"],
+    "recording_studio": ["Sonovox Studios", "Montréal"],
+    "certifications": ["Disque de platine (Canada)", "Disque d'or (États-Unis)"]
+  },
+  {
+    "title": "Lonerism",
+    "artists": ["Tame Impala"],
+    "producers": ["Kevin Parker"],
+    "label": "Modular Recordings",
+    "release_date": "2012-10-05",
+    "ISBN_EAN_UPC": "730003730412",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 51.83,
+    "category": "Psychedelic Rock",
+    "summary": "Deuxième album studio de Tame Impala, explorant les thèmes de l'isolement social et de l'aliénation à travers un son psychédélique dense, des mélodies nostalgiques et des textures sonores innovantes.",
+    "keywords": ["psychédélique", "australien", "introspectif", "indie"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "J Award de l'album de l'année",
+      "Rolling Stone Australia Album of the Year"
+    ],
+    "tracklist": [
+      {
+        "title": "Be Above It",
+        "duration": "3:21"
+      },
+      {
+        "title": "Endors Toi",
+        "duration": "3:07"
+      },
+      {
+        "title": "Apocalypse Dreams",
+        "duration": "5:56"
+      },
+      {
+        "title": "Mind Mischief",
+        "duration": "4:31"
+      },
+      {
+        "title": "Music to Walk Home By",
+        "duration": "5:12"
+      },
+      {
+        "title": "Why Won't They Talk to Me?",
+        "duration": "4:46"
+      },
+      {
+        "title": "Feels Like We Only Go Backwards",
+        "duration": "3:12"
+      },
+      {
+        "title": "Keep on Lying",
+        "duration": "5:54"
+      },
+      {
+        "title": "Elephant",
+        "duration": "3:31"
+      },
+      {
+        "title": "She Just Won't Believe Me",
+        "duration": "0:57"
+      },
+      {
+        "title": "Nothing That Has Happened So Far Has Been Anything We Could Control",
+        "duration": "6:01"
+      },
+      {
+        "title": "Sun's Coming Up",
+        "duration": "5:20"
+      }
+    ],
+    "composer": "Kevin Parker",
+    "lyricist": "Kevin Parker",
+    "recording_studio": [
+      "Kevin Parker's home studio, Perth",
+      "Studio 1212, Paris"
+    ],
+    "certifications": ["Disque d'or (Australie)"]
+  },
+  {
+    "title": "ANTI",
+    "artists": ["Rihanna"],
+    "producers": [
+      "Boi-1da",
+      "DJ Mustard",
+      "Hit-Boy",
+      "No I.D.",
+      "Timbaland",
+      "Kanye West"
+    ],
+    "label": "Westbury Road Entertainment",
+    "release_date": "2016-01-28",
+    "ISBN_EAN_UPC": "88857135822",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 43.28,
+    "category": "R&B contemporain",
+    "summary": "Huitième album studio de Rihanna, représentant une évolution artistique avec des expérimentations dans différents genres musicaux comme le dancehall, le soul, le funk et la pop alternative.",
+    "keywords": ["R&B", "dancehall", "expérimental", "barbadien"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award de la meilleure performance vocale urbaine contemporaine",
+      "American Music Award du meilleur album Soul/R&B"
+    ],
+    "tracklist": [
+      {
+        "title": "Consideration (feat. SZA)",
+        "duration": "2:41"
+      },
+      {
+        "title": "James Joint",
+        "duration": "1:12"
+      },
+      {
+        "title": "Kiss It Better",
+        "duration": "4:13"
+      },
+      {
+        "title": "Work (feat. Drake)",
+        "duration": "3:39"
+      },
+      {
+        "title": "Desperado",
+        "duration": "3:07"
+      },
+      {
+        "title": "Woo",
+        "duration": "3:55"
+      },
+      {
+        "title": "Needed Me",
+        "duration": "3:11"
+      },
+      {
+        "title": "Yeah, I Said It",
+        "duration": "2:13"
+      },
+      {
+        "title": "Same Ol' Mistakes",
+        "duration": "6:37"
+      },
+      {
+        "title": "Never Ending",
+        "duration": "3:22"
+      },
+      {
+        "title": "Love on the Brain",
+        "duration": "3:44"
+      },
+      {
+        "title": "Higher",
+        "duration": "2:01"
+      },
+      {
+        "title": "Close to You",
+        "duration": "3:43"
+      }
+    ],
+    "composer": [
+      "Robyn Fenty",
+      "James Fauntleroy",
+      "Kevin Parker",
+      "Drake",
+      "SZA",
+      "autres"
+    ],
+    "lyricist": [
+      "Robyn Fenty",
+      "James Fauntleroy",
+      "Kevin Parker",
+      "Drake",
+      "SZA",
+      "autres"
+    ],
+    "recording_studio": ["Westlake Recording Studios", "Jungle City Studios"],
+    "certifications": [
+      "Triple disque de platine (États-Unis)",
+      "Disque de platine (France)"
+    ]
+  },
+  {
+    "title": "Odyssée Nocturne",
+    "artists": ["L'Impératrice"],
+    "producers": ["Renaud Letang", "Achille Trocellier"],
+    "label": "Microqlima Records",
+    "release_date": "2021-03-26",
+    "ISBN_EAN_UPC": "3700551784356",
+    "format": ["Vinyle", "CD", "Numérique"],
+    "duration": 58,
+    "category": "French Pop",
+    "summary": "Troisième album studio du groupe français L'Impératrice, mêlant disco, funk et pop française avec des sonorités électroniques rétrofuturistes.",
+    "keywords": ["disco", "french touch", "électro-pop", "synthwave"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["Nomination aux Victoires de la Musique 2022"],
+    "tracklist": [
+      {
+        "title": "Anomalie Bleue",
+        "duration": "3:45"
+      },
+      {
+        "title": "Peur des filles",
+        "duration": "4:12"
+      },
+      {
+        "title": "Submarine",
+        "duration": "3:56"
+      },
+      {
+        "title": "Hématome",
+        "duration": "4:23"
+      },
+      {
+        "title": "Lever du jour",
+        "duration": "5:10"
+      },
+      {
+        "title": "Digital Sunset",
+        "duration": "4:32"
+      },
+      {
+        "title": "Fou",
+        "duration": "3:58"
+      },
+      {
+        "title": "Étoile noire",
+        "duration": "4:17"
+      },
+      {
+        "title": "Équinoxe",
+        "duration": "5:21"
+      },
+      {
+        "title": "Odyssée",
+        "duration": "6:03"
+      }
+    ],
+    "composers": ["Charles de Boisseguin", "Hagni Gwon"],
+    "lyricists": ["Flore Benguigui", "Charles de Boisseguin"],
+    "recording_studio": "Studio Ferber, Paris",
+    "certifications": ["Disque d'or en France"]
+  },
+  {
+    "title": "Tranquility Base Hotel & Casino",
+    "artists": ["Arctic Monkeys"],
+    "producers": ["James Ford", "Alex Turner"],
+    "label": "Domino Recording Company",
+    "release_date": "2018-05-11",
+    "ISBN_EAN_UPC": "887828042623",
+    "format": ["Vinyle", "CD", "Numérique"],
+    "duration": 41,
+    "category": "Rock alternatif",
+    "summary": "Sixième album studio des Arctic Monkeys marquant un tournant stylistique vers un son lounge jazz-rock inspiré par la science-fiction et les années 70.",
+    "keywords": ["psychédélique", "space rock", "lounge", "concept album"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Mercury Prize Nomination 2018"],
+    "tracklist": [
+      {
+        "title": "Star Treatment",
+        "duration": "5:55"
+      },
+      {
+        "title": "One Point Perspective",
+        "duration": "3:28"
+      },
+      {
+        "title": "American Sports",
+        "duration": "2:38"
+      },
+      {
+        "title": "Tranquility Base Hotel & Casino",
+        "duration": "3:31"
+      },
+      {
+        "title": "Golden Trunks",
+        "duration": "2:53"
+      },
+      {
+        "title": "Four Out of Five",
+        "duration": "5:12"
+      },
+      {
+        "title": "The World's First Ever Monster Truck Front Flip",
+        "duration": "3:00"
+      },
+      {
+        "title": "Science Fiction",
+        "duration": "3:05"
+      },
+      {
+        "title": "She Looks Like Fun",
+        "duration": "2:45"
+      },
+      {
+        "title": "Batphone",
+        "duration": "4:31"
+      },
+      {
+        "title": "The Ultracheese",
+        "duration": "3:37"
+      }
+    ],
+    "composers": ["Alex Turner"],
+    "lyricists": ["Alex Turner"],
+    "recording_studio": "La Frette Studios, France",
+    "certifications": ["Platine au Royaume-Uni", "Or en France"]
+  },
+  {
+    "title": "Voicenotes",
+    "artists": ["Charlie Puth"],
+    "producers": ["Charlie Puth"],
+    "label": "Atlantic Records",
+    "release_date": "2018-05-11",
+    "ISBN_EAN_UPC": "075679869326",
+    "format": ["CD", "Numérique", "Vinyle"],
+    "duration": 45,
+    "category": "Pop",
+    "summary": "Deuxième album studio de Charlie Puth, explorant des thèmes de romance et d'introspection avec une production raffinée influencée par le R&B et la funk des années 80.",
+    "keywords": ["pop", "R&B", "funk", "blue-eyed soul"],
+    "targeted_audience": "teenager",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Billboard Music Award Nomination 2019"],
+    "tracklist": [
+      {
+        "title": "The Way I Am",
+        "duration": "3:06"
+      },
+      {
+        "title": "Attention",
+        "duration": "3:31"
+      },
+      {
+        "title": "LA Girls",
+        "duration": "3:38"
+      },
+      {
+        "title": "How Long",
+        "duration": "3:20"
+      },
+      {
+        "title": "Done For Me (feat. Kehlani)",
+        "duration": "3:01"
+      },
+      {
+        "title": "Patient",
+        "duration": "3:12"
+      },
+      {
+        "title": "If You Leave Me Now (feat. Boyz II Men)",
+        "duration": "3:18"
+      },
+      {
+        "title": "BOY",
+        "duration": "2:46"
+      },
+      {
+        "title": "Slow It Down",
+        "duration": "3:12"
+      },
+      {
+        "title": "Change (feat. James Taylor)",
+        "duration": "3:44"
+      },
+      {
+        "title": "Somebody Told Me",
+        "duration": "3:16"
+      },
+      {
+        "title": "Empty Cups",
+        "duration": "3:25"
+      },
+      {
+        "title": "Through It All",
+        "duration": "3:19"
+      }
+    ],
+    "composers": ["Charlie Puth", "Jacob Kasher", "Justin Franks"],
+    "lyricists": ["Charlie Puth", "Jacob Kasher"],
+    "recording_studio": "Charlie's home studio, Los Angeles",
+    "certifications": ["Platine aux États-Unis", "Or au Royaume-Uni"]
+  },
+  {
+    "title": "Chaleur Humaine",
+    "artists": ["Christine and the Queens"],
+    "producers": ["Ash Workman", "Christine and the Queens"],
+    "label": "Because Music",
+    "release_date": "2014-06-02",
+    "ISBN_EAN_UPC": "5060281619051",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 40,
+    "category": "Pop électronique",
+    "summary": "Album-phénomène de Christine and the Queens (Héloïse Letissier) combinant pop française et influences électroniques, avec des paroles explorant l'identité de genre et l'acceptation de soi.",
+    "keywords": ["synth-pop", "queer", "français", "électro-pop"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["Victoire de la Musique 2015 - Album Révélation"],
+    "tracklist": [
+      {
+        "title": "iT",
+        "duration": "3:47"
+      },
+      {
+        "title": "Saint Claude",
+        "duration": "3:34"
+      },
+      {
+        "title": "Christine",
+        "duration": "3:35"
+      },
+      {
+        "title": "Paradis Perdus",
+        "duration": "4:06"
+      },
+      {
+        "title": "Half Ladies",
+        "duration": "3:28"
+      },
+      {
+        "title": "Narcissus Is Back",
+        "duration": "3:28"
+      },
+      {
+        "title": "Cripple",
+        "duration": "3:26"
+      },
+      {
+        "title": "No Harm Is Done (feat. Tunji Ige)",
+        "duration": "3:28"
+      },
+      {
+        "title": "Science Fiction",
+        "duration": "3:34"
+      },
+      {
+        "title": "Tilted",
+        "duration": "3:41"
+      },
+      {
+        "title": "Safe and Holy",
+        "duration": "3:31"
+      }
+    ],
+    "composers": ["Héloïse Letissier", "Ash Workman"],
+    "lyricists": ["Héloïse Letissier"],
+    "recording_studio": "Studio Ferber, Paris",
+    "certifications": ["Triple Platine en France", "Or au Royaume-Uni"]
+  },
+  {
+    "title": "Pleine Lune",
+    "artists": ["Nekfeu"],
+    "producers": ["Nekfeu", "Hologram Lo'", "Eazy Dew"],
+    "label": "Seine Zoo",
+    "release_date": "2019-06-06",
+    "ISBN_EAN_UPC": "190296938337",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 87,
+    "category": "Hip-Hop",
+    "summary": "Album-concept du rappeur français Nekfeu, explorant des thèmes personnels et sociaux avec une production riche et variée, proposant un voyage émotionnel à travers 24 morceaux.",
+    "keywords": ["rap français", "introspectif", "poétique", "conscient"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["Victoire de la Musique 2020 - Album Rap"],
+    "tracklist": [
+      {
+        "title": "Les étoiles vagabondes",
+        "duration": "3:42"
+      },
+      {
+        "title": "Takotsubo",
+        "duration": "4:01"
+      },
+      {
+        "title": "Alunissons",
+        "duration": "3:38"
+      },
+      {
+        "title": "Premier pas",
+        "duration": "3:12"
+      },
+      {
+        "title": "Menteur menteur",
+        "duration": "3:44"
+      },
+      {
+        "title": "Tricheur",
+        "duration": "3:38"
+      },
+      {
+        "title": "Elle pleut",
+        "duration": "3:56"
+      },
+      {
+        "title": "De mon mieux",
+        "duration": "3:33"
+      },
+      {
+        "title": "Sous les nuages",
+        "duration": "3:49"
+      },
+      {
+        "title": "Ciel noir",
+        "duration": "3:57"
+      },
+      {
+        "title": "Nuit d'été",
+        "duration": "3:25"
+      },
+      {
+        "title": "Désordre",
+        "duration": "3:40"
+      }
+    ],
+    "composers": ["Nekfeu", "Hologram Lo'", "Eazy Dew"],
+    "lyricists": ["Nekfeu"],
+    "recording_studio": "Studio de la Seine, Paris",
+    "certifications": ["Diamant en France"]
+  },
+  {
+    "title": "Racine Carrée",
+    "artists": ["Stromae"],
+    "producers": ["Stromae", "Mosaert"],
+    "label": "Mosaert",
+    "release_date": "2013-08-16",
+    "ISBN_EAN_UPC": "5054196132729",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 51,
+    "category": "Électro-pop",
+    "summary": "Deuxième album studio de Stromae, mêlant électro, hip-hop et influences africaines, avec des paroles abordant des thèmes sociaux et personnels comme le cancer, l'absence paternelle et la discrimination.",
+    "keywords": ["electro", "chanson française", "dance", "hip-hop"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["Victoires de la Musique 2014 - Album de l'année"],
+    "tracklist": [
+      {
+        "title": "Ta fête",
+        "duration": "3:23"
+      },
+      {
+        "title": "Papaoutai",
+        "duration": "3:53"
+      },
+      {
+        "title": "Bâtard",
+        "duration": "3:31"
+      },
+      {
+        "title": "Ave Cesaria",
+        "duration": "4:09"
+      },
+      {
+        "title": "Tous les mêmes",
+        "duration": "3:33"
+      },
+      {
+        "title": "Formidable",
+        "duration": "3:34"
+      },
+      {
+        "title": "Moules frites",
+        "duration": "3:00"
+      },
+      {
+        "title": "Carmen",
+        "duration": "3:08"
+      },
+      {
+        "title": "Humain à l'eau",
+        "duration": "3:55"
+      },
+      {
+        "title": "Quand c'est ?",
+        "duration": "3:53"
+      },
+      {
+        "title": "Sommeil",
+        "duration": "3:32"
+      },
+      {
+        "title": "Merci",
+        "duration": "3:40"
+      },
+      {
+        "title": "Avf (feat. Maître Gims)",
+        "duration": "4:04"
+      }
+    ],
+    "composers": ["Paul Van Haver (Stromae)"],
+    "lyricists": ["Paul Van Haver (Stromae)"],
+    "recording_studio": "Studio Mosaert, Bruxelles",
+    "certifications": ["Diamant en France", "Platine en Belgique"]
+  },
+  {
+    "title": "Igor",
+    "artists": ["Tyler, The Creator"],
+    "producers": ["Tyler, The Creator"],
+    "label": "Columbia Records",
+    "release_date": "2019-05-17",
+    "ISBN_EAN_UPC": "190759543511",
+    "format": ["CD", "Vinyle", "Numérique", "Cassette"],
+    "duration": 40,
+    "category": "Hip-Hop expérimental",
+    "summary": "Album conceptuel de Tyler, The Creator, explorant une histoire d'amour complexe à travers une production audacieuse mélangeant hip-hop, soul et jazz avec des sonorités lo-fi.",
+    "keywords": ["neo-soul", "avant-garde", "alt-rap", "queer"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Grammy Award 2020 - Meilleur album rap"],
+    "tracklist": [
+      {
+        "title": "IGOR'S THEME",
+        "duration": "3:20"
+      },
+      {
+        "title": "EARFQUAKE",
+        "duration": "3:11"
+      },
+      {
+        "title": "I THINK",
+        "duration": "3:33"
+      },
+      {
+        "title": "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING",
+        "duration": "0:14"
+      },
+      {
+        "title": "RUNNING OUT OF TIME",
+        "duration": "2:57"
+      },
+      {
+        "title": "NEW MAGIC WAND",
+        "duration": "3:15"
+      },
+      {
+        "title": "A BOY IS A GUN",
+        "duration": "3:30"
+      },
+      {
+        "title": "PUPPET",
+        "duration": "2:59"
+      },
+      {
+        "title": "WHAT'S GOOD",
+        "duration": "3:25"
+      },
+      {
+        "title": "GONE, GONE / THANK YOU",
+        "duration": "6:15"
+      },
+      {
+        "title": "I DON'T LOVE YOU ANYMORE",
+        "duration": "2:41"
+      },
+      {
+        "title": "ARE WE STILL FRIENDS?",
+        "duration": "4:25"
+      }
+    ],
+    "composers": ["Tyler Okonma"],
+    "lyricists": ["Tyler Okonma"],
+    "recording_studio": "No Name Studios, Los Angeles",
+    "certifications": ["Platine aux États-Unis", "Or au Royaume-Uni"]
+  },
+  {
+    "title": "Funk Wav Bounces Vol. 1",
+    "artists": ["Calvin Harris"],
+    "producers": ["Calvin Harris", "Marcos Tovar"],
+    "label": "Columbia Records",
+    "release_date": "2017-06-30",
+    "ISBN_EAN_UPC": "886446516028",
+    "format": ["CD", "vinyle", "numérique"],
+    "duration": 48,
+    "category": "Dance/Électronique",
+    "summary": "Cinquième album studio de Calvin Harris, caractérisé par une fusion de funk, disco et musique électronique avec de nombreuses collaborations de stars.",
+    "keywords": ["funk", "disco", "électronique", "collaborations", "été"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Nomination aux Grammy awards 2018"],
+    "tracklist": [
+      {
+        "title": "Slide",
+        "duration": "3:51"
+      },
+      {
+        "title": "Cash Out",
+        "duration": "3:24"
+      },
+      {
+        "title": "Heatstroke",
+        "duration": "3:49"
+      },
+      {
+        "title": "Rollin",
+        "duration": "4:30"
+      },
+      {
+        "title": "Prayers Up",
+        "duration": "3:09"
+      },
+      {
+        "title": "Holiday",
+        "duration": "2:23"
+      },
+      {
+        "title": "Skrt on Me",
+        "duration": "3:54"
+      },
+      {
+        "title": "Feels",
+        "duration": "3:43"
+      },
+      {
+        "title": "Faking It",
+        "duration": "4:00"
+      },
+      {
+        "title": "Hard to Love",
+        "duration": "3:37"
+      }
+    ],
+    "composer": "Calvin Harris",
+    "lyricist": [
+      "Calvin Harris",
+      "Frank Ocean",
+      "Migos",
+      "Pharrell Williams",
+      "Ariana Grande"
+    ],
+    "recording_studio": "Westlake Recording Studios, Los Angeles",
+    "certifications": [
+      "Disque d'or (Royaume-Uni)",
+      "Disque de platine (États-Unis)"
+    ]
+  },
+  {
+    "title": "La Vie Est Belle",
+    "artists": ["Indila"],
+    "producers": ["Skalpovich", "DJ Skalp"],
+    "label": "Capitol Music France",
+    "release_date": "2014-02-24",
+    "ISBN_EAN_UPC": "602537684571",
+    "format": ["CD", "numérique"],
+    "duration": 38,
+    "category": "Pop française",
+    "summary": "Album-phénomène de la chanteuse française d'origine algérienne mêlant pop, R&B et influences orientales, avec le tube 'Dernière Danse'.",
+    "keywords": [
+      "pop française",
+      "R&B",
+      "mélancolique",
+      "oriental",
+      "émotions"
+    ],
+    "targeted_audience": "teenager, adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["NRJ Music Award de la Révélation francophone de l'année"],
+    "tracklist": [
+      {
+        "title": "Dernière Danse",
+        "duration": "3:32"
+      },
+      {
+        "title": "Tourner dans le vide",
+        "duration": "4:11"
+      },
+      {
+        "title": "Love Story",
+        "duration": "4:08"
+      },
+      {
+        "title": "S.O.S",
+        "duration": "3:54"
+      },
+      {
+        "title": "Comme un bateau",
+        "duration": "3:39"
+      },
+      {
+        "title": "Tu ne m'entends pas",
+        "duration": "3:46"
+      },
+      {
+        "title": "Run Run",
+        "duration": "3:22"
+      },
+      {
+        "title": "Ego",
+        "duration": "4:02"
+      },
+      {
+        "title": "Boîte en argent",
+        "duration": "3:45"
+      },
+      {
+        "title": "Mini World",
+        "duration": "3:30"
+      }
+    ],
+    "composer": "Skalpovich",
+    "lyricist": ["Indila", "Skalpovich"],
+    "recording_studio": "Studios de la Seine, Paris",
+    "certifications": ["Disque de diamant (France)"]
+  },
+  {
+    "title": "Black Messiah",
+    "artists": ["D'Angelo and The Vanguard"],
+    "producers": ["D'Angelo", "Questlove", "Russell Elevado"],
+    "label": "RCA Records",
+    "release_date": "2014-12-15",
+    "ISBN_EAN_UPC": "888750532824",
+    "format": ["CD", "vinyle", "numérique"],
+    "duration": 56,
+    "category": "Neo-Soul/R&B",
+    "summary": "Album-surprise très attendu après 14 ans d'absence, mélangeant funk, jazz et soul avec des paroles politiquement engagées.",
+    "keywords": ["neo-soul", "funk", "jazz", "politique", "expérimental"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Grammy Award du Meilleur Album R&B 2016"],
+    "tracklist": [
+      {
+        "title": "Ain't That Easy",
+        "duration": "4:38"
+      },
+      {
+        "title": "1000 Deaths",
+        "duration": "5:42"
+      },
+      {
+        "title": "The Charade",
+        "duration": "5:20"
+      },
+      {
+        "title": "Sugah Daddy",
+        "duration": "5:02"
+      },
+      {
+        "title": "Really Love",
+        "duration": "5:44"
+      },
+      {
+        "title": "Back to the Future (Part I)",
+        "duration": "5:22"
+      },
+      {
+        "title": "Till It's Done (Tutu)",
+        "duration": "3:49"
+      },
+      {
+        "title": "Prayer",
+        "duration": "2:41"
+      },
+      {
+        "title": "Betray My Heart",
+        "duration": "5:18"
+      },
+      {
+        "title": "The Door",
+        "duration": "4:55"
+      },
+      {
+        "title": "Back to the Future (Part II)",
+        "duration": "2:25"
+      },
+      {
+        "title": "Another Life",
+        "duration": "5:58"
+      }
+    ],
+    "composer": "D'Angelo",
+    "lyricist": ["D'Angelo", "Kendra Foster", "Q-Tip"],
+    "recording_studio": "Electric Lady Studios, New York",
+    "certifications": ["Disque d'or (États-Unis)"]
+  },
+  {
+    "title": "Aleph",
+    "artists": ["Gesaffelstein"],
+    "producers": ["Gesaffelstein", "The Hacker"],
+    "label": "Parlophone",
+    "release_date": "2013-10-28",
+    "ISBN_EAN_UPC": "5054196092429",
+    "format": ["CD", "vinyle", "numérique"],
+    "duration": 54,
+    "category": "Techno/Électronique",
+    "summary": "Premier album studio du producteur français, caractérisé par une techno industrielle sombre et minimaliste qui a révolutionné la scène électronique.",
+    "keywords": [
+      "techno",
+      "industriel",
+      "sombre",
+      "minimaliste",
+      "expérimental"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "instrumental",
+    "series": false,
+    "awards": ["Élu meilleur album électronique par FACT Magazine en 2013"],
+    "tracklist": [
+      {
+        "title": "Out of Line",
+        "duration": "4:08"
+      },
+      {
+        "title": "Pursuit",
+        "duration": "4:41"
+      },
+      {
+        "title": "Nameless",
+        "duration": "4:18"
+      },
+      {
+        "title": "Hellifornia",
+        "duration": "3:35"
+      },
+      {
+        "title": "Wall of Memories",
+        "duration": "2:05"
+      },
+      {
+        "title": "Aleph",
+        "duration": "5:09"
+      },
+      {
+        "title": "Piece of Future",
+        "duration": "4:07"
+      },
+      {
+        "title": "Duel",
+        "duration": "4:38"
+      },
+      {
+        "title": "Trans",
+        "duration": "9:32"
+      },
+      {
+        "title": "Perfection",
+        "duration": "3:41"
+      },
+      {
+        "title": "Hate or Glory",
+        "duration": "3:39"
+      },
+      {
+        "title": "Obsession",
+        "duration": "4:04"
+      },
+      {
+        "title": "Destinations",
+        "duration": "2:01"
+      }
+    ],
+    "composer": "Mike Lévy (Gesaffelstein)",
+    "lyricist": ["N/A"],
+    "recording_studio": "Studio La Seine, Paris",
+    "certifications": ["Disque d'or (France)"]
+  },
+  {
+    "title": "Ctrl",
+    "artists": ["SZA"],
+    "producers": ["Carter Lang", "Scum", "Punch", "SZA", "Top Dawg"],
+    "label": "Top Dawg Entertainment",
+    "release_date": "2017-06-09",
+    "ISBN_EAN_UPC": "889854570521",
+    "format": ["CD", "vinyle", "numérique"],
+    "duration": 49,
+    "category": "R&B/Neo-Soul",
+    "summary": "Album-débutant de SZA qui explore les thèmes de féminité, vulnérabilité et relations avec une production alternative R&B contemporaine.",
+    "keywords": [
+      "R&B alternatif",
+      "néo-soul",
+      "féminité",
+      "vulnérabilité",
+      "introspection"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Cinq nominations aux Grammy awards 2018"],
+    "tracklist": [
+      {
+        "title": "Supermodel",
+        "duration": "3:01"
+      },
+      {
+        "title": "Love Galore",
+        "duration": "4:36"
+      },
+      {
+        "title": "Doves in the Wind",
+        "duration": "4:27"
+      },
+      {
+        "title": "Drew Barrymore",
+        "duration": "3:51"
+      },
+      {
+        "title": "Prom",
+        "duration": "3:16"
+      },
+      {
+        "title": "The Weekend",
+        "duration": "4:32"
+      },
+      {
+        "title": "Go Gina",
+        "duration": "2:37"
+      },
+      {
+        "title": "Garden (Say It Like Dat)",
+        "duration": "3:28"
+      },
+      {
+        "title": "Broken Clocks",
+        "duration": "3:52"
+      },
+      {
+        "title": "Anything",
+        "duration": "2:29"
+      },
+      {
+        "title": "Wavy (Interlude)",
+        "duration": "1:16"
+      },
+      {
+        "title": "Normal Girl",
+        "duration": "4:13"
+      },
+      {
+        "title": "Pretty Little Birds",
+        "duration": "4:09"
+      },
+      {
+        "title": "20 Something",
+        "duration": "3:18"
+      }
+    ],
+    "composer": ["SZA", "Carter Lang", "Scum"],
+    "lyricist": ["SZA", "Kendrick Lamar", "Isaiah Rashad"],
+    "recording_studio": "Jungle City Studios, New York",
+    "certifications": ["Triple disque de platine (États-Unis)"]
+  },
+  {
+    "title": "Géopoétique",
+    "artists": ["MC Solaar"],
+    "producers": ["Alain J", "Boom Bass", "Frada"],
+    "label": "Play Two",
+    "release_date": "2017-11-03",
+    "ISBN_EAN_UPC": "889854970123",
+    "format": ["CD", "vinyle", "numérique"],
+    "duration": 58,
+    "category": "Hip-Hop/Rap français",
+    "summary": "Album du retour de MC Solaar après 10 ans d'absence, célébrant un rap littéraire et poétique avec des textes engagés et profonds.",
+    "keywords": [
+      "rap français",
+      "littéraire",
+      "poétique",
+      "jeux de mots",
+      "engagé"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [
+      "Victoire de la Musique 2018 du Meilleur album de musiques urbaines"
+    ],
+    "tracklist": [
+      {
+        "title": "Solaar pleure",
+        "duration": "3:32"
+      },
+      {
+        "title": "Sonotone",
+        "duration": "3:41"
+      },
+      {
+        "title": "Eksassaute",
+        "duration": "3:37"
+      },
+      {
+        "title": "Déficit d'attention",
+        "duration": "4:19"
+      },
+      {
+        "title": "Aiwa",
+        "duration": "3:02"
+      },
+      {
+        "title": "Marché noir",
+        "duration": "4:29"
+      },
+      {
+        "title": "Playground",
+        "duration": "3:35"
+      },
+      {
+        "title": "SuperStarr",
+        "duration": "3:21"
+      },
+      {
+        "title": "Vie vicieuse",
+        "duration": "3:32"
+      },
+      {
+        "title": "Chimpanzés",
+        "duration": "3:55"
+      },
+      {
+        "title": "La Boule",
+        "duration": "3:10"
+      },
+      {
+        "title": "Documentaire",
+        "duration": "3:51"
+      },
+      {
+        "title": "Tout s'éclaire",
+        "duration": "3:18"
+      },
+      {
+        "title": "Au Pays de Gandhi",
+        "duration": "3:39"
+      },
+      {
+        "title": "Carte Postale",
+        "duration": "3:42"
+      },
+      {
+        "title": "PoètePoètePoète",
+        "duration": "3:53"
+      }
+    ],
+    "composer": ["Alain J", "Boom Bass", "Frada"],
+    "lyricist": ["MC Solaar"],
+    "recording_studio": "Studio Grande Armée, Paris",
+    "certifications": ["Disque de platine (France)"]
+  },
+  {
+    "title": "Art Angels",
+    "artists": ["Grimes"],
+    "producers": ["Grimes", "Spike Stent"],
+    "label": "4AD",
+    "release_date": "2015-11-06",
+    "ISBN_EAN_UPC": "191400002420",
+    "format": ["CD", "vinyle", "numérique"],
+    "duration": 49,
+    "category": "Art Pop/Électronique",
+    "summary": "Album expérimental et pop avant-gardiste de Grimes, fusionnant électronique, pop et influences diverses avec des productions entièrement réalisées par l'artiste elle-même.",
+    "keywords": [
+      "art pop",
+      "électronique",
+      "expérimental",
+      "féminisme",
+      "avant-garde"
+    ],
+    "targeted_audience": "teenager, adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Album de l'année par NME et Stereogum 2015"],
+    "tracklist": [
+      {
+        "title": "laughing and not being normal",
+        "duration": "1:47"
+      },
+      {
+        "title": "California",
+        "duration": "3:19"
+      },
+      {
+        "title": "SCREAM",
+        "duration": "2:42"
+      },
+      {
+        "title": "Flesh without Blood",
+        "duration": "4:24"
+      },
+      {
+        "title": "Belly of the Beat",
+        "duration": "3:27"
+      },
+      {
+        "title": "Kill V. Maim",
+        "duration": "4:23"
+      },
+      {
+        "title": "Artangels",
+        "duration": "4:15"
+      },
+      {
+        "title": "Easily",
+        "duration": "4:03"
+      },
+      {
+        "title": "Pin",
+        "duration": "4:53"
+      },
+      {
+        "title": "Realiti",
+        "duration": "5:07"
+      },
+      {
+        "title": "World Princess Part II",
+        "duration": "5:04"
+      },
+      {
+        "title": "Venus Fly",
+        "duration": "4:13"
+      },
+      {
+        "title": "Life in the Vivid Dream",
+        "duration": "1:27"
+      },
+      {
+        "title": "Butterfly",
+        "duration": "4:11"
+      }
+    ],
+    "composer": "Claire Boucher (Grimes)",
+    "lyricist": "Claire Boucher (Grimes)",
+    "recording_studio": "Home studio de Grimes, Los Angeles",
+    "certifications": ["Disque d'or (Canada)"]
+  },
+  {
+    "title": "Awaken, My Love!",
+    "artists": ["Childish Gambino"],
+    "producers": ["Donald Glover", "Ludwig Göransson"],
+    "label": "Glassnote Records",
+    "release_date": "2016-12-02",
+    "ISBN_EAN_UPC": "5054197531729",
+    "format": ["Vinyl", "CD", "Digital"],
+    "duration": 49,
+    "category": "Funk / Soul / R&B",
+    "summary": "Troisième album studio de Childish Gambino marquant une rupture avec son style rap habituel pour explorer des sonorités funk et soul des années 70.",
+    "keywords": ["funk", "psychedelic", "soul", "R&B", "retro"],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award de la meilleure performance R&B traditionnelle pour 'Redbone'"
+    ],
+    "tracklist": [
+      {
+        "title": "Me and Your Mama",
+        "duration": "6:19"
+      },
+      {
+        "title": "Have Some Love",
+        "duration": "3:43"
+      },
+      {
+        "title": "Boogieman",
+        "duration": "3:34"
+      },
+      {
+        "title": "Zombies",
+        "duration": "4:24"
+      },
+      {
+        "title": "Riot",
+        "duration": "2:07"
+      },
+      {
+        "title": "Redbone",
+        "duration": "5:26"
+      },
+      {
+        "title": "California",
+        "duration": "3:22"
+      },
+      {
+        "title": "Terrified",
+        "duration": "3:41"
+      },
+      {
+        "title": "Baby Boy",
+        "duration": "6:19"
+      },
+      {
+        "title": "The Night Me and Your Mama Met",
+        "duration": "3:19"
+      },
+      {
+        "title": "Stand Tall",
+        "duration": "6:10"
+      }
+    ],
+    "composer": ["Donald Glover", "Ludwig Göransson"],
+    "lyricist": ["Donald Glover"],
+    "recording_studio": "Diamond Mine Studios, New York",
+    "certifications": ["Disque d'or aux États-Unis"]
+  },
+  {
+    "title": "Les Étoiles Vagabondes",
+    "artists": ["Nekfeu"],
+    "producers": ["Nekfeu", "Kore", "Hologram Lo'"],
+    "label": "Seine Zoo",
+    "release_date": "2019-06-06",
+    "ISBN_EAN_UPC": "1909001786953",
+    "format": ["CD", "Vinyl", "Digital"],
+    "duration": 88,
+    "category": "Hip-Hop / Rap",
+    "summary": "Troisième album studio du rappeur français Nekfeu accompagné d'un film du même nom, explorant des thèmes introspectifs avec des sonorités variées.",
+    "keywords": ["rap français", "introspection", "voyage", "mélancolie"],
+    "targeted_audience": "adulte",
+    "original_language": "Français",
+    "series": false,
+    "awards": ["Victoire de la musique de l'album rap de l'année 2020"],
+    "tracklist": [
+      {
+        "title": "Les étoiles vagabondes : Expansion",
+        "duration": "3:27"
+      },
+      {
+        "title": "Alunissons",
+        "duration": "3:31"
+      },
+      {
+        "title": "Dans l'univers",
+        "duration": "4:26"
+      },
+      {
+        "title": "Takotsubo",
+        "duration": "3:16"
+      },
+      {
+        "title": "Premier pas",
+        "duration": "3:12"
+      },
+      {
+        "title": "Menteur menteur",
+        "duration": "3:15"
+      },
+      {
+        "title": "Conversation finale",
+        "duration": "3:47"
+      },
+      {
+        "title": "De mon mieux",
+        "duration": "3:30"
+      },
+      {
+        "title": "Elle pleut",
+        "duration": "4:05"
+      },
+      {
+        "title": "Ciel noir",
+        "duration": "3:05"
+      },
+      {
+        "title": "Tricheur",
+        "duration": "4:17"
+      },
+      {
+        "title": "Paradise Beach",
+        "duration": "3:12"
+      },
+      {
+        "title": "Voyage léger",
+        "duration": "3:57"
+      },
+      {
+        "title": "Ken Kaneki",
+        "duration": "3:14"
+      },
+      {
+        "title": "Rouge à lèvres",
+        "duration": "3:21"
+      },
+      {
+        "title": "Natsukashii",
+        "duration": "3:38"
+      },
+      {
+        "title": "Le bruit qui court",
+        "duration": "3:13"
+      },
+      {
+        "title": "Energie sombre",
+        "duration": "3:34"
+      }
+    ],
+    "composer": ["Nekfeu", "Diabi", "Alpha Wann", "Doums"],
+    "lyricist": ["Nekfeu"],
+    "recording_studio": "Studios Motorbass, Paris",
+    "certifications": ["Disque de diamant en France"]
+  },
+  {
+    "title": "When We All Fall Asleep, Where Do We Go?",
+    "artists": ["Billie Eilish"],
+    "producers": ["Finneas O'Connell"],
+    "label": "Darkroom / Interscope Records",
+    "release_date": "2019-03-29",
+    "ISBN_EAN_UPC": "602577427657",
+    "format": ["CD", "Vinyl", "Digital", "Cassette"],
+    "duration": 43,
+    "category": "Pop / Electro-Pop",
+    "summary": "Premier album studio de Billie Eilish, explorant des thèmes sombres comme la dépression et les cauchemars à travers une production minimaliste et des voix chuchotées.",
+    "keywords": ["dark pop", "ASMR", "adolescence", "cauchemars", "electro"],
+    "targeted_audience": "teenager",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award de l'album de l'année 2020",
+      "Grammy Award du meilleur album vocal pop"
+    ],
+    "tracklist": [
+      {
+        "title": "!!!!!!!",
+        "duration": "0:14"
+      },
+      {
+        "title": "bad guy",
+        "duration": "3:14"
+      },
+      {
+        "title": "xanny",
+        "duration": "4:04"
+      },
+      {
+        "title": "you should see me in a crown",
+        "duration": "3:01"
+      },
+      {
+        "title": "all the good girls go to hell",
+        "duration": "2:49"
+      },
+      {
+        "title": "wish you were gay",
+        "duration": "3:42"
+      },
+      {
+        "title": "when the party's over",
+        "duration": "3:16"
+      },
+      {
+        "title": "8",
+        "duration": "2:53"
+      },
+      {
+        "title": "my strange addiction",
+        "duration": "3:00"
+      },
+      {
+        "title": "bury a friend",
+        "duration": "3:13"
+      },
+      {
+        "title": "ilomilo",
+        "duration": "2:36"
+      },
+      {
+        "title": "listen before i go",
+        "duration": "4:03"
+      },
+      {
+        "title": "i love you",
+        "duration": "4:52"
+      },
+      {
+        "title": "goodbye",
+        "duration": "1:59"
+      }
+    ],
+    "composer": ["Finneas O'Connell", "Billie Eilish"],
+    "lyricist": ["Billie Eilish", "Finneas O'Connell"],
+    "recording_studio": "Home studio (chambre de Finneas O'Connell), Los Angeles",
+    "certifications": [
+      "Disque de platine dans 17 pays",
+      "Triple platine aux États-Unis"
+    ]
+  },
+  {
+    "title": "À Bout de Rêves",
+    "artists": ["Ridsa"],
+    "producers": ["Skalpovich", "Delayre"],
+    "label": "Play Two",
+    "release_date": "2018-06-01",
+    "ISBN_EAN_UPC": "3700398718729",
+    "format": ["CD", "Digital"],
+    "duration": 45,
+    "category": "Pop Urbaine / R&B",
+    "summary": "Quatrième album studio de l'artiste français Ridsa, mélangeant des influences pop, R&B et afro avec des textes sur l'amour et les relations humaines.",
+    "keywords": ["pop urbaine", "R&B français", "afro", "romance"],
+    "targeted_audience": "teenager",
+    "original_language": "Français",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Avancer",
+        "duration": "3:18"
+      },
+      {
+        "title": "Désabonné",
+        "duration": "3:22"
+      },
+      {
+        "title": "On s'est manqué",
+        "duration": "3:10"
+      },
+      {
+        "title": "Je m'en vais",
+        "duration": "3:25"
+      },
+      {
+        "title": "Là c'est die",
+        "duration": "3:08"
+      },
+      {
+        "title": "Parle-moi",
+        "duration": "3:04"
+      },
+      {
+        "title": "Un coup",
+        "duration": "3:19"
+      },
+      {
+        "title": "Tu es à moi",
+        "duration": "2:58"
+      },
+      {
+        "title": "Tranquille",
+        "duration": "3:15"
+      },
+      {
+        "title": "Je vais où tu vas",
+        "duration": "3:25"
+      },
+      {
+        "title": "L'erreur",
+        "duration": "3:01"
+      },
+      {
+        "title": "Mes défauts",
+        "duration": "3:02"
+      },
+      {
+        "title": "Rien à perdre",
+        "duration": "3:13"
+      },
+      {
+        "title": "Ensemble",
+        "duration": "3:10"
+      }
+    ],
+    "composer": ["Ridsa", "Skalpovich", "Delayre"],
+    "lyricist": ["Ridsa"],
+    "recording_studio": "Studio de la Seine, Paris",
+    "certifications": ["Disque d'or en France"]
+  },
+  {
+    "title": "AM",
+    "artists": ["Arctic Monkeys"],
+    "producers": ["James Ford", "Ross Orton"],
+    "label": "Domino Recording Company",
+    "release_date": "2013-09-09",
+    "ISBN_EAN_UPC": "887828031313",
+    "format": ["CD", "Vinyl", "Digital"],
+    "duration": 42,
+    "category": "Rock / Indie Rock",
+    "summary": "Cinquième album studio des Arctic Monkeys marquant une évolution vers un son plus sombre et sensuel, fortement influencé par le rock psychédélique et le R&B.",
+    "keywords": [
+      "indie rock",
+      "rock britannique",
+      "falsetto",
+      "groove",
+      "hip-hop"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Anglais",
+    "series": false,
+    "awards": [
+      "Brit Award du meilleur album britannique 2014",
+      "NME Award du meilleur album"
+    ],
+    "tracklist": [
+      {
+        "title": "Do I Wanna Know?",
+        "duration": "4:32"
+      },
+      {
+        "title": "R U Mine?",
+        "duration": "3:21"
+      },
+      {
+        "title": "One For the Road",
+        "duration": "3:26"
+      },
+      {
+        "title": "Arabella",
+        "duration": "3:27"
+      },
+      {
+        "title": "I Want It All",
+        "duration": "3:04"
+      },
+      {
+        "title": "No. 1 Party Anthem",
+        "duration": "4:03"
+      },
+      {
+        "title": "Mad Sounds",
+        "duration": "3:35"
+      },
+      {
+        "title": "Fireside",
+        "duration": "2:40"
+      },
+      {
+        "title": "Why'd You Only Call Me When You're High?",
+        "duration": "2:41"
+      },
+      {
+        "title": "Snap Out of It",
+        "duration": "3:12"
+      },
+      {
+        "title": "Knee Socks",
+        "duration": "4:17"
+      },
+      {
+        "title": "I Wanna Be Yours",
+        "duration": "3:04"
+      }
+    ],
+    "composer": ["Alex Turner"],
+    "lyricist": ["Alex Turner", "John Cooper Clarke (pour 'I Wanna Be Yours')"],
+    "recording_studio": "Rancho De La Luna, Joshua Tree, Californie",
+    "certifications": [
+      "Double disque de platine au Royaume-Uni",
+      "Disque de platine aux États-Unis"
+    ]
+  },
+  {
+    "title": "Stromae",
+    "artists": ["Stromae"],
+    "producers": ["Stromae", "Mosaert"],
+    "label": "Mosaert",
+    "release_date": "2010-06-21",
+    "ISBN_EAN_UPC": "5060281616111",
+    "format": ["CD", "Digital"],
+    "duration": 40,
+    "category": "Électro / Hip-Hop",
+    "summary": "Premier album studio de Stromae, mêlant électro, hip-hop et influences africaines avec des textes traitant de sujets sociétaux comme le désamour, la solitude et la société de consommation.",
+    "keywords": ["électro", "hip-hop", "belgique", "danse", "critique sociale"],
+    "targeted_audience": "adulte",
+    "original_language": "Français",
+    "series": false,
+    "awards": [
+      "Victoire de la musique de l'album électronique/dance de l'année 2011"
+    ],
+    "tracklist": [
+      {
+        "title": "Alors on danse",
+        "duration": "3:28"
+      },
+      {
+        "title": "Te quiero",
+        "duration": "3:32"
+      },
+      {
+        "title": "Peace or Violence",
+        "duration": "3:54"
+      },
+      {
+        "title": "Rail de musique",
+        "duration": "3:30"
+      },
+      {
+        "title": "Summertime",
+        "duration": "3:33"
+      },
+      {
+        "title": "Dodo",
+        "duration": "3:43"
+      },
+      {
+        "title": "Je cours",
+        "duration": "3:21"
+      },
+      {
+        "title": "House'llelujah",
+        "duration": "3:40"
+      },
+      {
+        "title": "Silence",
+        "duration": "3:22"
+      },
+      {
+        "title": "Bienvenue chez moi",
+        "duration": "4:12"
+      },
+      {
+        "title": "Up saw liz",
+        "duration": "3:29"
+      }
+    ],
+    "composer": ["Stromae"],
+    "lyricist": ["Stromae"],
+    "recording_studio": "Studios ICP, Bruxelles",
+    "certifications": [
+      "Disque de diamant en France",
+      "Disque de platine en Belgique"
+    ]
+  },
+  {
+    "title": "L'École du Micro d'Argent",
+    "artists": ["IAM"],
+    "producers": ["Akhenaton", "Shurik'n", "Freeman", "Imhotep"],
+    "label": "De label",
+    "release_date": "1997-03-18",
+    "ISBN_EAN_UPC": "724384457921",
+    "format": "CD, vinyle, numérique",
+    "duration": 73,
+    "category": "Hip-Hop",
+    "summary": "Album emblématique du rap français, considéré comme l'un des plus influents de la scène hip-hop francophone avec des titres phares comme 'Petit frère' et 'L'empire du côté obscur'.",
+    "keywords": ["rap français", "marseille", "hip-hop", "années 90"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["Victoire de la Musique 1998 - Meilleur album rap"],
+    "tracklist": [
+      {
+        "title": "L'École du Micro d'Argent",
+        "duration": "3:47"
+      },
+      {
+        "title": "Dangereux",
+        "duration": "4:56"
+      },
+      {
+        "title": "Nés sous la même étoile",
+        "duration": "5:56"
+      },
+      {
+        "title": "La Saga",
+        "duration": "6:34"
+      },
+      {
+        "title": "Petit Frère",
+        "duration": "6:06"
+      },
+      {
+        "title": "L'Empire du Côté Obscur",
+        "duration": "5:45"
+      },
+      {
+        "title": "L'Enfer",
+        "duration": "4:41"
+      },
+      {
+        "title": "Elle donne son corps avant son nom",
+        "duration": "3:58"
+      },
+      {
+        "title": "Regarde",
+        "duration": "5:14"
+      },
+      {
+        "title": "Un Bon Son Brut Pour Les Truands",
+        "duration": "3:52"
+      },
+      {
+        "title": "Independenza",
+        "duration": "4:56"
+      },
+      {
+        "title": "La 25ème image",
+        "duration": "4:46"
+      },
+      {
+        "title": "Demain, c'est loin",
+        "duration": "9:08"
+      }
+    ],
+    "composers": ["IAM"],
+    "lyricists": ["Akhenaton", "Shurik'n", "Freeman"],
+    "recording_studio": "Studios Djamel, Marseille",
+    "certifications": ["Disque de diamant (1 million d'exemplaires)"]
+  },
+  {
+    "title": "Conquérant",
+    "artists": ["Louane"],
+    "producers": ["Patxi Garat", "Tristan Salvati"],
+    "label": "Universal Music France",
+    "release_date": "2020-10-23",
+    "ISBN_EAN_UPC": "602435297095",
+    "format": "CD, vinyle, numérique",
+    "duration": 43,
+    "category": "Pop",
+    "summary": "Troisième album studio de Louane, mêlant pop française et électro, avec des collaborations avec Damso et Soolking.",
+    "keywords": ["pop française", "électro-pop", "chanson française"],
+    "targeted_audience": "teenager, adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Tornade",
+        "duration": "3:09"
+      },
+      {
+        "title": "Désolée",
+        "duration": "3:16"
+      },
+      {
+        "title": "Donne-moi ton cœur",
+        "duration": "3:23"
+      },
+      {
+        "title": "Peut-être",
+        "duration": "3:28"
+      },
+      {
+        "title": "Poésie indécise",
+        "duration": "3:09"
+      },
+      {
+        "title": "Aimer à mort",
+        "duration": "3:23"
+      },
+      {
+        "title": "Là-bas",
+        "duration": "3:50"
+      },
+      {
+        "title": "Souvenir",
+        "duration": "3:24"
+      },
+      {
+        "title": "Ultraviolet",
+        "duration": "3:10"
+      },
+      {
+        "title": "Évidemment",
+        "duration": "3:21"
+      },
+      {
+        "title": "Donne-moi ton cœur (version solo)",
+        "duration": "3:23"
+      },
+      {
+        "title": "Mauvaise nouvelle",
+        "duration": "3:20"
+      }
+    ],
+    "composers": ["Patxi Garat", "Tristan Salvati", "Louane Emera"],
+    "lyricists": ["Louane Emera", "Damso", "Soolking", "Patxi Garat"],
+    "recording_studio": "Studio Ferber, Paris",
+    "certifications": ["Disque d'or (75 000 exemplaires)"]
+  },
+  {
+    "title": "Tabu",
+    "artists": ["Saian Supa Crew"],
+    "producers": ["Supa Djar", "Sir Samuel", "Specta"],
+    "label": "Source/Virgin",
+    "release_date": "2001-05-22",
+    "ISBN_EAN_UPC": "724381098325",
+    "format": "CD, vinyle, numérique",
+    "duration": 70,
+    "category": "Hip-Hop",
+    "summary": "Deuxième album du groupe de rap français Saian Supa Crew, mêlant rap, ragga et beat-box avec des titres comme 'Angela' et 'X-Raisons'.",
+    "keywords": ["rap français", "ragga", "beat-box"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Intro",
+        "duration": "1:15"
+      },
+      {
+        "title": "La Patte",
+        "duration": "3:30"
+      },
+      {
+        "title": "X-Raisons",
+        "duration": "4:05"
+      },
+      {
+        "title": "Abcdaire",
+        "duration": "3:38"
+      },
+      {
+        "title": "Angela",
+        "duration": "3:52"
+      },
+      {
+        "title": "Comme Un Aimant",
+        "duration": "3:42"
+      },
+      {
+        "title": "Zonarisk",
+        "duration": "3:56"
+      },
+      {
+        "title": "Raz De Marée",
+        "duration": "3:53"
+      },
+      {
+        "title": "Tabu",
+        "duration": "3:35"
+      },
+      {
+        "title": "Bienvenue",
+        "duration": "3:47"
+      },
+      {
+        "title": "Toujours",
+        "duration": "3:50"
+      },
+      {
+        "title": "Que Dal",
+        "duration": "3:52"
+      },
+      {
+        "title": "Enfant Des Étoiles",
+        "duration": "3:59"
+      },
+      {
+        "title": "Cours Toujours",
+        "duration": "4:10"
+      },
+      {
+        "title": "Jamais Trop Tard",
+        "duration": "3:57"
+      },
+      {
+        "title": "Prohibition",
+        "duration": "3:47"
+      },
+      {
+        "title": "Ragga Jam",
+        "duration": "4:05"
+      }
+    ],
+    "composers": ["Saian Supa Crew"],
+    "lyricists": [
+      "Leeroy Kesiah",
+      "Sir Samuel",
+      "Specta",
+      "Supa Djar",
+      "Vicelow",
+      "Feniksi"
+    ],
+    "recording_studio": "Studio Plus XXX, Paris",
+    "certifications": ["Disque d'or (100 000 exemplaires)"]
+  },
+  {
+    "title": "Folie",
+    "artists": ["Indochine"],
+    "producers": ["Dimitri Tikovoï", "Nicola Sirkis"],
+    "label": "Sony Music Entertainment",
+    "release_date": "2020-12-04",
+    "ISBN_EAN_UPC": "194397529029",
+    "format": "CD, vinyle, numérique",
+    "duration": 56,
+    "category": "Rock",
+    "summary": "Treizième album studio d'Indochine, proposant un rock alternatif avec des influences électroniques.",
+    "keywords": ["rock français", "new wave", "électro-rock"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Nos célébrations",
+        "duration": "3:51"
+      },
+      {
+        "title": "Le grand soir",
+        "duration": "3:48"
+      },
+      {
+        "title": "Karma Girls",
+        "duration": "3:46"
+      },
+      {
+        "title": "Tôt ou tard",
+        "duration": "3:34"
+      },
+      {
+        "title": "Lithium",
+        "duration": "3:41"
+      },
+      {
+        "title": "Nos célébrations (Acoustique)",
+        "duration": "3:44"
+      },
+      {
+        "title": "Station 13",
+        "duration": "3:53"
+      },
+      {
+        "title": "La vie est belle",
+        "duration": "3:46"
+      },
+      {
+        "title": "Nuit",
+        "duration": "3:51"
+      },
+      {
+        "title": "Le lac",
+        "duration": "3:49"
+      },
+      {
+        "title": "Le dernier jour",
+        "duration": "3:28"
+      },
+      {
+        "title": "Milliardaire",
+        "duration": "3:41"
+      },
+      {
+        "title": "Mes étoiles",
+        "duration": "3:43"
+      },
+      {
+        "title": "Lettre à Bertrand",
+        "duration": "3:54"
+      }
+    ],
+    "composers": ["Olivier Gérard", "Nicola Sirkis", "Dimitri Tikovoï"],
+    "lyricists": ["Nicola Sirkis", "Olivier Gérard"],
+    "recording_studio": "ICP Studios, Bruxelles",
+    "certifications": ["Disque de platine (100 000 exemplaires)"]
+  },
+  {
+    "title": "Cœur",
+    "artists": ["Clara Luciani"],
+    "producers": ["Sage", "Ambroise Willaume"],
+    "label": "Romance Musique",
+    "release_date": "2021-06-11",
+    "ISBN_EAN_UPC": "602438250103",
+    "format": "CD, vinyle, numérique",
+    "duration": 41,
+    "category": "Pop",
+    "summary": "Deuxième album studio de Clara Luciani, aux influences disco et pop des années 70-80, avec des titres comme 'Le reste' et 'Respire encore'.",
+    "keywords": ["pop française", "disco", "chanson française"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["Victoire de la Musique 2022 - Album de l'année"],
+    "tracklist": [
+      {
+        "title": "Le chanteur",
+        "duration": "3:45"
+      },
+      {
+        "title": "Amour toujours",
+        "duration": "3:20"
+      },
+      {
+        "title": "Le reste",
+        "duration": "3:21"
+      },
+      {
+        "title": "Respire encore",
+        "duration": "3:18"
+      },
+      {
+        "title": "Cœur",
+        "duration": "3:51"
+      },
+      {
+        "title": "Tout le monde (sauf toi)",
+        "duration": "3:41"
+      },
+      {
+        "title": "Bandit",
+        "duration": "3:47"
+      },
+      {
+        "title": "J'sais pas plaire",
+        "duration": "3:32"
+      },
+      {
+        "title": "Amour en solitaire",
+        "duration": "3:52"
+      },
+      {
+        "title": "La place",
+        "duration": "3:37"
+      },
+      {
+        "title": "Tempête",
+        "duration": "4:20"
+      }
+    ],
+    "composers": ["Clara Luciani", "Sage", "Ambroise Willaume"],
+    "lyricists": ["Clara Luciani"],
+    "recording_studio": "Studio Ferber, Paris",
+    "certifications": ["Double disque de platine (200 000 exemplaires)"]
+  },
+  {
+    "title": "Multitude",
+    "artists": ["Stromae"],
+    "producers": ["Stromae", "Coralie Barbier"],
+    "label": "Mosaert",
+    "release_date": "2022-03-04",
+    "ISBN_EAN_UPC": "602438695591",
+    "format": "CD, vinyle, numérique",
+    "duration": 46,
+    "category": "Électro-Pop",
+    "summary": "Troisième album studio de Stromae, explorant des thèmes comme la solitude, la dépression et la masculinité, avec des influences musicales diversifiées.",
+    "keywords": ["électro-pop", "chanson française", "world music"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["Victoire de la Musique 2023 - Album de l'année"],
+    "tracklist": [
+      {
+        "title": "Invaincu",
+        "duration": "2:16"
+      },
+      {
+        "title": "Santé",
+        "duration": "3:27"
+      },
+      {
+        "title": "La solassitude",
+        "duration": "3:30"
+      },
+      {
+        "title": "Fils de joie",
+        "duration": "3:43"
+      },
+      {
+        "title": "L'enfer",
+        "duration": "3:49"
+      },
+      {
+        "title": "C'est que du bonheur",
+        "duration": "2:06"
+      },
+      {
+        "title": "Pas vraiment",
+        "duration": "3:24"
+      },
+      {
+        "title": "Riez",
+        "duration": "3:19"
+      },
+      {
+        "title": "Mon amour",
+        "duration": "3:12"
+      },
+      {
+        "title": "Déclaration",
+        "duration": "2:37"
+      },
+      {
+        "title": "Mauvaise journée",
+        "duration": "3:41"
+      },
+      {
+        "title": "Bonne journée",
+        "duration": "3:34"
+      }
+    ],
+    "composers": ["Stromae", "Luc Van Haver"],
+    "lyricists": ["Stromae"],
+    "recording_studio": "Studio Mosaert, Bruxelles",
+    "certifications": ["Disque de diamant (500 000 exemplaires)"]
+  },
+  {
+    "title": "Damso",
+    "artists": ["Damso"],
+    "producers": ["Damso", "Prinzly", "Ponko"],
+    "label": "Universal Music France",
+    "release_date": "2022-09-30",
+    "ISBN_EAN_UPC": "0602445857746",
+    "format": "CD, vinyle, numérique",
+    "duration": 58,
+    "category": "Hip-Hop",
+    "summary": "Cinquième album studio du rappeur belge Damso, marquant un tournant dans sa carrière avec des textes plus introspectifs et des productions plus minimalistes.",
+    "keywords": ["rap belge", "trap", "hip-hop francophone", "introspection"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["Meilleur album urbain aux Victoires de la Musique 2023"],
+    "tracklist": [
+      {
+        "title": "AUSSI",
+        "duration": "3:14"
+      },
+      {
+        "title": "SKIPPI",
+        "duration": "3:20"
+      },
+      {
+        "title": "SOLEIL",
+        "duration": "3:37"
+      },
+      {
+        "title": "THELXIEPEIA",
+        "duration": "3:42"
+      },
+      {
+        "title": "HUMAIN",
+        "duration": "3:22"
+      },
+      {
+        "title": "STEREO",
+        "duration": "3:50"
+      },
+      {
+        "title": "EMINEM",
+        "duration": "3:31"
+      },
+      {
+        "title": "DEGRÉ",
+        "duration": "3:15"
+      },
+      {
+        "title": "CŒUR",
+        "duration": "3:44"
+      },
+      {
+        "title": "VITAL",
+        "duration": "3:47"
+      },
+      {
+        "title": "AME",
+        "duration": "3:39"
+      },
+      {
+        "title": "KINSHASA",
+        "duration": "3:22"
+      },
+      {
+        "title": "DIEU NE MENT JAMAIS",
+        "duration": "3:14"
+      },
+      {
+        "title": "PEUR",
+        "duration": "3:45"
+      },
+      {
+        "title": "FROID",
+        "duration": "3:28"
+      }
+    ],
+    "composers": ["Damso", "Prinzly", "Ponko"],
+    "lyricists": ["Damso"],
+    "recording_studio": "Studio Octave, Paris",
+    "certifications": ["Disque de platine (100 000 exemplaires)"]
+  },
+  {
+    "title": "Alpha Wann",
+    "artists": ["Alpha Wann"],
+    "producers": ["Alpha Wann", "Hologram Lo", "Diabi"],
+    "label": "Don Dada Records",
+    "release_date": "2023-05-12",
+    "ISBN_EAN_UPC": "0190296419478",
+    "format": "CD, vinyle, numérique",
+    "duration": 62,
+    "category": "Hip-Hop",
+    "summary": "Troisième album solo d'Alpha Wann, consolidant sa réputation de parolier d'exception dans le rap français avec des productions sophistiquées et des textes ciselés.",
+    "keywords": ["rap français", "boom bap", "rap technique", "lyrisme"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["Prix de l'album rap de l'année aux Flammes 2024"],
+    "tracklist": [
+      {
+        "title": "OUVERTURE",
+        "duration": "2:14"
+      },
+      {
+        "title": "PHÉNOMÈNE",
+        "duration": "3:27"
+      },
+      {
+        "title": "CRISTAL",
+        "duration": "3:53"
+      },
+      {
+        "title": "CAPITALE",
+        "duration": "3:41"
+      },
+      {
+        "title": "SYMPHONIE",
+        "duration": "3:21"
+      },
+      {
+        "title": "VORTEX",
+        "duration": "3:45"
+      },
+      {
+        "title": "ÉTOILE",
+        "duration": "3:32"
+      },
+      {
+        "title": "COSMOS",
+        "duration": "3:28"
+      },
+      {
+        "title": "HORIZON",
+        "duration": "3:56"
+      },
+      {
+        "title": "MIRAGE",
+        "duration": "3:22"
+      },
+      {
+        "title": "ODYSSÉE",
+        "duration": "3:45"
+      },
+      {
+        "title": "LÉGENDE",
+        "duration": "3:19"
+      },
+      {
+        "title": "FUSION",
+        "duration": "3:54"
+      },
+      {
+        "title": "ÉTERNITÉ",
+        "duration": "3:43"
+      },
+      {
+        "title": "MÉTAMORPHOSE",
+        "duration": "3:38"
+      },
+      {
+        "title": "FINALE",
+        "duration": "3:02"
+      }
+    ],
+    "composers": ["Alpha Wann", "Hologram Lo", "Diabi", "Freakey"],
+    "lyricists": ["Alpha Wann"],
+    "recording_studio": "Studio 75e Session, Paris",
+    "certifications": ["Disque d'or (50 000 exemplaires)"]
+  },
+  {
+    "title": "Civilisation",
+    "artists": ["Orelsan"],
+    "producers": ["Skread", "Phazz", "Orelsan"],
+    "label": "7th Magnitude",
+    "release_date": "2021-11-19",
+    "ISBN_EAN_UPC": "0190296762123",
+    "format": "CD, vinyle, numérique",
+    "duration": 54,
+    "category": "Hip-Hop",
+    "summary": "Quatrième album studio d'Orelsan, abordant des thèmes de société contemporains avec un regard critique et personnel, mêlant rap et production électronique.",
+    "keywords": ["rap français", "critique sociale", "électro-rap"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [
+      "Victoire de la Musique 2022 - Album de l'année, Artiste masculin de l'année, Chanson originale de l'année"
+    ],
+    "tracklist": [
+      {
+        "title": "L'odeur de l'essence",
+        "duration": "3:43"
+      },
+      {
+        "title": "Du propre",
+        "duration": "3:24"
+      },
+      {
+        "title": "La Quête",
+        "duration": "3:56"
+      },
+      {
+        "title": "Shonen",
+        "duration": "3:33"
+      },
+      {
+        "title": "Bébéboa",
+        "duration": "3:27"
+      },
+      {
+        "title": "Seul avec du monde autour",
+        "duration": "3:41"
+      },
+      {
+        "title": "Athéna",
+        "duration": "3:25"
+      },
+      {
+        "title": "Casseurs Flowters Infinity",
+        "duration": "3:52"
+      },
+      {
+        "title": "Manifeste",
+        "duration": "3:20"
+      },
+      {
+        "title": "Jour meilleur",
+        "duration": "3:48"
+      },
+      {
+        "title": "Rêve mieux",
+        "duration": "3:15"
+      },
+      {
+        "title": "Ensemble",
+        "duration": "3:44"
+      },
+      {
+        "title": "Dernier verre",
+        "duration": "3:23"
+      },
+      {
+        "title": "Civilisation",
+        "duration": "3:40"
+      }
+    ],
+    "composers": ["Skread", "Phazz", "Orelsan"],
+    "lyricists": ["Orelsan", "Gringe"],
+    "recording_studio": "Studio Ferber, Paris",
+    "certifications": ["Disque de diamant (500 000 exemplaires)"]
+  },
+  {
+    "title": "Phoenix",
+    "artists": ["Charlotte Cardin"],
+    "producers": ["Jason Brando", "Charlotte Cardin", "Mathieu Sénéchal"],
+    "label": "Cult Nation",
+    "release_date": "2021-04-23",
+    "ISBN_EAN_UPC": "0602435583259",
+    "format": "CD, vinyle, numérique",
+    "duration": 45,
+    "category": "Pop",
+    "summary": "Premier album studio de Charlotte Cardin, mêlant pop, R&B et électro avec des chansons en français et en anglais, explorant les thèmes de l'amour et de la renaissance.",
+    "keywords": ["pop canadienne", "pop francophone", "R&B", "électro-pop"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais, français",
+    "series": false,
+    "awards": ["Prix Juno 2022 - Album de l'année, Album pop de l'année"],
+    "tracklist": [
+      {
+        "title": "Phoenix",
+        "duration": "3:21"
+      },
+      {
+        "title": "Passive Aggressive",
+        "duration": "3:05"
+      },
+      {
+        "title": "Meaningless",
+        "duration": "3:33"
+      },
+      {
+        "title": "Daddy",
+        "duration": "3:42"
+      },
+      {
+        "title": "XOXO",
+        "duration": "3:26"
+      },
+      {
+        "title": "Sad Girl",
+        "duration": "3:14"
+      },
+      {
+        "title": "Sex to Me",
+        "duration": "3:41"
+      },
+      {
+        "title": "Good Girl",
+        "duration": "3:09"
+      },
+      {
+        "title": "Anybody Else",
+        "duration": "3:18"
+      },
+      {
+        "title": "Oceans",
+        "duration": "3:46"
+      },
+      {
+        "title": "Sun Goes Down",
+        "duration": "3:22"
+      },
+      {
+        "title": "Romeo",
+        "duration": "3:31"
+      },
+      {
+        "title": "Je quitte",
+        "duration": "3:36"
+      }
+    ],
+    "composers": ["Charlotte Cardin", "Jason Brando", "Mathieu Sénéchal"],
+    "lyricists": ["Charlotte Cardin"],
+    "recording_studio": "Studio Masterkut, Montréal",
+    "certifications": ["Disque d'or au Canada (40 000 exemplaires)"]
+  },
+  {
+    "title": "Redcar les adorables étoiles",
+    "artists": ["Christine and the Queens"],
+    "producers": ["Christine and the Queens", "Mike Dean"],
+    "label": "Because Music",
+    "release_date": "2022-11-11",
+    "ISBN_EAN_UPC": "5060525434426",
+    "format": "CD, vinyle, numérique",
+    "duration": 41,
+    "category": "Pop",
+    "summary": "Album concept explorant l'identité et la transformation, présenté sous l'alter ego Redcar, avec des productions électroniques ambitieuses et des influences de la pop des années 80.",
+    "keywords": ["pop française", "électro-pop", "art pop", "queer pop"],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Je te vois enfin",
+        "duration": "3:45"
+      },
+      {
+        "title": "Ma bien aimée bye bye",
+        "duration": "3:21"
+      },
+      {
+        "title": "Rien dire",
+        "duration": "3:48"
+      },
+      {
+        "title": "La chanson du chevalier",
+        "duration": "3:36"
+      },
+      {
+        "title": "Tu sais ce qu'il me faut",
+        "duration": "3:53"
+      },
+      {
+        "title": "Combien de temps",
+        "duration": "3:41"
+      },
+      {
+        "title": "Looking for love",
+        "duration": "3:39"
+      },
+      {
+        "title": "Les âmes amantes",
+        "duration": "3:57"
+      },
+      {
+        "title": "Angelus",
+        "duration": "3:48"
+      },
+      {
+        "title": "La clairefontaine",
+        "duration": "3:39"
+      },
+      {
+        "title": "Mémoire des ailes",
+        "duration": "3:47"
+      }
+    ],
+    "composers": ["Christine and the Queens", "Mike Dean"],
+    "lyricists": ["Christine and the Queens"],
+    "recording_studio": "Studio Métrophone, Paris",
+    "certifications": []
+  },
+  {
+    "title": "Nonante-Cinq",
+    "artists": ["Angèle"],
+    "producers": ["Tristan Salvati", "Angèle Van Laeken"],
+    "label": "Angèle VL Records",
+    "release_date": "2021-12-03",
+    "ISBN_EAN_UPC": "0602445594326",
+    "format": "CD, vinyle, numérique",
+    "duration": 37,
+    "category": "Pop",
+    "summary": "Deuxième album studio d'Angèle, mêlant pop, dance et électro avec des textes en français évoquant la célébrité, l'amour et les pressions sociales.",
+    "keywords": ["pop belge", "pop francophone", "électro-pop", "dance-pop"],
+    "targeted_audience": "teenager, adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": ["Victoire de la Musique 2022 - Création audiovisuelle"],
+    "tracklist": [
+      {
+        "title": "Bruxelles je t'aime",
+        "duration": "3:17"
+      },
+      {
+        "title": "Solo",
+        "duration": "3:25"
+      },
+      {
+        "title": "Pensées positives",
+        "duration": "3:01"
+      },
+      {
+        "title": "Libre",
+        "duration": "3:36"
+      },
+      {
+        "title": "Taxi",
+        "duration": "3:41"
+      },
+      {
+        "title": "Démons",
+        "duration": "3:22"
+      },
+      {
+        "title": "Tempête",
+        "duration": "3:19"
+      },
+      {
+        "title": "Mauvais rêves",
+        "duration": "3:47"
+      },
+      {
+        "title": "Plus de sens",
+        "duration": "3:30"
+      },
+      {
+        "title": "Mots justes",
+        "duration": "3:14"
+      },
+      {
+        "title": "Amour, haine & danger",
+        "duration": "3:06"
+      }
+    ],
+    "composers": ["Angèle Van Laeken", "Tristan Salvati"],
+    "lyricists": ["Angèle Van Laeken"],
+    "recording_studio": "Studio ICP, Bruxelles",
+    "certifications": ["Double disque de platine (200 000 exemplaires)"]
+  },
+  {
+    "title": "Renaissance",
+    "artists": ["Beyoncé"],
+    "producers": ["Beyoncé", "The-Dream", "Hit-Boy", "Honey Dijon", "Skrillex"],
+    "label": "Parkwood Entertainment",
+    "release_date": "2022-07-29",
+    "ISBN_EAN_UPC": "196587194529",
+    "format": "CD, vinyle, numérique",
+    "duration": 62,
+    "category": "Pop, R&B, Dance",
+    "summary": "Septième album studio de Beyoncé, Renaissance est un hommage à la culture dance et house, inspiré par la scène ballroom et la musique disco. L'album célèbre la libération et l'autodétermination à travers des rythmes dansants et une production innovante.",
+    "keywords": ["dance", "house", "disco", "ballroom", "black culture"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award 2023 - Meilleur album dance/électronique",
+      "Grammy Award 2023 - Meilleure chanson R&B"
+    ],
+    "tracklist": [
+      {
+        "title": "I'm That Girl",
+        "duration": "3:28"
+      },
+      {
+        "title": "Cozy",
+        "duration": "3:30"
+      },
+      {
+        "title": "Alien Superstar",
+        "duration": "3:35"
+      },
+      {
+        "title": "Cuff It",
+        "duration": "3:45"
+      },
+      {
+        "title": "Energy",
+        "duration": "1:56"
+      },
+      {
+        "title": "Break My Soul",
+        "duration": "4:38"
+      },
+      {
+        "title": "Church Girl",
+        "duration": "3:44"
+      },
+      {
+        "title": "Plastic Off the Sofa",
+        "duration": "4:14"
+      },
+      {
+        "title": "Virgo's Groove",
+        "duration": "6:08"
+      },
+      {
+        "title": "Move",
+        "duration": "3:23"
+      },
+      {
+        "title": "Heated",
+        "duration": "4:20"
+      },
+      {
+        "title": "Thique",
+        "duration": "4:04"
+      },
+      {
+        "title": "All Up in Your Mind",
+        "duration": "2:49"
+      },
+      {
+        "title": "America Has a Problem",
+        "duration": "3:18"
+      },
+      {
+        "title": "Pure/Honey",
+        "duration": "4:48"
+      },
+      {
+        "title": "Summer Renaissance",
+        "duration": "4:34"
+      }
+    ],
+    "composers": [
+      "Beyoncé Knowles-Carter",
+      "Terius Nash",
+      "Nile Rodgers",
+      "Kelman Duran"
+    ],
+    "lyricists": ["Beyoncé Knowles-Carter", "Jay-Z", "The-Dream", "Nova Wav"],
+    "recording_studio": "Parkwood Studios, Los Angeles",
+    "certifications": [
+      "Disque de platine aux États-Unis (1 million d'exemplaires)"
+    ]
+  },
+  {
+    "title": "Motomami",
+    "artists": ["Rosalía"],
+    "producers": [
+      "Rosalía",
+      "El Guincho",
+      "Pharrell Williams",
+      "Michael Uzowuru"
+    ],
+    "label": "Columbia Records",
+    "release_date": "2022-03-18",
+    "ISBN_EAN_UPC": "194399377925",
+    "format": "CD, vinyle, numérique",
+    "duration": 42,
+    "category": "Pop expérimentale, Flamenco, Reggaeton",
+    "summary": "Troisième album studio de Rosalía, Motomami fusionne flamenco, reggaeton, jazz et musique électronique dans une exploration audacieuse de la féminité et de l'identité contemporaine, avec des influences de la musique latine et mondiale.",
+    "keywords": [
+      "flamenco",
+      "reggaeton",
+      "expérimental",
+      "fusion",
+      "avant-garde"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "espagnol",
+    "series": false,
+    "awards": [
+      "Grammy Latino 2022 - Album de l'année",
+      "Grammy Latino 2022 - Meilleur album vocal pop"
+    ],
+    "tracklist": [
+      {
+        "title": "Saoko",
+        "duration": "2:17"
+      },
+      {
+        "title": "Candy",
+        "duration": "1:51"
+      },
+      {
+        "title": "La Fama",
+        "duration": "3:08"
+      },
+      {
+        "title": "Bulerías",
+        "duration": "2:30"
+      },
+      {
+        "title": "Chicken Teriyaki",
+        "duration": "2:10"
+      },
+      {
+        "title": "Hentai",
+        "duration": "2:42"
+      },
+      {
+        "title": "Bizcochito",
+        "duration": "2:13"
+      },
+      {
+        "title": "G3 N15",
+        "duration": "2:56"
+      },
+      {
+        "title": "Motomami",
+        "duration": "1:50"
+      },
+      {
+        "title": "Diablo",
+        "duration": "2:23"
+      },
+      {
+        "title": "Delirio de Grandeza",
+        "duration": "2:41"
+      },
+      {
+        "title": "Cuuuuuuuuuute",
+        "duration": "2:37"
+      },
+      {
+        "title": "Como Un G",
+        "duration": "2:15"
+      },
+      {
+        "title": "Abcdefg",
+        "duration": "0:49"
+      },
+      {
+        "title": "La Combi Versace",
+        "duration": "2:42"
+      },
+      {
+        "title": "Sakura",
+        "duration": "3:39"
+      }
+    ],
+    "composers": [
+      "Rosalía Vila Tobella",
+      "El Guincho",
+      "Pharrell Williams",
+      "James Blake"
+    ],
+    "lyricists": ["Rosalía Vila Tobella", "Tokischa", "The Weeknd"],
+    "recording_studio": "Electric Lady Studios, New York",
+    "certifications": [
+      "Double disque de platine en Espagne (80 000 exemplaires)"
+    ]
+  },
+  {
+    "title": "Hyperspace",
+    "artists": ["Beck"],
+    "producers": ["Beck Hansen", "Pharrell Williams", "Cole M.G.N."],
+    "label": "Capitol Records",
+    "release_date": "2019-11-22",
+    "ISBN_EAN_UPC": "602577861130",
+    "format": "CD, vinyle, numérique",
+    "duration": 39,
+    "category": "Pop, Indie Rock, Électronique",
+    "summary": "Quatorzième album studio de Beck, Hyperspace présente une fusion de pop électronique et de rythmes psychédéliques, avec des textures sonores futuristes et des paroles introspectives sur la vie moderne et la déconnexion.",
+    "keywords": [
+      "électro-pop",
+      "psychédélique",
+      "futuriste",
+      "chill",
+      "ambiant"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Hyperlife",
+        "duration": "1:08"
+      },
+      {
+        "title": "Uneventful Days",
+        "duration": "3:20"
+      },
+      {
+        "title": "Saw Lightning",
+        "duration": "3:52"
+      },
+      {
+        "title": "Die Waiting",
+        "duration": "3:23"
+      },
+      {
+        "title": "Chemical",
+        "duration": "4:12"
+      },
+      {
+        "title": "See Through",
+        "duration": "3:46"
+      },
+      {
+        "title": "Hyperspace",
+        "duration": "3:59"
+      },
+      {
+        "title": "Stratosphere",
+        "duration": "3:42"
+      },
+      {
+        "title": "Dark Places",
+        "duration": "3:33"
+      },
+      {
+        "title": "Star",
+        "duration": "4:07"
+      },
+      {
+        "title": "Everlasting Nothing",
+        "duration": "4:30"
+      }
+    ],
+    "composers": ["Beck Hansen", "Pharrell Williams", "Greg Kurstin"],
+    "lyricists": ["Beck Hansen"],
+    "recording_studio": "Shangri-La Studios, Malibu",
+    "certifications": ["Disque d'or au Royaume-Uni (100 000 exemplaires)"]
+  },
+  {
+    "title": "Fetch the Bolt Cutters",
+    "artists": ["Fiona Apple"],
+    "producers": ["Fiona Apple", "Amy Aileen Wood", "Sebastian Steinberg"],
+    "label": "Epic Records",
+    "release_date": "2020-04-17",
+    "ISBN_EAN_UPC": "194397832624",
+    "format": "CD, vinyle, numérique",
+    "duration": 52,
+    "category": "Art Pop, Alternative",
+    "summary": "Cinquième album studio de Fiona Apple, enregistré en grande partie dans sa maison, explorant des thèmes de libération personnelle, d'émancipation féminine et de traumatisme, avec des percussions expérimentales et une approche brute et directe.",
+    "keywords": ["art pop", "féminisme", "percussions", "expérimental", "DIY"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [
+      "Grammy Award 2021 - Meilleur album rock",
+      "Grammy Award 2021 - Meilleure performance rock"
+    ],
+    "tracklist": [
+      {
+        "title": "I Want You to Love Me",
+        "duration": "3:57"
+      },
+      {
+        "title": "Shameika",
+        "duration": "4:07"
+      },
+      {
+        "title": "Fetch the Bolt Cutters",
+        "duration": "4:57"
+      },
+      {
+        "title": "Under the Table",
+        "duration": "3:20"
+      },
+      {
+        "title": "Relay",
+        "duration": "4:49"
+      },
+      {
+        "title": "Rack of His",
+        "duration": "3:42"
+      },
+      {
+        "title": "Newspaper",
+        "duration": "5:31"
+      },
+      {
+        "title": "Ladies",
+        "duration": "5:24"
+      },
+      {
+        "title": "Heavy Balloon",
+        "duration": "3:25"
+      },
+      {
+        "title": "Cosmonauts",
+        "duration": "3:59"
+      },
+      {
+        "title": "For Her",
+        "duration": "2:43"
+      },
+      {
+        "title": "Drumset",
+        "duration": "2:39"
+      },
+      {
+        "title": "On I Go",
+        "duration": "3:09"
+      }
+    ],
+    "composers": ["Fiona Apple"],
+    "lyricists": ["Fiona Apple"],
+    "recording_studio": "Fiona Apple's home studio, Venice Beach",
+    "certifications": ["Disque d'or aux États-Unis (500 000 exemplaires)"]
+  },
+  {
+    "title": "Un Soir à l'Olympia",
+    "artists": ["Pomme"],
+    "producers": ["Pomme", "Albin de la Simone"],
+    "label": "Polydor",
+    "release_date": "2021-11-26",
+    "ISBN_EAN_UPC": "0602438482474",
+    "format": "CD, vinyle, numérique",
+    "duration": 65,
+    "category": "Folk, Pop française",
+    "summary": "Album live de Pomme enregistré à l'Olympia de Paris, interprétant ses plus grands succès dans une ambiance intimiste et émotionnelle, avec des arrangements minimalistes et une voix cristalline.",
+    "keywords": [
+      "folk",
+      "chanson française",
+      "acoustique",
+      "live",
+      "intimiste"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Je sais pas danser",
+        "duration": "3:56"
+      },
+      {
+        "title": "Anxiété",
+        "duration": "3:27"
+      },
+      {
+        "title": "Pauline",
+        "duration": "3:33"
+      },
+      {
+        "title": "Grandiose",
+        "duration": "3:41"
+      },
+      {
+        "title": "Jardin",
+        "duration": "4:01"
+      },
+      {
+        "title": "Les Oiseaux",
+        "duration": "3:18"
+      },
+      {
+        "title": "Je sais pas danser",
+        "duration": "3:56"
+      },
+      {
+        "title": "À peu près",
+        "duration": "3:42"
+      },
+      {
+        "title": "On brûlera",
+        "duration": "3:57"
+      },
+      {
+        "title": "Soleil soleil",
+        "duration": "3:35"
+      },
+      {
+        "title": "Sans toi",
+        "duration": "3:44"
+      },
+      {
+        "title": "Tombeau",
+        "duration": "3:21"
+      },
+      {
+        "title": "Les Séquelles",
+        "duration": "3:28"
+      },
+      {
+        "title": "Alléluia",
+        "duration": "3:44"
+      },
+      {
+        "title": "Je sais pas danser (reprise)",
+        "duration": "4:04"
+      }
+    ],
+    "composers": ["Claire Pommet"],
+    "lyricists": ["Claire Pommet"],
+    "recording_studio": "L'Olympia, Paris",
+    "certifications": ["Disque d'or (50 000 exemplaires)"]
+  },
+  {
+    "title": "Dawn FM",
+    "artists": ["The Weeknd"],
+    "producers": [
+      "The Weeknd",
+      "Max Martin",
+      "Swedish House Mafia",
+      "Oneohtrix Point Never"
+    ],
+    "label": "XO / Republic Records",
+    "release_date": "2022-01-07",
+    "ISBN_EAN_UPC": "602438607129",
+    "format": "CD, vinyle, numérique, cassette",
+    "duration": 52,
+    "category": "R&B, Synth-pop, Dance",
+    "summary": "Cinquième album studio de The Weeknd, conceptualisé comme une émission de radio avec Jim Carrey comme animateur, explorant les thèmes de la vie, la mort et l'au-delà à travers des sons disco et funk futuristes.",
+    "keywords": ["synth-pop", "disco", "R&B", "80s", "conceptuel"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["Billboard Music Award 2022 - Meilleur album R&B"],
+    "tracklist": [
+      {
+        "title": "Dawn FM",
+        "duration": "1:37"
+      },
+      {
+        "title": "Gasoline",
+        "duration": "3:33"
+      },
+      {
+        "title": "How Do I Make You Love Me?",
+        "duration": "3:35"
+      },
+      {
+        "title": "Take My Breath",
+        "duration": "5:39"
+      },
+      {
+        "title": "Sacrifice",
+        "duration": "3:09"
+      },
+      {
+        "title": "A Tale By Quincy",
+        "duration": "1:37"
+      },
+      {
+        "title": "Out of Time",
+        "duration": "3:35"
+      },
+      {
+        "title": "Here We Go... Again",
+        "duration": "3:30"
+      },
+      {
+        "title": "Best Friends",
+        "duration": "2:44"
+      },
+      {
+        "title": "Is There Someone Else?",
+        "duration": "3:20"
+      },
+      {
+        "title": "Starry Eyes",
+        "duration": "2:28"
+      },
+      {
+        "title": "Every Angel Is Terrifying",
+        "duration": "2:48"
+      },
+      {
+        "title": "Don't Break My Heart",
+        "duration": "3:26"
+      },
+      {
+        "title": "I Heard You're Married",
+        "duration": "4:16"
+      },
+      {
+        "title": "Less Than Zero",
+        "duration": "3:32"
+      },
+      {
+        "title": "Phantom Regret by Jim",
+        "duration": "3:00"
+      }
+    ],
+    "composers": [
+      "Abel Tesfaye",
+      "Max Martin",
+      "Daniel Lopatin",
+      "Swedish House Mafia"
+    ],
+    "lyricists": ["Abel Tesfaye", "Max Martin"],
+    "recording_studio": "Jungle City Studios, New York",
+    "certifications": [
+      "Double disque de platine aux États-Unis (2 millions d'exemplaires)"
+    ]
+  },
+  {
+    "title": "Mahal",
+    "artists": ["Toro y Moi"],
+    "producers": ["Chaz Bear"],
+    "label": "Dead Oceans",
+    "release_date": "2022-04-29",
+    "ISBN_EAN_UPC": "656605155814",
+    "format": "CD, vinyle, numérique",
+    "duration": 41,
+    "category": "Psychedelic Pop, Indie",
+    "summary": "Septième album studio de Toro y Moi, Mahal est une exploration sonore mélangeant rock psychédélique, funk et pop indie avec des influences philippines, offrant une ambiance rétro et des mélodies envoûtantes.",
+    "keywords": ["psychédélique", "indie", "funk", "lo-fi", "chillwave"],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "The Medium",
+        "duration": "3:49"
+      },
+      {
+        "title": "Goes By So Fast",
+        "duration": "3:18"
+      },
+      {
+        "title": "Magazine",
+        "duration": "3:14"
+      },
+      {
+        "title": "Postman",
+        "duration": "3:03"
+      },
+      {
+        "title": "The Loop",
+        "duration": "3:38"
+      },
+      {
+        "title": "Last Year",
+        "duration": "3:41"
+      },
+      {
+        "title": "Mississippi",
+        "duration": "3:45"
+      },
+      {
+        "title": "Déjà Vu",
+        "duration": "3:29"
+      },
+      {
+        "title": "Way Too Hot",
+        "duration": "3:25"
+      },
+      {
+        "title": "Millennium",
+        "duration": "3:42"
+      },
+      {
+        "title": "Days in Love",
+        "duration": "3:36"
+      },
+      {
+        "title": "Spare",
+        "duration": "2:58"
+      }
+    ],
+    "composers": ["Chaz Bear"],
+    "lyricists": ["Chaz Bear"],
+    "recording_studio": "Company Studio, Oakland",
+    "certifications": []
+  },
+  {
+    "title": "Colourgrade",
+    "artists": ["Tirzah"],
+    "producers": ["Mica Levi", "Coby Sey"],
+    "label": "Domino Recording Company",
+    "release_date": "2021-10-01",
+    "ISBN_EAN_UPC": "887828045020",
+    "format": "CD, vinyle, numérique",
+    "duration": 34,
+    "category": "Électronique, Expérimental",
+    "summary": "Deuxième album de Tirzah, Colourgrade explore des territoires sonores expérimentaux avec des textures électroniques minimalistes et distordues, reflétant l'expérience de la maternité et des transformations personnelles.",
+    "keywords": [
+      "électronique expérimentale",
+      "avant-garde",
+      "minimalisme",
+      "UK garage",
+      "ambient"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Colourgrade",
+        "duration": "2:51"
+      },
+      {
+        "title": "Tectonic",
+        "duration": "3:29"
+      },
+      {
+        "title": "Beating",
+        "duration": "3:18"
+      },
+      {
+        "title": "Hive Mind",
+        "duration": "3:22"
+      },
+      {
+        "title": "Sleeping",
+        "duration": "3:00"
+      },
+      {
+        "title": "Crepuscular Rays",
+        "duration": "3:21"
+      },
+      {
+        "title": "Sink In",
+        "duration": "2:59"
+      },
+      {
+        "title": "Recipe",
+        "duration": "3:08"
+      },
+      {
+        "title": "Insect Blue",
+        "duration": "3:25"
+      },
+      {
+        "title": "Send Me",
+        "duration": "5:43"
+      }
+    ],
+    "composers": ["Tirzah Mastin", "Mica Levi"],
+    "lyricists": ["Tirzah Mastin"],
+    "recording_studio": "Studio Home, London",
+    "certifications": []
+  },
+  {
+    "title": "Joli Mai",
+    "artists": ["Lomepal"],
+    "producers": ["Pierrick Devin", "Lomepal", "Vladimir Cauchemar"],
+    "label": "Pineale Prod",
+    "release_date": "2022-07-08",
+    "ISBN_EAN_UPC": "0602445838126",
+    "format": "CD, vinyle, numérique",
+    "duration": 47,
+    "category": "Hip-Hop, Rap",
+    "summary": "Quatrième album de Lomepal, Joli Mai explore des thèmes personnels et introspectifs sur des productions mélangeant rap, indie et électronique, consolidant sa place unique dans le paysage musical français.",
+    "keywords": [
+      "rap français",
+      "indie rap",
+      "mélancolique",
+      "introspectif",
+      "fusion"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Auburn",
+        "duration": "2:58"
+      },
+      {
+        "title": "Tout lâcher",
+        "duration": "3:40"
+      },
+      {
+        "title": "Hasarder",
+        "duration": "3:21"
+      },
+      {
+        "title": "Étoile",
+        "duration": "3:47"
+      },
+      {
+        "title": "Tee",
+        "duration": "3:37"
+      },
+      {
+        "title": "Matador",
+        "duration": "3:25"
+      },
+      {
+        "title": "Décomplexer",
+        "duration": "3:32"
+      },
+      {
+        "title": "Nélice",
+        "duration": "3:14"
+      },
+      {
+        "title": "Trop beau",
+        "duration": "3:46"
+      },
+      {
+        "title": "Étincelle",
+        "duration": "3:54"
+      },
+      {
+        "title": "Pendant des années",
+        "duration": "3:32"
+      },
+      {
+        "title": "Loin",
+        "duration": "3:55"
+      },
+      {
+        "title": "Reste",
+        "duration": "4:13"
+      }
+    ],
+    "composers": [
+      "Antoine Valentinelli",
+      "Pierrick Devin",
+      "Vladimir Cauchemar"
+    ],
+    "lyricists": ["Lomepal"],
+    "recording_studio": "Studio Motorbass, Paris",
+    "certifications": ["Disque de platine (100 000 exemplaires)"]
+  },
+  {
+    "title": "Music of the Spheres",
+    "artists": ["Coldplay"],
+    "producers": ["Max Martin", "Oscar Holter", "Bill Rahko"],
+    "label": "Parlophone",
+    "release_date": "2021-10-15",
+    "ISBN_EAN_UPC": "190296614835",
+    "format": "CD, vinyle, numérique",
+    "duration": 42,
+    "category": "Pop Rock, Électro-Pop",
+    "summary": "Neuvième album studio de Coldplay, Music of the Spheres est un concept album à thème spatial, combinant la pop commerciale avec des expérimentations sonores et des collaborations avec BTS et Selena Gomez.",
+    "keywords": [
+      "pop spatial",
+      "concept-album",
+      "électro-pop",
+      "collaborations",
+      "sci-fi"
+    ],
+    "targeted_audience": "teenager, adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": ["BRIT Award 2022 - Meilleur groupe britannique"],
+    "tracklist": [
+      {
+        "title": "🪐",
+        "duration": "0:53"
+      },
+      {
+        "title": "Higher Power",
+        "duration": "3:26"
+      },
+      {
+        "title": "Humankind",
+        "duration": "4:09"
+      },
+      {
+        "title": "✨",
+        "duration": "0:31"
+      },
+      {
+        "title": "Let Somebody Go",
+        "duration": "4:01"
+      },
+      {
+        "title": "❤️",
+        "duration": "1:13"
+      },
+      {
+        "title": "People of the Pride",
+        "duration": "3:37"
+      },
+      {
+        "title": "Biutyful",
+        "duration": "3:13"
+      },
+      {
+        "title": "🌎",
+        "duration": "0:42"
+      },
+      {
+        "title": "My Universe",
+        "duration": "3:46"
+      },
+      {
+        "title": "♾️",
+        "duration": "3:24"
+      },
+      {
+        "title": "Coloratura",
+        "duration": "10:18"
+      }
+    ],
+    "composers": [
+      "Chris Martin",
+      "Jonny Buckland",
+      "Guy Berryman",
+      "Will Champion",
+      "Max Martin"
+    ],
+    "lyricists": ["Chris Martin"],
+    "recording_studio": "Electric Lady Studios, New York",
+    "certifications": [
+      "Double disque de platine au Royaume-Uni (600 000 exemplaires)"
+    ]
+  },
+  {
+    "title": "Portes",
+    "artists": ["Clara Ysé"],
+    "producers": ["Clara Ysé", "Sage"],
+    "label": "Spinach Records",
+    "release_date": "2022-01-21",
+    "ISBN_EAN_UPC": "3521683512234",
+    "format": "CD, vinyle, numérique",
+    "duration": 38,
+    "category": "Chanson Française, Pop",
+    "summary": "Premier album de Clara Ysé, Portes est un recueil de chansons poétiques et mystiques, mêlant chanson française, pop et influences du monde entier, avec une voix puissante et des textes profonds.",
+    "keywords": [
+      "chanson française",
+      "poésie",
+      "voix puissante",
+      "spiritualité",
+      "émotion"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Océan",
+        "duration": "3:27"
+      },
+      {
+        "title": "Le monde s'est dédoublé",
+        "duration": "3:42"
+      },
+      {
+        "title": "Douce",
+        "duration": "3:29"
+      },
+      {
+        "title": "Soleil",
+        "duration": "3:11"
+      },
+      {
+        "title": "Stellaire",
+        "duration": "3:23"
+      },
+      {
+        "title": "Reste",
+        "duration": "3:40"
+      },
+      {
+        "title": "Printemps",
+        "duration": "3:49"
+      },
+      {
+        "title": "Quand les arbres sont nés",
+        "duration": "3:34"
+      },
+      {
+        "title": "Brûler",
+        "duration": "3:37"
+      },
+      {
+        "title": "Portes",
+        "duration": "3:28"
+      },
+      {
+        "title": "Pluie",
+        "duration": "3:19"
+      }
+    ],
+    "composers": ["Clara Ysé", "Sage"],
+    "lyricists": ["Clara Ysé"],
+    "recording_studio": "Studio Ferber, Paris",
+    "certifications": []
+  },
+  {
+    "title": "Crash",
+    "artists": ["Charli XCX"],
+    "producers": [
+      "Charli XCX",
+      "A. G. Cook",
+      "George Daniel",
+      "Deaton Chris Anthony"
+    ],
+    "label": "Asylum Records",
+    "release_date": "2022-03-18",
+    "ISBN_EAN_UPC": "075678636936",
+    "format": "CD, vinyle, numérique",
+    "duration": 34,
+    "category": "Pop, Électro-Pop",
+    "summary": "Cinquième album studio de Charli XCX, Crash est un tournant dans sa carrière, embrassant une approche plus mainstream de la pop tout en conservant son esthétique futuriste et expérimentale, avec des collaborations avec Rina Sawayama et Caroline Polachek.",
+    "keywords": ["hyper-pop", "dance-pop", "Y2K", "nostalgie", "futuriste"],
+    "targeted_audience": "teenager, adulte",
+    "original_language": "anglais",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Crash",
+        "duration": "2:38"
+      },
+      {
+        "title": "New Shapes",
+        "duration": "3:43"
+      },
+      {
+        "title": "Good Ones",
+        "duration": "2:17"
+      },
+      {
+        "title": "Constant Repeat",
+        "duration": "2:58"
+      },
+      {
+        "title": "Beg for You",
+        "duration": "2:48"
+      },
+      {
+        "title": "Move Me",
+        "duration": "2:52"
+      },
+      {
+        "title": "Baby",
+        "duration": "3:10"
+      },
+      {
+        "title": "Lightning",
+        "duration": "3:04"
+      },
+      {
+        "title": "Every Rule",
+        "duration": "2:47"
+      },
+      {
+        "title": "Yuck",
+        "duration": "2:41"
+      },
+      {
+        "title": "Used to Know Me",
+        "duration": "2:29"
+      },
+      {
+        "title": "Twice",
+        "duration": "3:01"
+      }
+    ],
+    "composers": [
+      "Charlotte Aitchison",
+      "A. G. Cook",
+      "George Daniel",
+      "Oneohtrix Point Never"
+    ],
+    "lyricists": ["Charli XCX", "Caroline Polachek", "Rina Sawayama"],
+    "recording_studio": "Strongroom Studios, London",
+    "certifications": ["Disque d'or au Royaume-Uni (100 000 exemplaires)"]
+  },
+  {
+    "title": "Chansons d'Amour pour ta Mère",
+    "artists": ["Fishbach"],
+    "producers": ["Fishbach", "Giani Caserotto"],
+    "label": "Entreprise",
+    "release_date": "2022-01-28",
+    "ISBN_EAN_UPC": "3521383770528",
+    "format": "CD, vinyle, numérique",
+    "duration": 39,
+    "category": "Pop française, Chanson",
+    "summary": "Deuxième album de Fishbach, Chansons d'Amour pour ta Mère présente un univers musical unique mêlant pop des années 80, synthwave et chanson française, avec une voix grave et des textes poétiques.",
+    "keywords": [
+      "synthwave",
+      "chanson française",
+      "voix grave",
+      "80s",
+      "poétique"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "français",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Téléphone",
+        "duration": "3:16"
+      },
+      {
+        "title": "La Lune et le Soleil",
+        "duration": "3:25"
+      },
+      {
+        "title": "Presque Beau",
+        "duration": "3:17"
+      },
+      {
+        "title": "Masque d'Or",
+        "duration": "3:23"
+      },
+      {
+        "title": "Dans un Fou Rire",
+        "duration": "3:42"
+      },
+      {
+        "title": "Belle à en Crever",
+        "duration": "3:28"
+      },
+      {
+        "title": "Yeux Rivière",
+        "duration": "3:17"
+      },
+      {
+        "title": "Quitter la Ville",
+        "duration": "3:58"
+      },
+      {
+        "title": "Le Monde Entier",
+        "duration": "3:56"
+      },
+      {
+        "title": "Chaud",
+        "duration": "3:38"
+      },
+      {
+        "title": "Les Angles",
+        "duration": "3:40"
+      }
+    ],
+    "composers": ["Flora Fishbach", "Giani Caserotto"],
+    "lyricists": ["Flora Fishbach"],
+    "recording_studio": "Studio Motorbass, Paris",
+    "certifications": []
+  },
+  {
+    "title": "Melodic Chronicles",
+    "artists": ["Aurore Céleste", "Léo Dubois"],
+    "producers": ["Martin Leroy", "Sophie Renard"],
+    "label": "Harmonie Records",
+    "release_date": "2023-04-15",
+    "ISBN_EAN_UPC": "0123456789012",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 48,
+    "category": "Pop Alternative",
+    "summary": "Un album conceptuel explorant les cycles de la vie à travers des mélodies éthérées et des arrangements orchestraux minimalistes.",
+    "keywords": [
+      "mélancolie",
+      "introspection",
+      "orchestral",
+      "électro-acoustique"
+    ],
+    "targeted_audience": "adulte",
+    "original_language": "Français",
+    "series": false,
+    "awards": ["Prix de la Création Musicale 2023"],
+    "tracklist": [
+      {
+        "title": "Aube Silencieuse",
+        "duration": "4:21"
+      },
+      {
+        "title": "Résonances",
+        "duration": "3:57"
+      },
+      {
+        "title": "Le Temps Suspendu",
+        "duration": "5:12"
+      },
+      {
+        "title": "Fragments d'Éternité",
+        "duration": "4:35"
+      },
+      {
+        "title": "Lueurs",
+        "duration": "3:48"
+      },
+      {
+        "title": "Équinoxe",
+        "duration": "6:02"
+      },
+      {
+        "title": "Miroirs d'Eau",
+        "duration": "4:17"
+      },
+      {
+        "title": "Crépuscule Doré",
+        "duration": "5:43"
+      },
+      {
+        "title": "Retour à l'Origine",
+        "duration": "4:32"
+      },
+      {
+        "title": "Éveil",
+        "duration": "5:26"
+      }
+    ],
+    "composers": ["Aurore Céleste", "Léo Dubois", "Marie Fontaine"],
+    "lyricists": ["Aurore Céleste", "Thomas Mercier"],
+    "recording_studio": "Studio Lumière, Paris",
+    "certifications": ["Disque d'Or"]
+  },
+  {
+    "title": "Voltage",
+    "artists": ["Électro Choc"],
+    "producers": ["Jean-Marc Dubois", "Électro Choc"],
+    "label": "Techno Pulse",
+    "release_date": "2022-11-10",
+    "ISBN_EAN_UPC": "9876543210987",
+    "format": ["Numérique", "Vinyle"],
+    "duration": 65,
+    "category": "Électronique",
+    "summary": "Un voyage hypnotique dans l'univers de la techno minimaliste, avec des rythmiques saccadées et des nappes sonores envoûtantes.",
+    "keywords": ["techno", "minimaliste", "hypnotique", "immersif"],
+    "targeted_audience": "adulte",
+    "original_language": "Instrumental",
+    "series": false,
+    "awards": ["Meilleur Album Électronique 2023"],
+    "tracklist": [
+      {
+        "title": "Pulsation",
+        "duration": "6:45"
+      },
+      {
+        "title": "Circuit",
+        "duration": "7:12"
+      },
+      {
+        "title": "Ondes",
+        "duration": "5:55"
+      },
+      {
+        "title": "Réacteur",
+        "duration": "8:03"
+      },
+      {
+        "title": "Fréquence",
+        "duration": "6:37"
+      },
+      {
+        "title": "Particule",
+        "duration": "7:21"
+      },
+      {
+        "title": "Tension",
+        "duration": "6:49"
+      },
+      {
+        "title": "Amplitude",
+        "duration": "7:58"
+      },
+      {
+        "title": "Décharge",
+        "duration": "8:22"
+      }
+    ],
+    "composers": ["Électro Choc"],
+    "lyricists": [],
+    "recording_studio": "Studio Vibration, Berlin",
+    "certifications": ["Disque d'Or"]
+  },
+  {
+    "title": "Racines Profondes",
+    "artists": ["Mamadou Koné"],
+    "producers": ["Mamadou Koné", "Paul Girard"],
+    "label": "Baobab Music",
+    "release_date": "2023-09-22",
+    "ISBN_EAN_UPC": "5678901234567",
+    "format": ["CD", "Numérique", "Vinyle"],
+    "duration": 53,
+    "category": "World Music",
+    "summary": "Un album fusionnant instruments traditionnels africains et sonorités modernes, célébrant l'héritage musical de l'Afrique de l'Ouest.",
+    "keywords": ["afro-fusion", "tradition", "kora", "djembé", "balafon"],
+    "targeted_audience": "adulte",
+    "original_language": "Bambara, Français",
+    "series": false,
+    "awards": ["Prix Découverte RFI 2023"],
+    "tracklist": [
+      {
+        "title": "Bamako",
+        "duration": "5:06"
+      },
+      {
+        "title": "Fleuve Niger",
+        "duration": "4:52"
+      },
+      {
+        "title": "Ancêtres",
+        "duration": "6:18"
+      },
+      {
+        "title": "Danse de la Pluie",
+        "duration": "5:35"
+      },
+      {
+        "title": "Kalanba",
+        "duration": "4:47"
+      },
+      {
+        "title": "Soleils d'Afrique",
+        "duration": "5:23"
+      },
+      {
+        "title": "Héritage",
+        "duration": "6:41"
+      },
+      {
+        "title": "Djéliba",
+        "duration": "5:27"
+      },
+      {
+        "title": "Retour aux Sources",
+        "duration": "4:59"
+      },
+      {
+        "title": "Espoir",
+        "duration": "4:31"
+      }
+    ],
+    "composers": ["Mamadou Koné", "Ibrahim Touré"],
+    "lyricists": ["Mamadou Koné", "Fatou Diallo"],
+    "recording_studio": "Studio Baobab, Bamako",
+    "certifications": ["Disque d'Or"]
+  },
+  {
+    "title": "Constellations",
+    "artists": ["Astral Projection"],
+    "producers": ["Lucas Morris", "Astral Projection"],
+    "label": "Cosmos Records",
+    "release_date": "2024-02-18",
+    "ISBN_EAN_UPC": "4567890123456",
+    "format": ["Numérique", "Vinyle"],
+    "duration": 72,
+    "category": "Ambient",
+    "summary": "Une exploration sonore de l'espace et du cosmos, combinant des sons atmosphériques et des field recordings pour créer une expérience immersive.",
+    "keywords": ["spatial", "atmosphérique", "contemplatif", "cosmos"],
+    "targeted_audience": "adulte",
+    "original_language": "Instrumental",
+    "series": true,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Nébuleuse",
+        "duration": "8:12"
+      },
+      {
+        "title": "Andromède",
+        "duration": "7:35"
+      },
+      {
+        "title": "Voie Lactée",
+        "duration": "9:03"
+      },
+      {
+        "title": "Trou Noir",
+        "duration": "6:47"
+      },
+      {
+        "title": "Supernova",
+        "duration": "8:25"
+      },
+      {
+        "title": "Étoile Polaire",
+        "duration": "7:19"
+      },
+      {
+        "title": "Orbite",
+        "duration": "8:58"
+      },
+      {
+        "title": "Poussière Cosmique",
+        "duration": "7:44"
+      },
+      {
+        "title": "Infini",
+        "duration": "8:22"
+      }
+    ],
+    "composers": ["Lucas Morris", "Emma Chen"],
+    "lyricists": [],
+    "recording_studio": "Studio Étoile, Reykjavik",
+    "certifications": []
+  },
+  {
+    "title": "Rêves Urbains",
+    "artists": ["MC Solaar Jr."],
+    "producers": ["DJ Tempo", "Alex Beats"],
+    "label": "Phénix Productions",
+    "release_date": "2023-06-30",
+    "ISBN_EAN_UPC": "3456789012345",
+    "format": ["CD", "Numérique"],
+    "duration": 58,
+    "category": "Hip-Hop",
+    "summary": "Un album engagé explorant les réalités urbaines contemporaines avec des textes poétiques et des productions innovantes.",
+    "keywords": ["urbain", "poésie", "engagement", "flow"],
+    "targeted_audience": "teenager, adulte",
+    "original_language": "Français",
+    "series": false,
+    "awards": ["Victoire de la Musique 2024 - Meilleur Album Hip-Hop"],
+    "tracklist": [
+      {
+        "title": "Intro - Éveil",
+        "duration": "2:15"
+      },
+      {
+        "title": "Métro, Boulot, Poésie",
+        "duration": "4:32"
+      },
+      {
+        "title": "Murs de Béton",
+        "duration": "3:57"
+      },
+      {
+        "title": "Étoiles sur Asphalte",
+        "duration": "4:21"
+      },
+      {
+        "title": "Rêvolution",
+        "duration": "3:48"
+      },
+      {
+        "title": "Identités",
+        "duration": "4:05"
+      },
+      {
+        "title": "Interlude - Souffle",
+        "duration": "1:33"
+      },
+      {
+        "title": "Horizons",
+        "duration": "4:27"
+      },
+      {
+        "title": "Lumières Nocturnes",
+        "duration": "4:19"
+      },
+      {
+        "title": "Encre et Microphone",
+        "duration": "3:52"
+      },
+      {
+        "title": "Symphonie Urbaine",
+        "duration": "5:13"
+      },
+      {
+        "title": "Nouveau Jour",
+        "duration": "4:36"
+      },
+      {
+        "title": "Outro - Renaissance",
+        "duration": "2:08"
+      }
+    ],
+    "composers": ["MC Solaar Jr.", "DJ Tempo"],
+    "lyricists": ["MC Solaar Jr."],
+    "recording_studio": "Studio Rhyme, Paris",
+    "certifications": ["Disque de Platine"]
+  },
+  {
+    "title": "Souvenirs d'Été",
+    "artists": ["Les Vagabonds"],
+    "producers": ["Pierre Moreau", "Marie Leclerc"],
+    "label": "Nostalgie Records",
+    "release_date": "2023-07-15",
+    "ISBN_EAN_UPC": "2345678901234",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 42,
+    "category": "Indie Folk",
+    "summary": "Un album chaleureux évoquant les souvenirs d'enfance et les étés en bord de mer, porté par des mélodies acoustiques et des harmonies vocales.",
+    "keywords": ["nostalgie", "été", "acoustique", "intimiste"],
+    "targeted_audience": "teenager, adulte",
+    "original_language": "Français",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Coucher de Soleil",
+        "duration": "3:47"
+      },
+      {
+        "title": "Sable Fin",
+        "duration": "4:12"
+      },
+      {
+        "title": "Cartes Postales",
+        "duration": "3:35"
+      },
+      {
+        "title": "Glaces à l'Eau",
+        "duration": "2:58"
+      },
+      {
+        "title": "Polaroids",
+        "duration": "4:26"
+      },
+      {
+        "title": "Vagues",
+        "duration": "3:51"
+      },
+      {
+        "title": "Balades à Vélo",
+        "duration": "3:29"
+      },
+      {
+        "title": "Feux de Camp",
+        "duration": "5:18"
+      },
+      {
+        "title": "Étoiles Filantes",
+        "duration": "4:38"
+      },
+      {
+        "title": "Au Revoir l'Été",
+        "duration": "5:52"
+      }
+    ],
+    "composers": ["Antoine Durand", "Julie Martin"],
+    "lyricists": ["Julie Martin", "Simon Petit"],
+    "recording_studio": "Studio Brise Marine, La Rochelle",
+    "certifications": []
+  },
+  {
+    "title": "Symphonie Fantastique",
+    "artists": ["Orchestre National de Lyon", "Maestra Elena Rossi"],
+    "producers": ["Philippe Garnier", "Deutsche Grammophon"],
+    "label": "Deutsche Grammophon",
+    "release_date": "2023-10-05",
+    "ISBN_EAN_UPC": "1234567890123",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 85,
+    "category": "Classique",
+    "summary": "Une interprétation vibrante et moderne de la célèbre œuvre de Berlioz, captée en direct à l'Auditorium de Lyon.",
+    "keywords": ["symphonie", "romantique", "orchestre", "berlioz"],
+    "targeted_audience": "adulte",
+    "original_language": "Instrumental",
+    "series": true,
+    "awards": ["Diapason d'Or 2024"],
+    "tracklist": [
+      {
+        "title": "I. Rêveries, Passions",
+        "duration": "15:34"
+      },
+      {
+        "title": "II. Un bal",
+        "duration": "12:17"
+      },
+      {
+        "title": "III. Scène aux champs",
+        "duration": "18:45"
+      },
+      {
+        "title": "IV. Marche au supplice",
+        "duration": "7:06"
+      },
+      {
+        "title": "V. Songe d'une nuit du sabbat",
+        "duration": "16:38"
+      },
+      {
+        "title": "Entretien avec Elena Rossi (Bonus)",
+        "duration": "14:52"
+      }
+    ],
+    "composers": ["Hector Berlioz"],
+    "lyricists": [],
+    "recording_studio": "Auditorium de Lyon",
+    "certifications": []
+  },
+  {
+    "title": "Éclipse Lunaire",
+    "artists": ["Nova Tempête", "Julian Rivière"],
+    "producers": ["Émile Charpentier", "Lucie Mercier"],
+    "label": "Galaxie Records",
+    "release_date": "2023-05-21",
+    "ISBN_EAN_UPC": "4891057236498",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 54,
+    "category": "Rock Progressif",
+    "summary": "Un voyage cosmique explorant les profondeurs de l'âme humaine à travers des compositions complexes et des arrangements audacieux.",
+    "keywords": ["spatial", "psychédélique", "conceptuel", "expérimental"],
+    "targeted_audience": "adulte",
+    "original_language": "Français",
+    "series": false,
+    "awards": ["Prix Innovation Musicale 2023"],
+    "tracklist": [
+      {
+        "title": "Prélude Stellaire",
+        "duration": "3:42"
+      },
+      {
+        "title": "Orbite Elliptique",
+        "duration": "7:15"
+      },
+      {
+        "title": "Pénombre",
+        "duration": "5:28"
+      },
+      {
+        "title": "Gravitation",
+        "duration": "6:33"
+      },
+      {
+        "title": "Éclipse Totale",
+        "duration": "8:17"
+      },
+      {
+        "title": "Révolution",
+        "duration": "6:04"
+      },
+      {
+        "title": "Lumière Réfractée",
+        "duration": "4:52"
+      },
+      {
+        "title": "Alignement",
+        "duration": "5:19"
+      },
+      {
+        "title": "Nouveau Cycle",
+        "duration": "6:43"
+      }
+    ],
+    "composers": ["Nova Tempête", "Julian Rivière", "Marie Blanc"],
+    "lyricists": ["Julian Rivière", "Sophie Petit"],
+    "recording_studio": "Studio Cosmos, Lyon",
+    "certifications": ["Disque d'Or"]
+  },
+  {
+    "title": "Marées Nocturnes",
+    "artists": ["L'Océan Électrique"],
+    "producers": ["Antoine Delacroix", "Sarah Martin"],
+    "label": "Vague Bleue",
+    "release_date": "2023-08-12",
+    "ISBN_EAN_UPC": "5789034612587",
+    "format": ["Vinyle", "Numérique", "Cassette"],
+    "duration": 62,
+    "category": "Electro-Jazz",
+    "summary": "Une fusion innovante de jazz et de musique électronique inspirée par les mouvements des marées et les mystères des profondeurs marines.",
+    "keywords": ["aquatique", "nocturne", "fusion", "atmosphérique"],
+    "targeted_audience": "adulte",
+    "original_language": "Instrumental",
+    "series": false,
+    "awards": ["Prix Découverte Jazz 2023"],
+    "tracklist": [
+      {
+        "title": "Horizon Liquide",
+        "duration": "5:37"
+      },
+      {
+        "title": "Profondeurs",
+        "duration": "6:14"
+      },
+      {
+        "title": "Courants",
+        "duration": "7:08"
+      },
+      {
+        "title": "Phosphorescence",
+        "duration": "4:53"
+      },
+      {
+        "title": "Pleine Mer",
+        "duration": "8:21"
+      },
+      {
+        "title": "Flottaison",
+        "duration": "5:46"
+      },
+      {
+        "title": "Crépuscule Salin",
+        "duration": "6:19"
+      },
+      {
+        "title": "Résonances Abyssales",
+        "duration": "9:05"
+      },
+      {
+        "title": "Évaporation",
+        "duration": "4:31"
+      },
+      {
+        "title": "Retour au Rivage",
+        "duration": "4:19"
+      }
+    ],
+    "composers": ["Thomas Ferrer", "L'Océan Électrique"],
+    "lyricists": [],
+    "recording_studio": "Studio Atlantis, Brest",
+    "certifications": []
+  },
+  {
+    "title": "Sentiers de Traverse",
+    "artists": ["Lilas Sauvage"],
+    "producers": ["Henri Dumas", "Lilas Sauvage"],
+    "label": "Prairie Records",
+    "release_date": "2024-01-18",
+    "ISBN_EAN_UPC": "6784952310468",
+    "format": ["CD", "Numérique"],
+    "duration": 46,
+    "category": "Folk",
+    "summary": "Un album intimiste aux arrangements épurés, célébrant la nature et les chemins de traverse qui façonnent nos vies.",
+    "keywords": ["acoustique", "nature", "introspection", "poétique"],
+    "targeted_audience": "adulte",
+    "original_language": "Français",
+    "series": false,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Premiers Pas",
+        "duration": "3:47"
+      },
+      {
+        "title": "Clairière",
+        "duration": "4:12"
+      },
+      {
+        "title": "Sous-Bois",
+        "duration": "3:58"
+      },
+      {
+        "title": "Chemin Oublié",
+        "duration": "5:03"
+      },
+      {
+        "title": "Pluie d'Été",
+        "duration": "4:26"
+      },
+      {
+        "title": "Feuilles Mortes",
+        "duration": "3:51"
+      },
+      {
+        "title": "Croisement",
+        "duration": "4:22"
+      },
+      {
+        "title": "Écorce",
+        "duration": "3:39"
+      },
+      {
+        "title": "Boussole",
+        "duration": "4:15"
+      },
+      {
+        "title": "Retour au Point de Départ",
+        "duration": "5:24"
+      },
+      {
+        "title": "Nouveau Chemin",
+        "duration": "4:01"
+      }
+    ],
+    "composers": ["Lilas Sauvage"],
+    "lyricists": ["Lilas Sauvage", "Paul Renard"],
+    "recording_studio": "Studio Forêt, Ardèche",
+    "certifications": []
+  },
+  {
+    "title": "Métropolis",
+    "artists": ["Urbain Collective"],
+    "producers": ["DJ Arcane", "Maxime Lebrun"],
+    "label": "Béton Records",
+    "release_date": "2023-11-04",
+    "ISBN_EAN_UPC": "7893451026735",
+    "format": ["Vinyle", "Numérique"],
+    "duration": 58,
+    "category": "Hip-Hop Expérimental",
+    "summary": "Une exploration sonore de la vie urbaine moderne, mêlant samples de bruits de la ville, beats novateurs et textes engagés.",
+    "keywords": ["urbain", "rythmique", "socio-politique", "industriel"],
+    "targeted_audience": "teenager, adulte",
+    "original_language": "Français",
+    "series": false,
+    "awards": ["Prix de la Critique Musicale 2024"],
+    "tracklist": [
+      {
+        "title": "Béton Armé",
+        "duration": "4:13"
+      },
+      {
+        "title": "Métro Ligne 4",
+        "duration": "3:56"
+      },
+      {
+        "title": "Périphérique",
+        "duration": "5:07"
+      },
+      {
+        "title": "Asphalte",
+        "duration": "4:33"
+      },
+      {
+        "title": "Tours de Verre",
+        "duration": "4:49"
+      },
+      {
+        "title": "Interlude - Sirènes",
+        "duration": "1:52"
+      },
+      {
+        "title": "Artères",
+        "duration": "4:21"
+      },
+      {
+        "title": "Gentrification",
+        "duration": "5:38"
+      },
+      {
+        "title": "Souterrains",
+        "duration": "4:55"
+      },
+      {
+        "title": "Centre Commercial",
+        "duration": "3:42"
+      },
+      {
+        "title": "Horizons Urbains",
+        "duration": "6:12"
+      },
+      {
+        "title": "Évasion",
+        "duration": "5:03"
+      },
+      {
+        "title": "Outro - Aube",
+        "duration": "3:21"
+      }
+    ],
+    "composers": ["Urbain Collective", "DJ Arcane"],
+    "lyricists": ["MC Soleil", "Victor Noir", "Laure Urbaine"],
+    "recording_studio": "Bunker Studio, Paris",
+    "certifications": ["Disque d'Or"]
+  },
+  {
+    "title": "Fragments d'ADN",
+    "artists": ["Cellula"],
+    "producers": ["Professeur X", "Cellula"],
+    "label": "Science Sound",
+    "release_date": "2023-06-30",
+    "ISBN_EAN_UPC": "4523698714502",
+    "format": ["CD", "Numérique"],
+    "duration": 67,
+    "category": "IDM",
+    "summary": "Un album conceptuel explorant les mystères de la génétique à travers des structures rythmiques complexes et des sonorités organiques et synthétiques.",
+    "keywords": ["biologie", "fractales", "mathématique", "organique"],
+    "targeted_audience": "adulte",
+    "original_language": "Instrumental",
+    "series": true,
+    "awards": [],
+    "tracklist": [
+      {
+        "title": "Hélice",
+        "duration": "5:27"
+      },
+      {
+        "title": "Mitose",
+        "duration": "6:14"
+      },
+      {
+        "title": "Séquence",
+        "duration": "7:03"
+      },
+      {
+        "title": "Protéine",
+        "duration": "5:48"
+      },
+      {
+        "title": "Réplication",
+        "duration": "8:21"
+      },
+      {
+        "title": "Mutation",
+        "duration": "6:45"
+      },
+      {
+        "title": "Transcription",
+        "duration": "7:12"
+      },
+      {
+        "title": "Interlude - Microscopie",
+        "duration": "2:33"
+      },
+      {
+        "title": "Cellule Souche",
+        "duration": "6:58"
+      },
+      {
+        "title": "Évolution",
+        "duration": "7:35"
+      },
+      {
+        "title": "Adaptation",
+        "duration": "4:52"
+      }
+    ],
+    "composers": ["Cellula", "Dr. Helix"],
+    "lyricists": [],
+    "recording_studio": "Laboratoire Sonore, Grenoble",
+    "certifications": []
+  },
+  {
+    "title": "Mythologies",
+    "artists": ["Les Immortels"],
+    "producers": ["Jean-Claude Dupont", "Maria Sanchez"],
+    "label": "Olympe Productions",
+    "release_date": "2023-04-07",
+    "ISBN_EAN_UPC": "9654123078562",
+    "format": ["CD", "Vinyle", "Numérique"],
+    "duration": 73,
+    "category": "Rock Symphonique",
+    "summary": "Une fresque musicale grandiose revisitant les mythes fondateurs des civilisations antiques, avec orchestre et chœurs.",
+    "keywords": ["épique", "mythologie", "orchestral", "narratif"],
+    "targeted_audience": "adulte",
+    "original_language": "Français, Grec ancien",
+    "series": false,
+    "awards": ["Victoire de la Musique 2023 - Meilleur Album Concept"],
+    "tracklist": [
+      {
+        "title": "Ouverture - L'Olympe",
+        "duration": "4:28"
+      },
+      {
+        "title": "Prométhée",
+        "duration": "6:35"
+      },
+      {
+        "title": "Les Sirènes",
+        "duration": "5:42"
+      },
+      {
+        "title": "Méduse",
+        "duration": "5:19"
+      },
+      {
+        "title": "Le Minotaure",
+        "duration": "7:13"
+      },
+      {
+        "title": "Interlude - Oracle",
+        "duration": "2:44"
+      },
+      {
+        "title": "Icare",
+        "duration": "6:07"
+      },
+      {
+        "title": "Orphée et Eurydice",
+        "duration": "8:25"
+      },
+      {
+        "title": "Atlante",
+        "duration": "5:53"
+      },
+      {
+        "title": "Le Phénix",
+        "duration": "6:41"
+      },
+      {
+        "title": "Apocalypse",
+        "duration": "7:12"
+      },
+      {
+        "title": "Renaissance",
+        "duration": "6:46"
+      }
+    ],
+    "composers": ["Les Immortels", "Philippe Ménard"],
+    "lyricists": ["Hélène Duval", "Christophe Lemoine"],
+    "recording_studio": "Studios Parthénon, Athènes",
+    "certifications": ["Double Disque de Platine"]
+  },
+  {
+    "title": "Jazz au Crépuscule",
+    "artists": ["Quartet Lumière"],
+    "producers": ["Charles Johnson", "Quartet Lumière"],
+    "label": "Blue Note France",
+    "release_date": "2023-10-15",
+    "ISBN_EAN_UPC": "8523697410258",
+    "format": ["Vinyle", "CD", "Numérique"],
+    "duration": 64,
+    "category": "Jazz",
+    "summary": "Un hommage aux grandes heures du jazz modal des années 60, avec une approche contemporaine et des improvisations subtiles.",
+    "keywords": ["modal", "contrebasse", "saxophone", "nocturne"],
+    "targeted_audience": "adulte",
+    "original_language": "Instrumental",
+    "series": false,
+    "awards": ["Django d'Or 2024"],
+    "tracklist": [
+      {
+        "title": "Premier Rayon",
+        "duration": "7:15"
+      },
+      {
+        "title": "Café Saint-Germain",
+        "duration": "6:38"
+      },
+      {
+        "title": "Nuages Passagers",
+        "duration": "8:43"
+      },
+      {
+        "title": "Blues pour Demain",
+        "duration": "5:57"
+      },
+      {
+        "title": "Ballade Nocturne",
+        "duration": "9:12"
+      },
+      {
+        "title": "Interlude - Solo de Contrebasse",
+        "duration": "3:26"
+      },
+      {
+        "title": "Carrefour",
+        "duration": "6:54"
+      },
+      {
+        "title": "Méditation",
+        "duration": "7:32"
+      },
+      {
+        "title": "Dernier Set",
+        "duration": "8:21"
+      }
+    ],
+    "composers": ["Quartet Lumière", "Sophie Blanc"],
+    "lyricists": [],
+    "recording_studio": "Studio Jazzy, Paris",
+    "certifications": ["Disque d'Or"]
+  }
+]
