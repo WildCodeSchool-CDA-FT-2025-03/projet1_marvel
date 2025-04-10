@@ -1,11 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useQuery } from '@apollo/client';
-import {
-  GET_ALL_BOOKS,
-  GET_ALL_GAMES,
-  GET_ALL_MOVIES,
-  GET_ALL_MUSIC,
-} from '../schemas/catalogue.schema';
+import { GET_ALL_ITEMS } from '../schemas/catalogue.schema';
 import {
   Book as BookType,
   Game as GameType,
@@ -19,17 +14,18 @@ export default function useCatalogueData() {
   const [catalogueItems, setCatalogueItems] = useState<CatalogueItem[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
-  const { data: booksData } = useQuery(GET_ALL_BOOKS);
-  const { data: gamesData } = useQuery(GET_ALL_GAMES);
-  const { data: moviesData } = useQuery(GET_ALL_MOVIES);
-  const { data: musicData } = useQuery(GET_ALL_MUSIC);
+  const { data, loading } = useQuery(GET_ALL_ITEMS);
 
   useEffect(() => {
-    setIsLoading(true);
+    if (loading) {
+      setIsLoading(true);
+      return;
+    }
+
     const items: CatalogueItem[] = [];
 
-    if (booksData?.getBooks) {
-      booksData.getBooks.forEach((book: BookType) => {
+    if (data?.getBooks) {
+      data.getBooks.forEach((book: BookType) => {
         items.push({
           id: book.id,
           type: 'books',
@@ -41,8 +37,8 @@ export default function useCatalogueData() {
       });
     }
 
-    if (gamesData?.getGames) {
-      gamesData.getGames.forEach((game: GameType) => {
+    if (data?.getGames) {
+      data.getGames.forEach((game: GameType) => {
         items.push({
           id: game.id,
           type: 'games',
@@ -54,8 +50,8 @@ export default function useCatalogueData() {
       });
     }
 
-    if (moviesData?.getMovies) {
-      moviesData.getMovies.forEach((movie: MovieType) => {
+    if (data?.getMovies) {
+      data.getMovies.forEach((movie: MovieType) => {
         items.push({
           id: movie.id,
           type: 'movies',
@@ -67,8 +63,8 @@ export default function useCatalogueData() {
       });
     }
 
-    if (musicData?.getMusic) {
-      musicData.getMusic.forEach((music: MusicType) => {
+    if (data?.getMusic) {
+      data.getMusic.forEach((music: MusicType) => {
         items.push({
           id: music.id,
           type: 'music',
@@ -82,7 +78,7 @@ export default function useCatalogueData() {
 
     setCatalogueItems(items);
     setIsLoading(false);
-  }, [booksData, gamesData, moviesData, musicData]);
+  }, [data, loading]);
 
   return { catalogueItems, isLoading };
 }
