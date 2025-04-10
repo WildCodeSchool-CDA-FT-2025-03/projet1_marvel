@@ -1,13 +1,11 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import { Heart, Star, Book, Music, Gamepad2, Film } from 'lucide-react';
+import { Star, Book, Music, Gamepad2, Film } from 'lucide-react';
 import { CatalogueItem as CatalogueItemType } from '../../types/catalogue.type';
 
-interface CatalogueItemProps {
+type CatalogueItemProps = {
   item: CatalogueItemType;
-  isFavorite: boolean;
-  toggleFavorite: (id: number) => void;
-}
+};
 
 const getItem = {
   books: {
@@ -32,7 +30,7 @@ const getItem = {
   },
 };
 
-export default function CatalogueItem({ item, isFavorite, toggleFavorite }: CatalogueItemProps) {
+export default function CatalogueItem({ item }: CatalogueItemProps) {
   return (
     <motion.div
       variants={{
@@ -60,20 +58,6 @@ export default function CatalogueItem({ item, isFavorite, toggleFavorite }: Cata
             {getItem[item.type].icon}
             <span className="font-medium">{getItem[item.type].type}</span>
           </div>
-          <button
-            onClick={e => {
-              e.preventDefault();
-              toggleFavorite(item.id);
-            }}
-            className="bg-white rounded-full p-1.5 shadow-sm"
-          >
-            <Heart
-              size={18}
-              className={
-                isFavorite ? 'text-red-500 fill-red-500' : 'text-gray-400 hover:text-red-500'
-              }
-            />
-          </button>
         </div>
 
         <Link to={`/item/${item.id}`} className="block">
