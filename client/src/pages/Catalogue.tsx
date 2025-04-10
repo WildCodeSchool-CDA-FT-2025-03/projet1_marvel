@@ -1,18 +1,8 @@
-import { useState } from 'react';
 import CatalogueItem from '../components/catalogue/CatalogueItem';
 import useCatalogueData from '../hooks/useCatalogueData';
 
 export default function Catalogue() {
-  const [favorites, setFavorites] = useState<number[]>([]);
   const { catalogueItems, isLoading } = useCatalogueData();
-
-  const toggleFavorite = (id: number) => {
-    if (favorites.includes(id)) {
-      setFavorites(favorites.filter(favId => favId !== id));
-    } else {
-      setFavorites([...favorites, id]);
-    }
-  };
 
   return (
     <main className="min-h-screen bg-gray-50 py-8">
@@ -33,12 +23,7 @@ export default function Catalogue() {
         ) : catalogueItems.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
             {catalogueItems.map(item => (
-              <CatalogueItem
-                key={`${item.id}-${item.type}`}
-                item={item}
-                isFavorite={favorites.includes(item.id)}
-                toggleFavorite={toggleFavorite}
-              />
+              <CatalogueItem key={`${item.id}-${item.type}`} item={item} />
             ))}
           </div>
         ) : (
