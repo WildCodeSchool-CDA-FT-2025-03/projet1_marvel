@@ -7,9 +7,13 @@ interface UseFilterSortProps {
 
 export default function useFilterSort({ catalogueItems }: UseFilterSortProps) {
   const [searchTerm, setSearchTerm] = useState('');
+  const [activeCategory, setActiveCategory] = useState('all');
+  const [ratingFilter, setRatingFilter] = useState(0);
 
   const filteredItems = useMemo(() => {
     return catalogueItems.filter(item => {
+      const categoryMatch = activeCategory === 'all' || item.type === activeCategory;
+
       const searchLower = searchTerm.toLowerCase();
       const titleMatch = item.title.toLowerCase().includes(searchLower);
       const creatorMatch =
@@ -18,13 +22,19 @@ export default function useFilterSort({ catalogueItems }: UseFilterSortProps) {
         (item.director && item.director.toLowerCase().includes(searchLower)) ||
         (item.platform && item.platform.toLowerCase().includes(searchLower));
 
-      return titleMatch || creatorMatch;
+      const ratingMatch = item.rating >= ratingFilter;
+
+      return categoryMatch && (titleMatch || creatorMatch) && ratingMatch;
     });
-  }, [catalogueItems, searchTerm]);
+  }, [catalogueItems, searchTerm, activeCategory, ratingFilter]);
 
   return {
     searchTerm,
     setSearchTerm,
     filteredItems,
+    activeCategory,
+    setActiveCategory,
+    ratingFilter,
+    setRatingFilter,
   };
 }
