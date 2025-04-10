@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 import { Star, Book, Music, Gamepad2, Film } from 'lucide-react';
 import { CatalogueItem as CatalogueItemType } from '../../types/catalogue.type';
 
-interface CatalogueItemProps {
+type CatalogueItemProps = {
   item: CatalogueItemType;
-}
+};
 
 const getItem = {
   books: {

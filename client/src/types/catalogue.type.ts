@@ -1,4 +1,4 @@
-export interface Book {
+export type Book = {
   id: number;
   titre: string;
   auteurs: string[];
@@ -10,9 +10,9 @@ export interface Book {
   mots_cles?: string[];
   public_cible?: string;
   serie: boolean;
-}
+};
 
-export interface Game {
+export type Game = {
   id: number;
   title: string;
   developers: string[];
@@ -25,9 +25,9 @@ export interface Game {
   targeted_audience: string;
   series: boolean;
   pegi_esrb_rating: string;
-}
+};
 
-export interface Movie {
+export type Movie = {
   id: number;
   title: string;
   directors: string[];
@@ -39,9 +39,9 @@ export interface Movie {
   targeted_audience: string;
   series: boolean;
   actors: string[];
-}
+};
 
-export interface Music {
+export type Music = {
   id: number;
   title: string;
   artists: string[];
@@ -53,7 +53,7 @@ export interface Music {
   keywords: string[];
   targeted_audience: string;
   series: boolean;
-}
+};
 
 export type CatalogueItem = {
   id: number;
