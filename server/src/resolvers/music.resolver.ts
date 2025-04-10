@@ -12,8 +12,12 @@ export class MusicResolver {
   // return one music and tracks by id
   // I use findOne instead of findOneById because I need to use "relations" with the "where" clause
   @Query(() => Music)
-  async getOneMusicById(@Arg('id') id: string): Promise<Music> {
-    return (await Music.findOne({
+  async getOneMusicById(@Arg('id') id: number): Promise<Music> {
+    if (!Number.isInteger(id)) {
+      throw new Error("l'id attendu doit être un entier !");
+    }
+
+    return (await Music.findOneOrFail({
       where: { id: +id },
       relations: { tracklist: true },
     })) as Music;
