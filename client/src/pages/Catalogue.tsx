@@ -3,7 +3,7 @@ import CatalogueItem from '../components/catalogue/CatalogueItem';
 import useCatalogueData from '../hooks/useCatalogueData';
 import useFilterSort from '../hooks/useFilterSort';
 import SearchBar from '../components/catalogue/SearchBar';
-import { Filter } from 'lucide-react';
+import { Filter, SortAsc, SortDesc } from 'lucide-react';
 import FilterPanel from '../components/catalogue/FilterPanel';
 import Pagination from '../components/catalogue/Pagination';
 import { motion } from 'framer-motion';
@@ -23,6 +23,8 @@ export default function Catalogue() {
     setActiveCategory,
     ratingFilter,
     setRatingFilter,
+    sortOrder,
+    setSortOrder,
   } = useFilterSort({ catalogueItems });
 
   const toggleFavorite = (id: number) => {
@@ -56,6 +58,13 @@ export default function Catalogue() {
             <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
 
             <div className="flex space-x-2">
+              <button
+                className="p-2 bg-white border border-gray-200 rounded-lg text-gray-600 hover:bg-gray-50 flex items-center justify-center"
+                onClick={() => setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc')}
+                title={sortOrder === 'asc' ? 'Tri descendant' : 'Tri ascendant'}
+              >
+                {sortOrder === 'asc' ? <SortAsc size={20} /> : <SortDesc size={20} />}
+              </button>
               <button
                 className={`p-2 border rounded-lg flex items-center justify-center ${isFilterOpen ? 'bg-indigo-100 border-indigo-300 text-indigo-700' : 'bg-white border-gray-200 text-gray-600 hover:bg-gray-50'}`}
                 onClick={() => setIsFilterOpen(!isFilterOpen)}
