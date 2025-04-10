@@ -1,15 +1,20 @@
+import { useState } from 'react';
 import CatalogueItem from '../components/catalogue/CatalogueItem';
 import useCatalogueData from '../hooks/useCatalogueData';
+import SearchBar from '../components/catalogue/SearchBar';
 
 export default function Catalogue() {
-  const { catalogueItems, isLoading } = useCatalogueData();
+  const [searchTerm, setSearchTerm] = useState('');
+  const { catalogueItems, isLoading } = useCatalogueData(searchTerm);
 
   return (
     <main className="min-h-screen bg-gray-50 py-8">
-      <section className="container mx-auto px-4">
-        <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-8">
-          <h1 className="text-3xl font-bold text-gray-800">Catalogue</h1>
-        </div>
+      <div className="container mx-auto px-4">
+        <section className="flex flex-col md:flex-row justify-between items-start md:items-center mb-8">
+          <h1 className="text-3xl font-bold text-gray-800 mb-4 md:mb-0">Catalogue</h1>
+
+          <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
+        </section>
 
         <p className="text-sm text-gray-500 mb-6">
           {catalogueItems.length}{' '}
@@ -31,7 +36,7 @@ export default function Catalogue() {
             <p className="text-gray-500">Aucun élément disponible dans le catalogue.</p>
           </section>
         )}
-      </section>
+      </div>
     </main>
   );
 }

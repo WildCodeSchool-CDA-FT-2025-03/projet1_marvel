@@ -1,8 +1,8 @@
 import { gql } from '@apollo/client';
 
 export const GET_ALL_ITEMS = gql`
-  query GetAllItems {
-    getBooks {
+  query GetAllItems($search: SearchInput) {
+    getBooks(search: $search) {
       id
       titre
       auteurs
@@ -15,7 +15,7 @@ export const GET_ALL_ITEMS = gql`
       public_cible
       serie
     }
-    getGames {
+    getGames(search: $search) {
       id
       title
       developers
@@ -29,7 +29,7 @@ export const GET_ALL_ITEMS = gql`
       series
       pegi_esrb_rating
     }
-    getMovies {
+    getMovies(search: $search) {
       id
       title
       directors
@@ -42,7 +42,7 @@ export const GET_ALL_ITEMS = gql`
       series
       actors
     }
-    getMusic {
+    getMusic(search: $search) {
       id
       title
       artists
