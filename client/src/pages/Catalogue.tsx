@@ -1,25 +1,21 @@
 import { useState } from 'react';
-
 import { Filter } from 'lucide-react';
-
 import CatalogueItem from '../components/catalogue/CatalogueItem';
 import useCatalogueData from '../hooks/useCatalogueData';
-import useFilterSort from '../hooks/useFilterSort';
 import SearchBar from '../components/catalogue/SearchBar';
 import FilterPanel from '../components/catalogue/FilterPanel';
 
 export default function Catalogue() {
   const [isFilterOpen, setIsFilterOpen] = useState(false);
-  const { catalogueItems, isLoading } = useCatalogueData();
-  const {
+  const [searchTerm, setSearchTerm] = useState('');
+  const [activeCategory, setActiveCategory] = useState('all');
+  const [sortOrder, setSortOrder] = useState('asc');
+
+  const { catalogueItems, isLoading } = useCatalogueData({
     searchTerm,
-    setSearchTerm,
-    filteredItems,
-    activeCategory,
-    setActiveCategory,
-    ratingFilter,
-    setRatingFilter,
-  } = useFilterSort({ catalogueItems });
+    category: activeCategory,
+    sortOrder,
+  });
 
   return (
     <main className="min-h-screen bg-gray-50 py-8">
@@ -45,22 +41,23 @@ export default function Catalogue() {
           <FilterPanel
             activeCategory={activeCategory}
             setActiveCategory={setActiveCategory}
-            ratingFilter={ratingFilter}
-            setRatingFilter={setRatingFilter}
+            sortOrder={sortOrder}
+            setSortOrder={setSortOrder}
           />
         )}
 
         <p className="text-sm text-gray-500 mb-6">
-          {filteredItems.length} {filteredItems.length > 1 ? 'éléments trouvés' : 'élément trouvé'}
+          {catalogueItems.length}{' '}
+          {catalogueItems.length > 1 ? 'éléments trouvés' : 'élément trouvé'}
         </p>
 
         {isLoading ? (
           <section className="bg-white p-8 rounded-lg text-center">
             <p className="text-gray-500">Chargement des données en cours...</p>
           </section>
-        ) : filteredItems.length > 0 ? (
+        ) : catalogueItems.length > 0 ? (
           <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-            {filteredItems.map(item => (
+            {catalogueItems.map(item => (
               <CatalogueItem key={`${item.id}-${item.type}`} item={item} />
             ))}
           </section>

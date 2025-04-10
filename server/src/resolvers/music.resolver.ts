@@ -1,12 +1,48 @@
 import { Resolver, Query, Arg } from 'type-graphql';
 import { Music } from '../entities/music.entity';
+import { SearchInput } from '../types/searchInput';
+import { FilterInput } from '../types/filterInput';
+import { ILike } from 'typeorm';
 
 @Resolver(Music)
 export class MusicResolver {
   // return all musics and tracks
   @Query(() => [Music])
-  async getMusic(): Promise<Music[]> {
-    return await Music.find({ relations: { tracklist: true } });
+  async getMusic(
+    @Arg('search', { nullable: true }) search?: SearchInput,
+    @Arg('filter', { nullable: true }) filter?: FilterInput,
+  ): Promise<Music[]> {
+    if (filter?.category && filter.category !== 'music' && filter.category !== 'all') {
+      return [];
+    }
+
+    let musics: Music[] = [];
+
+    if (!search?.searchTerm) {
+      musics = await Music.find({ relations: { tracklist: true } });
+    } else {
+      const searchTerm = search.searchTerm.toLowerCase();
+      musics = await Music.find({
+        relations: { tracklist: true },
+        where: [
+          { title: ILike(`%${searchTerm}%`) },
+          { artists: ILike(`%${searchTerm}%`) },
+          { format: ILike(`%${searchTerm}%`) },
+        ],
+      });
+    }
+
+    if (filter?.sortOrder) {
+      musics.sort((a, b) => {
+        if (filter.sortOrder === 'asc') {
+          return a.title.localeCompare(b.title);
+        } else {
+          return b.title.localeCompare(a.title);
+        }
+      });
+    }
+
+    return musics;
   }
 
   // return one music and tracks by id

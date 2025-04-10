@@ -10,11 +10,29 @@ import {
   emojis,
 } from '../types/catalogue.type';
 
-export default function useCatalogueData() {
+type UseCatalogueDataProps = {
+  searchTerm?: string;
+  category?: string;
+  sortOrder?: string;
+};
+
+export default function useCatalogueData({
+  searchTerm = '',
+  category = 'all',
+  sortOrder = 'asc',
+}: UseCatalogueDataProps = {}) {
   const [catalogueItems, setCatalogueItems] = useState<CatalogueItem[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
-  const { data, loading } = useQuery(GET_ALL_ITEMS);
+  const { data, loading } = useQuery(GET_ALL_ITEMS, {
+    variables: {
+      search: searchTerm ? { searchTerm } : null,
+      filter: {
+        category: category,
+        sortOrder,
+      },
+    },
+  });
 
   useEffect(() => {
     if (loading) {
@@ -24,7 +42,7 @@ export default function useCatalogueData() {
 
     const items: CatalogueItem[] = [];
 
-    if (data?.getBooks) {
+    if (data?.getBooks && (category === 'all' || category === 'books')) {
       data.getBooks.forEach((book: BookType) => {
         items.push({
           id: book.id,
@@ -37,7 +55,7 @@ export default function useCatalogueData() {
       });
     }
 
-    if (data?.getGames) {
+    if (data?.getGames && (category === 'all' || category === 'games')) {
       data.getGames.forEach((game: GameType) => {
         items.push({
           id: game.id,
@@ -50,7 +68,7 @@ export default function useCatalogueData() {
       });
     }
 
-    if (data?.getMovies) {
+    if (data?.getMovies && (category === 'all' || category === 'movies')) {
       data.getMovies.forEach((movie: MovieType) => {
         items.push({
           id: movie.id,
@@ -63,7 +81,7 @@ export default function useCatalogueData() {
       });
     }
 
-    if (data?.getMusic) {
+    if (data?.getMusic && (category === 'all' || category === 'music')) {
       data.getMusic.forEach((music: MusicType) => {
         items.push({
           id: music.id,
@@ -78,7 +96,7 @@ export default function useCatalogueData() {
 
     setCatalogueItems(items);
     setIsLoading(false);
-  }, [data, loading]);
+  }, [data, loading, category]);
 
   return { catalogueItems, isLoading };
 }
