@@ -28,7 +28,7 @@ export default async function importMusicsData(jsonPath: string): Promise<void> 
     musicEntity.artists = music.artists;
     musicEntity.producers = music.producers;
     musicEntity.label = music.label;
-    musicEntity.release_date = new Date(music.release_date);
+    musicEntity.release_date = music.release_date;
     musicEntity.isbn_ean_upc = music.ISBN_EAN_UPC || '';
     musicEntity.format = typeof music.format === 'string' ? [music.format] : music.format;
     musicEntity.duration = music.duration;
