@@ -2,13 +2,27 @@ import { Resolver, Query, Arg, Mutation, Int } from 'type-graphql';
 import { Music } from '../entities/music.entity';
 import { MusicInput } from '../entities/music.entity';
 import { Tracklist } from '../entities/tracklist.entity';
+import { SearchInput } from '../types/searchInput';
+import { ILike } from 'typeorm';
 
 @Resolver(Music)
 export class MusicResolver {
   // return all musics and tracks
   @Query(() => [Music])
-  async getMusic(): Promise<Music[]> {
-    return await Music.find({ relations: { tracklist: true } });
+  async getMusic(@Arg('search', { nullable: true }) search?: SearchInput): Promise<Music[]> {
+    if (!search?.searchTerm) {
+      return await Music.find({ relations: { tracklist: true } });
+    }
+
+    const searchTerm = search.searchTerm.toLowerCase();
+    return await Music.find({
+      relations: { tracklist: true },
+      where: [
+        { title: ILike(`%${searchTerm}%`) },
+        { artists: ILike(`%${searchTerm}%`) },
+        { format: ILike(`%${searchTerm}%`) },
+      ],
+    });
   }
 
   // return one music and tracks by id

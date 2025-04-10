@@ -25,7 +25,7 @@ export class Music extends BaseEntity {
   @Field()
   label: string;
 
-  @Column('date')
+  @Column()
   @Field()
   release_date: string;
 
