@@ -1,6 +1,7 @@
 import { Minus, Plus, Users } from 'lucide-react';
 import { addArrayItem, handleArrayInput, removeArrayItem } from '../../../form.utils';
 
+import FormLabel from '../../../FormLabel';
 import { MovieFormData } from '../../movie.types';
 
 type TeamSectionProps = {
@@ -17,9 +18,7 @@ export default function TeamSection({ formData, setFormData }: TeamSectionProps)
       </legend>
 
       <div>
-        <label htmlFor="directors" className="text-sm font-medium text-gray-700 mb-1">
-          Réalisateurs
-        </label>
+        <FormLabel htmlFor="directors" label="Réalisateurs" />
         {formData.directors.map((director, index) => (
           <div key={`director-${index}`} className="flex gap-2 mb-2">
             <input
@@ -59,9 +58,7 @@ export default function TeamSection({ formData, setFormData }: TeamSectionProps)
       </div>
 
       <div>
-        <label htmlFor="writers" className="text-sm font-medium text-gray-700 mb-1">
-          Scénaristes
-        </label>
+        <FormLabel htmlFor="writers" label="Scénaristes" />
         {formData.writers.map((writer, index) => (
           <div key={`writer-${index}`} className="flex gap-2 mb-2">
             <input
@@ -101,9 +98,7 @@ export default function TeamSection({ formData, setFormData }: TeamSectionProps)
       </div>
 
       <div>
-        <label htmlFor="producers" className="text-sm font-medium text-gray-700 mb-1">
-          Producteurs
-        </label>
+        <FormLabel htmlFor="producers" label="Producteurs" />
         {formData.producers.map((producer, index) => (
           <div key={`producer-${index}`} className="flex gap-2 mb-2">
             <input
@@ -143,9 +138,7 @@ export default function TeamSection({ formData, setFormData }: TeamSectionProps)
       </div>
 
       <div>
-        <label htmlFor="studios" className="text-sm font-medium text-gray-700 mb-1">
-          Studios
-        </label>
+        <FormLabel htmlFor="studios" label="Studios" />
         {formData.studios.map((studio, index) => (
           <div key={`studio-${index}`} className="flex gap-2 mb-2">
             <input

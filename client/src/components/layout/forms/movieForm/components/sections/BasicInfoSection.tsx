@@ -1,5 +1,6 @@
 import { Calendar, Film } from 'lucide-react';
 
+import FormLabel from '../../../FormLabel';
 import { MovieFormData } from '../../movie.types';
 import { motion } from 'framer-motion';
 
@@ -22,13 +23,7 @@ export default function BasicInfoSection({ formData, setFormData }: BasicInfoSec
       </legend>
 
       <div>
-        <label htmlFor="title" className="block text-sm font-medium text-gray-700 mb-1">
-          Titre{' '}
-          <span className="text-red-500" aria-hidden="true">
-            *
-          </span>
-          <span className="sr-only">(obligatoire)</span>
-        </label>
+        <FormLabel htmlFor="title" label="Titre" required />
         <input
           id="title"
           type="text"
@@ -36,14 +31,11 @@ export default function BasicInfoSection({ formData, setFormData }: BasicInfoSec
           onChange={e => setFormData({ ...formData, title: e.target.value })}
           className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
           required
-          aria-required="true"
         />
       </div>
 
       <div>
-        <label htmlFor="subtitle" className="block text-sm font-medium text-gray-700 mb-1">
-          Sous-titre
-        </label>
+        <FormLabel htmlFor="subtitle" label="Sous-titre" />
         <input
           id="subtitle"
           type="text"
@@ -54,17 +46,9 @@ export default function BasicInfoSection({ formData, setFormData }: BasicInfoSec
       </div>
 
       <div>
-        <label
-          htmlFor="release_date"
-          className="text-sm font-medium text-gray-700 mb-1 flex items-center gap-1"
-        >
+        <FormLabel htmlFor="release_date" label="Date de sortie" required spacing="right">
           <Calendar className="w-4 h-4 text-gray-500" />
-          Date de sortie{' '}
-          <span className="text-red-500" aria-hidden="true">
-            *
-          </span>
-          <span className="sr-only">(obligatoire)</span>
-        </label>
+        </FormLabel>
         <input
           id="release_date"
           type="date"
@@ -72,7 +56,6 @@ export default function BasicInfoSection({ formData, setFormData }: BasicInfoSec
           onChange={e => setFormData({ ...formData, release_date: e.target.value })}
           className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
           required
-          aria-required="true"
         />
       </div>
     </motion.fieldset>

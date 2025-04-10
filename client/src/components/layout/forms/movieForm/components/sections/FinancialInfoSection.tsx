@@ -1,4 +1,5 @@
 import { DollarSign } from 'lucide-react';
+import FormLabel from '../../../FormLabel';
 import { MovieFormData } from '../../movie.types';
 import { motion } from 'framer-motion';
 
@@ -21,13 +22,9 @@ export default function FinancialInfoSection({ formData, setFormData }: Financia
       </legend>
 
       <div>
-        <label
-          htmlFor="budget"
-          className="text-sm font-medium text-gray-700 mb-1 flex items-center gap-1"
-        >
+        <FormLabel htmlFor="budget" label="Budget (€)" spacing="right">
           <DollarSign className="w-4 h-4 text-gray-500" />
-          Budget (€)
-        </label>
+        </FormLabel>
         <input
           id="budget"
           type="number"
@@ -42,13 +39,9 @@ export default function FinancialInfoSection({ formData, setFormData }: Financia
       </div>
 
       <div>
-        <label
-          htmlFor="box_office"
-          className="text-sm font-medium text-gray-700 mb-1 flex items-center gap-1"
-        >
+        <FormLabel htmlFor="box_office" label="Box-office (€)" spacing="right">
           <DollarSign className="w-4 h-4 text-gray-500" />
-          Box-office (€)
-        </label>
+        </FormLabel>
         <input
           id="box_office"
           type="number"

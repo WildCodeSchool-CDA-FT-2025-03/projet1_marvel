@@ -1,4 +1,5 @@
 import { Clock } from 'lucide-react';
+import FormLabel from '../../../FormLabel';
 import { MovieFormData } from '../../movie.types';
 import { handleStringOrArrayInput } from '../../../form.utils';
 import { motion } from 'framer-motion';
@@ -25,17 +26,9 @@ export default function TechnicalDetailsSection({
       </legend>
 
       <div>
-        <label
-          htmlFor="duration"
-          className="text-sm font-medium text-gray-700 mb-1 flex items-center gap-1"
-        >
+        <FormLabel htmlFor="duration" label="Durée (minutes)" required spacing="right">
           <Clock className="w-4 h-4 text-gray-500" />
-          Durée (minutes){' '}
-          <span className="text-red-500" aria-hidden="true">
-            *
-          </span>
-          <span className="sr-only">(obligatoire)</span>
-        </label>
+        </FormLabel>
         <input
           id="duration"
           type="number"
@@ -43,15 +36,12 @@ export default function TechnicalDetailsSection({
           onChange={e => setFormData({ ...formData, duration: parseInt(e.target.value) })}
           className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
           required
-          aria-required="true"
           min="0"
         />
       </div>
 
       <div>
-        <label htmlFor="format" className="block text-sm font-medium text-gray-700 mb-1">
-          Format
-        </label>
+        <FormLabel htmlFor="format" label="Format" />
         <input
           id="format"
           type="text"
@@ -66,9 +56,7 @@ export default function TechnicalDetailsSection({
       </div>
 
       <div>
-        <label htmlFor="ISBN_EAN_UPC" className="block text-sm font-medium text-gray-700 mb-1">
-          ISBN/EAN/UPC
-        </label>
+        <FormLabel htmlFor="ISBN_EAN_UPC" label="ISBN/EAN/UPC" />
         <input
           id="ISBN_EAN_UPC"
           type="text"
@@ -79,9 +67,7 @@ export default function TechnicalDetailsSection({
       </div>
 
       <div>
-        <label htmlFor="original_language" className="text-sm font-medium text-gray-700 mb-1">
-          Langue originale
-        </label>
+        <FormLabel htmlFor="original_language" label="Langue originale" />
         <input
           id="original_language"
           type="text"

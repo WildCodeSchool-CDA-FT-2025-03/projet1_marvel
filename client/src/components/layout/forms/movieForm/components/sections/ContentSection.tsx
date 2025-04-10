@@ -6,6 +6,7 @@ import {
   removeArrayItem,
 } from '../../../form.utils';
 
+import FormLabel from '../../../FormLabel';
 import { MovieFormData } from '../../movie.types';
 
 type ContentSectionProps = {
@@ -22,31 +23,18 @@ export default function ContentSection({ formData, setFormData }: ContentSection
       </legend>
 
       <div>
-        <label htmlFor="summary" className="block text-sm font-medium text-gray-700 mb-1">
-          Résumé{' '}
-          <span className="text-red-500" aria-hidden="true">
-            *
-          </span>
-          <span className="sr-only">(obligatoire)</span>
-        </label>
+        <FormLabel htmlFor="summary" label="Résumé" required />
         <textarea
           id="summary"
           value={formData.summary}
           onChange={e => setFormData({ ...formData, summary: e.target.value })}
           className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500 h-32"
           required
-          aria-required="true"
         />
       </div>
 
       <div>
-        <label htmlFor="category" className="block text-sm font-medium text-gray-700 mb-1">
-          Catégorie{' '}
-          <span className="text-red-500" aria-hidden="true">
-            *
-          </span>
-          <span className="sr-only">(obligatoire)</span>
-        </label>
+        <FormLabel htmlFor="category" label="Catégorie" required />
         <input
           id="category"
           type="text"
@@ -60,14 +48,11 @@ export default function ContentSection({ formData, setFormData }: ContentSection
           className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
           placeholder="ex: Science-Fiction, Action, Thriller"
           required
-          aria-required="true"
         />
       </div>
 
       <div>
-        <label htmlFor="keywords" className="text-sm font-medium text-gray-700 mb-1">
-          Mots-clés
-        </label>
+        <FormLabel htmlFor="keywords" label="Mots-clés" />
         {formData.keywords.map((keyword, index) => (
           <div key={`keyword-${index}`} className="flex gap-2 mb-2">
             <input
@@ -107,17 +92,12 @@ export default function ContentSection({ formData, setFormData }: ContentSection
       </div>
 
       <div>
-        <label htmlFor="targeted_audience" className="text-sm font-medium text-gray-700 mb-1">
-          Public cible{' '}
-          <span className="text-red-500" aria-hidden="true">
-            *
-          </span>
-          <span className="sr-only">(obligatoire)</span>
-        </label>
+        <FormLabel htmlFor="targeted_audience" label="Public cible" required />
         <select
           value={formData.targeted_audience}
           onChange={e => setFormData({ ...formData, targeted_audience: e.target.value })}
           className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+          required
         >
           <option value="">Sélectionner un public cible</option>
           <option value="Tout public">Tout public</option>
@@ -129,9 +109,7 @@ export default function ContentSection({ formData, setFormData }: ContentSection
       </div>
 
       <div>
-        <label htmlFor="actors" className="text-sm font-medium text-gray-700 mb-1">
-          Acteurs
-        </label>
+        <FormLabel htmlFor="actors" label="Acteurs" />
         {formData.actors.map((actor, index) => (
           <div key={`actor-${index}`} className="flex gap-2 mb-2">
             <input
@@ -171,9 +149,7 @@ export default function ContentSection({ formData, setFormData }: ContentSection
       </div>
 
       <div>
-        <label htmlFor="awards" className="text-sm font-medium text-gray-700 mb-1">
-          Récompenses
-        </label>
+        <FormLabel htmlFor="awards" label="Récompenses" />
         {formData.awards.map((award, index) => (
           <div key={`award-${index}`} className="flex gap-2 mb-2">
             <input
