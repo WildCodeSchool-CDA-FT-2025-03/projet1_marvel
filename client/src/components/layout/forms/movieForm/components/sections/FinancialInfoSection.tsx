@@ -31,8 +31,11 @@ export default function FinancialInfoSection({ formData, setFormData }: Financia
         <input
           id="budget"
           type="number"
-          value={formData.budget}
-          onChange={e => setFormData({ ...formData, budget: parseInt(e.target.value) })}
+          value={formData.budget || ''}
+          onChange={e => {
+            const value = e.target.value === '' ? 0 : parseInt(e.target.value);
+            setFormData({ ...formData, budget: value });
+          }}
           className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
           min="0"
         />
@@ -49,12 +52,15 @@ export default function FinancialInfoSection({ formData, setFormData }: Financia
         <input
           id="box_office"
           type="number"
-          value={formData.box_office}
-          onChange={e => setFormData({ ...formData, box_office: parseInt(e.target.value) })}
+          value={formData.box_office || ''}
+          onChange={e => {
+            const value = e.target.value === '' ? 0 : parseInt(e.target.value);
+            setFormData({ ...formData, box_office: value });
+          }}
           className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
           min="0"
         />
       </div>
     </motion.fieldset>
   );
-} 
+}
