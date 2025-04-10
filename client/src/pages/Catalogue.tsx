@@ -1,11 +1,11 @@
+import { useState } from 'react';
 import CatalogueItem from '../components/catalogue/CatalogueItem';
 import useCatalogueData from '../hooks/useCatalogueData';
-import useFilterSort from '../hooks/useFilterSort';
 import SearchBar from '../components/catalogue/SearchBar';
 
 export default function Catalogue() {
-  const { catalogueItems, isLoading } = useCatalogueData();
-  const { searchTerm, setSearchTerm, filteredItems } = useFilterSort({ catalogueItems });
+  const [searchTerm, setSearchTerm] = useState('');
+  const { catalogueItems, isLoading } = useCatalogueData(searchTerm);
 
   return (
     <main className="min-h-screen bg-gray-50 py-8">
@@ -17,16 +17,17 @@ export default function Catalogue() {
         </section>
 
         <p className="text-sm text-gray-500 mb-6">
-          {filteredItems.length} {filteredItems.length > 1 ? 'éléments trouvés' : 'élément trouvé'}
+          {catalogueItems.length}{' '}
+          {catalogueItems.length > 1 ? 'éléments trouvés' : 'élément trouvé'}
         </p>
 
         {isLoading ? (
           <section className="bg-white p-8 rounded-lg text-center">
             <p className="text-gray-500">Chargement des données en cours...</p>
           </section>
-        ) : filteredItems.length > 0 ? (
+        ) : catalogueItems.length > 0 ? (
           <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-            {filteredItems.map(item => (
+            {catalogueItems.map(item => (
               <CatalogueItem key={`${item.id}-${item.type}`} item={item} />
             ))}
           </section>

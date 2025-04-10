@@ -10,11 +10,15 @@ import {
   emojis,
 } from '../types/catalogue.type';
 
-export default function useCatalogueData() {
+export default function useCatalogueData(searchTerm = '') {
   const [catalogueItems, setCatalogueItems] = useState<CatalogueItem[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
-  const { data, loading } = useQuery(GET_ALL_ITEMS);
+  const { data, loading } = useQuery(GET_ALL_ITEMS, {
+    variables: {
+      search: searchTerm ? { searchTerm } : null,
+    },
+  });
 
   useEffect(() => {
     if (loading) {

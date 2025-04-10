@@ -8,7 +8,7 @@ type SearchBarProps = {
 export default function SearchBar({ searchTerm, setSearchTerm }: SearchBarProps) {
   return (
     <div className="relative">
-      <label aria-label="rechercher" className="sr-only">
+      <label aria-label="rechercher">
         <input
           type="text"
           placeholder="Rechercher..."
