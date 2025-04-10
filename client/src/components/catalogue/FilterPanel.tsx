@@ -2,12 +2,12 @@ import { motion } from 'framer-motion';
 import { Star } from 'lucide-react';
 import { categories } from '../../utils/categories';
 
-interface FilterPanelProps {
+type FilterPanelProps = {
   activeCategory: string;
   setActiveCategory: (category: string) => void;
   ratingFilter: number;
   setRatingFilter: (rating: number) => void;
-}
+};
 
 export default function FilterPanel({
   activeCategory,
@@ -23,7 +23,7 @@ export default function FilterPanel({
       className="bg-white p-4 rounded-lg shadow-md mb-6"
     >
       <div className="flex flex-col sm:flex-row sm:items-center space-y-4 sm:space-y-0 sm:space-x-8">
-        <div className="flex-1">
+        <section className="flex-1">
           <h4 className="font-medium text-gray-700 mb-2">Catégories</h4>
           <div className="flex flex-wrap gap-2">
             <button
@@ -43,9 +43,9 @@ export default function FilterPanel({
               </button>
             ))}
           </div>
-        </div>
+        </section>
 
-        <div>
+        <section>
           <h4 className="font-medium text-gray-700 mb-2">Note minimale</h4>
           <div className="flex items-center space-x-2">
             <input
@@ -62,7 +62,7 @@ export default function FilterPanel({
               <span className="font-medium">{ratingFilter}</span>
             </div>
           </div>
-        </div>
+        </section>
       </div>
     </motion.div>
   );
