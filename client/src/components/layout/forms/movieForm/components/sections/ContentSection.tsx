@@ -1,5 +1,10 @@
 import { BookOpen, Minus, Plus } from 'lucide-react';
-import { addArrayItem, handleArrayInput, handleStringOrArrayInput, removeArrayItem } from '../../form.utils';
+import {
+  addArrayItem,
+  handleArrayInput,
+  handleStringOrArrayInput,
+  removeArrayItem,
+} from '../../../form.utils';
 
 import { MovieFormData } from '../../movie.types';
 
@@ -19,7 +24,9 @@ export default function ContentSection({ formData, setFormData }: ContentSection
       <div>
         <label htmlFor="summary" className="block text-sm font-medium text-gray-700 mb-1">
           Résumé{' '}
-          <span className="text-red-500" aria-hidden="true">*</span>
+          <span className="text-red-500" aria-hidden="true">
+            *
+          </span>
           <span className="sr-only">(obligatoire)</span>
         </label>
         <textarea
@@ -35,14 +42,21 @@ export default function ContentSection({ formData, setFormData }: ContentSection
       <div>
         <label htmlFor="category" className="block text-sm font-medium text-gray-700 mb-1">
           Catégorie{' '}
-          <span className="text-red-500" aria-hidden="true">*</span>
+          <span className="text-red-500" aria-hidden="true">
+            *
+          </span>
           <span className="sr-only">(obligatoire)</span>
         </label>
         <input
           id="category"
           type="text"
-          value={typeof formData.category === 'string' ? formData.category : formData.category.join(', ')}
-          onChange={e => handleStringOrArrayInput(formData, setFormData, 'category', e.target.value)}
+          value={
+            typeof formData.category === 'string' ? formData.category : formData.category.join(', ')
+          }
+          onChange={e => {
+            const newFormData = handleStringOrArrayInput(formData, 'category', e.target.value);
+            setFormData(newFormData);
+          }}
           className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
           placeholder="ex: Science-Fiction, Action, Thriller"
           required
@@ -59,13 +73,19 @@ export default function ContentSection({ formData, setFormData }: ContentSection
             <input
               type="text"
               value={keyword}
-              onChange={e => handleArrayInput(formData, setFormData, 'keywords', index, e.target.value)}
+              onChange={e => {
+                const newFormData = handleArrayInput(formData, 'keywords', index, e.target.value);
+                setFormData(newFormData);
+              }}
               className="flex-1 p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
               aria-label={`Mot-clé ${index + 1}`}
             />
             <button
               type="button"
-              onClick={() => removeArrayItem(formData, setFormData, 'keywords', index)}
+              onClick={() => {
+                const newFormData = removeArrayItem(formData, 'keywords', index);
+                setFormData(newFormData);
+              }}
               className="p-2 bg-red-500 text-white rounded-md hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
               aria-label={`Supprimer le mot-clé ${index + 1}`}
             >
@@ -75,7 +95,10 @@ export default function ContentSection({ formData, setFormData }: ContentSection
         ))}
         <button
           type="button"
-          onClick={() => addArrayItem(formData, setFormData, 'keywords')}
+          onClick={() => {
+            const newFormData = addArrayItem(formData, 'keywords');
+            setFormData(newFormData);
+          }}
           className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 flex items-center gap-2"
         >
           <Plus className="w-4 h-4" />
@@ -86,7 +109,9 @@ export default function ContentSection({ formData, setFormData }: ContentSection
       <div>
         <label htmlFor="targeted_audience" className="text-sm font-medium text-gray-700 mb-1">
           Public cible{' '}
-          <span className="text-red-500" aria-hidden="true">*</span>
+          <span className="text-red-500" aria-hidden="true">
+            *
+          </span>
           <span className="sr-only">(obligatoire)</span>
         </label>
         <select
@@ -112,13 +137,19 @@ export default function ContentSection({ formData, setFormData }: ContentSection
             <input
               type="text"
               value={actor}
-              onChange={e => handleArrayInput(formData, setFormData, 'actors', index, e.target.value)}
+              onChange={e => {
+                const newFormData = handleArrayInput(formData, 'actors', index, e.target.value);
+                setFormData(newFormData);
+              }}
               className="flex-1 p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
               aria-label={`Acteur ${index + 1}`}
             />
             <button
               type="button"
-              onClick={() => removeArrayItem(formData, setFormData, 'actors', index)}
+              onClick={() => {
+                const newFormData = removeArrayItem(formData, 'actors', index);
+                setFormData(newFormData);
+              }}
               className="p-2 bg-red-500 text-white rounded-md hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
               aria-label={`Supprimer l'acteur ${index + 1}`}
             >
@@ -128,7 +159,10 @@ export default function ContentSection({ formData, setFormData }: ContentSection
         ))}
         <button
           type="button"
-          onClick={() => addArrayItem(formData, setFormData, 'actors')}
+          onClick={() => {
+            const newFormData = addArrayItem(formData, 'actors');
+            setFormData(newFormData);
+          }}
           className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 flex items-center gap-2"
         >
           <Plus className="w-4 h-4" />
@@ -145,13 +179,19 @@ export default function ContentSection({ formData, setFormData }: ContentSection
             <input
               type="text"
               value={award}
-              onChange={e => handleArrayInput(formData, setFormData, 'awards', index, e.target.value)}
+              onChange={e => {
+                const newFormData = handleArrayInput(formData, 'awards', index, e.target.value);
+                setFormData(newFormData);
+              }}
               className="flex-1 p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
               aria-label={`Récompense ${index + 1}`}
             />
             <button
               type="button"
-              onClick={() => removeArrayItem(formData, setFormData, 'awards', index)}
+              onClick={() => {
+                const newFormData = removeArrayItem(formData, 'awards', index);
+                setFormData(newFormData);
+              }}
               className="p-2 bg-red-500 text-white rounded-md hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
               aria-label={`Supprimer la récompense ${index + 1}`}
             >
@@ -161,7 +201,10 @@ export default function ContentSection({ formData, setFormData }: ContentSection
         ))}
         <button
           type="button"
-          onClick={() => addArrayItem(formData, setFormData, 'awards')}
+          onClick={() => {
+            const newFormData = addArrayItem(formData, 'awards');
+            setFormData(newFormData);
+          }}
           className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 flex items-center gap-2"
         >
           <Plus className="w-4 h-4" />
@@ -170,4 +213,4 @@ export default function ContentSection({ formData, setFormData }: ContentSection
       </div>
     </fieldset>
   );
-} 
+}

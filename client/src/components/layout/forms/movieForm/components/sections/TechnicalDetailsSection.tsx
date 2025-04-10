@@ -1,6 +1,6 @@
 import { Clock } from 'lucide-react';
 import { MovieFormData } from '../../movie.types';
-import { handleStringOrArrayInput } from '../../form.utils';
+import { handleStringOrArrayInput } from '../../../form.utils';
 import { motion } from 'framer-motion';
 
 type TechnicalDetailsSectionProps = {
@@ -8,7 +8,10 @@ type TechnicalDetailsSectionProps = {
   setFormData: React.Dispatch<React.SetStateAction<MovieFormData>>;
 };
 
-export default function TechnicalDetailsSection({ formData, setFormData }: TechnicalDetailsSectionProps) {
+export default function TechnicalDetailsSection({
+  formData,
+  setFormData,
+}: TechnicalDetailsSectionProps) {
   return (
     <motion.fieldset
       className="space-y-4 p-4 border border-gray-200 rounded-lg"
@@ -52,12 +55,11 @@ export default function TechnicalDetailsSection({ formData, setFormData }: Techn
         <input
           id="format"
           type="text"
-          value={
-            typeof formData.format === 'string' ? formData.format : formData.format.join(', ')
-          }
-          onChange={e =>
-            handleStringOrArrayInput(formData, setFormData, 'format', e.target.value)
-          }
+          value={typeof formData.format === 'string' ? formData.format : formData.format.join(', ')}
+          onChange={e => {
+            const newFormData = handleStringOrArrayInput(formData, 'format', e.target.value);
+            setFormData(newFormData);
+          }}
           className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
           placeholder="ex: Blu-ray, DVD, Streaming"
         />
@@ -77,10 +79,7 @@ export default function TechnicalDetailsSection({ formData, setFormData }: Techn
       </div>
 
       <div>
-        <label
-          htmlFor="original_language"
-          className="text-sm font-medium text-gray-700 mb-1"
-        >
+        <label htmlFor="original_language" className="text-sm font-medium text-gray-700 mb-1">
           Langue originale
         </label>
         <input
@@ -108,4 +107,4 @@ export default function TechnicalDetailsSection({ formData, setFormData }: Techn
       </div>
     </motion.fieldset>
   );
-} 
+}

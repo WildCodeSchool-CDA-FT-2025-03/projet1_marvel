@@ -1,5 +1,5 @@
 import { Minus, Plus, Users } from 'lucide-react';
-import { addArrayItem, handleArrayInput, removeArrayItem } from '../../form.utils';
+import { addArrayItem, handleArrayInput, removeArrayItem } from '../../../form.utils';
 
 import { MovieFormData } from '../../movie.types';
 
@@ -25,13 +25,19 @@ export default function TeamSection({ formData, setFormData }: TeamSectionProps)
             <input
               type="text"
               value={director}
-              onChange={e => handleArrayInput(formData, setFormData, 'directors', index, e.target.value)}
+              onChange={e => {
+                const newFormData = handleArrayInput(formData, 'directors', index, e.target.value);
+                setFormData(newFormData);
+              }}
               className="flex-1 p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
               aria-label={`Réalisateur ${index + 1}`}
             />
             <button
               type="button"
-              onClick={() => removeArrayItem(formData, setFormData, 'directors', index)}
+              onClick={() => {
+                const newFormData = removeArrayItem(formData, 'directors', index);
+                setFormData(newFormData);
+              }}
               className="p-2 bg-red-500 text-white rounded-md hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
               aria-label={`Supprimer le réalisateur ${index + 1}`}
             >
@@ -41,7 +47,10 @@ export default function TeamSection({ formData, setFormData }: TeamSectionProps)
         ))}
         <button
           type="button"
-          onClick={() => addArrayItem(formData, setFormData, 'directors')}
+          onClick={() => {
+            const newFormData = addArrayItem(formData, 'directors');
+            setFormData(newFormData);
+          }}
           className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 flex items-center gap-2"
         >
           <Plus className="w-4 h-4" />
@@ -58,13 +67,19 @@ export default function TeamSection({ formData, setFormData }: TeamSectionProps)
             <input
               type="text"
               value={writer}
-              onChange={e => handleArrayInput(formData, setFormData, 'writers', index, e.target.value)}
+              onChange={e => {
+                const newFormData = handleArrayInput(formData, 'writers', index, e.target.value);
+                setFormData(newFormData);
+              }}
               className="flex-1 p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
               aria-label={`Scénariste ${index + 1}`}
             />
             <button
               type="button"
-              onClick={() => removeArrayItem(formData, setFormData, 'writers', index)}
+              onClick={() => {
+                const newFormData = removeArrayItem(formData, 'writers', index);
+                setFormData(newFormData);
+              }}
               className="p-2 bg-red-500 text-white rounded-md hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
               aria-label={`Supprimer le scénariste ${index + 1}`}
             >
@@ -74,7 +89,10 @@ export default function TeamSection({ formData, setFormData }: TeamSectionProps)
         ))}
         <button
           type="button"
-          onClick={() => addArrayItem(formData, setFormData, 'writers')}
+          onClick={() => {
+            const newFormData = addArrayItem(formData, 'writers');
+            setFormData(newFormData);
+          }}
           className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 flex items-center gap-2"
         >
           <Plus className="w-4 h-4" />
@@ -91,13 +109,19 @@ export default function TeamSection({ formData, setFormData }: TeamSectionProps)
             <input
               type="text"
               value={producer}
-              onChange={e => handleArrayInput(formData, setFormData, 'producers', index, e.target.value)}
+              onChange={e => {
+                const newFormData = handleArrayInput(formData, 'producers', index, e.target.value);
+                setFormData(newFormData);
+              }}
               className="flex-1 p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
               aria-label={`Producteur ${index + 1}`}
             />
             <button
               type="button"
-              onClick={() => removeArrayItem(formData, setFormData, 'producers', index)}
+              onClick={() => {
+                const newFormData = removeArrayItem(formData, 'producers', index);
+                setFormData(newFormData);
+              }}
               className="p-2 bg-red-500 text-white rounded-md hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
               aria-label={`Supprimer le producteur ${index + 1}`}
             >
@@ -107,7 +131,10 @@ export default function TeamSection({ formData, setFormData }: TeamSectionProps)
         ))}
         <button
           type="button"
-          onClick={() => addArrayItem(formData, setFormData, 'producers')}
+          onClick={() => {
+            const newFormData = addArrayItem(formData, 'producers');
+            setFormData(newFormData);
+          }}
           className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 flex items-center gap-2"
         >
           <Plus className="w-4 h-4" />
@@ -124,13 +151,19 @@ export default function TeamSection({ formData, setFormData }: TeamSectionProps)
             <input
               type="text"
               value={studio}
-              onChange={e => handleArrayInput(formData, setFormData, 'studios', index, e.target.value)}
+              onChange={e => {
+                const newFormData = handleArrayInput(formData, 'studios', index, e.target.value);
+                setFormData(newFormData);
+              }}
               className="flex-1 p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
               aria-label={`Studio ${index + 1}`}
             />
             <button
               type="button"
-              onClick={() => removeArrayItem(formData, setFormData, 'studios', index)}
+              onClick={() => {
+                const newFormData = removeArrayItem(formData, 'studios', index);
+                setFormData(newFormData);
+              }}
               className="p-2 bg-red-500 text-white rounded-md hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
               aria-label={`Supprimer le studio ${index + 1}`}
             >
@@ -140,7 +173,10 @@ export default function TeamSection({ formData, setFormData }: TeamSectionProps)
         ))}
         <button
           type="button"
-          onClick={() => addArrayItem(formData, setFormData, 'studios')}
+          onClick={() => {
+            const newFormData = addArrayItem(formData, 'studios');
+            setFormData(newFormData);
+          }}
           className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 flex items-center gap-2"
         >
           <Plus className="w-4 h-4" />
@@ -149,4 +185,4 @@ export default function TeamSection({ formData, setFormData }: TeamSectionProps)
       </div>
     </fieldset>
   );
-} 
+}

@@ -3,7 +3,7 @@ import ContentSection from './components/sections/ContentSection';
 import { Film } from 'lucide-react';
 import FinancialInfoSection from './components/sections/FinancialInfoSection';
 import Notification from './components/Notification';
-import SubmitButton from './components/SubmitButton';
+import SubmitButton from '../SubmitButton';
 import TeamSection from './components/sections/TeamSection';
 import TechnicalDetailsSection from './components/sections/TechnicalDetailsSection';
 import { motion } from 'framer-motion';
@@ -44,7 +44,7 @@ export default function CreateMovieForm() {
         <ContentSection formData={formData} setFormData={setFormData} />
         <FinancialInfoSection formData={formData} setFormData={setFormData} />
 
-        <SubmitButton />
+        <SubmitButton buttonText="Créer le film" />
       </motion.form>
 
       <Notification
