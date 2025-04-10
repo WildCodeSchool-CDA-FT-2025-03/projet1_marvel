@@ -1,7 +1,7 @@
 import { gql } from '@apollo/client';
 
-export const GET_ALL_BOOKS = gql`
-  query GetBooks {
+export const GET_ALL_ITEMS = gql`
+  query GetAllItems {
     getBooks {
       id
       titre
@@ -15,11 +15,6 @@ export const GET_ALL_BOOKS = gql`
       public_cible
       serie
     }
-  }
-`;
-
-export const GET_ALL_GAMES = gql`
-  query GetGames {
     getGames {
       id
       title
@@ -34,11 +29,6 @@ export const GET_ALL_GAMES = gql`
       series
       pegi_esrb_rating
     }
-  }
-`;
-
-export const GET_ALL_MOVIES = gql`
-  query GetMovies {
     getMovies {
       id
       title
@@ -52,11 +42,6 @@ export const GET_ALL_MOVIES = gql`
       series
       actors
     }
-  }
-`;
-
-export const GET_ALL_MUSIC = gql`
-  query GetMusic {
     getMusic {
       id
       title
