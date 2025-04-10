@@ -42,7 +42,7 @@ export default function CatalogueItem({ item, isFavorite, toggleFavorite }: Cata
       whileHover={{ scale: 1.02 }}
       className="bg-white rounded-lg overflow-hidden shadow-md transition-shadow hover:shadow-lg"
     >
-      <Link to={`/item/${item.id}`}>
+      <Link to={`/item/${item.type}/${item.id}`}>
         <div
           className={`relative h-52 flex items-center justify-center ${getItem[item.type].color}`}
         >
@@ -76,7 +76,7 @@ export default function CatalogueItem({ item, isFavorite, toggleFavorite }: Cata
           </button>
         </div>
 
-        <Link to={`/item/${item.id}`} className="block">
+        <Link to={`/item/${item.type}/${item.id}`} className="block">
           <h3 className="font-semibold text-lg mb-1 hover:text-indigo-600 transition-colors line-clamp-1">
             {item.title}
           </h3>
@@ -90,7 +90,7 @@ export default function CatalogueItem({ item, isFavorite, toggleFavorite }: Cata
 
         <div className="flex justify-between items-center">
           <Link
-            to={`/item/${item.id}`}
+            to={`/item/${item.type}/${item.id}`}
             className="text-indigo-600 text-sm font-medium hover:underline"
           >
             Voir détails
