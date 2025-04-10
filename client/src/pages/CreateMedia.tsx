@@ -1,4 +1,4 @@
-import CreateMovieForm from '../components/layout/forms/MovieForm';
+import CreateMovieForm from '../components/layout/forms/movieForm/MovieForm';
 
 export default function CreateMediaPage() {
   return (

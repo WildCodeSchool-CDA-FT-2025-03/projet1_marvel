@@ -1,0 +1,23 @@
+// Type pour les données du formulaire de film
+export type MovieFormData = {
+  title: string;
+  subtitle: string;
+  directors: string[];
+  writers: string[];
+  producers: string[];
+  studios: string[];
+  release_date: string;
+  ISBN_EAN_UPC: string;
+  format: string | string[];
+  duration: number;
+  category: string | string[];
+  summary: string;
+  keywords: string[];
+  targeted_audience: string;
+  original_language: string;
+  series: boolean;
+  awards: string[];
+  actors: string[];
+  budget: number;
+  box_office: number;
+};

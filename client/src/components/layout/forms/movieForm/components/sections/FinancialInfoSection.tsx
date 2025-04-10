@@ -1,0 +1,60 @@
+import { DollarSign } from 'lucide-react';
+import { MovieFormData } from '../../movie.types';
+import { motion } from 'framer-motion';
+
+type FinancialInfoSectionProps = {
+  formData: MovieFormData;
+  setFormData: React.Dispatch<React.SetStateAction<MovieFormData>>;
+};
+
+export default function FinancialInfoSection({ formData, setFormData }: FinancialInfoSectionProps) {
+  return (
+    <motion.fieldset
+      className="space-y-4 p-4 border border-gray-200 rounded-lg"
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5, delay: 0.4 }}
+    >
+      <legend className="text-lg font-semibold text-gray-700 px-2 flex items-center gap-2">
+        <DollarSign className="w-5 h-5 text-blue-600" />
+        Informations financières
+      </legend>
+
+      <div>
+        <label
+          htmlFor="budget"
+          className="text-sm font-medium text-gray-700 mb-1 flex items-center gap-1"
+        >
+          <DollarSign className="w-4 h-4 text-gray-500" />
+          Budget (€)
+        </label>
+        <input
+          id="budget"
+          type="number"
+          value={formData.budget}
+          onChange={e => setFormData({ ...formData, budget: parseInt(e.target.value) })}
+          className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+          min="0"
+        />
+      </div>
+
+      <div>
+        <label
+          htmlFor="box_office"
+          className="text-sm font-medium text-gray-700 mb-1 flex items-center gap-1"
+        >
+          <DollarSign className="w-4 h-4 text-gray-500" />
+          Box-office (€)
+        </label>
+        <input
+          id="box_office"
+          type="number"
+          value={formData.box_office}
+          onChange={e => setFormData({ ...formData, box_office: parseInt(e.target.value) })}
+          className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+          min="0"
+        />
+      </div>
+    </motion.fieldset>
+  );
+} 
