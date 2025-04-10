@@ -1,13 +1,18 @@
-import { useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import CatalogueItem from '../components/catalogue/CatalogueItem';
 import useCatalogueData from '../hooks/useCatalogueData';
 import useFilterSort from '../hooks/useFilterSort';
 import SearchBar from '../components/catalogue/SearchBar';
 import { Filter } from 'lucide-react';
 import FilterPanel from '../components/catalogue/FilterPanel';
+import Pagination from '../components/catalogue/Pagination';
+import { motion } from 'framer-motion';
+
+const itemsPerPage = 12;
 
 export default function Catalogue() {
   const [isFilterOpen, setIsFilterOpen] = useState(false);
+  const [currentPage, setCurrentPage] = useState(1);
   const [favorites, setFavorites] = useState<number[]>([]);
   const { catalogueItems, isLoading } = useCatalogueData();
   const {
@@ -27,6 +32,19 @@ export default function Catalogue() {
       setFavorites([...favorites, id]);
     }
   };
+
+  const paginatedItems = useMemo(() => {
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    return filteredItems.slice(startIndex, startIndex + itemsPerPage);
+  }, [filteredItems, currentPage]);
+
+  const totalPages = useMemo(() => {
+    return Math.max(1, Math.ceil(filteredItems.length / itemsPerPage));
+  }, [filteredItems]);
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [searchTerm, activeCategory, ratingFilter]);
 
   return (
     <main className="min-h-screen bg-gray-50 py-8">
@@ -67,8 +85,21 @@ export default function Catalogue() {
             <p className="text-gray-500">Chargement des données en cours...</p>
           </div>
         ) : filteredItems.length > 0 ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-            {filteredItems.map(item => (
+          <motion.div
+            variants={{
+              hidden: { opacity: 0 },
+              visible: {
+                opacity: 1,
+                transition: {
+                  staggerChildren: 0.1,
+                },
+              },
+            }}
+            initial="hidden"
+            animate="visible"
+            className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6"
+          >
+            {paginatedItems.map(item => (
               <CatalogueItem
                 key={`${item.id}-${item.type}`}
                 item={item}
@@ -76,13 +107,21 @@ export default function Catalogue() {
                 toggleFavorite={toggleFavorite}
               />
             ))}
-          </div>
+          </motion.div>
         ) : (
           <div className="bg-white p-8 rounded-lg text-center">
             <p className="text-gray-500">Aucun élément disponible dans le catalogue.</p>
           </div>
         )}
       </div>
+
+      {filteredItems.length > 0 && (
+        <Pagination
+          currentPage={currentPage}
+          totalPages={totalPages}
+          onPageChange={setCurrentPage}
+        />
+      )}
     </main>
   );
 }
