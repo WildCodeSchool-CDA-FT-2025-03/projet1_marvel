@@ -1,9 +1,9 @@
 import { useState, useMemo } from 'react';
 import { CatalogueItem } from '../types/catalogue.type';
 
-interface UseFilterSortProps {
+type UseFilterSortProps = {
   catalogueItems: CatalogueItem[];
-}
+};
 
 export default function useFilterSort({ catalogueItems }: UseFilterSortProps) {
   const [searchTerm, setSearchTerm] = useState('');
