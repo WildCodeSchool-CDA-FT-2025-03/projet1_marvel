@@ -1,4 +1,4 @@
-import { MovieFormData } from './movieForm/movie.types';
+import { MovieFormData } from '../../../types/movie.types';
 
 /**
  * Gère la modification d'un élément dans un tableau de chaînes de caractères

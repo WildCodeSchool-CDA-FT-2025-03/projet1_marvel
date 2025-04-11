@@ -1,5 +1,5 @@
-import { MovieFormData } from '../movie.types';
 import { useState } from 'react';
+import { MovieFormData } from '../../../../../types/movie.types';
 
 export default function useMovieForm() {
   const [formData, setFormData] = useState<MovieFormData>({

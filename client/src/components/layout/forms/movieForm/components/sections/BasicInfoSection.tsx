@@ -1,8 +1,8 @@
 import { Calendar, Film } from 'lucide-react';
 
-import FormLabel from '../../../FormLabel';
-import { MovieFormData } from '../../movie.types';
 import { motion } from 'framer-motion';
+import { MovieFormData } from '../../../../../../types/movie.types';
+import FormLabel from '../../../FormLabel';
 
 type BasicInfoSectionProps = {
   formData: MovieFormData;

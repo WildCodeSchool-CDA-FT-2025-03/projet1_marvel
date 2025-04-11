@@ -6,8 +6,8 @@ import {
   removeArrayItem,
 } from '../../../form.utils';
 
+import { MovieFormData } from '../../../../../../types/movie.types';
 import FormLabel from '../../../FormLabel';
-import { MovieFormData } from '../../movie.types';
 
 type ContentSectionProps = {
   formData: MovieFormData;

@@ -1,8 +1,8 @@
 import { Minus, Plus, Users } from 'lucide-react';
 import { addArrayItem, handleArrayInput, removeArrayItem } from '../../../form.utils';
 
+import { MovieFormData } from '../../../../../../types/movie.types';
 import FormLabel from '../../../FormLabel';
-import { MovieFormData } from '../../movie.types';
 
 type TeamSectionProps = {
   formData: MovieFormData;

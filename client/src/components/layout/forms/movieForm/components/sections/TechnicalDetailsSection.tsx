@@ -1,8 +1,8 @@
-import { Clock } from 'lucide-react';
-import FormLabel from '../../../FormLabel';
-import { MovieFormData } from '../../movie.types';
-import { handleStringOrArrayInput } from '../../../form.utils';
 import { motion } from 'framer-motion';
+import { Clock } from 'lucide-react';
+import { MovieFormData } from '../../../../../../types/movie.types';
+import { handleStringOrArrayInput } from '../../../form.utils';
+import FormLabel from '../../../FormLabel';
 
 type TechnicalDetailsSectionProps = {
   formData: MovieFormData;
@@ -32,8 +32,11 @@ export default function TechnicalDetailsSection({
         <input
           id="duration"
           type="number"
-          value={formData.duration}
-          onChange={e => setFormData({ ...formData, duration: parseInt(e.target.value) })}
+          value={formData.duration || ''}
+          onChange={e => {
+            const value = parseInt(e.target.value);
+            setFormData({ ...formData, duration: isNaN(value) ? 0 : value });
+          }}
           className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
           required
           min="0"
