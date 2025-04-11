@@ -24,7 +24,7 @@ const router = createBrowserRouter([
         element: <FavoritePage />,
       },
       {
-        path: '/item/:id',
+        path: '/item/:type/:id',
         element: <ItemPage />,
       },
       {

@@ -43,4 +43,13 @@ export class GameResolver {
 
     return games;
   }
+
+  @Query(() => Game)
+  async getGameById(@Arg('id') id: number): Promise<Game> {
+    const game = await Game.findOne({ where: { id } });
+    if (!game) {
+      throw new Error('Game not found');
+    }
+    return game;
+  }
 }

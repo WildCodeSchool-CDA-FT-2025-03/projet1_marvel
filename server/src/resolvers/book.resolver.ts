@@ -38,4 +38,13 @@ export class BookResolver {
 
     return books;
   }
+
+  @Query(() => Book)
+  async getBookById(@Arg('id') id: number): Promise<Book> {
+    const book = await Book.findOne({ where: { id } });
+    if (!book) {
+      throw new Error('Book not found');
+    }
+    return book;
+  }
 }
