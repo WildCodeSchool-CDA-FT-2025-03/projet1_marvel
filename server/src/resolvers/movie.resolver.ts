@@ -51,7 +51,6 @@ export class MovieResolver {
 
     const total = movies.length;
 
-    // Apply pagination
     const page = filter?.page || 1;
     const limit = filter?.limit || 12;
     const startIndex = (page - 1) * limit;
