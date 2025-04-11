@@ -30,7 +30,6 @@ export default function Item() {
 
   const { loading, error, data } = useQuery(query, {
     variables: { id: Number(id) },
-    skip: !query,
   });
 
   const getItemData = () => {
