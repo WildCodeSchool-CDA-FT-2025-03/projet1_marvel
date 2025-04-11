@@ -20,4 +20,13 @@ export class MovieResolver {
       ],
     });
   }
+
+  @Query(() => Movie)
+  async getMovieById(@Arg('id') id: number): Promise<Movie> {
+    const movie = await Movie.findOne({ where: { id } });
+    if (!movie) {
+      throw new Error('Movie not found');
+    }
+    return movie;
+  }
 }
