@@ -1,11 +1,21 @@
 import { useState } from 'react';
+import { Filter } from 'lucide-react';
 import CatalogueItem from '../components/catalogue/CatalogueItem';
 import useCatalogueData from '../hooks/useCatalogueData';
 import SearchBar from '../components/catalogue/SearchBar';
+import FilterPanel from '../components/catalogue/FilterPanel';
 
 export default function Catalogue() {
+  const [isFilterOpen, setIsFilterOpen] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
-  const { catalogueItems, isLoading } = useCatalogueData(searchTerm);
+  const [activeCategory, setActiveCategory] = useState('all');
+  const [sortOrder, setSortOrder] = useState('asc');
+
+  const { catalogueItems, isLoading } = useCatalogueData({
+    searchTerm,
+    category: activeCategory,
+    sortOrder,
+  });
 
   return (
     <main className="min-h-screen bg-gray-50 py-8">
@@ -13,8 +23,28 @@ export default function Catalogue() {
         <section className="flex flex-col md:flex-row justify-between items-start md:items-center mb-8">
           <h1 className="text-3xl font-bold text-gray-800 mb-4 md:mb-0">Catalogue</h1>
 
-          <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
+          <div className="w-full md:w-auto flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
+            <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
+            <div className="flex space-x-2">
+              <button
+                className={`p-2 border rounded-lg flex items-center justify-center ${isFilterOpen ? 'bg-indigo-100 border-indigo-300 text-indigo-700' : 'bg-white border-gray-200 text-gray-600 hover:bg-gray-50'}`}
+                onClick={() => setIsFilterOpen(!isFilterOpen)}
+                title="Filtres"
+              >
+                <Filter size={20} />
+              </button>
+            </div>
+          </div>
         </section>
+
+        {isFilterOpen && (
+          <FilterPanel
+            activeCategory={activeCategory}
+            setActiveCategory={setActiveCategory}
+            sortOrder={sortOrder}
+            setSortOrder={setSortOrder}
+          />
+        )}
 
         <p className="text-sm text-gray-500 mb-6">
           {catalogueItems.length}{' '}
