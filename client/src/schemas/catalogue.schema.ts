@@ -121,6 +121,7 @@ export const GET_MUSIC_BY_ID = gql`
       category
       summary
     }
+  }
 `;
 
 export const FILTER_INPUT = gql`
