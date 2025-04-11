@@ -1,4 +1,4 @@
-import { Resolver, Query, Arg, Mutation, Int } from 'type-graphql';
+import { Resolver, Query, Arg, Mutation, Int, ObjectType, Field } from 'type-graphql';
 import { Music } from '../entities/music.entity';
 import { MusicInput } from '../entities/music.entity';
 import { Tracklist } from '../entities/tracklist.entity';
@@ -6,16 +6,25 @@ import { SearchInput } from '../types/searchInput';
 import { FilterInput } from '../types/filterInput';
 import { ILike } from 'typeorm';
 
+@ObjectType()
+class PaginatedMusic {
+  @Field(() => [Music])
+  items: Music[];
+
+  @Field()
+  total: number;
+}
+
 @Resolver(Music)
 export class MusicResolver {
   // return all musics and tracks
-  @Query(() => [Music])
+  @Query(() => PaginatedMusic)
   async getMusic(
     @Arg('search', { nullable: true }) search?: SearchInput,
     @Arg('filter', { nullable: true }) filter?: FilterInput,
-  ): Promise<Music[]> {
+  ): Promise<PaginatedMusic> {
     if (filter?.category && filter.category !== 'music' && filter.category !== 'all') {
-      return [];
+      return { items: [], total: 0 };
     }
 
     let musics: Music[] = [];
@@ -44,7 +53,17 @@ export class MusicResolver {
       });
     }
 
-    return musics;
+    const total = musics.length;
+
+    const page = filter?.page || 1;
+    const limit = filter?.limit || 12;
+    const startIndex = (page - 1) * limit;
+    const paginatedMusic = musics.slice(startIndex, startIndex + limit);
+
+    return {
+      items: paginatedMusic,
+      total,
+    };
   }
 
   // return one music and tracks by id

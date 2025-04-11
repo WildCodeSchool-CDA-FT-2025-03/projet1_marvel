@@ -1,18 +1,27 @@
-import { Arg, Resolver, Query } from 'type-graphql';
+import { Arg, Resolver, Query, ObjectType, Field } from 'type-graphql';
 import { Book } from '../entities/book.entity';
 import { SearchInput } from '../types/searchInput';
 import { FilterInput } from '../types/filterInput';
 import { ILike } from 'typeorm';
 
+@ObjectType()
+class PaginatedBooks {
+  @Field(() => [Book])
+  items: Book[];
+
+  @Field()
+  total: number;
+}
+
 @Resolver(Book)
 export class BookResolver {
-  @Query(() => [Book])
+  @Query(() => PaginatedBooks)
   async getBooks(
     @Arg('search', { nullable: true }) search?: SearchInput,
     @Arg('filter', { nullable: true }) filter?: FilterInput,
-  ): Promise<Book[]> {
+  ): Promise<PaginatedBooks> {
     if (filter?.category && filter.category !== 'books' && filter.category !== 'all') {
-      return [];
+      return { items: [], total: 0 };
     }
 
     let books: Book[] = [];
@@ -36,7 +45,17 @@ export class BookResolver {
       });
     }
 
-    return books;
+    const total = books.length;
+
+    const page = filter?.page || 1;
+    const limit = filter?.limit || 12;
+    const startIndex = (page - 1) * limit;
+    const paginatedBooks = books.slice(startIndex, startIndex + limit);
+
+    return {
+      items: paginatedBooks,
+      total,
+    };
   }
 
   @Query(() => Book)

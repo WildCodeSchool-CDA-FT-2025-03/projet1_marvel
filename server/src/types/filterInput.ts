@@ -7,4 +7,10 @@ export class FilterInput {
 
   @Field({ nullable: true })
   sortOrder?: string;
+
+  @Field({ nullable: true })
+  page?: number;
+
+  @Field({ nullable: true })
+  limit?: number;
 }

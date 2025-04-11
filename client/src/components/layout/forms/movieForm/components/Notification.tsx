@@ -31,4 +31,4 @@ export default function Notification({ show, message, onClose }: NotificationPro
       )}
     </AnimatePresence>
   );
-} 
+}

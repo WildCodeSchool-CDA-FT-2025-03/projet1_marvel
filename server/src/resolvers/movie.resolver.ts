@@ -1,18 +1,27 @@
-import { Arg, Query, Resolver } from 'type-graphql';
+import { Arg, Query, Resolver, ObjectType, Field } from 'type-graphql';
 import { Movie } from '../entities/movie.entity';
 import { SearchInput } from '../types/searchInput';
 import { FilterInput } from '../types/filterInput';
 import { ILike } from 'typeorm';
 
+@ObjectType()
+class PaginatedMovies {
+  @Field(() => [Movie])
+  items: Movie[];
+
+  @Field()
+  total: number;
+}
+
 @Resolver(Movie)
 export class MovieResolver {
-  @Query(() => [Movie])
+  @Query(() => PaginatedMovies)
   async getMovies(
     @Arg('search', { nullable: true }) search?: SearchInput,
     @Arg('filter', { nullable: true }) filter?: FilterInput,
-  ): Promise<Movie[]> {
+  ): Promise<PaginatedMovies> {
     if (filter?.category && filter.category !== 'movies' && filter.category !== 'all') {
-      return [];
+      return { items: [], total: 0 };
     }
 
     let movies: Movie[] = [];
@@ -40,7 +49,17 @@ export class MovieResolver {
       });
     }
 
-    return movies;
+    const total = movies.length;
+
+    const page = filter?.page || 1;
+    const limit = filter?.limit || 12;
+    const startIndex = (page - 1) * limit;
+    const paginatedMovies = movies.slice(startIndex, startIndex + limit);
+
+    return {
+      items: paginatedMovies,
+      total,
+    };
   }
 
   @Query(() => Movie)

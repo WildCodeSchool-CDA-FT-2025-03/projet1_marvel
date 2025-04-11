@@ -4,18 +4,25 @@ import CatalogueItem from '../components/catalogue/CatalogueItem';
 import useCatalogueData from '../hooks/useCatalogueData';
 import SearchBar from '../components/catalogue/SearchBar';
 import FilterPanel from '../components/catalogue/FilterPanel';
+import Pagination from '../components/catalogue/Pagination';
 
 export default function Catalogue() {
   const [isFilterOpen, setIsFilterOpen] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
   const [activeCategory, setActiveCategory] = useState('all');
   const [sortOrder, setSortOrder] = useState('asc');
+  const [currentPage, setCurrentPage] = useState(1);
+  const [itemsPerPage] = useState(12);
 
-  const { catalogueItems, isLoading } = useCatalogueData({
+  const { catalogueItems, isLoading, totalItems } = useCatalogueData({
     searchTerm,
     category: activeCategory,
     sortOrder,
+    page: currentPage,
+    limit: itemsPerPage,
   });
+
+  const totalPages = Math.max(1, Math.ceil(totalItems / itemsPerPage));
 
   return (
     <main className="min-h-screen bg-gray-50 py-8">
@@ -47,8 +54,7 @@ export default function Catalogue() {
         )}
 
         <p className="text-sm text-gray-500 mb-6">
-          {catalogueItems.length}{' '}
-          {catalogueItems.length > 1 ? 'éléments trouvés' : 'élément trouvé'}
+          {totalItems} {totalItems > 1 ? 'éléments trouvés' : 'élément trouvé'}
         </p>
 
         {isLoading ? (
@@ -67,6 +73,14 @@ export default function Catalogue() {
           </section>
         )}
       </div>
+
+      {totalItems > 0 && (
+        <Pagination
+          currentPage={currentPage}
+          totalPages={totalPages}
+          onPageChange={setCurrentPage}
+        />
+      )}
     </main>
   );
 }
