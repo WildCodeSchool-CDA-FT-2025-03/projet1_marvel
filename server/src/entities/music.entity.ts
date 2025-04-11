@@ -1,6 +1,6 @@
 import { Entity, PrimaryGeneratedColumn, Column, BaseEntity, OneToMany } from 'typeorm';
-import { Field, ID, ObjectType } from 'type-graphql';
-import { Tracklist } from './tracklist.entity';
+import { Field, ID, InputType, ObjectType } from 'type-graphql';
+import { Tracklist, TrackListInput } from './tracklist.entity';
 
 @ObjectType()
 @Entity()
@@ -88,4 +88,71 @@ export class Music extends BaseEntity {
   @OneToMany(() => Tracklist, (tracklist) => tracklist.music, { cascade: true })
   @Field(() => [Tracklist])
   tracklist?: Tracklist[];
+}
+
+@InputType()
+export class MusicInput {
+  @Column()
+  @Field()
+  title: string;
+
+  @Column('simple-array')
+  @Field(() => [String])
+  artists: string[];
+
+  @Column('simple-array')
+  @Field(() => [String])
+  producers: string[];
+
+  @Column()
+  @Field()
+  label: string;
+
+  @Field()
+  release_date: string;
+
+  @Field()
+  isbn_ean_upc: string;
+
+  @Field(() => [String])
+  format: string[];
+
+  @Field()
+  duration: number;
+
+  @Field()
+  category: string;
+
+  @Field()
+  summary: string;
+
+  @Field(() => [String])
+  keywords: string[];
+
+  @Field()
+  targeted_audience: string;
+
+  @Field()
+  original_language: string;
+
+  @Field()
+  series: boolean;
+
+  @Field(() => [String], { nullable: true })
+  awards: string[];
+
+  @Field(() => [String])
+  composers: string[];
+
+  @Field(() => [String])
+  lyricists: string[];
+
+  @Field()
+  recording_studio: string;
+
+  @Field(() => [String])
+  certifications: string[];
+
+  @Field(() => [TrackListInput])
+  tracklist: TrackListInput[];
 }

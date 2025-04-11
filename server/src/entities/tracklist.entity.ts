@@ -1,5 +1,5 @@
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, BaseEntity } from 'typeorm';
-import { Field, ObjectType } from 'type-graphql';
+import { Field, ObjectType, InputType } from 'type-graphql';
 import { Music } from './music.entity';
 
 @ObjectType()
@@ -18,4 +18,14 @@ export class Tracklist extends BaseEntity {
 
   @ManyToOne(() => Music, (music) => music.tracklist)
   music?: Music;
+}
+
+// définition des iInput pour Tracklist
+@InputType()
+export class TrackListInput {
+  @Field()
+  title: string;
+
+  @Field()
+  duration: string;
 }
