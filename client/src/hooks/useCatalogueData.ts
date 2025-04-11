@@ -1,11 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useQuery } from '@apollo/client';
-import {
-  GET_ALL_BOOKS,
-  GET_ALL_GAMES,
-  GET_ALL_MOVIES,
-  GET_ALL_MUSIC,
-} from '../schemas/catalogue.schema';
+import { GET_ALL_ITEMS } from '../schemas/catalogue.schema';
 import {
   Book as BookType,
   Game as GameType,
@@ -15,21 +10,48 @@ import {
   emojis,
 } from '../types/catalogue.type';
 
-export default function useCatalogueData() {
+type UseCatalogueDataProps = {
+  searchTerm?: string;
+  category?: string;
+  sortOrder?: string;
+  page?: number;
+  limit?: number;
+};
+
+export default function useCatalogueData({
+  searchTerm = '',
+  category = 'all',
+  sortOrder = 'asc',
+  page = 1,
+  limit = 12,
+}: UseCatalogueDataProps = {}) {
   const [catalogueItems, setCatalogueItems] = useState<CatalogueItem[]>([]);
+  const [totalItems, setTotalItems] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
 
-  const { data: booksData } = useQuery(GET_ALL_BOOKS);
-  const { data: gamesData } = useQuery(GET_ALL_GAMES);
-  const { data: moviesData } = useQuery(GET_ALL_MOVIES);
-  const { data: musicData } = useQuery(GET_ALL_MUSIC);
+  const { data, loading } = useQuery(GET_ALL_ITEMS, {
+    variables: {
+      search: searchTerm ? { searchTerm } : null,
+      filter: {
+        category,
+        sortOrder,
+        page,
+        limit,
+      },
+    },
+  });
 
   useEffect(() => {
-    setIsLoading(true);
-    const items: CatalogueItem[] = [];
+    if (loading) {
+      setIsLoading(true);
+      return;
+    }
 
-    if (booksData?.getBooks) {
-      booksData.getBooks.forEach((book: BookType) => {
+    const items: CatalogueItem[] = [];
+    let total = 0;
+
+    if (data?.getBooks && (category === 'all' || category === 'books')) {
+      data.getBooks.items.forEach((book: BookType) => {
         items.push({
           id: book.id,
           type: 'books',
@@ -39,10 +61,11 @@ export default function useCatalogueData() {
           rating: Math.floor(Math.random() * 3) + 3,
         });
       });
+      total += data.getBooks.total;
     }
 
-    if (gamesData?.getGames) {
-      gamesData.getGames.forEach((game: GameType) => {
+    if (data?.getGames && (category === 'all' || category === 'games')) {
+      data.getGames.items.forEach((game: GameType) => {
         items.push({
           id: game.id,
           type: 'games',
@@ -52,10 +75,11 @@ export default function useCatalogueData() {
           rating: Math.floor(Math.random() * 3) + 3,
         });
       });
+      total += data.getGames.total;
     }
 
-    if (moviesData?.getMovies) {
-      moviesData.getMovies.forEach((movie: MovieType) => {
+    if (data?.getMovies && (category === 'all' || category === 'movies')) {
+      data.getMovies.items.forEach((movie: MovieType) => {
         items.push({
           id: movie.id,
           type: 'movies',
@@ -65,10 +89,11 @@ export default function useCatalogueData() {
           rating: Math.floor(Math.random() * 3) + 3,
         });
       });
+      total += data.getMovies.total;
     }
 
-    if (musicData?.getMusic) {
-      musicData.getMusic.forEach((music: MusicType) => {
+    if (data?.getMusic && (category === 'all' || category === 'music')) {
+      data.getMusic.items.forEach((music: MusicType) => {
         items.push({
           id: music.id,
           type: 'music',
@@ -78,11 +103,13 @@ export default function useCatalogueData() {
           rating: Math.floor(Math.random() * 3) + 3,
         });
       });
+      total += data.getMusic.total;
     }
 
     setCatalogueItems(items);
+    setTotalItems(total);
     setIsLoading(false);
-  }, [booksData, gamesData, moviesData, musicData]);
+  }, [data, loading, category]);
 
-  return { catalogueItems, isLoading };
+  return { catalogueItems, totalItems, isLoading };
 }

@@ -1,19 +1,19 @@
 import { motion } from 'framer-motion';
-import { Star } from 'lucide-react';
+import { ArrowUpAZ, ArrowDownAZ } from 'lucide-react';
 import { categories } from '../../utils/categories';
 
-interface FilterPanelProps {
+type FilterPanelProps = {
   activeCategory: string;
   setActiveCategory: (category: string) => void;
-  ratingFilter: number;
-  setRatingFilter: (rating: number) => void;
-}
+  sortOrder: string;
+  setSortOrder: (order: string) => void;
+};
 
 export default function FilterPanel({
   activeCategory,
   setActiveCategory,
-  ratingFilter,
-  setRatingFilter,
+  sortOrder,
+  setSortOrder,
 }: FilterPanelProps) {
   return (
     <motion.div
@@ -23,7 +23,7 @@ export default function FilterPanel({
       className="bg-white p-4 rounded-lg shadow-md mb-6"
     >
       <div className="flex flex-col sm:flex-row sm:items-center space-y-4 sm:space-y-0 sm:space-x-8">
-        <div className="flex-1">
+        <section className="flex-1">
           <h4 className="font-medium text-gray-700 mb-2">Catégories</h4>
           <div className="flex flex-wrap gap-2">
             <button
@@ -43,26 +43,27 @@ export default function FilterPanel({
               </button>
             ))}
           </div>
-        </div>
+        </section>
 
-        <div>
-          <h4 className="font-medium text-gray-700 mb-2">Note minimale</h4>
+        <section>
+          <h4 className="font-medium text-gray-700 mb-2">Tri</h4>
           <div className="flex items-center space-x-2">
-            <input
-              type="range"
-              min="0"
-              max="5"
-              step="0.5"
-              value={ratingFilter}
-              onChange={e => setRatingFilter(parseFloat(e.target.value))}
-              className="w-32 accent-indigo-600"
-            />
-            <div className="flex items-center space-x-1 bg-gray-100 px-2 py-1 rounded-md">
-              <Star size={16} className="text-yellow-500" />
-              <span className="font-medium">{ratingFilter}</span>
-            </div>
+            <button
+              className={`flex items-center space-x-1 px-3 py-1.5 text-sm font-medium rounded-full transition-colors ${sortOrder === 'asc' ? 'bg-indigo-600 text-white' : 'bg-gray-200 text-gray-700 hover:bg-gray-300'}`}
+              onClick={() => setSortOrder('asc')}
+            >
+              <ArrowUpAZ size={14} />
+              <span>A-Z</span>
+            </button>
+            <button
+              className={`flex items-center space-x-1 px-3 py-1.5 text-sm font-medium rounded-full transition-colors ${sortOrder === 'desc' ? 'bg-indigo-600 text-white' : 'bg-gray-200 text-gray-700 hover:bg-gray-300'}`}
+              onClick={() => setSortOrder('desc')}
+            >
+              <ArrowDownAZ size={14} />
+              <span>Z-A</span>
+            </button>
           </div>
-        </div>
+        </section>
       </div>
     </motion.div>
   );

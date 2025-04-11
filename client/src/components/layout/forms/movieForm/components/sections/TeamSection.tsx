@@ -1,0 +1,181 @@
+import { Minus, Plus, Users } from 'lucide-react';
+import { addArrayItem, handleArrayInput, removeArrayItem } from '../../../form.utils';
+
+import { MovieFormData } from '../../../../../../types/movie.types';
+import FormLabel from '../../../FormLabel';
+
+type TeamSectionProps = {
+  formData: MovieFormData;
+  setFormData: React.Dispatch<React.SetStateAction<MovieFormData>>;
+};
+
+export default function TeamSection({ formData, setFormData }: TeamSectionProps) {
+  return (
+    <fieldset className="space-y-4 p-4 border border-gray-200 rounded-lg">
+      <legend className="text-lg font-semibold text-gray-700 px-2 flex items-center gap-2">
+        <Users className="w-5 h-5 text-blue-600" />
+        Équipe
+      </legend>
+
+      <div>
+        <FormLabel htmlFor="directors" label="Réalisateurs" />
+        {formData.directors.map((director, index) => (
+          <div key={`director-${index}`} className="flex gap-2 mb-2">
+            <input
+              type="text"
+              value={director}
+              onChange={e => {
+                const newFormData = handleArrayInput(formData, 'directors', index, e.target.value);
+                setFormData(newFormData);
+              }}
+              className="flex-1 p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+              aria-label={`Réalisateur ${index + 1}`}
+            />
+            <button
+              type="button"
+              onClick={() => {
+                const newFormData = removeArrayItem(formData, 'directors', index);
+                setFormData(newFormData);
+              }}
+              className="p-2 bg-red-500 text-white rounded-md hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
+              aria-label={`Supprimer le réalisateur ${index + 1}`}
+            >
+              <Minus className="w-4 h-4" />
+            </button>
+          </div>
+        ))}
+        <button
+          type="button"
+          onClick={() => {
+            const newFormData = addArrayItem(formData, 'directors');
+            setFormData(newFormData);
+          }}
+          className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 flex items-center gap-2"
+        >
+          <Plus className="w-4 h-4" />
+          Ajouter un réalisateur
+        </button>
+      </div>
+
+      <div>
+        <FormLabel htmlFor="writers" label="Scénaristes" />
+        {formData.writers.map((writer, index) => (
+          <div key={`writer-${index}`} className="flex gap-2 mb-2">
+            <input
+              type="text"
+              value={writer}
+              onChange={e => {
+                const newFormData = handleArrayInput(formData, 'writers', index, e.target.value);
+                setFormData(newFormData);
+              }}
+              className="flex-1 p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+              aria-label={`Scénariste ${index + 1}`}
+            />
+            <button
+              type="button"
+              onClick={() => {
+                const newFormData = removeArrayItem(formData, 'writers', index);
+                setFormData(newFormData);
+              }}
+              className="p-2 bg-red-500 text-white rounded-md hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
+              aria-label={`Supprimer le scénariste ${index + 1}`}
+            >
+              <Minus className="w-4 h-4" />
+            </button>
+          </div>
+        ))}
+        <button
+          type="button"
+          onClick={() => {
+            const newFormData = addArrayItem(formData, 'writers');
+            setFormData(newFormData);
+          }}
+          className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 flex items-center gap-2"
+        >
+          <Plus className="w-4 h-4" />
+          Ajouter un scénariste
+        </button>
+      </div>
+
+      <div>
+        <FormLabel htmlFor="producers" label="Producteurs" />
+        {formData.producers.map((producer, index) => (
+          <div key={`producer-${index}`} className="flex gap-2 mb-2">
+            <input
+              type="text"
+              value={producer}
+              onChange={e => {
+                const newFormData = handleArrayInput(formData, 'producers', index, e.target.value);
+                setFormData(newFormData);
+              }}
+              className="flex-1 p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+              aria-label={`Producteur ${index + 1}`}
+            />
+            <button
+              type="button"
+              onClick={() => {
+                const newFormData = removeArrayItem(formData, 'producers', index);
+                setFormData(newFormData);
+              }}
+              className="p-2 bg-red-500 text-white rounded-md hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
+              aria-label={`Supprimer le producteur ${index + 1}`}
+            >
+              <Minus className="w-4 h-4" />
+            </button>
+          </div>
+        ))}
+        <button
+          type="button"
+          onClick={() => {
+            const newFormData = addArrayItem(formData, 'producers');
+            setFormData(newFormData);
+          }}
+          className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 flex items-center gap-2"
+        >
+          <Plus className="w-4 h-4" />
+          Ajouter un producteur
+        </button>
+      </div>
+
+      <div>
+        <FormLabel htmlFor="studios" label="Studios" />
+        {formData.studios.map((studio, index) => (
+          <div key={`studio-${index}`} className="flex gap-2 mb-2">
+            <input
+              type="text"
+              value={studio}
+              onChange={e => {
+                const newFormData = handleArrayInput(formData, 'studios', index, e.target.value);
+                setFormData(newFormData);
+              }}
+              className="flex-1 p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+              aria-label={`Studio ${index + 1}`}
+            />
+            <button
+              type="button"
+              onClick={() => {
+                const newFormData = removeArrayItem(formData, 'studios', index);
+                setFormData(newFormData);
+              }}
+              className="p-2 bg-red-500 text-white rounded-md hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
+              aria-label={`Supprimer le studio ${index + 1}`}
+            >
+              <Minus className="w-4 h-4" />
+            </button>
+          </div>
+        ))}
+        <button
+          type="button"
+          onClick={() => {
+            const newFormData = addArrayItem(formData, 'studios');
+            setFormData(newFormData);
+          }}
+          className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 flex items-center gap-2"
+        >
+          <Plus className="w-4 h-4" />
+          Ajouter un studio
+        </button>
+      </div>
+    </fieldset>
+  );
+}

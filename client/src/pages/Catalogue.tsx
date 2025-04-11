@@ -1,60 +1,37 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useState } from 'react';
+import { Filter } from 'lucide-react';
 import CatalogueItem from '../components/catalogue/CatalogueItem';
 import useCatalogueData from '../hooks/useCatalogueData';
-import useFilterSort from '../hooks/useFilterSort';
 import SearchBar from '../components/catalogue/SearchBar';
-import { Filter } from 'lucide-react';
 import FilterPanel from '../components/catalogue/FilterPanel';
 import Pagination from '../components/catalogue/Pagination';
-import { motion } from 'framer-motion';
-
-const itemsPerPage = 12;
 
 export default function Catalogue() {
   const [isFilterOpen, setIsFilterOpen] = useState(false);
+  const [searchTerm, setSearchTerm] = useState('');
+  const [activeCategory, setActiveCategory] = useState('all');
+  const [sortOrder, setSortOrder] = useState('asc');
   const [currentPage, setCurrentPage] = useState(1);
-  const [favorites, setFavorites] = useState<number[]>([]);
-  const { catalogueItems, isLoading } = useCatalogueData();
-  const {
+  const [itemsPerPage] = useState(12);
+
+  const { catalogueItems, isLoading, totalItems } = useCatalogueData({
     searchTerm,
-    setSearchTerm,
-    filteredItems,
-    activeCategory,
-    setActiveCategory,
-    ratingFilter,
-    setRatingFilter,
-  } = useFilterSort({ catalogueItems });
+    category: activeCategory,
+    sortOrder,
+    page: currentPage,
+    limit: itemsPerPage,
+  });
 
-  const toggleFavorite = (id: number) => {
-    if (favorites.includes(id)) {
-      setFavorites(favorites.filter(favId => favId !== id));
-    } else {
-      setFavorites([...favorites, id]);
-    }
-  };
-
-  const paginatedItems = useMemo(() => {
-    const startIndex = (currentPage - 1) * itemsPerPage;
-    return filteredItems.slice(startIndex, startIndex + itemsPerPage);
-  }, [filteredItems, currentPage]);
-
-  const totalPages = useMemo(() => {
-    return Math.max(1, Math.ceil(filteredItems.length / itemsPerPage));
-  }, [filteredItems]);
-
-  useEffect(() => {
-    setCurrentPage(1);
-  }, [searchTerm, activeCategory, ratingFilter]);
+  const totalPages = Math.max(1, Math.ceil(totalItems / itemsPerPage));
 
   return (
     <main className="min-h-screen bg-gray-50 py-8">
       <div className="container mx-auto px-4">
-        <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-8">
+        <section className="flex flex-col md:flex-row justify-between items-start md:items-center mb-8">
           <h1 className="text-3xl font-bold text-gray-800 mb-4 md:mb-0">Catalogue</h1>
 
           <div className="w-full md:w-auto flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
             <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
-
             <div className="flex space-x-2">
               <button
                 className={`p-2 border rounded-lg flex items-center justify-center ${isFilterOpen ? 'bg-indigo-100 border-indigo-300 text-indigo-700' : 'bg-white border-gray-200 text-gray-600 hover:bg-gray-50'}`}
@@ -65,57 +42,39 @@ export default function Catalogue() {
               </button>
             </div>
           </div>
-        </div>
+        </section>
 
         {isFilterOpen && (
           <FilterPanel
             activeCategory={activeCategory}
             setActiveCategory={setActiveCategory}
-            ratingFilter={ratingFilter}
-            setRatingFilter={setRatingFilter}
+            sortOrder={sortOrder}
+            setSortOrder={setSortOrder}
           />
         )}
 
-        <div className="text-sm text-gray-500 mb-6">
-          {filteredItems.length} {filteredItems.length > 1 ? 'éléments trouvés' : 'élément trouvé'}
-        </div>
+        <p className="text-sm text-gray-500 mb-6">
+          {totalItems} {totalItems > 1 ? 'éléments trouvés' : 'élément trouvé'}
+        </p>
 
         {isLoading ? (
-          <div className="bg-white p-8 rounded-lg text-center">
+          <section className="bg-white p-8 rounded-lg text-center">
             <p className="text-gray-500">Chargement des données en cours...</p>
-          </div>
-        ) : filteredItems.length > 0 ? (
-          <motion.div
-            variants={{
-              hidden: { opacity: 0 },
-              visible: {
-                opacity: 1,
-                transition: {
-                  staggerChildren: 0.1,
-                },
-              },
-            }}
-            initial="hidden"
-            animate="visible"
-            className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6"
-          >
-            {paginatedItems.map(item => (
-              <CatalogueItem
-                key={`${item.id}-${item.type}`}
-                item={item}
-                isFavorite={favorites.includes(item.id)}
-                toggleFavorite={toggleFavorite}
-              />
+          </section>
+        ) : catalogueItems.length > 0 ? (
+          <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            {catalogueItems.map(item => (
+              <CatalogueItem key={`${item.id}-${item.type}`} item={item} />
             ))}
-          </motion.div>
+          </section>
         ) : (
-          <div className="bg-white p-8 rounded-lg text-center">
+          <section className="bg-white p-8 rounded-lg text-center">
             <p className="text-gray-500">Aucun élément disponible dans le catalogue.</p>
-          </div>
+          </section>
         )}
       </div>
 
-      {filteredItems.length > 0 && (
+      {totalItems > 0 && (
         <Pagination
           currentPage={currentPage}
           totalPages={totalPages}
