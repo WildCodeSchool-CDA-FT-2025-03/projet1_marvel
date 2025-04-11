@@ -5,6 +5,7 @@ import CataloguePage from './pages/Catalogue';
 import FavoritePage from './pages/Favorite';
 import ItemPage from './pages/Item';
 import CreateItemPage from './pages/CreateMedia';
+import CreateBook from './pages/CreateBook';
 
 const router = createBrowserRouter([
   {
@@ -30,6 +31,10 @@ const router = createBrowserRouter([
       {
         path: '/create/:type',
         element: <CreateItemPage />,
+      },
+      {
+        path: '/create/book',
+        element: <CreateBook />,
       },
     ],
   },

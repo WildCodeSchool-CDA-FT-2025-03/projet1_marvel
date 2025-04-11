@@ -1,4 +1,4 @@
-import { Arg, Resolver, Query, ObjectType, Field } from 'type-graphql';
+import { Arg, Resolver, Query, Mutation, ObjectType, Field, InputType } from 'type-graphql';
 import { Book } from '../entities/book.entity';
 import { SearchInput } from '../types/searchInput';
 import { FilterInput } from '../types/filterInput';
@@ -11,6 +11,54 @@ class PaginatedBooks {
 
   @Field()
   total: number;
+}
+
+@InputType()
+class BookInput {
+  @Field()
+  titre: string;
+
+  @Field(() => [String])
+  auteurs: string[];
+
+  @Field({ nullable: true })
+  editeur: string;
+
+  @Field({ nullable: true })
+  date_publication: string;
+
+  @Field({ nullable: true })
+  isbn: string;
+
+  @Field({ nullable: true })
+  format: string;
+
+  @Field({ nullable: true })
+  nombre_pages: number;
+
+  @Field({ nullable: true })
+  genre: string;
+
+  @Field({ nullable: true })
+  resume: string;
+
+  @Field(() => [String], { nullable: true })
+  mots_cles: string[];
+
+  @Field({ nullable: true })
+  public_cible: string;
+
+  @Field({ nullable: true })
+  langue_originale: string;
+
+  @Field()
+  serie: boolean;
+
+  @Field({ nullable: true })
+  extrait: string;
+
+  @Field({ nullable: true })
+  prix_distinctions: string;
 }
 
 @Resolver(Book)
@@ -65,5 +113,17 @@ export class BookResolver {
       throw new Error('Book not found');
     }
     return book;
+  }
+
+  @Mutation(() => Book)
+  async createBook(@Arg('bookInput') bookInput: BookInput): Promise<Book> {
+    try {
+      const newBook = new Book();
+      Object.assign(newBook, bookInput);
+      await newBook.save();
+      return newBook;
+    } catch (error) {
+      throw new Error(`Erreur lors de la création du livre: ${error.message}`);
+    }
   }
 }
